@@ -1,0 +1,1738 @@
+[
+  {
+    "nombre": "Marcelo Andrés Zara Pizarro",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 1",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Gustavo Lee Rodriguez",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 1",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Stephanie Jeldrez Ortiz",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 1",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pollyana Rivera Bigas",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 1",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Muñoz Oyarce",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristián Andrés Cabezas Mundaca",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Álvaro Arturo Jofré Cáceres",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Agustín Rendic Galleguillos",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Renzo Trisotti Martínez",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karen Heyne Bolados",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Solange Del Carmen Jiménez Dinamarca",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sofía Cid Versalovic",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ulises Carabantes Ahumada",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Milka Mercedes Del Canto Urrelo",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Agustín Rendic Galleguillos",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Yovana Alejandra Ahumada Palma",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 3",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carolina Judith Moscoso Carrasco",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 3",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Leslie Carolina Moll Vera",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 3",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Adriana De Lourdes Jiménez Retamal",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 3",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlo Arqueros Pizarro",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 3",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Silvana Ubillo Rojas",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 3",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ignacio Urcullú Clement-Lund",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Susana Hiplan Esteffan",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karina Palleres Guzmán",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela Alejandra Gallegos Porcile",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Marcelino Núñez Barrientos",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Margarita Farith Contreras Ríos",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Tatiana Ivonne Del Pilar Castillo González",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Illianeth Barrera Escobar",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Matías Nicolás Guzmán Galleguillos",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Erich Grohs Marín",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Constanza Rocío Peña Contreras",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Soledad Robles Espinosa",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Verónica Pizarro García",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pamela Rishmague Buzzo",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 5",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Chiara Barchiesi Chávez",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Benjamín Lorca Inzunza",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Manuel Millones Chirino",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marlene Laura González Ahumada",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodolfo Alfredo Ponce Vargas",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Miguel Vallejo Knockaert",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Soledad Calvo Herrera",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Verónica Ivonne Becerra Vergara",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Eduardo Villarroel Pérez",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Fernando Sánchez Ossa",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rafael González Camus",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ángela Carrasco Jofré",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sebastián Zamora Soto",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jaime Andrés Morales Otarola",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pedro Rodolfo Schwedelbach Puga",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alejandra Victoria Carrasco Pérez",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Bárbara Andrea Vera Sepúlveda",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Alberto Sepúlveda Quezada",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 7",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Agustín Romero Leiva",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Enrique Bassaletti Riess",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Catherine Cebulj Navarrete",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Nehel Enrique Muñoz Lagos",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Andrés Corvalan Destefani",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Italo Andre Omegna Vergara",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Anita Dolores Patricia Escobar Gattas",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Carlos Gómez Escobar",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pier Giuseppe Karlezi Hazleby",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 8",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Carlos Meza Pereira",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Macarena García-Huidobro Llort",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Javiera Rodríguez Pascual",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Maximiliano Eduardo Murath Mansilla",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Margarita Garrido Acevedo",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Valeska De Las Nieves Oyarce Peña",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alberto Andrés Seguel Mena",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carolina Ángela Garate Vergara",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Hans Alberto Marowski Cuevas",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Leticia Del Carmen Araya Ahumada",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Franco Javier Frías Gutiérrez",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Evelyn Alejandra Hernández Flores",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Víctor Jean Pierre Bonvallet Setti",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gino Lorenzini Barrios",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Matías Bellolio Merino",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Abigail Aburto Cárdenas",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Antonio Kast Adriasola",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 10",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Araya Lerdo De Tejada",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Catalina Del Real Mihovilovic",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pedro Lea-Plaza Edwards",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Michel Enrique Cartes Zuñiga",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Ignacio Daly Dagorret",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Roberto Alarcón Castro",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Carolina Cotapos Mardones",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Judith Makarena Marin Morales",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Elein Fernanda Ossandon Manrique",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Kevin Roger Valenzuela Arroyo",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Camille Sigl Fuentes",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Isabel Sáez Vila",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andres Fernando Arce Bustos",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Macarena Santelices Cañas",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Álvaro Carter Fernández",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 12",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Ross Correa",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 13",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Valentina Becerra Peña",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 13",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Taryn Caroline Coopman Palavicino",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 13",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Oscar Alejandro Calfileo Castro",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 13",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Alejandro Vivian Troncoso",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 13",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniel Jesús Tapia Mella",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 13",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Irarrázaval Rossel",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Diego Vergara Rodríguez",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Annemarie Muller During",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Rodrigo Molina Romo",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Roberto Barberis Avendaño",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Aida Ormeño Urra",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Josefina Ignacia Dieguez Russell",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Rodrigo Arenas Román",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 15",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paula Andrea Muñoz Carrasco",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 15",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fernando Ugarte Tejeda",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 15",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Emiliano García Bobadilla",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 15",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Christian Andrés Vargas Paredes",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 15",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Javiera Valentina Moreno Cerpa",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 15",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sebastian Cristoffanini Jaraquemada",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 16",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Del Pilar Zúñiga Zamorano",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 16",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Antonio Bustamante Moraga",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 16",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Constanza Carolina Flores Adrián",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 16",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Francisco José Avaria Marraccini",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 16",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Benjamín Moreno Bascur",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Greis Parada Rojas",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Bernardo Fontaine Montero",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mario Eduardo Caraves Heck",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José German Verdugo Soto",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Andrés Lineros González",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Bernardo Vásquez Bobadilla",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fernanda Catalina Aguirre Torres",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 17",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Genesis Ethiare Veloso Lobos",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 18",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristóbal García Ogaz",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 18",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniel Bustos Leal",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 18",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Menchaca Pinochet",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 18",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Joaquín Nicolás Morales Gómez",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 18",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sara Nicol Concha Smith",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 19",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Erick Helber Jiménez Garay",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 19",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fresia Alejandra Osorio Cortes",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 19",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Magdalena Oyarce Sepúlveda",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 19",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Diego Sepúlveda Palma",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 19",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Freddy Reinaldo Blanc Sperberg",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 19",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Francesca Elizabeth Muñoz González",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Roberto Enrique Arroyo Muñoz",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Antaris Catalina Varela Compagnon",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jessica De Lourdes Flores Reyes",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gabriel Torres Hermosilla",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Reinaldo González Mariangel",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jimena Maritza Figueroa Negron",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "James Argo Chávez",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paz Charpentier Rajcevich",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 20",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristóbal Urruticoechea Ríos",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 21",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Evelyn Caamaño González",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 21",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fernando Peña Rivera",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 21",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Solange Etchepare Lacoste",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 21",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ivania Paola Rojas Castillo",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 21",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Alejandro Badilla Cofre",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 21",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Gloria Naveillan Arriagada",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 22",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Víctor Raúl Badilla Urra",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 22",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Roberto Carlos Quintana Burgos",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 22",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Martínez Reyes",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 22",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Deborah Negrete Plaza",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 22",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Stephan Schubert Rubio",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Neira Martínez",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Stambuk Mardones",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Karen Pichulman Cuadra",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodolfo Valenzuela Pardo",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Miguel Ulises Sanzana Villablanca",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Isafor Bravo Burgos",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Alejandro Sepúlveda Rosales",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 23",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Tamar Angélica Muñoz Sepúlveda",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 24",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Carlos Gómez Gómez",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 24",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Eduardo Gaete Álvarez",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 24",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Diana Maritza Silva Aguillon",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 24",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Leandro Kunstmann Collado",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 24",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paulina Hernández Valderrama",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 24",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sebastián Cristi Alfonso",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 25",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paulina Andrea Muñoz Minte",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 25",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jaime Paredes Paredes",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 25",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karen Berrios Guerra",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 25",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Iturriaga Hewstone",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 25",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Reyes Larenas",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 26",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Seitz Aspee",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 26",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Soledad Lorca Sau",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 26",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcelo Andrés Castillo Aldunate",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 26",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marco Antonio Melo Hernández",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 26",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Natacha Odette Rivas Morales",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 26",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Alberto Mella Atton",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 27",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Pedro Borquez Acuña",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 27",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Alejandro Pérez Urra",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 27",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jaime Arturo Ceballos Vergara",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 27",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alejandro Riquelme Ducci",
+    "cargo": "Diputado",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Distrito 28",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan José Srdanovic Arcos",
+    "cargo": "Diputado",
+    "partido": "Independiente",
+    "distrito": "Distrito 28",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Javiera Cristina Calvo Rifo",
+    "cargo": "Diputado",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Distrito 28",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ramón Alberto Aguilar Tobar",
+    "cargo": "Diputado",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Distrito 28",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Renzo Trisotti Martínez",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karen Heyne Bolados",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Solange Del Carmen Jiménez Dinamarca",
+    "cargo": "Senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripción Senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sofía Cid Versalovic",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ulises Carabantes Ahumada",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Milka Mercedes Del Canto Urrelo",
+    "cargo": "Senador",
+    "partido": "Independiente",
+    "distrito": "Circunscripción Senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Arturo Squella Ovalle",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alberto Soto Valenzuela",
+    "cargo": "Senador",
+    "partido": "Independiente",
+    "distrito": "Circunscripción Senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Soledad Loyola Vera",
+    "cargo": "Senador",
+    "partido": "Partido Republicano de Chile",
+    "distrito": "Circunscripción Senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Julio Antonio Martínez Colina",
+    "cargo": "Senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripción Senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Verónica Loreto Pía Vega Orellana",
+    "cargo": "Senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripción Senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Esteban Hernan Barahona Contreras",
+    "cargo": "Senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripción Senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Castro Prieto",
+    "cargo": "Senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripción Senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Camila Ester Soto Rodríguez",
+    "cargo": "Senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripción Senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Segundo González López",
+    "cargo": "Senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripción Senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ignacio Urrutia Bonilla",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Vial Maceratta",
+    "cargo": "Senador",
+    "partido": "Independiente",
+    "distrito": "Circunscripción Senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pablo Andrés Catalán Ramírez",
+    "cargo": "Senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripción Senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Vanessa Kaiser Barents-Von Hohenhagen",
+    "cargo": "Senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripción Senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cesar Augusto Vargas Zurita",
+    "cargo": "Senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripción Senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Anita Pilar De Arzumendi Cifuentes",
+    "cargo": "Senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripción Senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pablo Hernán Becker Vásquez",
+    "cargo": "Senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripción Senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ruth Hurtado Olave",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodolfo Carter Fernández",
+    "cargo": "Senador",
+    "partido": "Independiente",
+    "distrito": "Circunscripción Senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Manuel Benito Anabalon Jeldres",
+    "cargo": "Senador",
+    "partido": "Independiente",
+    "distrito": "Circunscripción Senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Belén Oyarzún Eihhorst",
+    "cargo": "Senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripción Senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Andrés Henríquez Raglianti",
+    "cargo": "Senador",
+    "partido": "Independiente",
+    "distrito": "Circunscripción Senatorial 14",
+    "foto": null,
+    "delitos": []
+  }
+]
