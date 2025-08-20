@@ -67,7 +67,7 @@
         card.appendChild(pPartido);
         card.appendChild(pDistrito);
 
-        // Antecedentes
+        // Antecedentes / Delitos
         if (Array.isArray(c.delitos) && c.delitos.length) {
           const wrap = document.createElement("div");
           const title = document.createElement("h4");
@@ -77,22 +77,31 @@
           c.delitos.forEach((d) => {
             const div = document.createElement("div");
             div.className = "case";
-            const strong = document.createElement("strong");
-            strong.textContent = d.titulo || "Caso";
-            div.appendChild(strong);
 
-            const estado = document.createTextNode(d.estado ? ` - ${d.estado}` : "");
-            div.appendChild(estado);
+            if (typeof d === "string") {
+              // Si es texto libre, lo mostramos directamente
+              div.textContent = d;
+            } else {
+              // Si es objeto, usamos sus propiedades
+              const strong = document.createElement("strong");
+              strong.textContent = d.titulo || "Caso";
+              div.appendChild(strong);
 
-            if (d.fuente) {
-              const br = document.createElement("br");
-              const a = document.createElement("a");
-              a.href = d.fuente;
-              a.target = "_blank";
-              a.rel = "noopener noreferrer";
-              a.textContent = "Fuente";
-              div.appendChild(br);
-              div.appendChild(a);
+              if (d.estado) {
+                const estado = document.createTextNode(` - ${d.estado}`);
+                div.appendChild(estado);
+              }
+
+              if (d.fuente) {
+                const br = document.createElement("br");
+                const a = document.createElement("a");
+                a.href = d.fuente;
+                a.target = "_blank";
+                a.rel = "noopener noreferrer";
+                a.textContent = "Fuente";
+                div.appendChild(br);
+                div.appendChild(a);
+              }
             }
 
             wrap.appendChild(div);
@@ -122,7 +131,7 @@
   function applyFilters() {
     const fOffice = norm($office?.value || "");
     const fName = norm($name?.value || "");
-    const fParty = $party?.value || ""; // ahora usamos directamente el value normalizado
+    const fParty = $party?.value || "";
     const fDistrict = norm($district?.value || "");
 
     if (!fOffice && !fName && !fParty && !fDistrict) {
@@ -177,20 +186,11 @@
       if (!Array.isArray(data)) throw new Error("El JSON no es un arreglo.");
       ALL = data;
 
-      // Generar opciones únicas de distrito
-      //const districts = [...new Set(ALL.map(c => c.distrito))].sort((a, b) => getNumber(a) - getNumber(b));
-      //districts.forEach(d => {
-        //const option = document.createElement("option");
-        //option.value = d;
-        //option.textContent = d;
-        //$district.appendChild(option);
-      //});
-
-      // Generar opciones únicas de partido (valor normalizado)
+      // Generar opciones únicas de partido
       const parties = [...new Set(ALL.map(c => norm(c.partido)))].sort();
       parties.forEach(p => {
         const option = document.createElement("option");
-        option.value = p; // guardamos la forma normalizada
+        option.value = p;
         option.textContent = p.charAt(0).toUpperCase() + p.slice(1);
         $party.appendChild(option);
       });

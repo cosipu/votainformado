@@ -1741,7 +1741,22 @@
         "partido": "Partido de la Gente",
         "distrito": null,
         "foto": "https://www.radioudec.cl/wp-content/uploads/2021/11/Aton_248401-scaled-1.jpg",
-        "delitos": []
+        "delitos": [ 
+    {
+      "titulo": "Estafa y lavado de activos",
+
+     "fuente": "https://www.latercera.com/la-tercera-pm/noticia/estafa-y-lavado-de-dinero-el-vinculo-de-franco-parisi-con-el-edificio-sin-ley-de-la-cisterna-que-esta-en-la-mira-de-la-fiscalia/327GLXWFWFHRJN2KWHZ6JS4BFE/"
+    },
+    {
+      "titulo": "Deudas previsionales",
+ 
+      "fuente": "https://www.latercera.com/diario-impreso/parisi-da-giro-y-reconoce-deuda-laboral-por--4-millones/"
+    },
+  {
+      "titulo": "No pago de pensión alimenticia",
+ 
+      "fuente": "https://www.t13.cl/noticia/elecciones-2025/politica/todos-cometimos-errores-franco-parisi-habla-sobre-su-deuda-pension-alimentos-18-7-2025"
+    }]
     },
     {
         "nombre": "Rodrigo Cuevas Troncoso",
@@ -3422,5 +3437,77 @@
         "distrito": 11,
         "foto": null,
         "delitos": []
+    }, 
+    {
+        "nombre": "Jeannette Jara",
+        "cargo": "Presidente Nacional",
+        "partido": "Partido Comunista",
+        "distrito": null,
+        "foto": "https://radio.uchile.cl/wp-content/uploads/2025/07/Jeannette-Jara.jpg",
+        "delitos": [ ]
+        }, 
+    {
+        "nombre": "Evelyn Matthei",
+        "cargo": "Presidente Nacional",
+        "partido": "UDI",
+        "distrito": null,
+        "foto": "https://imagenes.elpais.com/resizer/v2/33MSLUO6LZCNHN3ETG5S6WFGLQ.jpeg?auth=16d0c3bb5da4d1dc894f0608e1afc610b281c8c65c3fed7716c3c66f75d1d2e6&width=1200",
+        "delitos": [ ]
+        },
+        {
+        "nombre": "José Antonio Kast",
+        "cargo": "Presidente Nacional",
+        "partido": "Partido Republicano de Chile",
+        "distrito": null,
+        "foto": "https://finis.cl/wp-content/uploads/2025/05/jose-kast.jpg",
+        "delitos": [ 
+          {
+      "titulo": "Nexos con banda criminal de robo de cables",
+
+     "fuente": "https://radio.uchile.cl/2025/06/19/jose-antonio-kast-sera-citado-por-comision-que-indaga-nexos-con-banda-de-robo-de-cables/"
+    },
+    {
+      "titulo": "Ejércitos de bots",
+ 
+      "fuente": "https://eldesconcierto.cl/2025/08/05/ataques-a-mujeres-y-ejercito-de-bots-ponen-a-kast-en-la-mira-es-inaceptable-que-exhiba-ese-curriculum"
+    },
+  {
+      "titulo": "Cuentas en paraisos fiscales",
+ 
+      "fuente": "https://interferencia.cl/articulos/familia-kast-mueve-sus-inversiones-hoteleras-por-us-45-millones-panama-para-simplificar-la"
     }
-]
+        ]
+        },
+         {
+        "nombre": "Johannes Kaiser",
+        "cargo": "Presidente Nacional",
+        "partido": "Partido Nacional Libertario",
+        "distrito": null,
+        "foto": "https://www.latercera.com/resizer/v2/3CWRHTM5WVALZPKD7FACNMRBIA.jpg?auth=b1cec4f70cef8908ad060ed9f8655ba3079fed548167ae13d6246de92da1a0e8&smart=true&width=990&height=557&quality=70",
+        "delitos": [ ]
+        },
+         {
+        "nombre": "Marco Enríquez-Ominami",
+        "cargo": "Presidente Nacional",
+        "partido": "Independiente",
+        "distrito": null,
+        "foto": "https://static.theclinic.cl/media/2014/12/marco-enriquez-ominami-meo-a1.jpg",
+        "delitos": [ ]
+        },
+         {
+        "nombre": "Harold Mayne-Nicholls",
+        "cargo": "Presidente Nacional",
+        "partido": "Independiente",
+        "distrito": null,
+        "foto": "https://imagenes.elpais.com/resizer/v2/ZAPR7O22FZDTDOEUO7IDXL3JPE.jpg?auth=f4088b7424021d5ea85fc6924cd0a9aaae14f5172a9a802033e2a35464a5d114&width=1200",
+        "delitos": [ ]
+        },
+        {
+        "nombre": "Eduardo Artés",
+        "cargo": "Presidente Nacional",
+        "partido": "Independiente",
+        "distrito": null,
+        "foto": "https://www.laizquierdadiario.cl/IMG/arton210771.jpg?1635245362",
+        "delitos": [ ]
+        }
+]     
