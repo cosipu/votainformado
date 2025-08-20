@@ -23,7 +23,7 @@
       .toLowerCase();
 
   const getNumber = (s) => {
-    const m = (s ?? "").match(/(\d+)/);
+    const m = (s ?? "").toString().match(/(\d+)/);
     return m ? parseInt(m[1], 10) : Infinity;
   };
 
@@ -122,10 +122,9 @@
   function applyFilters() {
     const fOffice = norm($office?.value || "");
     const fName = norm($name?.value || "");
-    const fParty = norm($party?.value || "");
+    const fParty = $party?.value || ""; // ahora usamos directamente el value normalizado
     const fDistrict = norm($district?.value || "");
 
-    // Si no hay ningún filtro activo, no mostrar nada
     if (!fOffice && !fName && !fParty && !fDistrict) {
       render([]);
       return;
@@ -134,8 +133,8 @@
     const filtered = ALL.filter((c) => {
       const byOffice = fOffice ? norm(c.cargo).startsWith(fOffice) : true;
       const byName = fName ? norm(c.nombre).includes(fName) : true;
-      const byParty = fParty ? norm(c.partido) === fParty.toLowerCase() : true;
-      const byDistrict = fDistrict ? norm(c.distrito) === fDistrict.toLowerCase() : true;
+      const byParty = fParty ? norm(c.partido) === fParty : true;
+      const byDistrict = fDistrict ? norm(c.distrito) === fDistrict : true;
       return byOffice && byName && byParty && byDistrict;
     }).sort((a, b) => {
       const oa = officeOrder(a.cargo);
@@ -179,24 +178,23 @@
       ALL = data;
 
       // Generar opciones únicas de distrito
-      const districts = [...new Set(ALL.map(c => c.distrito))].sort((a, b) => getNumber(a) - getNumber(b));
-      districts.forEach(d => {
-        const option = document.createElement("option");
-        option.value = d;
-        option.textContent = d;
-        $district.appendChild(option);
-      });
+      //const districts = [...new Set(ALL.map(c => c.distrito))].sort((a, b) => getNumber(a) - getNumber(b));
+      //districts.forEach(d => {
+        //const option = document.createElement("option");
+        //option.value = d;
+        //option.textContent = d;
+        //$district.appendChild(option);
+      //});
 
-      // Generar opciones únicas de partido
-      const parties = [...new Set(ALL.map(c => c.partido))].sort();
+      // Generar opciones únicas de partido (valor normalizado)
+      const parties = [...new Set(ALL.map(c => norm(c.partido)))].sort();
       parties.forEach(p => {
         const option = document.createElement("option");
-        option.value = p;
-        option.textContent = p;
+        option.value = p; // guardamos la forma normalizada
+        option.textContent = p.charAt(0).toUpperCase() + p.slice(1);
         $party.appendChild(option);
       });
 
-      // Inicialmente no mostrar candidatos
       render([]);
     } catch (err) {
       console.error(err);
