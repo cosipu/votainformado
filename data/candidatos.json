@@ -1734,5 +1734,1693 @@
     "distrito": "Circunscripción Senatorial 14",
     "foto": null,
     "delitos": []
+  },
+  {
+    "nombre": "Franco Aldo Parisi Fernández",
+    "cargo": "Presidente Nacional",
+    "partido": "Partido de la Gente",
+    "distrito": null,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Cuevas Troncoso",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 1,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ernesto Rodrigo Plasencia Rojas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 1,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Raúl Alexander Parada Flores",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 1,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Candy Katiuska Andrade Jara",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 1,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Andrés Quisbert Lazo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 2,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ana María Toro Ojane",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 2,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudio Saéz Muñoz",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 2,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jessica Soledad Becerra Cantillano",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 2,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fabian Mauricio Ossandón Briceño",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 3,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paola Amanda Debía González",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 3,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sergio Jorge Mermie Ibarrondo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 3,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jessie Alejandra González Bugueño",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 3,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Vilma de Lourdes Esquivel Céspedes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 3,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Andrés Ramos Bustos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 3,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Roxana del Carmen Iturra Ramírez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paola Andrea Parra Pizarro",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Miriam Sanda de la Fuente Hidalgo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Moisés Adolfo Ramírez Retamales",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paula Beatriz Araya Rojas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Cecilia Véliz Robles",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Néstor Manuel Cavieres Cavieres",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 5,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paola Estefanía Muñoz Pardo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 5,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Álvaro Luis Acevedo Gamboa",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 5,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ana María Luque Martínez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 5,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pedro Pablo Barría Oyarzún",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 5,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudio Andrés Godoy Olmos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 5,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricia Andrea Lienlaf Uribe",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Alberto Muñoz Villalobos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alejandra Mercedes Retamal Ortega",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Edison Omar Quezada Molina",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Cecilia Toro Barra",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mario Enrique Díaz Fuentes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Alberto Jara Sepúlveda",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 7,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fabiola Andrea Ramírez Rojas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 7,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Manuel Eduardo Vargas Araya",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 7,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Andrés Peña Pizarro",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 7,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Alejandra Guzmán Salinas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 7,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristián Alfonso Medina Sepúlveda",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 7,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sandra Patricia Cifuentes Morales",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 8,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcelo Alejandro Gutiérrez Orellana",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 8,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Teresa del Pilar Morales González",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 8,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Nicolás Ignacio Torres Salazar",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 8,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paula Andrea Campos Soto",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 8,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Manuel Valdés Arancibia",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 8,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cecilia Andrea Fuentes Pino",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Roberto Andrés Gálvez Flores",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Lorena Isabel Muñoz Parra",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Fernando Javier Carrasco Reyes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela Alejandra Contreras Silva",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Eduardo Patricio Salinas Torres",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Fernanda Díaz Paredes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 10,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Alejandro Silva Muñoz",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 10,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gabriela Andrea González Soto",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 10,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Eduardo Pérez Ramírez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 10,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Natalia Beatriz Rojas Fuentes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 10,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Héctor Andrés López Vergara",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 10,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Esteban Herrera Cáceres",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Marcela Morales Álvarez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Andrés Contreras Jara",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Soledad Fuenzalida Gómez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gonzalo Patricio Castro Vega",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "María Isabel Pino Carrasco",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Francisco Javier Alarcón Méndez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 12,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela Constanza Villarroel Rivas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 12,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristóbal Ignacio Saavedra Peña",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 12,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricia Angélica Tapia Morales",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 12,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mauricio Antonio Ramírez Salgado",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 12,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Valentina Andrea Espinoza Fuentes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 12,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Arturo Seguel Olivos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 13,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcelo Andrés Olivares Figueroa",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 13,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alexander Rodolfo Rojas Villarroel",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 13,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Erika Maribel Lizama Fuentes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 13,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Nelson David Álvarez Galleguillos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 13,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Noemi Muriel Lapostol Jara",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 13,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrés Raúl Sánchez Fredes",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Leticia del Carmen Zúñiga Silva",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cindy Marlene Macías Toledo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Anselmo Melo Ramírez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sergio Antonio Palma Briones",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rogelio Alfredo Urbina Leal",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Andrés Meza Infante",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 14,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pedro Andrés Gubernatti Toro",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 15,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcela del Carmen Narváez Zapata",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 15,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Miguel Latorre Ludueña",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 15,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carla Eugenia Rubio Carrasco",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 15,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luisa Elena Cáceres Miranda",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 15,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Alberto Peñailillo Valenzuela",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 15,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Susan Evelyn Gómez Pardo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 16,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Antonio Carvallo Castro",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 16,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela Denisse Gaete Cornejo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 16,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Héctor Andrés Sánchez Moreno",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 16,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Andrés Maldonado Becerra",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 16,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Guillermo Victoriano Valdés Carmona",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Viviana de las Mercedes Rodríguez Saavedra",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Nicolas Enrique García Espinoza",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Eduardo Alexander Oteiza Vásquez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rosa Irene Bravo Herrera",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Lorena Alejandra Balladares Chamorro",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela Francisca Díaz Gómez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Javier Morales Morales",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 17,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rubén Ignacio Martínez Núñez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 18,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela del Pilar Olguín Andrade",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 18,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Antonio Bascuñán Tapia",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 18,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carolina Alejandra Morales Ortega",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 18,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Reimundo Vergara Valdés",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 18,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniel Godoy Lagos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jeniffer Carolina Salazar Zúñiga",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Héctor Guzmán Vásquez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ignacio Andrés Luengo Quijada",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mariela Espinoza Navarrete",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cliff Rogers Henríquez Retama",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Antonio Briones Moller",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carolina Andrea Venegas Aranda",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Hugo Antonio Soto Becerra",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mariella Andrea González Hidalgo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Ricardo Zúñiga Montt",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcela Andrea González Zárate",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Bernardo Orlando Ulloa Pereira",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Francisca Mariana Zenteno Araos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juliette Cristina Villalobos Cares",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Lilian Alejandra Betancurt Delgado",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Alberto Peña Opazo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karen Marcela Morales Rozas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Felipe Agurto Pedreros",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Christian Rodrigo Fuentes Cabezas",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sandra América Neira Espinoza",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniela Nataly González Fariña",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Guido Antonio Díaz Vergara",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alexis Ojeda Altamirano",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricia del Carmen Muñoz Beltrán",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ramiro Adrián Rodríguez Maureira",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Flor Rossany Contreras Vivallo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Orlando Christian Machefert Inostroza",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Aliro Muñoz Garrido",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Hernán Gonzalo Coñoman Lepimán",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Robinson Darío Illanes Acuña",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jessica Lorena Antilef Lincolao",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Maria Delia Yañez Barrera",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Américo Arlín Muñoz Beltrán",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gerardo Efrain Lara Martínez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 24,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Tabina Gabriela Manque Manque",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 24,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Emilio Aranda Saravia",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 24,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Burgos Vicuña",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 24,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcelo Miguel Franco Franco",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 24,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Geraldina Argelia Solís Pérez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 24,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Isidoro Rodolfo Barquín Pardo",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 25,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Maurice Goudie Domínguez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 25,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Angelica Eliana Manríquez Santibáñez",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 25,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Erwin David Pérez Monje",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 25,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Samuel Darío Cárdenas Vivar",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 25,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alex Manuel Nahuelquín Nahuelquín",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 26,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Adrián Vargas Machado",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 26,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Quintana Diaz",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 26,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ximena Alejandra Uribe Canobra",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 26,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alexis Cristobal Maldonado Ramos",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 26,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Luis Mariano Chodil Soto",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 26,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karin Pamela Contreras Murtschwa",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 27,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Abel Alejandro Fernández Traipe",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 28,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alejandra Elizabeth Toro Abello",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 28,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Roberto Sahr Domian",
+    "cargo": "Diputado",
+    "partido": "Partido de la Gente",
+    "distrito": 28,
+    "foto": null,
+    "delitos": []
+  }, 
+  {
+    "nombre": "Friedrich Renard Mencía Poconi",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 1,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marta Beatriz Cortés Zapata",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 2,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Luis Paredes Cortés",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 2,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sebastián Vicente Carmona Orquera",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 4,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcela Patricia del Sol Hallett",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudio Abraham Uribe Hernández",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Elías Ybo Canelo Pérez",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Diego Alonso Cortez Barrera",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 6,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mario Antonio Campos Rojas",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Andrea Sosa Flores",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paulina Miranda Barriga",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cecilia González Bello",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Yenny Andrea Soto Avendaño",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 9,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Viviana del Carmen Manríquez Mora",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Francisco Madariaga Méndez",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pamela Gladys Correa Quezada",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marisel Pedreros Venegas",
+    "cargo": "Senador",
+    "partido": "Partido de la Gente",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  }, 
+  {
+    "nombre": "Felipe Aylwin",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Graciela Huenuman",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricio Palma",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Eliana Sanhueza",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carolina Monsalves",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Manuel Rivas",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 19,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Feliz González",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Elizabeth Mujica",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Hernán Pino",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Atrix Badilla",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Arancibia",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paula Valdebenito",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Javier Muñoz",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marisol Vidal",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Manuel Jara",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 20,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alexis Zúñiga",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Johanna Barra",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pedro Pablo Valenzuela",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ricardo Flores",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 21,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mariela Sáez",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Raúl Huical",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Wanglen Mila Huenumilla",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Eduardo Cuellar",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 22,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jessica Méndez",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Iván Rojas",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Constanza González",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Víctor Vilches",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Doris Blanco",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Leonel Meriño",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Tamara Morales",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gerardo Mourgues",
+    "cargo": "Diputado",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 23,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Aucan Huilcaman",
+    "cargo": "Senador",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jal Yjade",
+    "cargo": "Senador",
+    "partido": "Partido Ecologista Verde",
+    "distrito": 11,
+    "foto": null,
+    "delitos": []
   }
 ]
