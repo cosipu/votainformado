@@ -35,6 +35,49 @@
     return 9;
   };
 
+  // === CLASIFICACIÓN por partido ===
+  function getPosicionPolitica(partido) {
+    const p = norm(partido);
+
+    if (p.includes("partido de trabajadores revolucionarios") || p === "ptr"||
+    p.includes("upa") || p === "upa"
+) return "Extrema Izquierda";
+    if (p.includes("partido comunista") || p === "pc" ||
+        p.includes("partido socialista") || p === "ps") return "Izquierda";
+    if (
+      p.includes("frente amplio") || p === "fa" ||
+      p.includes("partido por la democracia") || p === "ppd" ||
+      p.includes("partido liberal") || p === "pl" ||
+      p.includes("partido radical") || p === "pr" ||
+      p.includes("accion humanista") || p === "ah" ||
+      p.includes("frente regionalista verde social") || p === "frvs"
+    ) return "Centro Izquierda";
+    if (p.includes("democratas") || p === "dem" ||
+        p.includes("amarillos por chile") || p === "ama" ||
+        p.includes("partido popular") || p === "pop") return "Centro";
+    if (p.includes("evopoli") || p === "evo" || p.includes("evópoli") ||
+        p.includes("democrata cristiano") || p === "dc" || p === "pdc") return "Centro Derecha";
+    if (
+      p.includes("union democrata independiente") || p === "udi" ||
+      p.includes("partido de la gente") || p === "pdg" ||
+      p.includes("renovacion nacional") || p === "rn"
+    ) return "Derecha";
+    if (p.includes("partido republicano") || p.includes("republicanos") ||
+        p.includes("partido social cristiano") || p.includes("social cristiano") ||
+        p.includes("partido nacional libertario") || p.includes("libertario")) return "Extrema Derecha";
+
+    return "No definido";
+  }
+
+  // === Colores según posición ===
+  function getPosicionClass(pos) {
+    const p = norm(pos);
+    if (p.includes("extrema izquierda") || p === "izquierda") return "pos-izquierda"; // rojo
+    if (p.includes("centro izquierda") || p === "centro" || p.includes("centro derecha")) return "pos-centro"; // celeste
+    if (p.includes("derecha")) return "pos-derecha"; // amarillo
+    return "pos-default";
+  }
+
   // Render
   function render(list) {
     if (!$candidates) return;
@@ -45,27 +88,49 @@
         const card = document.createElement("article");
         card.className = "candidate";
 
+        // Foto
         const img = document.createElement("img");
         img.src = c.foto || PLACEHOLDER_IMG;
         img.alt = c.nombre || "Candidato/a";
 
+        // Nombre
         const h3 = document.createElement("h3");
         h3.textContent = c.nombre || "Sin nombre";
 
+        // Cargo
         const pCargo = document.createElement("p");
         pCargo.innerHTML = `<b>Cargo:</b> ${c.cargo || "—"}`;
 
+        // Partido
         const pPartido = document.createElement("p");
         pPartido.innerHTML = `<b>Partido:</b> ${c.partido || "Independiente"}`;
 
+        // Distrito
         const pDistrito = document.createElement("p");
         pDistrito.innerHTML = `<b>Distrito:</b> ${c.distrito || "No especificado"}`;
+
+        // Posición política
+        const posicion = getPosicionPolitica(c.partido);
+        const posDiv = document.createElement("div");
+        posDiv.textContent = posicion;
+        posDiv.className = `posicion ${getPosicionClass(posicion)}`;
 
         card.appendChild(img);
         card.appendChild(h3);
         card.appendChild(pCargo);
         card.appendChild(pPartido);
         card.appendChild(pDistrito);
+        card.appendChild(posDiv);
+
+        // === NUEVO: Cantidad de veces presentado a elecciones populares ===
+        let vecesElecciones = 0;
+        if (Array.isArray(c.elecciones) && c.elecciones.length) {
+          vecesElecciones = c.elecciones.filter(e => e.tipo === "popular").length;
+        }
+        const elecDiv = document.createElement("div");
+        elecDiv.className = "elecciones-info";
+        elecDiv.textContent = `Se ha presentado ${vecesElecciones} veces a elecciones populares`;
+        card.appendChild(elecDiv);
 
         // Antecedentes / Delitos
         if (Array.isArray(c.delitos) && c.delitos.length) {
@@ -79,10 +144,8 @@
             div.className = "case";
 
             if (typeof d === "string") {
-              // Si es texto libre, lo mostramos directamente
               div.textContent = d;
             } else {
-              // Si es objeto, usamos sus propiedades
               const strong = document.createElement("strong");
               strong.textContent = d.titulo || "Caso";
               div.appendChild(strong);
