@@ -363,11 +363,11 @@
             p.includes("partido liberal") || p === "pl" ||
             p.includes("partido radical") || p === "pr" ||
             p.includes("accion humanista") || p === "ah" ||
-            p.includes("frente regionalista verde social") || p === "frvs")
+            p.includes("popular") || p === "pop"||
+            p.includes("federacion regionalista verde social") || p === "frvs")
             return "Centro Izquierda";
         if (p.includes("democratas") || p === "dem" ||
-            p.includes("amarillos por chile") || p === "ama" ||
-            p.includes("partido popular") || p === "pop")
+            p.includes("amarillos por chile") || p === "ama") 
             return "Centro";
         if (p.includes("evopoli") || p === "evo" || p.includes("evópoli") ||
             p.includes("democrata cristiano") || p === "dc" || p === "pdc")
@@ -400,36 +400,63 @@
 
         if (Array.isArray(list) && list.length) {
             list.forEach((c) => {
-                const card = document.createElement("article");
-                card.className = "candidate";
+    const card = document.createElement("article");
+    card.className = "candidate";
 
-                const img = document.createElement("img");
-                img.src = c.foto || PLACEHOLDER_IMG;
-                img.alt = c.nombre || "Candidato/a";
+    const img = document.createElement("img");
+    img.src = c.foto || PLACEHOLDER_IMG;
+    img.alt = c.nombre || "Candidato/a";
 
-                const h3 = document.createElement("h3");
-                h3.textContent = c.nombre || "Sin nombre";
+    const h3 = document.createElement("h3");
+    h3.textContent = c.nombre || "Sin nombre";
 
-                const pCargo = document.createElement("p");
-                pCargo.innerHTML = `<b>Cargo:</b> ${c.cargo || "—"}`;
+    const pCargo = document.createElement("p");
+    pCargo.innerHTML = `<b>Cargo:</b> ${c.cargo || "—"}`;
 
-                const pPartido = document.createElement("p");
-                pPartido.innerHTML = `<b>Partido:</b> ${c.partido || "Independiente"}`;
 
-                const pDistrito = document.createElement("p");
-                pDistrito.innerHTML = `<b>Distrito:</b> ${c.distrito || "No especificado"}`;
 
-                const posicion = getPosicionPolitica(c.partido);
-                const posDiv = document.createElement("div");
-                posDiv.textContent = posicion;
-                posDiv.className = `posicion ${getPosicionClass(posicion)}`;
 
-                card.appendChild(img);
-                card.appendChild(h3);
-                card.appendChild(pCargo);
-                card.appendChild(pPartido);
-                card.appendChild(pDistrito);
-                card.appendChild(posDiv);
+    // --- AQUÍ VIENE LA LÓGICA DE PARTIDO ---
+    const pPartido = document.createElement("p");
+    let partidoBase = c.partido || "Independiente";
+
+    if (c.independientePor) {
+        // Mostrar en pantalla como "Independiente – RN"
+        pPartido.innerHTML = `<b>Partido:</b> Independiente – ${c.independientePor}`;
+        // Pero para clasificación y filtros usamos el partido patrocinante
+        partidoBase = c.independientePor;
+    } else {
+        // Caso normal
+        pPartido.innerHTML = `<b>Partido:</b> ${partidoBase}`;
+    }
+
+    const pDistrito = document.createElement("p");
+    pDistrito.innerHTML = `<b>Distrito:</b> ${c.distrito || "No especificado"}`;
+
+
+    // Posición política basada en el partido base
+    const posicion = getPosicionPolitica(partidoBase);
+    const posDiv = document.createElement("div");
+    posDiv.textContent = posicion;
+    posDiv.className = `posicion ${getPosicionClass(posicion)}`;
+    card.appendChild(posDiv);
+
+    // --- Agregar todo al card ---
+    card.appendChild(img);
+    card.appendChild(h3);
+    card.appendChild(pCargo);
+    card.appendChild(pPartido);
+    card.appendChild(pDistrito);
+if (c.reeleccion && c.cargo) {
+    const cargoLower = c.cargo.toLowerCase();
+    if (cargoLower.includes("diputado") || cargoLower.includes("senador")) {
+        const pReeleccion = document.createElement("p");
+        pReeleccion.innerHTML = `<b>Reelección:</b> Sí`;
+        // Inserta inmediatamente DESPUÉS de pDistrito
+        pDistrito.insertAdjacentElement("afterend", pReeleccion);
+    }
+}
+    card.appendChild(posDiv);
 
                 // Posturas políticas (solo si es presidente y tiene posturas)
                 if (c.cargo && c.cargo.toLowerCase().includes("presidente") && c.posturas && Object.keys(c.posturas).length) {
