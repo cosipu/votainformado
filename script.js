@@ -402,8 +402,7 @@
                 const pCargo = document.createElement("p");
                 pCargo.innerHTML = `<b>Cargo:</b> ${c.cargo || "—"}`;
 
-
-
+                
 
                 // --- AQUÍ VIENE LA LÓGICA DE PARTIDO ---
                 const pPartido = document.createElement("p");
@@ -521,6 +520,10 @@
 
                 $candidates.appendChild(card);
             });
+
+            
+
+
         } else {
             const p = document.createElement("p");
             p.textContent = "No se encontraron candidatos.";
@@ -561,6 +564,7 @@
 
             return norm(a.nombre).localeCompare(norm(b.nombre));
         });
+        
 
         render(filtered);
     }
@@ -611,6 +615,71 @@
       `;
         }
     }
+     //Grafico de pizza 
+     
+    function drawResumen(data) {
+    const totalCandidatos = data.length;
+
+    // Candidatos con más de 2 elecciones populares
+    const masDeDos = data.filter(c => {
+        if (!Array.isArray(c.elecciones)) return false;
+        const populares = c.elecciones.filter(e => e.tipo && e.tipo.toLowerCase() === "popular");
+        return populares.length > 2;
+    }).length;
+
+    // Candidatos en reelección (diputados o senadores)
+    const reeleccion = data.filter(c => {
+        if (!c.reeleccion || !c.cargo) return false;
+        const cargoLower = c.cargo.toLowerCase();
+        return cargoLower.includes("diputado") || cargoLower.includes("senador");
+    }).length;
+
+    // Candidatos con delitos asociados
+    const conDelitos = data.filter(c => Array.isArray(c.delitos) && c.delitos.length > 0).length;
+
+    const ctx = document.getElementById('eleccionesChart');
+    if (ctx) {
+        // Destruir gráfico previo si existe
+        if (window.myChart) {
+            window.myChart.destroy();
+        }
+
+        window.myChart = new Chart(ctx, {
+            type: 'doughnut', // gráfico circular
+            data: {
+                labels: [
+                    'Total candidatos',
+                    'Más de 2 elecciones',
+                    'En reelección',
+                    'Con delitos'
+                ],
+                datasets: [{
+                    data: [totalCandidatos, masDeDos, reeleccion, conDelitos],
+                    backgroundColor: ['#007BFF', '#28A745', '#FFC107', '#DC3545'],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { position: 'bottom' }
+                }
+            }
+        });
+    }
+}
+
+
+
+fetch("data/candidatos.json")
+  .then(res => res.json())
+  .then(data => {
+      window.allCandidates = data; // guardas data global
+
+      drawResumen(data); // 👉 genera el gráfico con TODOS los candidatos
+
+      render([]); // tu render inicial (o con data si quieres mostrar todo)
+  });
 
 
     bindEvents();

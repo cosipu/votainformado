@@ -9256,7 +9256,7 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": [],
-      "elecciones": [
+    "elecciones": [
       {
         "anio": 2017,
         "tipo": "popular"
@@ -11463,8 +11463,26 @@
     "cargo": "Diputado",
     "partido": "PARTIDO RADICAL",
     "distrito": "Distrito 28",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/538023036_1073085998310875_6482745172110564122_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5vMd0I1w_7JaO9wTO3VT3zCzEShYwc9PMLMRKFjBz08BmUqrzAyOPMLBjt5yOpS4&_nc_ohc=MNSSGBCW80sQ7kNvwEb6b5a&_nc_oc=AdmKvSejsBcINFl3LBl1Id7TUd9Q-zuAvcwdutXIUWmdhE_31vaZDIpv_Mo32HRRPz4lv0ruaqBJIOumEr3MYZwD&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=MYEYZfkvjJrS6bjFLRZxGA&oh=00_AfXR7KT9BpBeGNKVoIRcqq9-I8NlDo_ohBoeY1nz6SCfsQ&oe=68B40756",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+       {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+      ]
   },
   {
     "nombre": "Ivania Paz Salinas Villanueva",
@@ -11479,8 +11497,14 @@
     "cargo": "Diputado",
     "partido": "PARTIDO SOCIALISTA",
     "distrito": "Distrito 28",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/298782156_612747223635969_5319958593452134036_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5GsK7FgLnd7WTgXUmRNopaNS4KhLUNnto1LgqEtQ2eyWc9Xwk7FGOCe_vAF2XFdE&_nc_ohc=iuBPOfekASgQ7kNvwFSfcxR&_nc_oc=Adm7U4mNCvL9JKV00DfCKxP0RaCvI_AcINbpztMPMZodpXnPZfV0zRCcIyD6L5raKWDCyfq287GkXgQqGpRkoB9Y&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=bqKj9NwYZP7xfz5ezZm-Gg&oh=00_AfV_nNYecxGMOspp8eJeKiEiHDBgxRTB6kYzLaEtwZjElA&oe=68B40476",
+    "delitos": [],
+     "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Rodrigo Utz Contreras",
@@ -11488,8 +11512,18 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 28",
-    "foto": null,
-    "delitos": []
+    "foto": "https://elpinguino.com/uploads/imagenes/b257cf8b6abbeea08153170a7fa70d89.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+       {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Thomas Lorca Almonacid",
@@ -11506,6 +11540,12 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 28",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   }
 ]

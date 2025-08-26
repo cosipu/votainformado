@@ -271,3 +271,9 @@ header {
     font-size: 0.9rem;
     color: #d1fae5;
 }
+
+#eleccionesChart {
+  max-width: 250px;
+  max-height: 250px;
+  margin: 0 auto; /* centrar */
+}
