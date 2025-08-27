@@ -75,17 +75,49 @@
     <main id="candidates"></main>
 
 </footer>
-    <footer>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<footer style="margin: 20px; padding: 20px; background: rgba(30, 41, 59, 0.9); display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 30px; color: white; border-radius: 10px;">
+
+  <!-- Gráfico -->
+  <div style="text-align:center; flex: 1; min-width: 280px;">
+    <h3 style="margin-bottom:10px;">Resumen nacional de candidatos</h3>
+    <canvas id="eleccionesChart" width="250" height="250"></canvas>
+  </div>
+
+  <!-- Texto al lado -->
+  <div style="flex: 2; min-width: 280px; max-width: 600px; text-align: justify; line-height: 1.6;">
+    <h4 style="margin-bottom:5px; color:#facc15;">Candidatos y reelección</h4>
+    <p>
+      Conocer cuántas veces un candidato se ha presentado a elecciones populares es clave 
+      para entender su rol en la política. Muchos postulan reiteradamente sin ser electos, 
+      pero reciben financiamiento público en cada campaña, lo que transforma la política en 
+      una “pyme” más que en un servicio a la ciudadanía.
+    </p>
+
+    <h4 style="margin-bottom:5px; color:#facc15;">Delitos y transparencia</h4>
+    <p>
+      También es fundamental saber si los candidatos enfrentan investigaciones o tienen 
+      antecedentes delictuales. Esto permite evaluar si cumplen con los estándares éticos 
+      que exige el servicio público y ayuda a tomar decisiones de voto responsables.
+    </p>
+
+    <h4 style="margin-bottom:5px; color:#facc15;">En resumen</h4>
+    <p>
+      Estos datos otorgan a los votantes herramientas para evitar que la política se 
+      convierta en un refugio de intereses personales y asegurar que quienes resulten electos 
+      representen de forma íntegra a la ciudadanía.
+    </p>
+  </div>
+
+</footer>
+
+<footer>
         <center>
             <p>Datos obtenidos de fuentes públicas como Servel y medios oficiales.</p>
         </center>
     </footer>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-<footer style="margin-top: 4px; padding: 2px; background: rgba(30, 41, 59, 0.9);; text-align:center;">
-  <h3 style="margin-bottom:5px;">Resumen nacional de candidatos</h3>
-  <canvas id="eleccionesChart" width="250" height="250"></canvas>
-</footer>
 
    
     <script src="script.js"></script>
