@@ -588,6 +588,7 @@
         $candidates.innerHTML = `<p>Cargando…</p>`;
 
         try {
+
             const res = await fetch(`${DATA_URL}?v=${Date.now()}`, { cache: "no-store" });
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             const data = await res.json();
@@ -602,6 +603,45 @@
                 option.value = p;
                 option.textContent = p.charAt(0).toUpperCase() + p.slice(1);
                 $party.appendChild(option);
+            });
+
+          const districts = [...new Set(ALL.map(c => c.distrito).filter(d => d && d.toString().trim() !== ""))];
+
+districts.sort((a, b) => {
+    const tipoA = a.toString().toLowerCase().includes("circunscripción") ? 1 : 0;
+    const tipoB = b.toString().toLowerCase().includes("circunscripción") ? 1 : 0;
+
+    if (tipoA !== tipoB) return tipoA - tipoB; // primero Distritos, luego Circunscripciones
+
+    const numA = parseInt(a.toString().match(/\d+/)?.[0]) || 0;
+    const numB = parseInt(b.toString().match(/\d+/)?.[0]) || 0;
+
+    return numA - numB;
+});
+
+$district.innerHTML = '<option value="">Todos los distritos</option>';
+districts.forEach(d => {
+    const option = document.createElement("option");
+    option.value = d;  // texto original
+    option.textContent = d;
+    $district.appendChild(option);
+});
+
+
+            $district.innerHTML = '<option value="">Todos los distritos</option>'; // limpiar select
+            districts.forEach(d => {
+                const option = document.createElement("option");
+                option.value = d;   // texto original, sin normalizar
+                option.textContent = d;
+                $district.appendChild(option);
+            });
+
+            $district.innerHTML = '<option value="">Todos los distritos</option>'; // limpiamos antes
+            districts.forEach(d => {
+                const option = document.createElement("option");
+                option.value = norm(d);   // valor normalizado para filtros
+                option.textContent = d;   // texto original
+                $district.appendChild(option);
             });
 
             render([]);
@@ -672,82 +712,82 @@
 
     // ------------------ Función para gráfico de delitos por partido (robusta) ------------------
     function drawDelitosPorPartido(data) {
-    const conteoPorPartido = {};
+        const conteoPorPartido = {};
 
-    // Contamos solo candidatos con delitos
-    for (const c of data) {
-        const delitos = Array.isArray(c.delitos) ? c.delitos : [];
-        if (delitos.length === 0) continue;
+        // Contamos solo candidatos con delitos
+        for (const c of data) {
+            const delitos = Array.isArray(c.delitos) ? c.delitos : [];
+            if (delitos.length === 0) continue;
 
-        let partidoReal = (c.partido || "").trim();
-        const independientePor = (c.independientePor || "").trim();
-        if (partidoReal.toUpperCase() === "INDEPENDIENTE" && independientePor) {
-            partidoReal = independientePor;
+            let partidoReal = (c.partido || "").trim();
+            const independientePor = (c.independientePor || "").trim();
+            if (partidoReal.toUpperCase() === "INDEPENDIENTE" && independientePor) {
+                partidoReal = independientePor;
+            }
+            if (!partidoReal) partidoReal = "SIN PARTIDO";
+
+            conteoPorPartido[partidoReal] = (conteoPorPartido[partidoReal] || 0) + 1;
         }
-        if (!partidoReal) partidoReal = "SIN PARTIDO";
 
-        conteoPorPartido[partidoReal] = (conteoPorPartido[partidoReal] || 0) + 1;
-    }
+        const labels = Object.keys(conteoPorPartido).sort((a, b) => conteoPorPartido[b] - conteoPorPartido[a]);
+        const values = labels.map(l => conteoPorPartido[l]);
 
-    const labels = Object.keys(conteoPorPartido).sort((a, b) => conteoPorPartido[b] - conteoPorPartido[a]);
-    const values = labels.map(l => conteoPorPartido[l]);
+        const canvas = document.getElementById('delitosChart');
+        if (!canvas) return;
 
-    const canvas = document.getElementById('delitosChart');
-    if (!canvas) return;
+        if (window.delitosChart && typeof window.delitosChart.destroy === "function") {
+            window.delitosChart.destroy();
+        }
 
-    if (window.delitosChart && typeof window.delitosChart.destroy === "function") {
-        window.delitosChart.destroy();
-    }
+        // Ajuste dinámico de altura según cantidad de barras
+        const alturaPorBarra = 40; // px por barra
+        canvas.parentElement.style.height = `${labels.length * alturaPorBarra + 100}px`;
 
-    // Ajuste dinámico de altura según cantidad de barras
-    const alturaPorBarra = 40; // px por barra
-    canvas.parentElement.style.height = `${labels.length * alturaPorBarra + 100}px`;
-
-    window.delitosChart = new Chart(canvas, {
-        type: 'bar',
-        data: {
-            labels,
-            datasets: [{
-                label: 'Candidatos con delitos',
-                data: values,
-                backgroundColor: 'rgba(239, 68, 68, 0.7)',
-                borderColor: 'rgba(239, 68, 68, 1)',
-                borderWidth: 1,
-                borderRadius: 5,
-                maxBarThickness: 40
-            }]
-        },
-        options: {
-            indexAxis: 'y', // barras horizontales
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { labels: { color: '#fff' } },
-                tooltip: {
-                    backgroundColor: 'rgba(30,41,59,0.9)',
-                    titleColor: '#facc15',
-                    bodyColor: '#fff'
-                }
+        window.delitosChart = new Chart(canvas, {
+            type: 'bar',
+            data: {
+                labels,
+                datasets: [{
+                    label: 'Candidatos con delitos',
+                    data: values,
+                    backgroundColor: 'rgba(239, 68, 68, 0.7)',
+                    borderColor: 'rgba(239, 68, 68, 1)',
+                    borderWidth: 1,
+                    borderRadius: 5,
+                    maxBarThickness: 40
+                }]
             },
-            scales: {
-                x: { 
-                    beginAtZero: true, 
-                    ticks: { color: '#fff' }, 
-                    grid: { color:'rgba(255,255,255,0.1)' } 
+            options: {
+                indexAxis: 'y', // barras horizontales
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { labels: { color: '#fff' } },
+                    tooltip: {
+                        backgroundColor: 'rgba(30,41,59,0.9)',
+                        titleColor: '#facc15',
+                        bodyColor: '#fff'
+                    }
                 },
-                y: { 
-                    ticks: { 
-                        color: '#fff', 
-                        autoSkip: false, 
-                        font: { size: 12 } 
-                    }, 
-                    grid: { color:'rgba(255,255,255,0.1)' },
-                    categoryPercentage: 0.6, // más espacio entre categorías
-                    barPercentage: 0.5       // barras más delgadas
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        ticks: { color: '#fff' },
+                        grid: { color: 'rgba(255,255,255,0.1)' }
+                    },
+                    y: {
+                        ticks: {
+                            color: '#fff',
+                            autoSkip: false,
+                            font: { size: 12 }
+                        },
+                        grid: { color: 'rgba(255,255,255,0.1)' },
+                        categoryPercentage: 0.6, // más espacio entre categorías
+                        barPercentage: 0.5       // barras más delgadas
+                    }
                 }
             }
-        }
-});
+        });
     }
 
 

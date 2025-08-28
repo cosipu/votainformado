@@ -2411,7 +2411,7 @@
     "nombre": "Sergio Jorge Mermie Ibarrondo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": 3,
+    "distrito": "Distrito 3",
     "foto": null,
     "delitos": []
   },
@@ -2515,7 +2515,7 @@
     "nombre": "Ana María Luque Martínez",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": "distrito 5",
+    "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
   },
@@ -2523,7 +2523,7 @@
     "nombre": "Pedro Pablo Barría Oyarzún",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": "distrito 5",
+    "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
   },
@@ -2531,7 +2531,7 @@
     "nombre": "Claudio Andrés Godoy Olmos",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": "distrito 5",
+    "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
   },
@@ -2699,7 +2699,7 @@
     "nombre": "Lorena Isabel Muñoz Parra",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": 9,
+    "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
   },
@@ -2747,7 +2747,7 @@
     "nombre": "Gabriela Andrea González Soto",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": 10,
+    "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
   },
@@ -2995,7 +2995,7 @@
     "nombre": "José Miguel Latorre Ludueña",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
-    "distrito": 15,
+    "distrito": "Distrito 15",
     "foto": null,
     "delitos": []
   },
@@ -4470,7 +4470,7 @@
   {
     "nombre": "Luis Alejandro Paredes Escanilla",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 1",
     "foto": null,
     "delitos": []
@@ -5051,7 +5051,7 @@
   {
     "nombre": "Hernán Velásquez Núñez",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 3",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/a/a1/Hern%C3%A1n_Vel%C3%A1squez_N%C3%BA%C3%B1ez.jpg",
     "delitos": [],
@@ -5077,7 +5077,7 @@
   {
     "nombre": "Marion Tapia González",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 3",
     "foto": null,
     "delitos": []
@@ -5085,7 +5085,7 @@
   {
     "nombre": "Danahe Rojas Mamani",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 3",
     "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/495599379_10227231273429914_7201441275339445411_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGGxl6XnMM-VbYHWdIwEMgCLnat-eWcDw4udq355ZwPDqG-qvaXOFUdf8D06u4vvFg&_nc_ohc=b85H827zPLgQ7kNvwGbqZ--&_nc_oc=Adms9ubaIZ5wxQ3KGnh-tg3WatXi_JCr-nrm29erpxxKFv9rXKHGU2V8L6foHDwNLh4tjjCuNHNOAWaX8JNnNHxQ&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=XaAIzXpDJCVownZG5-6qzg&oh=00_AfUvrXDgboPuEjtXD2893O1YMQUZyOUyi2W6DnP8hHH0FQ&oe=68B23FD6",
     "delitos": [],
@@ -5424,7 +5424,7 @@
   {
     "nombre": "Jaime Mulet Martínez",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 4",
     "foto": "https://www.nostalgica.cl/wp-content/uploads/2025/08/jaime-1.jpg",
     "delitos": [
@@ -5468,7 +5468,7 @@
   {
     "nombre": "Carolina Armenakis Daher",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde SocialL",
     "distrito": "Distrito 4",
     "foto": "https://www.nostalgica.cl/wp-content/uploads/2025/08/carolina-1.jpg",
     "delitos": [],
@@ -5501,7 +5501,7 @@
   {
     "nombre": "Jaime Vargas Guerra",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 4",
     "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/471149104_614143041042431_2633311499628982399_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGeGVvZOwFDHqIHO2eb5kUjqkeRC2Vgq6eqR5ELZWCrpxbE8SsejVbmjJSve8qUXJo&_nc_ohc=_h9bYdi0rEQQ7kNvwFHCT-y&_nc_oc=AdlGMtVkYsYpwdFl97jPqzJc9npLLnzcipostCtODY5orfKjmAiYtBwJObsKRKN4C_P0GG4KrQFnYyP2Hw2YxFQs&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=J1xoVZC23ZWs9QU7IEEQ-w&oh=00_AfWadVzEkLk5D6V0zNEe78TcfVN2vSzPrwUy6rhR1hN7Sg&oe=68B279C4",
     "delitos": [],
