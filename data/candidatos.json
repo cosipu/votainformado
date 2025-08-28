@@ -4016,11 +4016,11 @@
     "posturas": {
       "Aborto legal": "NO",
       "Fin de las AFP": "NO",
-      "Combatir el narcotrafico": "?",
-      "Salud Digna y de calidad": "?",
-      "Aumento sueldo mínimo": "?",
+      "Combatir el narcotrafico": "SI",
+      "Salud Digna y de calidad": "SI",
+      "Aumento sueldo mínimo": "SI",
       "Nacionalización Cobre y Litio": "NO",
-      "Seguridad (cierre de Fronteras)": "NO"
+      "Seguridad (cierre de Fronteras)": "SI"
     },
     "delitos": [],
     "elecciones": [
@@ -4090,11 +4090,11 @@
     "posturas": {
       "Aborto legal": "NO",
       "Fin de las AFP": "NO",
-      "Combatir el narcotrafico": "?",
+      "Combatir el narcotrafico": "Si",
       "Salud Digna y de calidad": "?",
       "Aumento sueldo mínimo": "NO",
       "Nacionalización Cobre y Litio": "NO",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Seguridad (cierre de Fronteras)": "Si"
     },
     "delitos": [
       {
@@ -4150,11 +4150,11 @@
     "posturas": {
       "Aborto legal": "NO",
       "Fin de las AFP": "NO",
-      "Combatir el narcotrafico": "?",
+      "Combatir el narcotrafico": "Si",
       "Salud Digna y de calidad": "?",
       "Aumento sueldo mínimo": "NO",
       "Nacionalización Cobre y Litio": "NO",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Seguridad (cierre de Fronteras)": "Si"
     },
     "delitos": [],
     "elecciones": [
@@ -5984,7 +5984,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://evolutivamedio.cl/wp-content/uploads/2025/04/Screenshot_2025-04-08-22-01-00-666_com.whatsapp.w4b-edit.jpg",
     "delitos": []
   },
   {
@@ -6003,7 +6003,17 @@
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 6",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Javier Crasemann Alfonso",
@@ -6168,15 +6178,35 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 6",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Roberto Videla Pavez",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 6",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/293644697_453317983469460_6817860480652645785_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFltcj2TE-QO5LDz9B6nyDhOK6XdpLe2Vc4rpd2kt7ZVwN-eeCDbLscy3RpVtqxG0A&_nc_ohc=9ybknGowV_8Q7kNvwGGHs0-&_nc_oc=AdkNRJQSXaJo396BkWo0y7HLB21FO9hb33HiMBnbxYv6_YlyUnIMV0OTuf2Ix5u_99CllK8vDK_zJ4r13xotwsb_&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=QvXu0H-fAsSeD4uW4ciJDg&oh=00_AfUj3_BzQhEII9dHmoPvgLCpVWxkLeOzpqdO-8aPvs72EQ&oe=68B63E15",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Claudia Canales Lemus",
@@ -6316,7 +6346,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://www.aivp.org/wp-content/uploads/2023/12/Photo_carlos-mondaca_qhcktt.jpeg",
     "delitos": []
   },
   {
@@ -6325,8 +6355,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://img.soy-chile.cl/Fotos/2022/04/03/file_20220403144744.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Marlén Olivarí Mayer",
@@ -6334,8 +6370,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://img.lahora.cl/upload/2023/03/17161D574C43476D14170F56534945751F171C185945447510-1200x800.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jorge Castro Muñoz",
@@ -6551,8 +6593,23 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/534719332_1316627949824752_3104343686911832841_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGNUEUB1OxRgAcBprvJhUKM7vZ3dhgmDRnu9nd2GCYNGeh-ZgwtmMIYhtnh_tQkIzQ&_nc_ohc=Yg1KQYQ3spgQ7kNvwEJNS3g&_nc_oc=AdlMP9flKZEq4d-EZl75G2hu2peaeHJ9WWzMOyj16Sm7WLyzOPwOPYRZ3rpVwH__qNSpQiiKO6snjkkTy-e1Ll7_&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=1fntSPQRxXCanphsLSMg6w&oh=00_AfUTH9LnIR7jidu3Re1JoaO46Jl2SLTVkBOcO3GDK7lVdw&oe=68B6506F",
+    "delitos": [
+      {
+        "titulo": "Presuntas irregularidades en gestión de recursos",
+        "fuente": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2024/10/23/presentan-querella-contra-alcalde-de-valparaiso-por-presuntas-irregularidades-en-gestion-de-recursos.shtml"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "René Lues Escobar",
@@ -6560,24 +6617,74 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://static.emol.cl/emol50/Fotos/2021/10/29/file_20211029084005.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Priscilla Fleming Aránguiz",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/457247008_983692517104879_109540184541789143_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEnFsj1BzUCJBNWQCQ-ROQcfFYD2u61Bit8VgPa7rUGK0ERwFyBPn503_vzhec0z_I&_nc_ohc=Lzf5AvQuy04Q7kNvwFiSm4U&_nc_oc=Adm1YD2Yzr51PFxojuKZFTLqFoP9bHZkfHwDrHuAUxohxezru7o5z5NtVKrGo_ABI8gsHQcKaEhqDCPME4GqYA3K&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=_ap4NU6jGK8hKDR0xOzKqg&oh=00_AfUj2jJTJa04gHqZKVT0UG7cSgvhY6gEwvi1iD-kDOObBg&oe=68B62D55",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Ángela Cabezón Contreras",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/258616481_108111451694815_5052198389137843793_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEBIPG7zEUInG8EDR1AtQqOViYyUi1nq69WJjJSLWerr8Us8GrrMUxYA7g7r0Lf8E8&_nc_ohc=iwRsYLb96jgQ7kNvwH9N-YF&_nc_oc=Adm2y9MOHS2tYVTVku8ix77c8ESCpftOQACREUYQdtjNcJzbjJyA32h2_u9v8i5HIaTtyM3a5gJ6gxRrbr-X82na&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=vMSfHp2aRtJIRxVij7ifUw&oh=00_AfW2R8H2CrJoQQLmzEwll4Hd3Q7WRSC3m2D3Begpn_XV5g&oe=68B65F8D",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Rodrigo Ruiz Encina",
@@ -6585,8 +6692,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interferencia.cl/sites/default/files/styles/article/public/1512609178-ruiz.jpg?itok=6FintYGU&c=4d728f223a78438b966893517bad7dfc",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Tania Isabel Madriaga Flores",
@@ -6662,7 +6775,7 @@
     "cargo": "Diputado",
     "partido": "DEMOCRATAS",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/509422379_10237889924246400_4485804178017304891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEl9e_rt8nga6pzXyuYODClxcIgN9cP6KHFwiA31w_ooWG6lUO2ezIxoJNj_oViRjc&_nc_ohc=ZEDIXU41Hh4Q7kNvwGrdBgA&_nc_oc=Adm1NT3RBTKG1H6GiqIzBFgWjT08T6EjAnjOrvXAjROd6jZxfYZF2yGW39e2h50ZlBWcvyHx2Ujw3nm1QlYh4_Bu&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eZDWdAhwr4AozDo6MbHVNw&oh=00_AfVtego7tbIWA5Zb0ahaGILznsw8U5ZYNwssfcyiLbUEtg&oe=68B64459",
     "delitos": [],
     "elecciones": [
       {
@@ -6869,24 +6982,79 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486642165_2433150180393084_6277309138636794619_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG7UK1eCcOyMQO-z2Mi8viknLchwPvIomqctyHA-8iiamN9202_m48E_y6dC4qA-aI&_nc_ohc=_nINW9O0U9UQ7kNvwFs9VMo&_nc_oc=AdmLNLz1eYjiYpAk0StMvqm9AMj06W9uWtnKIQLFXicMd-5RuaQBN5Os7bF8_BDsMj38nTzM2BzqjSPU2BxGGRmi&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Y-ipUl3KAADv9eoSkp5F5A&oh=00_AfWJl0kzgUkntCBZvh3bp2o8xYuyUGh6vm43rvBM36naMQ&oe=68B65A80",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
-    "nombre": "Christian Vitori Muñoz",
+    "nombre": "Christian Vittori Muñoz",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://lavozdemaipu.cl/wp-content/uploads/2024/03/cv-7.jpg",
+    "delitos": [
+      {
+        "titulo": "Lavado de activos, malversación, cohecho agravado y soborno",
+        "fuente": "https://www.laizquierdadiario.cl/El-escandalo-de-corrupcion-politica-que-destapa-a-Maipu-y-Cerro-Navia"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "David Quezada Gómez",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486641977_2086068555232701_1179851704239514753_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEJP3RfT78w4wLJiR8QhZRXsxAn-EVz4GWzECf4RXPgZWphUofqmmmy3_P85bSi9b4&_nc_ohc=NEPhLvoPtL0Q7kNvwFrJ0Zl&_nc_oc=AdkqSkDVz6hrW3RYLIBZEe6To_XwwTWUAXKrtZYFnTx1zYJlwlD7XBWy074EZFO9ilPR5obEYi4StVEZ4JUedZ-m&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=FKwzvHw_vABYe-GYvSsYjQ&oh=00_AfVbF7o0oC7p0_hTZLpvdVnlMSFpgj4y8EYaIEKwcDtw8A&oe=68B638F6",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Erica Velásquez Montenegro",
@@ -6904,7 +7072,21 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Xuxa Álvarez Fernández",
@@ -8566,8 +8748,14 @@
     "cargo": "Diputado",
     "partido": "DEMOCRATAS",
     "distrito": "Distrito 12",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQE2TUjvfsp0TQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679530182938?e=2147483647&v=beta&t=LiMbl5DAuAVHftLDn68ycMmFVJIRoubA-yIMH5se7Oc",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Daniela Andrea Serrano Salazar",
@@ -9851,19 +10039,40 @@
   {
     "nombre": "Hugo Boza Valdenegro",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 15",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/240249750_10227064864591346_8766558396350600819_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG3DiaTzu4Dmvw8PEptX-PpulB3cc5kpaG6UHdxzmSloXLkWpenpKFWq0TFNHAitms&_nc_ohc=Osik9xw03J4Q7kNvwHEuQyO&_nc_oc=Adn3MufOSo1TCVznT9CTsHfboCr3JlLiMrZmJZFN9GWiShtLNXMcs9Ty7k5ZXLzZ_cKIgsu2dBKkqyp1VLMTnLTq&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=FpOZPKWlhqktavx8oGCteg&oh=00_AfUxT1cuuf8c4Ax7YWtdDXuInkmp5-Xap8YTr7nOE6vhJg&oe=68B64477",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Marta González Olea",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
+    "reeleccion": true,
     "distrito": "Distrito 15",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/7/7a/Marta_Gonz%C3%A1lez_Olea.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Hugo Guzmán Millán",
@@ -9871,8 +10080,19 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 15",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/515437324_10239424739375795_1265606534245139593_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHIm-j7cwSPo9cJE6lHxaxCF13NgOh5yAYXXc2A6HnIBp6wUT3U2D1AlAVsDQSs7a8&_nc_ohc=pHla1QTENTwQ7kNvwESXtye&_nc_oc=AdkK26fKjmSQ8YRLQdcBpIzzcV-pfclA_DDm78jQQW_gLV3nKICGCixppnjZI__T6W-9veIxn0E3zBQQNyJa9BXo&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=HKwYCPh2kqAIOsCQnD-BPA&oh=00_AfXlGpyEnc5ryx_ZxU9Ceos80AweQKF85WJMdcy6bhXblQ&oe=68B666D8",
+    "delitos": [
+      {
+        "titulo": "Presunto Cohecho y amenazas.",
+        "fuente": "https://eltipografo.cl/2023/04/dura-acusacion-de-cohecho-contra-concejales-de-rancagua-sacude-al-municipio"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Carla Morales Maldonado",
@@ -9981,10 +10201,16 @@
   {
     "nombre": "Antonio Carvacho Cárdenas",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 16",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/469945627_590293053366381_3633805090307125263_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHDQ8-JAMSprkmz55cxKwt7U6IUmrYWgJVTohSathaAlUYiS4jLSlWnkJh_2AY9gyY&_nc_ohc=7egh6k7rnQsQ7kNvwFYCgo3&_nc_oc=AdkI6JIT7Mn5Jzi52thLEPedc3TokHdVkL_x0iP3yfhF8ueGnVLdocVa0TRnvUBMxBsWll8UQ2vXiOa_--tppeYb&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=vvHOOsflGNBTE0ZXDkOhyw&oh=00_AfVwjgKNRp6SJ1YUD36olN338VwWGZh5FR_2xDFAbw5e5A&oe=68B6363E",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Cristián Díaz Correa",
@@ -9992,8 +10218,18 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 16",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/449841020_487518970314632_4913394719145529248_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHxEl0bnGYCV2ZV1-hut126QXAjcH2K_FdBcCNwfYr8V8o5uMyTgW-uQm6u90E3vSc&_nc_ohc=EsjM-meUZSQQ7kNvwEAhea7&_nc_oc=AdmxvUK15-ae8O99r7k7i6urgOBDbzvvuuupY2odO9TcQlCL7coQlNtYMKp5Y66SGgmIBZ9Yh4xndFnr-z42GNgZ&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=gH9qf1AzCEgvisZ_W7zutQ&oh=00_AfWC4wusc8YVYOEmJckNFRWx-0yWJoxVEYiRWz76w7XW4g&oe=68B633F8",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jaime González Ramírez",
@@ -10002,7 +10238,34 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 16",
     "foto": null,
-    "delitos": []
+    "delitos": [
+      {
+        "titulo": "Fraude al fisco, cohecho y soborno.",
+        "fuente": "https://eltipografo.cl/2022/07/a-un-ano-de-las-denuncias-suman-nuevo-antecedente-a-querella-contra-alcalde-de-san-vicente"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Carolina Miranda Campos",
@@ -10011,7 +10274,13 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 16",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Pamela Francisca Navarro Leppe",
@@ -10036,7 +10305,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 17",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/531893774_1334515435350462_95637223407611073_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGEe9FhwwtSDYIkuApXy2pKS-lQVNIOSZBL6VBU0g5JkEWvyfT-2jLu-viXCFcLB-Q&_nc_ohc=ZRz3WySgVh4Q7kNvwHhwycd&_nc_oc=Admff1DvauTg23yyaoLRB4jCEbxu4pSTYVXvY5CHkLN9MKARK-PIdUxoKd5u1IdDCnjK5WJzqcp67dogFjreITiu&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=Jdy31hzUfDYj1M6OR52x4g&oh=00_AfUGL9eXy6YmLI3jNqB_chhVGZZx2MXSXRQjEpLL7e-drA&oe=68B6470E",
     "delitos": []
   },
   {
@@ -10061,7 +10330,7 @@
     "cargo": "Diputado",
     "partido": "Democratas",
     "distrito": "Distrito 17",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/453747653_4586886091536962_331072294528076103_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEeLQ3h5b_9kJ4aQDLI14ckKMmjWnBOShgoyaNacE5KGPCSbWwMA2HoRpin9rRYpIU&_nc_ohc=1sidQ1yOqKYQ7kNvwF0HdS6&_nc_oc=Adktu5MrHryFDf8hV4vh8YWqDXTnUp-D7xYH613k5cyGgNfm-dQBkPKG_RdSDWizZB2ydLASwPcD7UbSb5t7By6E&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=h8rlNKR73X02eTg_uIT6OA&oh=00_AfXr73T22YKvouyhs5Q5i-XMwrRwBQtOGJJP-wZXdR3f5w&oe=68B6164D",
     "delitos": []
   },
   {
@@ -10213,16 +10482,40 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 17",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/537783200_1323558513107349_6598471382161583309_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHNwIfbTq0RxFUUHJuG6V6g9Gi7XK56Bpv0aLtcrnoGm6GQPB14PKEUvAMROOL0N3w&_nc_ohc=ouSiiVEzvDkQ7kNvwFunC5J&_nc_oc=AdlMa0hzo2RJBEhLtczTsR6NQzrV1YQAwf2bDSYhuPDJgzh6O9VIuPhghLxOaJawHQQJGWkZ9meLOTZgqmEezH75&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=4rcRhICHRYYJFq3iuYXeJg&oh=00_AfXJd6xWf-IR_ufZeoLr_h0fwF5BqV-4-njSkYAoBS8Y2A&oe=68B66168",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Marisol Pérez Saavedra",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 17",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/509421342_10237570777631688_8987459481299846472_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEQ4kiqsDiUnklGtpChg5qKpP5pWRVgaBik_mlZFWBoGB6-T5gNFx4R0DcCTDS8274&_nc_ohc=UasIdp_3KzkQ7kNvwGsQ3WF&_nc_oc=AdlLkBwF3-KhEpm04e2J_wEEmrBh3-DtQ6KYeBVpnjNnkkIiAIrwhm7PgDASx4KBqXEziHyTLwMIHqhGAvhzPasj&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=5MXVhH7W-MP8TGFiV4boRA&oh=00_AfVhpkE81cqF5SAPiBQdPN1huGVCegDrM-v0txO8Cx2J9Q&oe=68B6530B",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Carlos Henríquez Ramírez",
@@ -10230,7 +10523,25 @@
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 17",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Elia Piedras Garrido",
@@ -10238,8 +10549,18 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 17",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.mintrab.gob.cl/pgm/CanalRegional/Maule/wp-content/uploads/2016/10/canal-regional.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Claudia Andrea Morales Courtin",
@@ -10415,7 +10736,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 18",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/536267258_1223691163107761_5225495985421385346_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF-LuTAJuax8kgsg9kFywjKz_hPbq6asUnP-E9urpqxSXhMRktmDMqIWv8MQFRFF5o&_nc_ohc=8hcVBdJz5jAQ7kNvwFEHxCW&_nc_oc=AdnA99kMk-ORgWvNcbkitbwVMACPkelW9s1eTtd3a6S6Oe_bzwAJ-MoI0fHZtaipaaoWnkAGmqizzZkVDD6tolzf&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=agOR_xTIbq1RN4QtuGWZ8w&oh=00_AfXAJ0NlCbP3OO0Uz8Tt7qIkTeMuAxA3oMBQG8AYZcU2hw&oe=68B65082",
     "delitos": []
   },
   {
@@ -10424,8 +10745,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 18",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/536282555_122212092986051873_8770382227937065278_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHyCr9QXNS-SPzPZ2zDG9IwU-mToqk_1WNT6ZOiqT_VY1T5pVSe2NOFKD7m_hGqK4w&_nc_ohc=rKoBzQfvceUQ7kNvwGkUkTw&_nc_oc=AdnFtYCAIX0ox1jZu63gzDm8OBgEIzF8l5_gA30ZeI7wmtzUpf1AL1p_xD5mnyuV6i7DiLzIP9hC1xu518MVKFqV&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=r3zUHklyDGOKiZc2sHlSKg&oh=00_AfWlQ1CybLZHkXIKzEK9mh-2cYydaHJtW7kXgNGaRYTkjQ&oe=68B667E2",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Reinaldo Henry Figueroa Alarcon",
@@ -10662,8 +10989,35 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/146212221_225347445859647_9086413344855127578_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEsJPjb-i1IG-pMN8DBNpLm-9Gg728vrfX70aDvby-t9e477vvdbkwYkxRHeYUC_UI&_nc_ohc=EW8qdqfIc2wQ7kNvwEOmVNB&_nc_oc=Adk75P6ECeA02iC-ZLcXrNFnhc39s73wFn_kYTL6v_i5HMPerfNyYBKqtonri3JQNRUwOq_fJYuEs3bjqAxtDus_&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Di7thoPCPhdTWS3pCd3V6g&oh=00_AfWekVeshvFOew4cVeyWYs9677XlNRythnpAtcmKqBLTww&oe=68D7E2D4",
+    "delitos": [
+      {
+        "titulo": "malversación de fondos públicos, fraude al fisco y exacciones ilegales",
+        "fuente": "https://www.sancarlosonline.cl/2024/08/lograran-volver-la-politica-los-ex.html"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "María Cecilia Romero Peña",
@@ -10671,7 +11025,13 @@
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 19",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Catalina Medina Rivas",
@@ -10679,23 +11039,53 @@
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 19",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Fanny Araya Bahamonde",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C5603AQFt-kos201b3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516616417670?e=2147483647&v=beta&t=So5JmrXcsofBxbWyJF3qzezY6xtUHXs1KBY_EZXHQeM",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Patricia Torres Astete",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/273025080_271467035097717_3625520717699574051_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeENEsyrcY-UtOZIH8A1_-vx3yet9afxPbjfJ631p_E9uD60HG3wijMr1z7zISFptJc&_nc_ohc=tjiFgU70iGgQ7kNvwGk13aV&_nc_oc=Adm-42L50kNLh8sHaHXJokWMd63GFKSDf-suQ_lLl-JNRBJp0DGrIjvX9WOa_t63uPOx6h1boiS5eExvb9iU4B3u&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=0_qs5GzUZDBl2GHoPWRwNA&oh=00_AfXKYfL_S_xI_cIInxqM67X2UVHUqMKKVixyBkFBvDmqFQ&oe=68B64CC5",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Sergio Bobadilla Muñoz",
@@ -10901,8 +11291,22 @@
     "partido": "Independiente ",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/166677520_2912566759014321_4164129147436647078_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHhcX3JLZGYEOljR0zmniQ_AJRp4y5sh_sAlGnjLmyH-6eyUDauIene795EUY5RTyY&_nc_ohc=10RmnliBt-sQ7kNvwFCrpeW&_nc_oc=Admw25DZ0gaiAzGmoFcJDZdUV_lInQoXw0oqiASNPGysls1j8rTpil2hEZPSBRcpzQA9xRz5GqS72eenCX7jVO42&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=PdZeS615f_mvtVXZhQ-hsw&oh=00_AfVd5K_S12GitWCT-ooykeoz8z1mkaEkTFsMmnksAFbrew&oe=68D7E3F7",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Elsa Lorena Olave Soto",
@@ -10927,8 +11331,18 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://urbecritica.wordpress.com/wp-content/uploads/2020/06/mario-001.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Alejandro Navarro Brain",
@@ -10936,8 +11350,38 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/a/a5/Alejandro_Navarro_Brain.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Gustavo Felipe Sotomayor Olate",
@@ -10945,8 +11389,18 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/491952935_1301144814949730_6811172573356057358_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFCYeeGCxlP627lx965d8r7uOceWQvOP6645x5ZC84_rloaX2mpkF4-t4Vg5tKQt8o&_nc_ohc=rHS2JTMAf0IQ7kNvwE-sqoE&_nc_oc=AdkpIcZlztRXy2H68fMSwFmmaj7vfpgxt5Ur4B9PkxFTu2ohirOAI-kYxFg_Lk4nmcZQG5cwTMsIsjO6cFwN3f2M&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=r3fbdP8_hVoWBJXpHbmDSA&oh=00_AfUMvBbvdys3yFWrtzLZ9BlqpU9wxdrpMGt5GIvOTKsJoA&oe=68B671D7",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Felipe Andres Romero Pedreros",
@@ -10954,8 +11408,14 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/484971554_1070419615127582_1591249555862500059_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEE7ZaLd0PBtGD3uJrV0IEgUwDr_lNEbhFTAOv-U0RuEXj0hW27bAEj0GOnSDCV0Yc&_nc_ohc=2Uow7uEboMkQ7kNvwERJYJz&_nc_oc=AdlE9oKjC2U3BYpUumiQI7wpAIl9z9EG0KPPFfzHykEHds8LF7oHtFUVC_NBlEbIFec3hE_UVZlkNgesH0HRTqOt&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=b3VSrWCDrx9y_mu7rHG4Cw&oh=00_AfWe4yt1r93b-FUBgPTFqZW-yHqprjCVAqzaz5fTlytGHQ&oe=68B648C7",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jorge Eduardo Aguayo Cerro",
@@ -10963,8 +11423,30 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/503576020_3119710418187143_2676230008604021319_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGvEwVX-78Nz56sfhjtR1VipRxmoGjfQgClHGagaN9CAD4x3F6LS386e3E2ZuEELDg&_nc_ohc=W9GXZR-Kl0UQ7kNvwEE23Zz&_nc_oc=AdlhFuES4tghqstcjzm4HUx0t4QAV5jRmUsklvNPrs5eBK65Ud2GwySPN8xemKFPAbbLTzuGkV8yOT6FJzZglw9R&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=oLuwpfzl1UpEv63SFy-AlQ&oh=00_AfWFfpXgoAo6Z4pww6z14h56Zt0nbpq6UG-vXvvKmvqRrQ&oe=68B6684F",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Diego Antonio Carvajal Basualto",
@@ -10979,10 +11461,29 @@
     "nombre": "Joanna Pérez Olea",
     "cargo": "Diputado",
     "partido": "DEMOCRATAS",
-    "independientePor": "",
+    "reeleccion": true,
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/e/e1/Joanna_Elena_P%C3%A9rez_Olea.jpg",
+    "delitos": [
+      {
+        "titulo": "Uso indebido de recursos de una organización no gubernamental (ONG) en beneficio de una campaña política",
+        "fuente": "https://www.ciperchile.cl/2018/10/24/al-menos-537-millones-para-seguridad-publica-se-entregaron-a-ong-vinculadas-a-partidos/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Elizabeth Maricán Rivas",
@@ -10990,16 +11491,36 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/200138940_10156898155842706_3825773693317937288_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHaGY_1Hh0xCiwKQH6mkHO5F8ADh2294vQXwAOHbb3i9EeOw0F3fvIJ8_i-SJBS3b0&_nc_ohc=F1XcpHOVdOEQ7kNvwHtIxUn&_nc_oc=Adnegh_jalI_7mlW6RYbRZYI_tXvFhMaS6gF-Tfz27e_pY-kbrXUoTYDFqaERGchnD8qbCTU7i4be_TrXq8Z8Re4&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=0qWYpY8plg29hqwhm2_SGw&oh=00_AfVAxCAqJo7_tvr2EttMPv-L84Zh5ERystnK4qxYuAmKzA&oe=68D7EA55",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Bárbara Kast Sommerhoff",
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/293070318_477917584141030_7161566537017569442_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHrktgxjvfwgTriqi-guZOCPfR_fv114Ss99H9-_XXhK-bGv4222Tlu6akGvUMauzE&_nc_ohc=Ur-kW9S2yzIQ7kNvwG3n24u&_nc_oc=Adkg6WHuDJXbZOGOVZhg2o-MMsaYm7hCDtfYdGWqZOM60wa0r8-aPVlHl_0K4lRW5_LVCW5qPNiazmTVFmemNe9c&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=C4EvSTiNZ9ZTXWC3zbx2GQ&oh=00_AfXnrtGrWTYJe19wopK5mKSAuVomXjdXhDblx9KI-W8oZA&oe=68B63A42",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jorge Contreras Blumel",
@@ -11007,7 +11528,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://cit.uai.cl/wp-content/uploads/2022/08/Jorge-Andres-Contreras-Blumel.jpg",
     "delitos": []
   },
   {
@@ -11108,8 +11629,14 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/510800093_10237965011725027_4225076955551126104_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGFA79qvZ7ISPYhyYoeIObRHXtrJAJjNmMde2skAmM2Y-Rztyu7hOZ3O1xlGaRnQMo&_nc_ohc=Tmgtd5RaW3wQ7kNvwE2sScR&_nc_oc=Adnaa-INcYcv6Vhd2Ntr0d3sbmgVE8Ftlwh74ceAog3HRHWMD82fsgb60POyzgxN2xo3NnvXB8KOLgbjIv7UuW6j&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=FMyOixj2Vt1TwdSkmVYkew&oh=00_AfUh_i2OlqNz957UUS5cfzdpV-0mV3yD0wuBej0Xg5VKSA&oe=68B65594",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Rodrigo Reinoso Cendoya",
@@ -11125,8 +11652,34 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/510528570_10237479260743241_4587604688110310590_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHFAxBX9uGAiMHoWlJs0CGttwO5_ItHwPm3A7n8i0fA-T1W96_XAX43Y9J3uz_HRjw&_nc_ohc=EujeAjC3Z-sQ7kNvwEUYoA1&_nc_oc=AdnSJhcwQKgx4G01gUdYYWua_wWBmyYEGx8y58MT7m_awONrDRdWHn7h3IR4mqsCF9rixh_t9IWGk4qSr0CcysgR&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Bu_BNVquGTz16KqAOJEWQQ&oh=00_AfVLDqeNCZevXH_S9zJpoEYjOsJTLbLvJpT5WM56uSD1vQ&oe=68B666F9",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jorge Rivas Figueroa",
@@ -11134,8 +11687,35 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/525566986_1275911180588841_8162290685073672267_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHoB3tqJkBXnsmauJ6hEeLbRjc89-WNOtJGNzz35Y060vy5p0rtkDxyw1VdcgsDZ2A&_nc_ohc=mXwPU5dW_58Q7kNvwFljyML&_nc_oc=AdlYnSgfRTPgQhNIbm6hJJqEF_S_7x2Y9Ypwrp4l9miEjMD--W34UEvY2Qab7GBvXI9WuOU3EB39I0P1LbhtI7b3&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=vdl8-twaehydeijmTKG80Q&oh=00_AfXukYgpKchv8mjrwtQEK9KLLcRizZAa_4ZBKYM2n5hkdA&oe=68B674BD",
+    "delitos": [
+      {
+        "titulo": "Contravenir gravemente las normas sobre probidad administrativa e incurrir en notable abandono de deberes",
+        "fuente": "https://www.diarioconstitucional.cl/2023/05/10/tribunal-electoral-regional-del-biobio-acoge-a-tramite-solicitud-de-remocion-contra-alcalde-de-la-comuna-de-mulchen/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Juan Godoy Rivera",
@@ -11143,7 +11723,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/185811692_4603866062964006_6542739783996245827_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF_gUveV6ZTEpX98EqVewYk8v_Wv3WNAoPy_9a_dY0Cg_JR3_7DKRJfq8kuuyYRFAo&_nc_ohc=zuXgQjVXUQwQ7kNvwFRlHya&_nc_oc=AdnztaIQ7pHFtdqxhRHjdI4jZZDiakYfmQPsdKP9_48ZViNXVFzjDUKFBOnXkebMs_rBkkhdUvBjwECb8tLLgFtD&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=yFxQgms7BNNuu4yJFJ8UYA&oh=00_AfUGOb-6e725KcKcLaydKJqcynhKmQ1X79zFa4ZGbov3Zw&oe=68D82362",
     "delitos": []
   },
   {
@@ -11218,17 +11798,59 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "http://www.intendencialaaraucania.gov.cl/media/2019/12/IMG_5235-1.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jorge Saffirio Espinoza",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
+    "reeleccion": true,
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/5/5e/Jorge_Saffirio_Espinoza.jpg",
+    "delitos": [
+      {
+        "titulo": "Acusado por los delitos de acoso sexual y laboral",
+        "fuente": "https://infogate.cl/2017/07/la-red-de-proteccion-del-cuestionado-jorge-saffirio-director-del-serviu-araucania/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Andrea Parra Sauterel",
@@ -11282,8 +11904,18 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/272886269_344208547710843_3738286026923072598_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGOccCU49GQhznmUA_c4dH2oP5IWQ_Rhqug_khZD9GGq_666IL7peBn3sp_cdPEMiI&_nc_ohc=8_CAlbuA1t0Q7kNvwEJoFdu&_nc_oc=AdmVVO0LjPzLnXrVlRqvhtVTP2UULIxQztZlYlfLXFl3sLdo1jq1FoYmOiyRgBXoN0FXroaTlTV9lQ7M94PWaGqM&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=QdJsSuTYNYl8wxf_ld4pBg&oh=00_AfXJB-u6abffSYNKJuIfyuUkubE3dnvW3EWMT51RjKkJ3A&oe=68B65557",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Lautaro Guanca Vallejos",
@@ -11291,8 +11923,26 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/535103561_10238510088229261_5306280262873207001_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFtUc6eCVJtcNT_T4Z3kOK1qINi50FfVZKog2LnQV9Vks2hsEgISw8QO7XzcZWnJQo&_nc_ohc=hzs9IrTWDs8Q7kNvwE1usc0&_nc_oc=AdmQ7NLLG2nBeFM7HI4CkqY0YRgWT1zUE3K98G4HaLUuKKJvmYXxX0irnaIX47vZ0HytAVj3huGynBNleD0-JqwT&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=AwC2sALR7K9-cShbbWHimQ&oh=00_AfVSFmvPZB6ot8DQlB21wtORBEfEzMKIcKG9M-jv3UHS5A&oe=68B64BB8",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Juan Pablo Jaramillo González",
@@ -11300,8 +11950,18 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.prensaciudadana.cl/wp-content/uploads/2022/03/core-juan-pablo-jaramillo-orgulloso-de-haber-formado-parte-de-la-historia-de-la-region-abogado-jaramillo-678x381.jpg.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Andrés Alfonso Jouannet Valderrama",
@@ -11444,8 +12104,18 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/0/0d/Pablo_Andr%C3%A9s_Kast_Sommerhoff.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Claudia Salas Melinao",
@@ -11453,7 +12123,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/535396237_10237628358546636_8534606583465504714_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHqiMKF60IUt0qUINJZk8mBcpdPICbj5FZyl08gJuPkVio40xDek0CFYcXyfq-zVSI&_nc_ohc=6gUJFH8vQRkQ7kNvwE6eAQu&_nc_oc=Adn2d9WYipO2TAe6RncBD-yHy4uDERfM5ua5UNTQUZnV4R82hTE3s5LfwpKnW2HRaTtyxYdIk_CrQb0eeXVXGXih&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=VFgXHGa5l7TS2ZartbYDMg&oh=00_AfWkeCpPbmwiWbnBBFaTi97N-kDZTsUaSI0PPCnS-GK3kg&oe=68B63411",
     "delitos": []
   },
   {
@@ -11462,8 +12132,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/b402d5571ed4dba73b303622cce7e32e/46280/1Yec7Ob6YgPDvDLT2e8hYcLSyaYBqO6ju.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Axel González Manquein",
@@ -11471,8 +12147,18 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/137019480_101182005288219_2572095602377863146_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGwfbeN1aiIK_16GQE8m5yN1QBU3xcD7iDVAFTfFwPuILYuRe8sTahwKdu4pKookkA&_nc_ohc=xf1GPmBi1xIQ7kNvwEqpTQU&_nc_oc=AdmoJON3wrD9GgO9QLmXH7PszC4Rb9WljY2-fScSC0LBV7bixGZ8wk-01LKeEheWD934uFNk6sIG2j80OyNF5ljP&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=6bZS33o9VXub5RBu7REqXg&oh=00_AfWSCJzzQEuB5zZZY6C1uI-QejR-oEZALQD-D-g09sJMDg&oe=68D7C3D3",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Genoveva Sepúlveda Venegas",
@@ -11582,8 +12268,27 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/83887628_10156968848313193_6696913724629843968_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeElXTZvmlSdKFKzWiiRLEqi0nwtoOE3ktjSfC2g4TeS2CM0SY4wG0rMNQVue_SfN28&_nc_ohc=7l7VU0ZNzqQQ7kNvwFSgwEd&_nc_oc=Adk3RuLiAUor9M2V0In5yQy8rKCUhYcIcWL1lgnqeMPrT241H_nxDQBUpt5fUSUzEc-a3uR9jUTVEIVHDD9zJf6z&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=-FpyKqM_fwV437F3PZnvHg&oh=00_AfUDPYJjV78QltYAlNTnUF2Qc1RaOKHktS21DR9kPKnVAg&oe=68D80089",
+    "delitos": [
+      {
+        "titulo": "conduciendo su vehículo pese a prohibición por manejar ebrio",
+        "fuente": "https://www.biobiochile.cl/noticias/2014/07/01/sorprenden-a-core-de-la-araucania-conduciendo-su-vehiculo-pese-a-prohibicion-por-manejar-ebrio.shtml"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Marcelo Carrasco Carrasco",
@@ -11591,8 +12296,27 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://araucaniadiario.cl/download/multimedia.normal.8d7dec7e70f9413c.436f6e73656a65726f4d617263656c6f436172726173636f5f6e6f726d616c2e6a706567.jpeg",
+    "delitos": [
+      {
+        "titulo": "fraude al Fisco, malversación de caudales públicos, tráfico de influencias y negociación incompatible (Caso convenios)",
+        "fuente": "https://araucanianoticias.cl/2025/consejeros-regionales-de-la-araucana-dan-el-salto-al-congreso-con-la-sombra-del-caso-convenios/0821287997"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Pamela Ñancupil Martin",
@@ -11600,7 +12324,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/494699615_10236269479495191_8510553523518336137_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFUdj1AE72FJhFRZh7gCDHV-T47P2xEhy35Pjs_bESHLbl008iMTgFSsXWnfkEgyCI&_nc_ohc=i-gpb-odayMQ7kNvwFd0Qhq&_nc_oc=AdlOsxLYJXHNQMT1LCnKeJUKolu55KfLqZaT3ZgxX9NimvDV9tL-srbubnmq6runZairqIB7oHHX3sE-e3j0_jVH&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=aaKV5hB_himPRp3Rig2bTg&oh=00_AfWvQIpbxYNUCisQQq8ESWAe1btZZ-GaXBECLKBSAlLcVA&oe=68B66768",
     "delitos": []
   },
   {
@@ -11608,8 +12332,14 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/451271762_1510540246207088_8227457421772753621_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFAvKHuhxhPGrAOBGqt-do8UH5EQNhu7YlQfkRA2G7tib7LpUakU8adxMmNYBtADjI&_nc_ohc=yPQBC_WDIcMQ7kNvwGcMRTa&_nc_oc=AdneiXZFnga40gUQyhAIGa0R_8kLNHUT_GH2rhKZTXO0Q_Mjj-b-ZeQjr4ypMfBolUQhsuHRYmNZ5z6eTbPQSM5e&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=hQp8CNO9Rt2iMSt1wrDbMw&oh=00_AfXrVvGwlR5MgMY3VOgbywKj4pn2CSeeBO12x7aqPLuCBA&oe=68B6763E",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Oscar Albornoz Torres",
@@ -11617,8 +12347,22 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "http://img.soy-chile.cl/Fotos/2020/10/20/file_20201020102629.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Héctor Cumilaf Huentemil",
@@ -11626,8 +12370,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/3ebde9d93cdb831e2c408061c3261879/46280/1sPkxT0TWyyWdn02ZQJDsGYOsa0yet-Ip.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Patricia Escobar Apablaza",
@@ -11635,8 +12385,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/538981338_1438312567408111_3495668104899426918_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGpp-cvvRoYkwetux9xeAmMrIg9-kShUXisiD36RKFReOWHSFWQ8lSDJsEZ6ZtAEMo&_nc_ohc=v9ACeJNqDZkQ7kNvwHETFbJ&_nc_oc=Adny-XcxbQiQD0mp7KXJHLf2bYiNx5Z3nuVMBpeloEZqhsO1_2S5iI0gt87mnxX39_MpnZ7uSFoDV3O741TWTrLv&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=-qNwTfz97fbrfRF1p1eexg&oh=00_AfU9Uc4DQd3PVW6J3nWp8v7onHc3GWVGaN7_-CRZgHcY9w&oe=68B6720F",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Gastón von Muhlenbrock Zamora",
@@ -11781,15 +12537,31 @@
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Mario Montecinos Aros",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/456780145_10161705158931952_7352931249267622783_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEnFpKuGZN73w0jVCnWJC4nzDNlzSsN-7DMM2XNKw37sFH6rmHw1bSSZIy_RRDDWDs&_nc_ohc=WgGWgyg1K8QQ7kNvwFiNQ-_&_nc_oc=AdkBZPnrEJ6Hx2av_PauXPnrKKvL1Q6k9PiumilE8f_4uWtjcO1Ixox3CFHXe6MEfJairs3sM65LPxfb1_Lwddu1&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=qss-_NjbEVYATmUj0HGuOw&oh=00_AfUt5jSSV06gWRrmPPrKYWHGYHLdZIbPYyrupCMeIbX4Ug&oe=68B67D3A",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jova Oporto Valenzuela",
@@ -11797,7 +12569,13 @@
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Yessica Gavilán Robles",
@@ -11806,7 +12584,13 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Juan Carlos Araya Mardones",
@@ -11814,8 +12598,22 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/273299363_308318488008543_2113102543136820944_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGqIOSWzI09MVAGcI1eB9lRMXcACFIcemcxdwAIUhx6Z6SP7TZN-OeoEdOQSIWGzyk&_nc_ohc=fNaz7qcp17UQ7kNvwHoQmU3&_nc_oc=Adm2Gp7Iq7jzC3k2qKu4WdGj9kWgGvQYX75SfA4g2pCmborAAws1cjXrQxMZFIB9xFGl8JtZfEBh_dPv6aox98ON&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=PqSj9WeJ-MSJk9FQnRS1oQ&oh=00_AfVAp1vF2ndlnfVwiXThb3Fe5xNqOy-FYgpaLY_Kzh8MAw&oe=68B66C94",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Pedro Jaque Cavada",
@@ -11823,8 +12621,19 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/536269751_10238417618324532_2407444470496513155_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFw0yXqVMHaneMBdv1niJRS1QVjetNsFLDVBWN602wUsHaIY6IbyjXOVdX6KTv_0cQ&_nc_ohc=o82tFNFZXkgQ7kNvwG4vAvj&_nc_oc=AdlH9FjQIYnFQui9CnKFbnRNEqP_h7Q1uzdJi312EQVmz7Oqa4Xet_4CmW7E9Px6sOI6ccDcbkpiCPZ5y-Cv9HHp&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=XrCSy73igmLtWo32pnhpgQ&oh=00_AfW4fk2FipjI3jhvwpEOrvAtsFh-qB7zcy69GGowAJZ5gA&oe=68B67FB8",
+    "delitos": [
+      {
+        "titulo": "Enriquecimiento ilícito, cohecho y soborno",
+        "fuente": "https://www.ciperchile.cl/2017/11/04/la-historia-del-alcalde-de-san-ramon-con-el-narco-que-hundio-su-carrera-politica/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Daniel Lilayú Vivanco",
@@ -11865,7 +12674,7 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 25",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/538926370_23981567828210185_7540769187986728134_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHUsS8gEekHHb8T7StSnQ3cMHlYExytsO4weVgTHK2w7pr9CE5H3dScUp1RhLm_ydI&_nc_ohc=q2XzUv1vS8YQ7kNvwFD1U6X&_nc_oc=Adm9Nb8nsURah5REkf_BWX_NGx4hYlOMVrnpDa5YKSURzoy2n-ASS-nxAQ4i2c86Z92GwrIHVKIsd_t4Rmg_RDVz&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=AGbXwN2d3rmsmTLdcFfZCQ&oh=00_AfVOmTXBwVuds8X8LqV1aOrW1l9speiZ-PVJw1aSNXGCjQ&oe=68B658DA",
     "delitos": []
   },
   {
@@ -11944,16 +12753,52 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 25",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.elcalbucano.cl/wp-content/uploads/2023/06/FOTO-CORE-RIVERA.jpeg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Flora Colipai Pafian",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 25",
-    "foto": null,
-    "delitos": []
+    "foto": "https://blogger.googleusercontent.com/img/a/AVvXsEh5tCCKBUXbEzRUSf8aTo70B981nW9VlIOmt9OSB5RFUkFGHhOBtLS3i_DiStOwBsnqIEkLoGLTTI69EiZGDeniv1oVL8PI7CJGEsdA-afxUusL-kalfl62uy42VZWFZz7YXMNlWgdVE2rDpk3GpTE0yzO4x-CZl4nvwnamlanKEJcee-7m5NSB96Ls=rw",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Carlos Lizana Mardones",
@@ -11994,8 +12839,14 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 26",
-    "foto": null,
-    "delitos": []
+    "foto": "https://evopoli.cl/assets/uploads/2020/12/web_1-1-953x566-c-default.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Alejandro Caroca Marazzi",
@@ -12003,7 +12854,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 26",
-    "foto": null,
+    "foto": "https://www.elcalbucano.cl/wp-content/uploads/Dr.-Caroca.jpg",
     "delitos": []
   },
   {
@@ -12077,8 +12928,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 26",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/3/36/Adriana_Ampuero_Barrientos.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Marisol Rosas Alvarado",
@@ -12102,7 +12959,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 26",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/495006000_1858648984676898_8720375309577860816_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFqZOgYwAjl3Ijdcra1pphXqdydenfc_2Op3J16d9z_Y5SfCP81LBZpuT8ZZuPdwb0&_nc_ohc=PtjS0wV0teIQ7kNvwHmwf64&_nc_oc=AdnQzCA7vKBMePEUrVgpedAa0yi3pEPfH_vZJDSoH-vavoacy8DUAPA_S-26oWrpb63l4DGulELDBOukoJD3dNWs&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=Sw6HxvKqOPglZK5kmoAD5A&oh=00_AfU4yhtDcCONXHtpgxPwig1c5s3i-Agd-zGYnEN9q7F2cg&oe=68B669C7",
     "delitos": []
   },
   {
@@ -12110,8 +12967,13 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 26",
-    "foto": null,
-    "delitos": []
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ],
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQG_aCoTa25SzA/profile-displayphoto-shrink_200_200/B4EZXOyH2dH0AY-/0/1742931001267?e=2147483647&v=beta&t=ljbXYTntASTmHA1JyLblkuATEdsxL3S6L2_0RsIpl2E"
   },
   {
     "nombre": "Juan Cárcamo Cárcamo",
@@ -12119,8 +12981,43 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 26",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.elcalbucano.cl/wp-content/uploads/Foto-Juan-Ca%CC%81rcamo-pres.jpg",
+    "delitos": [
+      {
+        "titulo": "Manejo en estado de ebriedad",
+        "fuente": "https://www.soychile.cl/puerto-montt/policial/2024/11/16/884541/exalcalde-excore-choco-poste-maullin.html"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Marcia Raphael Mora",
@@ -12157,8 +13054,22 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 27",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/5/5e/Geoconda_Navarrete_Arratia.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Andrea Jacqueline Macías Palma",
@@ -12207,9 +13118,57 @@
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
+    "reeleccion": true,
     "distrito": "Distrito 27",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/65/Ren%C3%A9_Alinco_Bustos.jpg",
+    "delitos": [
+      {
+        "titulo": "Manejo en estado de ebriedad",
+        "fuente": "https://www.biobiochile.cl/noticias/2011/08/17/diputado-rene-alinco-condenado-a-41-dias-de-carcel-por-conduccion-en-estado-de-ebriedad.shtml"
+      },
+       {
+        "titulo": "Fraude al fisco",
+        "fuente": "https://www.ciperchile.cl/2025/04/17/con-fondos-publicos-diputado-alinco-finiquito-a-asesor-con-117-millones-a-los-cuatro-meses-lo-recontrato-y-aumento-su-sueldo/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Sergio González Bórquez",
@@ -12217,8 +13176,34 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 27",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/470088354_883217100634316_4665952997544617344_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeECfUsLGym_siSaJ1FoSN00seUYce84S4ux5Rhx7zhLi5aBqiKQZ9rGwEwEN_pctio&_nc_ohc=uz5JfHK0pW0Q7kNvwGbFkOT&_nc_oc=AdlzL1LSJGJ-pI4ogmhLyK0VA0ZwskzgY2Z7HTnmJgsREcRSgyrnXJqukWfuslu4K_Z6BnJ8wJHWsLSIkk6q5g5y&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=EV2nKXD4rmZxHh8yCRTcXw&oh=00_AfU3fTF6EcUnXDaxIOnzxK-usPKpv6Mi87xCNQyBAf4aQw&oe=68B678FA",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+      ]
   },
   {
     "nombre": "Daniela Olavarría Moreira",
@@ -12243,7 +13228,17 @@
     "cargo": "Diputado",
     "partido": "PARTIDO SOCIAL CRISTIANO",
     "distrito": "Distrito 28",
-    "foto": null,
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ],
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/523116564_763919582679845_1087165157593967414_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE3KJGViKmct-CpKoyhJCt_e388ZsLX3Rl7fzxmwtfdGfWgNnWnMccpR7cB49QJSWs&_nc_ohc=1khANdV1xVUQ7kNvwFYzfgp&_nc_oc=AdlDTKYlAbrDJy5J3m5qnsFk6yBkEBfjEowi4ixyyqhXJ4OVbf6-ug-FQ7BNuIXpIXwwhLmQTD0GM1xouTmv1JxQ&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eefM5laUXMADuxxlno3Jpg&oh=00_AfVyuEzwJfIvc5sZWtAlgEqZtFrBbg4bf5fRUdzvoj83hg&oe=68B67E92",
     "delitos": []
   },
   {
@@ -12251,8 +13246,14 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 28",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/D4D03AQE4BqjEbUi0qQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729629014314?e=2147483647&v=beta&t=qXVUvn2DEaqVvRCbH6vxTj2YlFDSnwLSOLd57gWWNPI",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jenniffer Rojas Garcia",

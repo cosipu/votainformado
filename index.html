@@ -2,126 +2,140 @@
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decide Informado</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Decide Informado</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* ===== Ajustes para que los gráficos no se mezclen con texto en móviles ===== */
+    .chart-flex {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 30px;
+      background: rgba(30,41,59,0.9);
+      padding: 20px;
+      border-radius: 10px;
+      color: white;
+    }
+
+    .chart-flex > div {
+      flex: 1;
+      min-width: 280px;
+    }
+
+    .chart-flex canvas {
+      width: 100% !important;
+      height: 300px; /* altura base escritorio */
+    }
+
+    .chart-flex .text {
+      flex: 2;
+      min-width: 280px;
+      max-width: 600px;
+      text-align: justify;
+      line-height: 1.6;
+    }
+
+    /* Ajustes para móvil */
+    @media (max-width: 700px) {
+      .chart-flex {
+        flex-direction: column;
+      }
+
+      .chart-flex canvas {
+        height: 250px; /* altura más pequeña en móvil */
+        margin-bottom: 20px; /* separa del texto */
+      }
+    }
+
+    /* Gráfico de delitos */
+    .chart-container {
+      width: 100%;
+      height: 300px; /* altura base escritorio */
+    }
+
+    @media (max-width: 700px) {
+      .chart-container {
+        height: 250px; /* altura móvil */
+      }
+    }
+  </style>
 </head>
+
 <body>
-    <header>
-        <h1>🗳️ Decide Informado</h1>
-        <p>Conoce a los candidatos, sus partidos y sus antecedentes.</p>
-    </header>
-    <div id="comuna-selector">
-        <label for="comunas">Quiero conocer mi distrito </label>
-        <label for="comunas">Elige tu comuna: </label>
-        <select id="comunas">
-            <option value="">-- Selecciona una comuna --</option>
-        </select>
-        <p id="resultado-distrito"></p>
+  <header>
+    <h1>🗳️ Decide Informado</h1>
+    <p>Conoce a los candidatos, sus partidos y sus antecedentes.</p>
+  </header>
+
+  <div id="comuna-selector">
+    <label for="comunas">Quiero conocer mi distrito </label>
+    <label for="comunas">Elige tu comuna: </label>
+    <select id="comunas">
+      <option value="">-- Selecciona una comuna --</option>
+    </select>
+    <p id="resultado-distrito"></p>
+  </div>
+
+  <section id="filters">
+    <select id="filter-office">
+      <option value="">Todos los cargos</option>
+      <option value="Presidente">Presidente</option>
+      <option value="Senador">Senador</option>
+      <option value="Diputado">Diputado</option>
+    </select>
+    <select id="filter-party">
+      <option value="">Todos los partidos</option>
+    </select>
+    <select id="filter-district">
+      <option value="">Todos los distritos</option>
+      <!-- tus opciones de distritos -->
+    </select>
+  </section>
+
+  <main id="candidates"></main>
+
+  <!-- GRÁFICO + TEXTO -->
+  <section class="chart-flex">
+    <div>
+      <h3 style="margin-bottom:10px;">Resumen nacional de candidatos</h3>
+      <canvas id="eleccionesChart"></canvas>
     </div>
+    <div class="text">
+      <h4 style="margin-bottom:5px; color:#facc15;">Candidatos y reelección</h4>
+      <p>
+        Conocer cuántas veces un candidato se ha presentado a elecciones populares es clave para entender su rol en la
+        política. Muchos postulan reiteradamente sin ser electos, pero reciben financiamiento público en cada campaña,
+        lo que transforma la política en una “pyme” más que en un servicio a la ciudadanía.
+      </p>
+      <h4 style="margin-bottom:5px; color:#facc15;">Delitos y transparencia</h4>
+      <p>
+        Estos datos otorgan a los votantes herramientas para evitar que la política se convierta en un refugio de
+        intereses personales y asegurar que quienes resulten electos representen de forma íntegra a la ciudadanía.
+      </p>
+      <h4 style="margin-bottom:5px; color:#facc15;">En resumen</h4>
+      <p>
+        Estos datos otorgan a los votantes herramientas para evitar que la política se convierta en un refugio de
+        intereses personales...
+      </p>
+    </div>
+  </section>
 
+  <!-- GRÁFICO DELITOS -->
+  <section style="margin: 20px 0; padding: 20px; background: rgba(30,41,59,0.9); border-radius:10px; color:white;">
+    <h3 style="margin-bottom:12px; text-align:center;">Candidatos con delitos por partido</h3>
+    <div class="chart-container">
+      <canvas id="delitosChart"></canvas>
+    </div>
+  </section>
 
-    <section id="filters">
-        <select id="filter-office">
-            <option value="">Todos los cargos</option>
-            <option value="Presidente">Presidente</option>
-            <option value="Senador">Senador</option>
-            <option value="Diputado">Diputado</option>
-        </select>
-        <select id="filter-party">
-            <option value="">Todos los partidos</option>
-        </select>
-        <select id="filter-district">
-            <option value="">Todos los distritos</option>
-            <option value="Distrito 1">Distrito 1</option>
-            <option value="Distrito 2">Distrito 2</option>
-            <option value="Distrito 3">Distrito 3</option>
-            <option value="Distrito 4">Distrito 4</option>
-            <option value="Distrito 5">Distrito 5</option>
-            <option value="Distrito 6">Distrito 6</option>
-            <option value="Distrito 7">Distrito 7</option>
-            <option value="Distrito 8">Distrito 8</option>
-            <option value="Distrito 9">Distrito 9</option>
-            <option value="Distrito 10">Distrito 10</option>
-            <option value="Distrito 11">Distrito 11</option>
-            <option value="Distrito 12">Distrito 12</option>
-            <option value="Distrito 13">Distrito 13</option>
-            <option value="Distrito 14">Distrito 14</option>
-            <option value="Distrito 15">Distrito 15</option>
-            <option value="Distrito 16">Distrito 16</option>
-            <option value="Distrito 17">Distrito 17</option>
-            <option value="Distrito 18">Distrito 18</option>
-            <option value="Distrito 19">Distrito 19</option>
-            <option value="Distrito 20">Distrito 20</option>
-            <option value="Distrito 21">Distrito 21</option>
-            <option value="Distrito 22">Distrito 22</option>
-            <option value="Distrito 23">Distrito 23</option>
-            <option value="Distrito 24">Distrito 24</option>
-            <option value="Distrito 25">Distrito 25</option>
-            <option value="Distrito 26">Distrito 26</option>
-            <option value="Distrito 27">Distrito 27</option>
-            <option value="Distrito 28">Distrito 28</option>
-            <option value="Circunscripción Senatorial 1">Circunscripción Senatorial 1</option>
-            <option value="Circunscripción Senatorial 2">Circunscripción Senatorial 2</option>
-            <option value="Circunscripción Senatorial 4">Circunscripción Senatorial 4</option>
-            <option value="Circunscripción Senatorial 6">Circunscripción Senatorial 6</option>
-            <option value="Circunscripción Senatorial 9">Circunscripción Senatorial 9</option>
-            <option value="Circunscripción Senatorial 11">Circunscripción Senatorial 11</option>
-            <option value="Circunscripción Senatorial 14">Circunscripción Senatorial 14</option>
-        </select>
-    </section>
+  <!-- FOOTER -->
+  <footer style="text-align:center; margin:20px;">
+    <p>Datos obtenidos de fuentes públicas como Servel y medios oficiales.</p>
+  </footer>
 
-    <main id="candidates"></main>
-
-</footer>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<footer style="margin: 20px; padding: 20px; background: rgba(30, 41, 59, 0.9); display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 30px; color: white; border-radius: 10px;">
-
-  <!-- Gráfico -->
-  <div style="text-align:center; flex: 1; min-width: 280px;">
-    <h3 style="margin-bottom:10px;">Resumen nacional de candidatos</h3>
-    <canvas id="eleccionesChart" width="250" height="250"></canvas>
-  </div>
-
-  <!-- Texto al lado -->
-  <div style="flex: 2; min-width: 280px; max-width: 600px; text-align: justify; line-height: 1.6;">
-    <h4 style="margin-bottom:5px; color:#facc15;">Candidatos y reelección</h4>
-    <p>
-      Conocer cuántas veces un candidato se ha presentado a elecciones populares es clave 
-      para entender su rol en la política. Muchos postulan reiteradamente sin ser electos, 
-      pero reciben financiamiento público en cada campaña, lo que transforma la política en 
-      una “pyme” más que en un servicio a la ciudadanía.
-    </p>
-
-    <h4 style="margin-bottom:5px; color:#facc15;">Delitos y transparencia</h4>
-    <p>
-      También es fundamental saber si los candidatos enfrentan investigaciones o tienen 
-      antecedentes delictuales. Esto permite evaluar si cumplen con los estándares éticos 
-      que exige el servicio público y ayuda a tomar decisiones de voto responsables.
-    </p>
-
-    <h4 style="margin-bottom:5px; color:#facc15;">En resumen</h4>
-    <p>
-      Estos datos otorgan a los votantes herramientas para evitar que la política se 
-      convierta en un refugio de intereses personales y asegurar que quienes resulten electos 
-      representen de forma íntegra a la ciudadanía.
-    </p>
-  </div>
-
-</footer>
-
-<footer>
-        <center>
-            <p>Datos obtenidos de fuentes públicas como Servel y medios oficiales.</p>
-        </center>
-    </footer>
-
-
-   
-    <script src="script.js"></script>
-
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
 </body>
 
 </html>

@@ -402,7 +402,7 @@
                 const pCargo = document.createElement("p");
                 pCargo.innerHTML = `<b>Cargo:</b> ${c.cargo || "—"}`;
 
-                
+
 
                 // --- AQUÍ VIENE LA LÓGICA DE PARTIDO ---
                 const pPartido = document.createElement("p");
@@ -521,7 +521,7 @@
                 $candidates.appendChild(card);
             });
 
-            
+
 
 
         } else {
@@ -564,7 +564,7 @@
 
             return norm(a.nombre).localeCompare(norm(b.nombre));
         });
-        
+
 
         render(filtered);
     }
@@ -615,73 +615,158 @@
       `;
         }
     }
-     //Grafico de pizza 
-     
+    //Grafico de pizza 
+
     function drawResumen(data) {
-    const totalCandidatos = data.length;
+        const totalCandidatos = data.length;
 
-    // Candidatos con más de 2 elecciones populares
-    const masDeDos = data.filter(c => {
-        if (!Array.isArray(c.elecciones)) return false;
-        const populares = c.elecciones.filter(e => e.tipo && e.tipo.toLowerCase() === "popular");
-        return populares.length > 2;
-    }).length;
+        // Candidatos con más de 2 elecciones populares
+        const masDeDos = data.filter(c => {
+            if (!Array.isArray(c.elecciones)) return false;
+            const populares = c.elecciones.filter(e => e.tipo && e.tipo.toLowerCase() === "popular");
+            return populares.length > 2;
+        }).length;
 
-    // Candidatos en reelección (diputados o senadores)
-    const reeleccion = data.filter(c => {
-        if (!c.reeleccion || !c.cargo) return false;
-        const cargoLower = c.cargo.toLowerCase();
-        return cargoLower.includes("diputado") || cargoLower.includes("senador");
-    }).length;
+        // Candidatos en reelección (diputados o senadores)
+        const reeleccion = data.filter(c => {
+            if (!c.reeleccion || !c.cargo) return false;
+            const cargoLower = c.cargo.toLowerCase();
+            return cargoLower.includes("diputado") || cargoLower.includes("senador");
+        }).length;
 
-    // Candidatos con delitos asociados
-    const conDelitos = data.filter(c => Array.isArray(c.delitos) && c.delitos.length > 0).length;
+        // Candidatos con delitos asociados
+        const conDelitos = data.filter(c => Array.isArray(c.delitos) && c.delitos.length > 0).length;
 
-    const ctx = document.getElementById('eleccionesChart');
-    if (ctx) {
-        // Destruir gráfico previo si existe
-        if (window.myChart) {
-            window.myChart.destroy();
+        const ctx = document.getElementById('eleccionesChart');
+        if (ctx) {
+            // Destruir gráfico previo si existe
+            if (window.myChart) {
+                window.myChart.destroy();
+            }
+
+            window.myChart = new Chart(ctx, {
+                type: 'doughnut', // gráfico circular
+                data: {
+                    labels: [
+                        'Total candidatos',
+                        'Más de 2 elecciones',
+                        'En reelección',
+                        'Con delitos'
+                    ],
+                    datasets: [{
+                        data: [totalCandidatos, masDeDos, reeleccion, conDelitos],
+                        backgroundColor: ['#007BFF', '#28A745', '#FFC107', '#DC3545'],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    }
+                }
+            });
         }
+    }
 
-        window.myChart = new Chart(ctx, {
-            type: 'doughnut', // gráfico circular
-            data: {
-                labels: [
-                    'Total candidatos',
-                    'Más de 2 elecciones',
-                    'En reelección',
-                    'Con delitos'
-                ],
-                datasets: [{
-                    data: [totalCandidatos, masDeDos, reeleccion, conDelitos],
-                    backgroundColor: ['#007BFF', '#28A745', '#FFC107', '#DC3545'],
-                    borderWidth: 1
-                }]
+
+    // ------------------ Función para gráfico de delitos por partido (robusta) ------------------
+    function drawDelitosPorPartido(data) {
+    const conteoPorPartido = {};
+
+    // Contamos solo candidatos con delitos
+    for (const c of data) {
+        const delitos = Array.isArray(c.delitos) ? c.delitos : [];
+        if (delitos.length === 0) continue;
+
+        let partidoReal = (c.partido || "").trim();
+        const independientePor = (c.independientePor || "").trim();
+        if (partidoReal.toUpperCase() === "INDEPENDIENTE" && independientePor) {
+            partidoReal = independientePor;
+        }
+        if (!partidoReal) partidoReal = "SIN PARTIDO";
+
+        conteoPorPartido[partidoReal] = (conteoPorPartido[partidoReal] || 0) + 1;
+    }
+
+    const labels = Object.keys(conteoPorPartido).sort((a, b) => conteoPorPartido[b] - conteoPorPartido[a]);
+    const values = labels.map(l => conteoPorPartido[l]);
+
+    const canvas = document.getElementById('delitosChart');
+    if (!canvas) return;
+
+    if (window.delitosChart && typeof window.delitosChart.destroy === "function") {
+        window.delitosChart.destroy();
+    }
+
+    // Ajuste dinámico de altura según cantidad de barras
+    const alturaPorBarra = 40; // px por barra
+    canvas.parentElement.style.height = `${labels.length * alturaPorBarra + 100}px`;
+
+    window.delitosChart = new Chart(canvas, {
+        type: 'bar',
+        data: {
+            labels,
+            datasets: [{
+                label: 'Candidatos con delitos',
+                data: values,
+                backgroundColor: 'rgba(239, 68, 68, 0.7)',
+                borderColor: 'rgba(239, 68, 68, 1)',
+                borderWidth: 1,
+                borderRadius: 5,
+                maxBarThickness: 40
+            }]
+        },
+        options: {
+            indexAxis: 'y', // barras horizontales
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { labels: { color: '#fff' } },
+                tooltip: {
+                    backgroundColor: 'rgba(30,41,59,0.9)',
+                    titleColor: '#facc15',
+                    bodyColor: '#fff'
+                }
             },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: { position: 'bottom' }
+            scales: {
+                x: { 
+                    beginAtZero: true, 
+                    ticks: { color: '#fff' }, 
+                    grid: { color:'rgba(255,255,255,0.1)' } 
+                },
+                y: { 
+                    ticks: { 
+                        color: '#fff', 
+                        autoSkip: false, 
+                        font: { size: 12 } 
+                    }, 
+                    grid: { color:'rgba(255,255,255,0.1)' },
+                    categoryPercentage: 0.6, // más espacio entre categorías
+                    barPercentage: 0.5       // barras más delgadas
                 }
             }
-        });
+        }
+});
     }
-}
 
 
 
-fetch("data/candidatos.json")
-  .then(res => res.json())
-  .then(data => {
-      window.allCandidates = data; // guardas data global
 
-      drawResumen(data); // 👉 genera el gráfico con TODOS los candidatos
-
-      render([]); // tu render inicial (o con data si quieres mostrar todo)
-  });
+    // ------------------ Fetch principal ------------------
+    fetch("data/candidatos.json")
+        .then(res => res.json())
+        .then(data => {
+            window.allCandidates = data;
+            drawResumen(data);           // gráfico de pizza
+            drawDelitosPorPartido(data); // gráfico de barras
+            console.log("Gráfico de delitos cargado");
+            render([]);
+        })
+        .catch(err => console.error("Error cargando candidatos.json:", err));
 
 
     bindEvents();
     load();
+
 })();
