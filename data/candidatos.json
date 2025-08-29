@@ -512,7 +512,7 @@
     "nombre": "Manuel Millones Chirino",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 6",
     "foto": null,
     "delitos": []
@@ -594,7 +594,7 @@
     "nombre": "Sebastián Zamora Soto",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 7",
     "foto": "https://media.cnnchile.com/sites/2/2024/09/Sebasti%C3%A1n-Zamora-1.jpg",
     "delitos": [
@@ -664,7 +664,7 @@
     "nombre": "Enrique Bassaletti Riess",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 8",
     "foto": "https://lavozdelosquesobran.cl/wp-content/uploads/2020/10/A_UNO_1148816-b6-768x512.jpg.webp",
     "delitos": [
@@ -1003,7 +1003,7 @@
     "nombre": "Abigail Aburto Cárdenas",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 10",
     "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/75429653_1640546079414882_4284520015685746688_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHFLFVXuQqTtOtvbVICPbltu8pB6zevgva7ykHrN6-C9u67jw4EoT-nMxGUsQ7SqzY&_nc_ohc=_ne13NcDVTQQ7kNvwG0733Y&_nc_oc=AdnjrVKbPRXDC5xdwITD1KjQQt1NS1RYm76zZBqMtM7gPCvaoo0iBJqt7Fp_LJAnath_s972P3Bm83GlQR2mlwdc&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=6FVU_Ca8ZCUWt_qxRbks4g&oh=00_AfUEM2asEq46FqYWb01YPdzq_ej7QEYo6Ftk-MmSd4vH3g&oe=68D1BE06",
     "delitos": []
@@ -1509,7 +1509,7 @@
     "nombre": "Bernardo Fontaine Montero",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 17",
     "foto": null,
     "delitos": []
@@ -1582,7 +1582,7 @@
     "nombre": "Cristian Menchaca Pinochet",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 18",
     "foto": null,
     "delitos": []
@@ -1744,7 +1744,7 @@
     "nombre": "Solange Etchepare Lacoste",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 21",
     "foto": null,
     "delitos": []
@@ -1801,7 +1801,7 @@
     "nombre": "Deborah Negrete Plaza",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 22",
     "foto": null,
     "delitos": []
@@ -1955,7 +1955,7 @@
     "nombre": "Andrea Iturriaga Hewstone",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 25",
     "foto": null,
     "delitos": []
@@ -2052,7 +2052,7 @@
     "nombre": "Juan José Srdanovic Arcos",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 28",
     "foto": null,
     "delitos": []
@@ -2126,7 +2126,7 @@
     "nombre": "Alberto Soto Valenzuela",
     "cargo": "Senador",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Circunscripción Senatorial 6",
     "foto": null,
     "delitos": []
@@ -2134,7 +2134,7 @@
   {
     "nombre": "Soledad Loyola Vera",
     "cargo": "Senador",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripción Senatorial 6",
     "foto": null,
     "delitos": []
@@ -2199,7 +2199,7 @@
     "nombre": "Cristian Vial Maceratta",
     "cargo": "Senador",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Circunscripción Senatorial 9",
     "foto": null,
     "delitos": []
@@ -2256,7 +2256,7 @@
     "nombre": "Rodolfo Carter Fernández",
     "cargo": "Senador",
     "partido": "Independiente",
-    "independientePor": "Republicanos",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Circunscripción Senatorial 11",
     "foto": null,
     "delitos": []
@@ -2332,23 +2332,48 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 1",
-    "foto": null,
-    "delitos": []
+    "foto": "https://chiledescentralizado.cl/wp-content/uploads/2016/09/Rodrigo-Cuevas-1024x1022.jpg",
+    "delitos": [
+      {
+        "titulo": "Falsificacion y Hurto",
+        "fuente": "https://www.elmorrocotudo.cl/noticia/sociedad/injusta-realidad-revelan-problemas-judiciales-del-candidato-alcalde-rodrigo-cuevas"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Ernesto Rodrigo Plasencia Rojas",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 1",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQFMS8Xval5eLA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1520424477533?e=2147483647&v=beta&t=0SD7Z3ApqNjsNKQKFZC743dqnqoqWDxpIlbeOmN4gMA",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Raúl Alexander Parada Flores",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/76646876_10218875708620468_4961460887928963072_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFFDN2uCZZMGRPTyj9idVhQptv_vqlLIWWm2_--qUshZR6fZguA6DaQ5qmPgYDFIGw&_nc_ohc=el8nm1UCFP8Q7kNvwHkAY10&_nc_oc=AdlJgB3TIZzFwotBWf4-H4mn3ieVm1cdrbEtqb5lcSrwcK5cFucQBTlesv85cId4ZDbzMVi-jpA3z4xdeZ7t8EO7&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=YRLUlpLsHd5ET4J6n7Bdig&oh=00_AfWBMTJtI83wMJ5LwiZb041dnpM8POmNSUmmz64rRfKeKQ&oe=68D9380E",
     "delitos": []
   },
   {
@@ -2356,31 +2381,49 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 1",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/490015189_10236673642761860_7473662025259883055_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGlQoBqfJ8cLCOnwgUEgBRZYD428cLQiltgPjbxwtCKW539BnuB4ymlTzMHKT0KAhQ&_nc_ohc=oWm5_RXf7dEQ7kNvwGkp23A&_nc_oc=AdkZGfx81vfny2d9f4lZJv-8rLQAwDMkaMmmuyJ3tRo9o4wtvEkfqXoj2pJXakJfyiFMgMTzNe-rfBV7ypQ_aq0t&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=RjaxkiAgUYnZZ4-Nnblt1Q&oh=00_AfV5QOrnicAq6ePzXqTvjnSKwCJciGUqpAPJqHjrg9AU9g&oe=68B79239",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Patricio Andrés Quisbert Lazo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/473425991_482062874925524_4304600228136952725_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGOyii9e1ZRXCnxxax-CMoteZe-DW9dr0J5l74Nb12vQrXvs7v4Zgs4iMhS7W6DwEM&_nc_ohc=N1gY7LH9UCEQ7kNvwE2uMqJ&_nc_oc=Adkm65bmijI9i-4TEIe5ITog0x0OWrIehH8HLJnb7LV2gwwSeG7zBqOHlEtFXKHNPJG-In06zuXfSH0V9_AWGELi&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=_jYwOMHkYEh2G0m6lsNBKg&oh=00_AfXmsSZK5ixnZLQumZRBvQUojQIkyrz4sOJO-GLR0LTcMA&oe=68B786D9",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Ana María Toro Ojane",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/343952407_150832044413335_7404556403304134297_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFNFHLzD6Yw9Y91Fn1kp7o79MVJjGSKOen0xUmMZIo56RY05YdkmTsjrnfKVLMRe00&_nc_ohc=3j2XKdlkQTUQ7kNvwGQYsNc&_nc_oc=AdnAGIP0ub8zuQHCPDdPej9fl1pjCiRL7i3w-CYMbYRG5v2hGGkqaV8uGaJgmKW2YFXuxqlG5PcLRU5QV_VcOyew&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=HYedPgKfWOnQGy1n1yvlQQ&oh=00_AfWJ1eLgDbsJiw83iMouNY2foPWl1vgStp2ViROuRv4UlA&oe=68B7735A",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Claudio Saéz Muñoz",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486463554_2488650751511708_401268762348584742_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHnJYqPpcNbXFnTKGlRdsZWVqSvbJOFLy9WpK9sk4UvLztLSdbHPVPJsDerf9ZkrHY&_nc_ohc=C6RD-A11dEMQ7kNvwGi8ddx&_nc_oc=AdlCJwGDVMPTCx9pAz3tQaddFRFHd7dxiFATBHOIsQWKzX3wsQDje5NGFJ_8UB49fCHajTvP3XUyv_fzeUr4bomW&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Xf8FbNcwF96zwdToafflvg&oh=00_AfXLxXuJryWZ_OBrpsRQP5l8SLw4wUeEQGGA09K3BB_mcg&oe=68B78776",
     "delitos": []
   },
   {
@@ -2388,56 +2431,126 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/490348281_10237290660986700_7664640822316984816_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH866KefkzzP9hdGx3cP2XdmHIehtt6CnSYch6G23oKdMqEDoZ1E6Sxpxg1N9TPcPU&_nc_ohc=SxojGqUwAXQQ7kNvwGJ2heG&_nc_oc=Adl7RaW6a46y_4k7Z2RlKAhfkrZVyX6GDbvIr1M-9AAsPB62qVJKOAoO8VHEoK0KZ9dsoeJDtyLjd3aUQCk5EvFu&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=ifGonGHHiiJwnSbFKQupQA&oh=00_AfUXJW-4HVfLUKI5uBc05MGpInu4SReaeb53YfpT4bzqwQ&oe=68B79CC8",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Fabian Mauricio Ossandón Briceño",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/490346413_1332852768347295_3280099759686589729_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGWOn99OuQXTiB_gQSzVX4RGr3fXP2xyrIavd9c_bHKsvkBCB-FaElR9xot5GpSecw&_nc_ohc=D_9X34zgP34Q7kNvwG_hZnl&_nc_oc=AdmChtQ9khy9ZthjmIk8Lly0zLwS2e4JRVDxcOCsZjL6n4FRP7tOLhp8CmtgGTp_1zxCFwW2PMIfSHkOBNTZLfkf&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=e9RwbpJkUibttE_gJGviDg&oh=00_AfWPx5s3cRFDUOlPh_8YNqyITTgQntn9RDrI5js25icQLQ&oe=68B77087",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Paola Amanda Debía González",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/538964100_2014033835669348_6102110575412922567_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF1tBPG5v_-8j2sU7ugocGLmmMrEhujBFSaYysSG6MEVBSpVtv4F9r_xUXQambcABo&_nc_ohc=hNzPL7D9OeMQ7kNvwGmY7nc&_nc_oc=AdmonxD0EP-BCB2d1ejmnmcKlmwqV7PEJ0WKWcyJ6muLP_K13MSmKlcE5TKuSTOEBGahZSND1Egd-T3x9eyjxiey&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=fMVZbH_pSqyehXasexGchQ&oh=00_AfVSFWpAp-qa9ixbePX2V6uZ12xOuOvkQAYLJCP60UO7Zg&oe=68B76D77",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Sergio Jorge Mermie Ibarrondo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/538112035_10167781198819988_7431775872220836862_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGdX_fZT1Y1TI_cizxQZhMGd4aeyh7Blk13hp7KHsGWTfmMjwfYCjpUn3UapAh0ygs&_nc_ohc=lrBOEHvb--cQ7kNvwEduXKq&_nc_oc=AdlEgZPMcRQ5J_vfjYJoYvmcY560-M5XKpNk78GV44q6j15Z6JX91dMWn_RcClg-fO0g06Il0-fWjlESdBKFmNU2&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=WA-04A0wulpTv1HGx95K0g&oh=00_AfWEiittImwGmcBCP72ont3yuQQNkTN_Iwd_YmSJ6ptIww&oe=68B78299",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jessie Alejandra González Bugueño",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-1/469241201_4264075162617_641716579951327440_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeG2PqMkRw_A3B09Vm7QU-jmuKD4EQibgse4oPgRCJuCx81cyb56Zn11AqndNBe2o6k&_nc_ohc=xr3fVsoDrK4Q7kNvwFUktBN&_nc_oc=Adk5eD5Qi2Re3f_MjT1tA02r2f7vVXKv91ZG547f02e_cxpOwKkdtO86CdXUcm-YOubl3b5fSGB1WEVLeHVI9AON&_nc_zt=24&_nc_ht=scontent.fscl13-2.fna&_nc_gid=1vWfVhX9ipA13ic8bukWKA&oh=00_AfX_XgPuBCit2lzi9efg6mV2EcAGx0HxfjjKh7K4bPGyWg&oe=68B77CFF",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Vilma de Lourdes Esquivel Céspedes",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/532861703_10233828114697877_1099807856416838727_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHIfxfoPZfP4HXXOl8qUNpYqipos4tj4IWqKmizi2Pghbs8vLFPFy3XrXcgkOTnhaU&_nc_ohc=u3m-RJYjbZgQ7kNvwG2Gbl5&_nc_oc=AdkmXT7OV28gnccZjfLFNnh_loAEDJ7QWuEO9kYhj8hfClx6134Q1Di3o6dSfeb2O-D23lnFxsJJlUB9sFKhxict&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=9ttD4_d_lq3H-_PI6BxIvw&oh=00_AfUbUBkwkfgSJZEDm_AhZYMBlWraTDl1ZHvVc2atdXubFg&oe=68B7A12D",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Luis Andrés Ramos Bustos",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/532177660_10233828114257866_6337617674604888326_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG8zHPNOOecMP4v9iZVKVqezk23fbyXiyXOTbd9vJeLJRH1Oa3Qqpt5xMBwCdVEHrE&_nc_ohc=uL4eD-gtodoQ7kNvwGGh6j7&_nc_oc=AdmQbe8YRIRZGDC8n5c4F4IAi0WssCzrgtzNzpmF_6gnZCBn9B7mPCZYE9rivOkNOpd2HSrwPniNiihOnUCYVTRQ&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=KPJq-9z55Azps6uYmfV5aw&oh=00_AfWcWZWapEx_8EVOcbUp0-T_IegRcjnI-_FNTN6OpAXQJA&oe=68B78E6E",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Roxana del Carmen Iturra Ramírez",
@@ -3748,27 +3861,74 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/67403287_2313763258863069_3171599014680330240_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG_Vxkwd1yjEgVB_Jv2imJX9jz6nFcOFLj2PPqcVw4UuK-TCeS-_zB9YJL5FFCieyU&_nc_ohc=cwyZmcv26HsQ7kNvwHM7UJH&_nc_oc=AdnCAj6uAW0iYIYkk3Q9AXhHYBi-QjH4HODvsMIXo9ldIWTXWKXzfeBHg1FXc3lAh_VJxhpMiHoHImUbPrwOtPoS&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=LgHaOt9-nmW3TiVKUHhqzg&oh=00_AfX-2OodgHwam14eqNAYOMXFY-MB9-9Z5ojhfaUgw6CGlQ&oe=68D93F3E",
+    "delitos": [
+      {
+        "titulo": "Presunto fraude al Fisco",
+        "fuente": "https://www.diarioconcepcion.cl/politica/2018/11/02/suspenden-a-alcalde-de-chillan-viejo-por-presunto-fraude-al-fisco.html"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Graciela Huenuman",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/273203347_310339657804322_2940559146504836048_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE3WJVauPVKFsrA9U0c35OFehKvGuoVIXJ6Eq8a6hUhcui4RZuGBP3gUGON1BdfQes&_nc_ohc=a7BamtLHKEoQ7kNvwEkuSN6&_nc_oc=AdmOZBQ-VXQrPbRjQs7YiJehT55aZdcynyAsclqhsW9bAhN1zr0ow4GivWfTGy4ho1GlQmsl1XWPqOOBLT7UG2xG&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=TyV6GcOEFbO6CyzBG4uMzQ&oh=00_AfXVj4j1bN2QK52AMLQUud9CR3kEH4Kx0GthfVhYR6ztdw&oe=68B7BCB9",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Patricio Palma",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/185168998_4266418630067730_3428591303800889671_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEu_s1_y612CGdt4RG2M7SfIlSdPU4IowEiVJ09TgijASj_bwMx6s18uCXhSf-4-XM&_nc_ohc=KHtChDlykw8Q7kNvwGNvuCG&_nc_oc=Adkip5P2a5iJh2TgckTtWGJjrLvnviIIkNsB_2qDyfGrNthHUbCvBFJPCXWJuSlu7yuJd7xdRp92oGugpt7fpJou&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=u3pkx4U7YpYqmilVyb6q2A&oh=00_AfUXQ_ShigfUZnFqYUnkKyaytwqD1BKMN82XtkgtGnioFw&oe=68D962EE",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
-    "nombre": "Eliana Sanhueza",
+    "nombre": "Maria Elena Sanhueza",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 19",
@@ -3780,7 +3940,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 19",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/522989331_2275187729583192_7482956659338328286_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHeYNeU0CPdGkXDEnejQlmp56Mveba3oxHnoy95trejEXnld4i0KU-ltIAQUAU164I&_nc_ohc=npZfF5XvYjkQ7kNvwGlBP-_&_nc_oc=AdkiqXAJpgvbs-qBkd_jgVLXT8fCcjt_CeX_txEsTBf-pvTDSiBBvOmh6_7fJQ0C1Q6KJfYo1APpOT3GWdfLBWMo&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=BU1Gx2NZmsx83eK1_uNf0Q&oh=00_AfVbs6TYwXJpSfcMoHnufKec0vjU4vkMwg64rwO5mo21hA&oe=68B7BC91",
     "delitos": []
   },
   {
@@ -3788,47 +3948,166 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/129262534_3832395420118155_4933552025376254743_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHnShIY9s11OD_mWE-V-R6bl-Xs7yGYAVqX5ezvIZgBWuZbaaLIbXARDFjy5lvrGIo&_nc_ohc=k0MjXwIrDAUQ7kNvwFVzWVE&_nc_oc=AdmQxDt9WU3vLCgf_kTrokN-N-lnBrdGsRhMTdp_eJQO8k56QiQOCTVBkMgH97k_faUE0OOR8Pe14Kn_mtw48ZV6&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=mUXV_6-m2km1odNllbCBPA&oh=00_AfWQBUOlZypRRIlbQ-qSIFNnbzxZYnEP27DNtz7fAMUDyQ&oe=68D959EC",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Felix González",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
+    "reeleccion": true,
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/7/76/F%C3%A9lix_Marcelo_Gonz%C3%A1lez_Gatica.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Elizabeth Mujica",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://assets.diarioconcepcion.cl/2021/10/pag-86-Elibeth-Mujica-e1635687057351.jpeg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Hernán Pino",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486786195_1097168875774913_456279621849128868_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHCKlZAWitl0x5rIDOh2cytajnMbwiIu-FqOcxvCIi74WUYhE5H-4MpG9iQjm1d3Y8&_nc_ohc=kSHif6OBZoIQ7kNvwG9f2k6&_nc_oc=AdktabeF-NKv7ZWvOtTxs9pKHWjIT900L6Fc4VJNDx_Xa7cARfQIbk5wtJdiML6dKNksqUAGM0KwdCPJBZp-wI1e&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=z1E85pog7gOjuChgnQCYeQ&oh=00_AfWXEpxLR0nYmUaQGmGPa5Ypqef931ik8jAdu15PwU_EaQ&oe=68B7C934",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Atrix Badilla",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t51.82787-15/523943425_18393374803189486_1137931830463393451_n.webp?stp=dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5jf35LF-y8ce_k_Vgyw-Tegr0EmDMpjN6CvQSYMymM5zUwYoZue63FkBnQphE2Vc&_nc_ohc=21TdxO_CIsAQ7kNvwFWobsP&_nc_oc=Adk8POvvWxJOAbpXXd9MoHTy4y-bCvVViFfGDfE4nZv5YOSiNwg5JBGuSyvqwTFLBKWw5lqxykuxNf_n3o48mOoT&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=rzrrLQ3un-5GIhKOt41NLw&oh=00_AfXQrLFuaOs2MtZT2pw9PpxCZ1i6vATRsXwcV7mrWyTZTA&oe=68B7C545",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Felipe Arancibia",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/457231449_2281027165589878_5431951004019061500_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFKShMtrUZzk8gNL80agqk08vLjbWwubHHy8uNtbC5scU7iZSyhPi_ct9RAxs8789Q&_nc_ohc=GpoL2RNTskYQ7kNvwF-cj-G&_nc_oc=AdkpRmA02s4hI0cPUZG1rFcH0_Jas9ENVPQ01BEwu3iKb_Y6Pjo4wIM7lNl6FxI1jMZU71dLRhMuGH-NF_1uAIss&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=KUk0ixwsKznEFg-lR1xtPA&oh=00_AfUzCmth4QsxNH8-99g4vbm6k2B3ciRxg6_sHFMktgMrbQ&oe=68B7A3C1",
     "delitos": []
   },
   {
@@ -3836,7 +4115,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/491972171_10232197581135125_4552245102895173581_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEEp2dQSD-_Ir5IjMuQIdthyAxvkeswRVfIDG-R6zBFV2kv79yDCQVn0fr3aCjwSxM&_nc_ohc=GLp4c5ePncMQ7kNvwHVf5cB&_nc_oc=AdlseNpb5Oa5fzLwvN_8EvX0ny5B3V3tjSYJG22VF43KoJo5VdDkmYKr7IeIv-7lk-3HxE9RB7Pe4c1HiYDcdpdI&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=vkWf6g2UjHUm-NG8U3xoUA&oh=00_AfWcgTTnkqmMED8mCazAiCAjlxkONKK0YpwWcUw_0-gJ4w&oe=68B7C1BD",
     "delitos": []
   },
   {
@@ -3844,7 +4123,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "null",
     "delitos": []
   },
   {
@@ -3885,7 +4164,13 @@
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 21",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Ricardo Flores",
@@ -3932,16 +4217,40 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/157551420_118888643535617_6750022467752353103_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeErU7av_qcNeIm3xveu4VN87P0J_QaKwKPs_Qn9BorAowb9x8461UFcdV7xhIg2vOE&_nc_ohc=pRkq2_r_ZlEQ7kNvwE4wy3B&_nc_oc=AdlNQqDTHmLDFVp9ONZ8nSiRvCGHbigWygyXbRz5uyiBJ-_-_OyJfhOpUhyhS42mvCj1ePhW08hjnrTDAfzAJwkP&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=o9tDMERJLG0ksyNcPyaeqQ&oh=00_AfVDQp6pNss5qVjUbkixJRXgrrtDGpRH_zT_DC9Es3xU2w&oe=68D95133",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Iván Rojas",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/2dec2156ffe8475b3bdceb4f47e7ce29/46280/Iv%C3%A1n%20Gorky%20Rojas%20Villagra.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Constanza González",
@@ -3996,8 +4305,22 @@
     "cargo": "Senador",
     "partido": "Partido Ecologista Verde",
     "distrito": "Circunscripción Senatorial 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.biobiochile.cl/wp-content/uploads/2024/08/aucan-huilcaman-750x400.png",
+    "delitos": [],
+    "elecciones":[
+{
+"anio": 2017,
+"tipo": "popular"
+},
+{
+"anio": 2017,
+"tipo": "popular"
+},
+{
+"anio": 2017,
+"tipo": "popular"
+}
+]
   },
   {
     "nombre": "Jal Yjade",
@@ -4084,7 +4407,7 @@
   {
     "nombre": "José Antonio Kast",
     "cargo": "Presidente Nacional",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": null,
     "foto": "https://finis.cl/wp-content/uploads/2025/05/jose-kast.jpg",
     "posturas": {
@@ -4255,7 +4578,7 @@
     "nombre": "Juan Carlos Chinga Palma",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 1",
     "foto": "https://i0.wp.com/elmorrodearica.cl/wp-content/uploads/2022/09/JUAN-CARLOS-CHINGA.jpg?w=627&ssl=1",
     "delitos": [],
@@ -4403,7 +4726,7 @@
   {
     "nombre": "Giovanna Calle Capuma",
     "cargo": "Diputado",
-    "partido": "Partido Por la Democracia",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 1",
     "foto": null,
     "delitos": []
@@ -4801,7 +5124,7 @@
     "nombre": "José Luis Véliz Véliz",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 3",
     "foto": "https://i0.wp.com/noticias.calamaenlinea.cl/wp-content/uploads/2025/08/Jose-Luis-Veliz-Veliz.jpg?resize=1024%2C867&ssl=1",
     "delitos": []
@@ -4995,7 +5318,7 @@
     "cargo": "Diputado",
     "partido": "Partido Comunista",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/488612147_10236437839107327_8675191674829582176_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE_o-VAoia7wgXXS5Ok7v837qRjzEwaDd3upGPMTBoN3Tq9Ahqga52V2Vdqnrv95i8&_nc_ohc=Gp1a8OF5ifUQ7kNvwGmLOs2&_nc_oc=AdlfgTF3zCcz85QKDLR-oxgIVC34GBaT7tjwUq-pV-Oc0EGybtb2q0UbUN8JZEy2yHDUpU54O4hzmfj3xkOJKw9u&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=fxO9M1Co8-ogUALrM_h1Jg&oh=00_AfW9Wlzic2xnxXfFiEsvjiMQ5PxD6bWvnS0gYPqbkQTvwQ&oe=68B76CC0",
     "delitos": []
   },
   {
@@ -5468,7 +5791,7 @@
   {
     "nombre": "Carolina Armenakis Daher",
     "cargo": "Diputado",
-    "partido": "Federacion Regionalista Verde SocialL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 4",
     "foto": "https://www.nostalgica.cl/wp-content/uploads/2025/08/carolina-1.jpg",
     "delitos": [],
@@ -5770,8 +6093,15 @@
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 5",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/0/06/Carolina_Tello_Rojas.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Manouchehr Daniel Manouchehri Moghadam Kashan Lobos",
@@ -5786,8 +6116,15 @@
     "cargo": "Diputado",
     "partido": "Partido Comunista",
     "distrito": "Distrito 5",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/e/ec/Nathalie_Castillo_Rojas.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Bernardo Antonio Salinas Maya",
@@ -5795,13 +6132,13 @@
     "partido": "Independiente ",
     "independientePor": "Partido Comunista",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://www.gorecoquimbo.cl/gorecoquimbo/site/artic/20150810/imag/foto_0000000420150810131348.jpg",
     "delitos": []
   },
   {
     "nombre": "Jorge Insunza Gregorio de las Heras",
     "cargo": "Diputado",
-    "partido": "Partido por la Democracia",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
@@ -5932,7 +6269,7 @@
   {
     "nombre": "Claudio Ibáñez González",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
@@ -5940,7 +6277,7 @@
   {
     "nombre": "Alejandro Campusano Massad",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
@@ -5948,7 +6285,7 @@
   {
     "nombre": "Rosa Luz Pinto Rojas",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
@@ -5973,7 +6310,7 @@
     "nombre": "Amal Salem Solís",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 6",
     "foto": null,
     "delitos": []
@@ -6044,18 +6381,36 @@
   {
     "nombre": "Juan Ignacio Latorre Riveros",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 6",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/4a/Juan_Ignacio_Latorre_Riveros.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Francisca Bello Campos",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 6",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/45/Francisca_Bello_Campos.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Nelson Esteban Venegas Salazar",
@@ -6095,10 +6450,24 @@
   {
     "nombre": "Sofía Alejandra González Cortes",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 6",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/468349308_941535594614125_8498222199065551380_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEwIh0M1qW-hSEFHKfWDDfEn-i-ODwo3l2f6L44PCjeXcNPM0fE8SqON2HjJgxhuVc&_nc_ohc=w9Re29AtgcIQ7kNvwGqj9ln&_nc_oc=AdmH-4LsoS9VOgxLzd_IYbz2ZK_R20Fx8sqKAY7obuKNCaDefTukdpqIZaCOLfX98-ZRu0X51l1ZfUqjzeFRMh6f&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=td9ohMQcQ3RjP8Cex0HW2Q&oh=00_AfXyTsz5LSk7LDvhXak90gqRJMydU0p1wuuJHry6YAc5qA&oe=68B78AEF",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Cristián Mella Andaur",
@@ -6166,7 +6535,7 @@
   {
     "nombre": "Octavio González Ojeda",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 6",
     "foto": null,
     "delitos": []
@@ -6335,7 +6704,7 @@
     "nombre": "Leopoldo Moreno Contardo",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 7",
     "foto": null,
     "delitos": []
@@ -6503,7 +6872,7 @@
   {
     "nombre": "Tomás Ignacio Lagomarsino Guzmán",
     "cargo": "Diputado",
-    "partido": "PARTIDO REGIONALISTA verde social",
+    "partido": " Federacion Regionalista Verde Social",
     "distrito": "Distrito 7",
     "foto": null,
     "delitos": []
@@ -6511,26 +6880,54 @@
   {
     "nombre": "Jorge Brito Hasbún",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/69/Jorge_El%C3%ADas_Brito_Hasb%C3%BAn.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jaime Bassa Mercado",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/67/Jaime_Bassa_Mercado.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Luis Alberto Cuello Peña y Lillo",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 7",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/41/Luis_Cuello_Pe%C3%B1a_y_Lillo.jpg",
+    "reeleccion": true,
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Roy Crichton Orellana",
@@ -6745,7 +7142,7 @@
   {
     "nombre": "Jorge Galdames Horostica",
     "cargo": "Diputado",
-    "partido": "DEMOCRATAS",
+    "partido": "Democratas",
     "distrito": "Distrito 8",
     "foto": "https://yt3.googleusercontent.com/ytc/AIdro_nphrtT8iJ8sAKvykcOm2C_Bvm-cdiNc5pieR6Oiigle8U=s160-c-k-c0x00ffffff-no-rj",
     "delitos": [],
@@ -6759,7 +7156,7 @@
   {
     "nombre": "Gonzalo Egas Pourailly",
     "cargo": "Diputado",
-    "partido": "DEMOCRATAS",
+    "partido": "Democratas",
     "distrito": "Distrito 8",
     "foto": "https://media.licdn.com/dms/image/v2/D4E03AQGNyxdBH1x_1Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697660865609?e=2147483647&v=beta&t=PiOrmFYqndhE_0njSGtoojv8PERwv3SYKgPQiOtoyBg",
     "delitos": [],
@@ -6773,7 +7170,7 @@
   {
     "nombre": "Elizabeth Carrasco Urrutia",
     "cargo": "Diputado",
-    "partido": "DEMOCRATAS",
+    "partido": "Democratas",
     "distrito": "Distrito 8",
     "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/509422379_10237889924246400_4485804178017304891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEl9e_rt8nga6pzXyuYODClxcIgN9cP6KHFwiA31w_ooWG6lUO2ezIxoJNj_oViRjc&_nc_ohc=ZEDIXU41Hh4Q7kNvwGrdBgA&_nc_oc=Adm1NT3RBTKG1H6GiqIzBFgWjT08T6EjAnjOrvXAjROd6jZxfYZF2yGW39e2h50ZlBWcvyHx2Ujw3nm1QlYh4_Bu&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eZDWdAhwr4AozDo6MbHVNw&oh=00_AfVtego7tbIWA5Zb0ahaGILznsw8U5ZYNwssfcyiLbUEtg&oe=68B64459",
     "delitos": [],
@@ -6791,7 +7188,7 @@
   {
     "nombre": "Rosa Oyarce Suazo",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
@@ -6799,7 +7196,7 @@
   {
     "nombre": "César Vega Lazo",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
@@ -6807,7 +7204,7 @@
   {
     "nombre": "Nataly Francisca Ortúzar Méndez",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
@@ -6875,7 +7272,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Partido Comunista",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://cooperativa.cl/noticias/site/artic/20201108/imag/foto_0000000120201108133529.png",
     "delitos": []
   },
   {
@@ -6883,8 +7280,19 @@
     "cargo": "Diputado",
     "partido": "Partido Comunista",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/df/Marcos_Barraza_G%C3%B3mez.jpg",
+    "delitos": [
+      {
+        "titulo": "Lucro indebido, Caso universidad ARCIS",
+        "fuente": "https://www.ciperchile.cl/2014/08/12/crisis-en-la-universidad-arcis-como-entro-y-salio-el-partido-comunista-del-negocio-de-la-educacion-superior/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Claudia Atenas Soza",
@@ -6914,16 +7322,50 @@
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/b/b4/Tatiana_Urrutia_Herrera.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Claudia Mix Jiménez",
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/f/f5/Claudia_Nathalie_Mix_Jimenez.jpg",
+    "reeleccion": true,
+    "delitos": [
+      {
+        "titulo": "Malversación de caudales públicos",
+        "fuente": "https://www.ciperchile.cl/2022/11/23/descontrol-en-las-cargas-de-bencina-familiares-de-los-diputados-utilizan-tarjetas-pagadas-con-fondos-publicos/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Cesar Camilo Leiva Rubio",
@@ -7230,7 +7672,7 @@
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
     "distrito": "Distrito 9",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "foto": "https://elfiltrador.com/wp-content/uploads/2021/01/aldo_duque.jpg",
     "delitos": [
       {
@@ -7252,7 +7694,7 @@
   {
     "nombre": "María Elena Barco Sánchez",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 9",
     "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/326495674_872459360699522_8714313846415706088_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEbmA86uOC5IyZA-tX67h3SID1BEJEwSmYgPUEQkTBKZvkj9Si4cxenSTyoJnDPbLI&_nc_ohc=ag-0ouHz9N4Q7kNvwE6VtQK&_nc_oc=AdkPGEsyE-CqiNfdcmkOR04_iH9BVPru6VnOm67eNRL0hVJMpk3XGIVZB-HuZmAE79moQukCLmQkIU4fNiPBj7l0&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=-dLoTcE-sjOrhEuh9Qk_Fg&oh=00_AfVsleD7FCsmrjb-xMlS4oCeLHtwd9dRFwd_N6Ii2ZihRw&oe=68B3AA0B",
     "delitos": [],
@@ -7494,7 +7936,7 @@
   {
     "nombre": "Carlos Cuadrado Prats",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 9",
     "foto": "https://pbs.twimg.com/profile_images/1379940783172825098/zDyDJ1WZ_400x400.jpg",
     "delitos": [
@@ -7715,7 +8157,7 @@
     "nombre": "Juan Pablo Sáez Rey",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 10",
     "foto": "https://costamagazine.cl/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-13-at-13.56.16-800x1200.jpeg",
     "elecciones": [
@@ -7743,7 +8185,7 @@
     "nombre": "Vicente Almonacid Heyl",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 10",
     "foto": "https://s3.amazonaws.com/gobcl-prod/filer_public_thumbnails/public_files/Subidas-desordenadas/vicente-almonacid.jpg__1440x2000_q70_subsampling-2.jpg__1440x2000_q70_subsampling-2.jpg",
     "delitos": []
@@ -7752,7 +8194,7 @@
     "nombre": "Sandra Solimano Latorre",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 10",
     "foto": "https://media.licdn.com/dms/image/v2/C5603AQEYIWeyTdy1fA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517462731369?e=2147483647&v=beta&t=LqGXFz4jlkZhhBOoSlJw62bfcqRBNRduUQY5Gi4HIt0",
     "delitos": []
@@ -7761,7 +8203,7 @@
     "nombre": "María Luisa Cordero Velásquez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 10",
     "foto": "https://www.camara.cl/img.aspx?prmID=GRCL1120",
     "reeleccion": true,
@@ -7963,7 +8405,7 @@
   {
     "nombre": "Gonzalo Winter Etcheberry",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 10",
     "reeleccion": true,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/b/b0/Gonzalo_Rodolfo_Winter_Etcheberry.jpg",
@@ -7986,7 +8428,7 @@
   {
     "nombre": "Emilia Schneider Videla",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 10",
     "reeleccion": true,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/d4/Emilia_Schneider_Videla.jpg",
@@ -8005,7 +8447,7 @@
   {
     "nombre": "Lorena Fries Monleon",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 10",
     "reeleccion": true,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/9/98/Lorena_Fries_Monle%C3%B3n.jpg",
@@ -8020,7 +8462,7 @@
   {
     "nombre": "Alejandra Placencia Cabello",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 10",
     "reeleccion": true,
     "foto": "https://www.camara.cl/img.aspx?prmID=GRCL1160",
@@ -8051,7 +8493,7 @@
   {
     "nombre": "Irací Luiza Hassler Jacob",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 10",
     "foto": "https://media-front.elmostrador.cl/2023/04/Hassler-Sierra-Bella-700x468.jpg",
     "delitos": [
@@ -8118,7 +8560,7 @@
   {
     "nombre": "Helia Molina Milman",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 10",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/c/c1/Helia_Molina_Milman.jpg",
     "reeleccion": true,
@@ -8145,7 +8587,7 @@
   {
     "nombre": "José Toro Kemp",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 10",
     "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/318336461_453165137017048_839504895378019757_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzIPHueXwS0vXiB7ivQmy1atP4702XFGBq0_jvTZcUYO3Dfoeh-gXc0_ipdViMhA0&_nc_ohc=dXpBnMpNF7kQ7kNvwEddLM5&_nc_oc=AdnAF7wJLdP0vQAimYFhdwJ4WQF-Eae0SzJh8k6T7VsNvCJr-i4msoWy2rY_ll_GiQDmoAbzx_gMfMOk3Q-zXsKd&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=e5aJNggQzWNEbbODS_BWLQ&oh=00_AfWLHza7pgIheWpW_jtJM1YMHjKsYf2HyYN6Zpm5jH66Ng&oe=68B013B9",
     "delitos": []
@@ -8354,7 +8796,7 @@
     "nombre": "Percy Carter Morong",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
@@ -8447,7 +8889,7 @@
   {
     "nombre": "Constanza Schonhaut Soto",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 11",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/69/Constanza_Sch%C3%B6nhaut_Soto.jpg",
     "delitos": [],
@@ -8465,7 +8907,7 @@
   {
     "nombre": "Isidora Alcalde Egaña",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 11",
     "foto": "https://isidoraalcalde.cl/wp-content/uploads/2021/02/Isidora-Alcalde-sobre-mi-web-686x1024.jpg",
     "delitos": [],
@@ -8675,7 +9117,7 @@
     "nombre": "Paola Romero Llanos",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE ",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 12",
     "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/2e2382ee8832ac0199a1e28ccfc6bf80/46280/Paola%20Romero%20Llanos.webp",
     "delitos": [],
@@ -8732,7 +9174,7 @@
   {
     "nombre": "Johana Concha Ortiz",
     "cargo": "Diputado",
-    "partido": "DEMOCRATAS",
+    "partido": "Democratas",
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": [],
@@ -8746,7 +9188,7 @@
   {
     "nombre": "Jonathan Barrera Guajardo",
     "cargo": "Diputado",
-    "partido": "DEMOCRATAS",
+    "partido": "Democratas",
     "distrito": "Distrito 12",
     "foto": "https://media.licdn.com/dms/image/v2/D4E03AQE2TUjvfsp0TQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679530182938?e=2147483647&v=beta&t=LiMbl5DAuAVHftLDn68ycMmFVJIRoubA-yIMH5se7Oc",
     "delitos": [],
@@ -8760,7 +9202,7 @@
   {
     "nombre": "Daniela Andrea Serrano Salazar",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 12",
     "reeleccion": true,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/e/ed/Daniela_Serrano_Salazar.jpg",
@@ -8775,9 +9217,9 @@
   {
     "nombre": "Juan Wladimir Navarro Romero",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://media.licdn.com/dms/image/v2/C4E03AQGBP67USEluAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516843168784?e=2147483647&v=beta&t=v3FjpMUQ5KVj5NEF8F6OhhpTrb0OCnhymBdDQZfzw0I",
     "delitos": [],
     "elecciones": [
       {
@@ -8789,7 +9231,7 @@
   {
     "nombre": "Simón Ramírez González",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 12",
     "foto": "https://socialesehistoria.udp.cl/cms/wp-content/uploads/2022/03/Simon-Ramirez-doctorado-CCSS-UDP.png",
     "delitos": []
@@ -8797,7 +9239,7 @@
   {
     "nombre": "Marco Velarde Salinas",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 12",
     "foto": "https://www.osoigo.com/script/thumb.php?photo=WhatsApp%20Image%202021-11-29%20at%2010.35.08%20PM.jpeg&width=800&height=400&crop=0&type=photo&position=MM",
     "delitos": [],
@@ -9151,7 +9593,7 @@
   {
     "nombre": "Lorena Soledad Pizarro Sierra",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "reeleccion": true,
     "distrito": "Distrito 13",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/3/3b/Lorena_Pizarro_Sierra.jpg",
@@ -9175,7 +9617,7 @@
     "nombre": "Gael Fernanda Yeomans Araya",
     "cargo": "Diputado",
     "reeleccion": true,
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 13",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/1/1e/Gael_Fernanda_Yeomans_Araya.jpg",
     "delitos": [],
@@ -9193,7 +9635,7 @@
   {
     "nombre": "Cristóbal Barra Catalán",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 13",
     "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/536014173_2225487487877039_3694040755026643323_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzEUDuqcShZYjRr2Xte0L-_I-ZuOGFAdL8j5m44YUB0gulpd9OBL9YPPW3vIfqexc&_nc_ohc=Vl0HZw08Iy8Q7kNvwF3OPk9&_nc_oc=AdlvlVLhCSuKzM-NYgDXPaifW9-4T4wPNLnwU-SQ4kohDVMYTKSPLdfE7sOIfVOqyZ02B_Nut4_IlRLQYu4b3YY5&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=zpPCmkfWNCTOCdYE-ZFtSw&oh=00_AfUUqQfNANR0IVo2wDGSnE9fjFv1QmUAb2yecaYEw_QhGQ&oe=68B3E24F",
     "delitos": []
@@ -9477,7 +9919,7 @@
     "nombre": "Pablo Herrera Rogers",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 14",
     "foto": "https://cdn-images.dzcdn.net/images/artist/ec92d161837969d428639b8ddad71799/500x500-000000-80-0-0.jpg",
     "delitos": []
@@ -9566,7 +10008,7 @@
   {
     "nombre": "Ignacio Achurra Díaz",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 14",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/6f/Ignacio_Achurra_D%C3%ADaz.jpg",
     "delitos": [],
@@ -9655,7 +10097,7 @@
   {
     "nombre": "Pilar Farfán Villagra",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 14",
     "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/272808262_303813418375267_6583097089608743729_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH7GO2FVmMpEhIK3n57ca1fcY01h3fN2MdxjTWHd83YxyRnB86EjSRbCmHGSaW27mc&_nc_ohc=vHzL0M59vkEQ7kNvwH2ay1q&_nc_oc=Adm7O7Uzlf59siRFHJjAvV9AK5b0QjdTQYlZVxs9yRso9ixfjILGlISsKsn7t6BHQNA8b4Fn8qRp7kjfv1x8mpRv&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=__3eVOpDFX6hJerVAgWXCA&oh=00_AfXJbLV6ZkcqepiV4W1YYhsGhWWaaWqTOpeAUCtlY8KS1w&oe=68B40138",
     "delitos": [],
@@ -9677,7 +10119,7 @@
   {
     "nombre": "Evelyn Bastías Araya",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
@@ -9727,7 +10169,7 @@
   {
     "nombre": "Bernarda Lagos Farfán",
     "cargo": "Diputado",
-    "partido": "FEDERACIÓN REGIONALISTA VERDE SOCIAL",
+    "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
@@ -9847,7 +10289,7 @@
     "nombre": "Patricio Laguna Gebauer",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 15",
     "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/299511935_404043871827076_1836445620669131162_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHsLwBbzHKxQC-67CTGAGYc_nGyy_jvH0j-cbLL-O8fSD89GVGty2jRwuL1yCf0Q2I&_nc_ohc=HBA8efmXQykQ7kNvwHwvaYN&_nc_oc=Adm09V_ge_UKNK8F0oRqteHQarw_cVu6E-PxsnEqk6pSI96LvRwXdTr97C9PpO60wocu5sYqnFqxDmJCl9OPiPon&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=dJVECggeZ7IpjU1vjVaIYQ&oh=00_AfV9tkMIFw-0JEIIi8dYxOT3Ip4ZWk70ZOXWGy6USzAd4w&oe=68B52497",
     "delitos": [],
@@ -9878,7 +10320,7 @@
     "nombre": "Lennin Arroyo Vega",
     "cargo": "Diputado",
     "partido": "Independiente ",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 15",
     "foto": null,
     "delitos": []
@@ -9919,7 +10361,7 @@
   {
     "nombre": "Raúl Soto Mardones",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 15",
     "foto": null,
     "delitos": []
@@ -9927,7 +10369,7 @@
   {
     "nombre": "Fernando Zamorano Peralta",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 15",
     "foto": null,
     "delitos": []
@@ -9935,10 +10377,24 @@
   {
     "nombre": "Raisa Tamara Martínez Muñoz",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 15",
-    "foto": null,
-    "delitos": []
+    "foto": "https://machaliconectado.cl/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-27-at-4.39.44-PM-1280x640.jpeg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Valentina Cáceres Monsálvez",
@@ -9946,7 +10402,17 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Frente Amplio",
     "distrito": "Distrito 15",
-    "foto": null,
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ],
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/455954255_882740530569963_5329766945282967536_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEVtnX2iai59hSFiywfzQjqptGlg6kP0pym0aWDqQ_SnGnYZNLflMgWg7hvDfzzfw4&_nc_ohc=FenkDr-3U0UQ7kNvwEfEsOb&_nc_oc=Adl929oQNYsx1uADtDaLAKh7ZWDnqGc0NgvhSo6fL1s_WFuktpEe_HON4dcVvhZzbuk6iJhQVqzQ7SdgR9H_jYhk&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=QVepxnp03ov66y5-t615RA&oh=00_AfW4EjLhWjrJDsJN5eeLoFK6WEz47tl88Va4cxAD_qMFpw&oe=68B75EA1",
     "delitos": []
   },
   {
@@ -10106,7 +10572,7 @@
     "nombre": "Humberto García Díaz",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 16",
     "foto": null,
     "delitos": []
@@ -10138,15 +10604,38 @@
   {
     "nombre": "Félix Bugueño Sotelo",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 16",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/f/f3/F%C3%A9lix_Bugue%C3%B1o_Sotelo.jpg",
+    "delitos": [],
+    "reeleccion": true,
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Florenia Carvajal Cid",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 16",
     "foto": null,
     "delitos": []
@@ -10320,7 +10809,7 @@
     "nombre": "Baldemar Higueras Vivar",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 17",
     "foto": null,
     "delitos": []
@@ -10363,16 +10852,48 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Frente Amplio",
     "distrito": "Distrito 17",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/6a/Roberto_Celed%C3%B3n_Fern%C3%A1ndez.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Nataly Rojas Seguel",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 17",
-    "foto": null,
-    "delitos": []
+    "foto": "https://g5noticias.cl/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-23-at-12.23.04-PM-576x1024.jpeg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Priscilla Castillo Gerli",
@@ -10619,7 +11140,7 @@
     "nombre": "Gladys González Álvarez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 18",
     "foto": null,
     "delitos": []
@@ -10628,7 +11149,7 @@
     "nombre": "Rodrigo Ramírez Parra",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 18",
     "foto": null,
     "delitos": []
@@ -10636,7 +11157,7 @@
   {
     "nombre": "Macarena San Martín Freire",
     "cargo": "Diputado",
-    "partido": "RENOVACIÓN NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 18",
     "foto": null,
     "delitos": []
@@ -10675,7 +11196,7 @@
   {
     "nombre": "Mónica Muñoz Guajardo",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 18",
     "foto": null,
     "delitos": []
@@ -10683,10 +11204,16 @@
   {
     "nombre": "Karina Cartagena Bastías",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 18",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/462361031_10162159213354119_202678213493958138_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHQRvaTQYj0ZKTeAU4VZlZ-OLvZ-XHdYl04u9n5cd1iXYhvR1Y7WXhb0_zqRQb7SbI&_nc_ohc=0qv1pDJDhk4Q7kNvwFma6Tq&_nc_oc=AdlrMuu7q1NfDR1Abt0hsIMIeKD66Hku6ucxqoHI5ef6AVvQNn3Xvc4PozvKZBv_rHw75vkuEHxSnCUby8QSKkVz&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=v-XwpXomF9uD_nqFtrrYow&oh=00_AfV9DNUQGaltcR-C0AWbzCxaPHbm_82zlsBtXi8V8YCGoQ&oe=68B75778",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Rodrigo Bravo Bustos",
@@ -10896,7 +11423,7 @@
   {
     "nombre": "Frank Sauerbaum Muñoz",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
@@ -10904,7 +11431,7 @@
   {
     "nombre": "Carlos Chandía Alarcón",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
@@ -10913,7 +11440,7 @@
     "nombre": "Patricio Caamaño Viveros",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
@@ -10922,7 +11449,7 @@
     "nombre": "Jorge Sabag Villalobos",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
@@ -10948,7 +11475,7 @@
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 19",
-    "foto": null,
+    "foto": "https://faug.udec.cl/wp-content/uploads/2022/06/erick-solo.jpg",
     "delitos": []
   },
   {
@@ -10978,7 +11505,7 @@
   {
     "nombre": "Scarlet Hidalgo Jara",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
@@ -11115,7 +11642,7 @@
   {
     "nombre": "Luciano Silva Mora",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11123,7 +11650,7 @@
   {
     "nombre": "Robert Contreras Reyes",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11131,7 +11658,7 @@
   {
     "nombre": "Mirtha Encina Ovalle",
     "cargo": "Diputado",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11140,7 +11667,7 @@
     "nombre": "Victor Hugo Figueroa Rebolledo",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11149,7 +11676,7 @@
     "nombre": "Andrea de la Barra Manríquez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11158,7 +11685,7 @@
     "nombre": "Ana Araneda Gómez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Democrata",
+    "independientePor": "Democratas",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11166,23 +11693,52 @@
   {
     "nombre": "María Candelaria Acevedo Sáez",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
+    "reeleccion": true,
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/e/e1/Mar%C3%ADa_Candelaria_Acevedo_S%C3%A1ez.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Eduardo Alfonso Barra Jofré",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.seremidesaludbiobio.cl/wp-content/uploads/2023/09/Foto-Seremi-1024x576.jpeg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Alicia Yáñez Soto",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -11200,8 +11756,14 @@
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media-front.elmostrador.cl/2022/03/Daniela-Dresdner-Vicencio-1-700x394.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Macarena del Pilar Flores Montoya",
@@ -11460,7 +12022,7 @@
   {
     "nombre": "Joanna Pérez Olea",
     "cargo": "Diputado",
-    "partido": "DEMOCRATAS",
+    "partido": "Democratas",
     "reeleccion": true,
     "distrito": "Distrito 21",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/e/e1/Joanna_Elena_P%C3%A9rez_Olea.jpg",
@@ -11552,9 +12114,20 @@
     "nombre": "Clara Inés Sagardia Cabezas",
     "cargo": "Diputado",
     "partido": "Frente Amplio",
+    "reeleccion": true,
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/db/Clara_Sagard%C3%ADa_Cabezas.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Adolfo Millabur Ñancuil",
@@ -11562,8 +12135,46 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Frente Amplio",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/f/f4/Adolfo_Millabur_%C3%91ancuil.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Edith Lorena Pérez Larenas",
@@ -11779,7 +12390,7 @@
   {
     "nombre": "Juan Carlos Beltrán Silva",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 22",
     "foto": null,
     "delitos": []
@@ -11855,7 +12466,7 @@
   {
     "nombre": "Andrea Parra Sauterel",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 22",
     "foto": null,
     "delitos": []
@@ -11863,7 +12474,7 @@
   {
     "nombre": "Patricio Poza Barrera",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 22",
     "foto": null,
     "delitos": []
@@ -11871,10 +12482,24 @@
   {
     "nombre": "Luis Alberto Penchuleo Morales",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interferencia.cl/sites/default/files/styles/article/public/279751820_363570615807799_1120844800989958239_n.jpeg?itok=VbK5cr4p&c=85426f0b3983ba06f66acfa7217d364b",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Manuela Royo Letelier",
@@ -11882,8 +12507,14 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Frente Amplio",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/b/b3/Manuela_Royo_Letelier.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Ximena Sepúlveda Varas",
@@ -12179,7 +12810,7 @@
   {
     "nombre": "René Manuel García García",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 23",
     "foto": null,
     "delitos": []
@@ -12187,7 +12818,7 @@
   {
     "nombre": "Pedro Durán Sanhueza",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 23",
     "foto": null,
     "delitos": []
@@ -12195,7 +12826,7 @@
   {
     "nombre": "Jaime Quintana Leal",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 23",
     "foto": null,
     "delitos": []
@@ -12212,18 +12843,35 @@
   {
     "nombre": "Coca Ericka Ñanco Vásquez",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
+    "reeleccion": true,
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/c/c3/Ericka_%C3%91anco_V%C3%A1squez.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Christian Dulansky Araya",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/506183146_10236212101824432_1803869349318759286_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFJpwf9jp7B1TAlOsa6WpdLZ7bf2RJACYVntt_ZEkAJhZzWL1N3lQEwmsokvBywZX4&_nc_ohc=ah8POiAF14MQ7kNvwGLq9x4&_nc_oc=AdlZG8Rfcp8iMDu6o0KlsCA9V14x2BnniMrofrK6XzTjrtDN5u2eQ1R-ZQ-VehuTVa4g48Z-1wK_EpGgjC-MIYU-&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=YojPVpGEfPB-WLMNx17jcw&oh=00_AfX374EMgi_bA9j07x73u6sTQ56zChnZnZPUSCHpsEOpsA&oe=68B7601D",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Pablo Díaz Salazar",
@@ -12423,7 +13071,7 @@
   {
     "nombre": "Karina Silva Fernández",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 24",
     "foto": null,
     "delitos": []
@@ -12431,7 +13079,7 @@
   {
     "nombre": "Sylvia Yunge Wulf",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 24",
     "foto": null,
     "delitos": []
@@ -12440,7 +13088,7 @@
     "nombre": "Daniel Elias Valenzuela Salazar",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 24",
     "foto": null,
     "delitos": []
@@ -12464,10 +13112,24 @@
   {
     "nombre": "Matías Fernández Hartwig",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://pbs.twimg.com/profile_images/1904896735526232064/ZP8VCVHu_400x400.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Waldo Flores Vera",
@@ -12518,7 +13180,7 @@
   {
     "nombre": "Vanessa Huaiquimilla Pinochet",
     "cargo": "Diputado",
-    "partido": "PARTIDO POR LA DEMOCRACIA",
+    "partido": "Partido por la democracia",
     "distrito": "Distrito 24",
     "foto": null,
     "delitos": []
@@ -12655,7 +13317,7 @@
   {
     "nombre": "Lorena Leichtle Bertín",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 25",
     "foto": null,
     "delitos": []
@@ -12664,7 +13326,7 @@
     "nombre": "Matías Domeyko Prieto",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "RENOVACION NACIONAL",
+    "independientePor": "Renovación Nacional",
     "distrito": "Distrito 25",
     "foto": null,
     "delitos": []
@@ -12707,7 +13369,7 @@
   {
     "nombre": "Jaime Ignacio Figueroa Leviguán",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 25",
     "foto": null,
     "delitos": []
@@ -12821,7 +13483,7 @@
   {
     "nombre": "Mauro González Villarroel",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 26",
     "foto": null,
     "delitos": []
@@ -12829,7 +13491,7 @@
   {
     "nombre": "Juan Eduardo Vera Sanhueza",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 26",
     "foto": null,
     "delitos": []
@@ -12885,10 +13547,25 @@
   {
     "nombre": "Jaime Salvador Sáez Quiroz",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
+    "reeleccion": true,
     "distrito": "Distrito 26",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/49/Jaime_S%C3%A1ez_Quiroz.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Héctor Manuel Ballesteros Curumilla",
@@ -12901,9 +13578,9 @@
   {
     "nombre": "Alexis Salvador Osses Moyano",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 26",
-    "foto": null,
+    "foto": "https://www.fresiaahora.cl/wp-content/uploads/2025/08/9527d11b-bbe0-4c5b-bdd0-d8e0d440e56b-1024x685.jpeg",
     "delitos": []
   },
   {
@@ -13022,7 +13699,7 @@
   {
     "nombre": "Marcia Raphael Mora",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 27",
     "foto": null,
     "delitos": []
@@ -13082,9 +13759,9 @@
   {
     "nombre": "Romina Cejas Hidalgo",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 27",
-    "foto": null,
+    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/467398207_122172866456062479_5946914864854279659_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEB5dQLkJnUgWTAPaEXFY-jR8BWecd5U8BHwFZ5x3lTwI1brwvylb8sJ75uOvtoeGk&_nc_ohc=ABDImOVd0hcQ7kNvwH-K5WK&_nc_oc=Adl1187cZElBkbA_NDJyOHomaSZwVdVEDuu-EoikJiboJEcw3lXjCrazeXdjF4VFzrNyKn8f6oxMRVJwqF-AJ-JA&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=GAeQHHcieVpgp4coClXynA&oh=00_AfWHj3YF-hqAgT6xB-1DlxXtsmhltj2BmI0xGbTm4ToZtw&oe=68B784FF",
     "delitos": []
   },
   {
@@ -13126,7 +13803,7 @@
         "titulo": "Manejo en estado de ebriedad",
         "fuente": "https://www.biobiochile.cl/noticias/2011/08/17/diputado-rene-alinco-condenado-a-41-dias-de-carcel-por-conduccion-en-estado-de-ebriedad.shtml"
       },
-       {
+      {
         "titulo": "Fraude al fisco",
         "fuente": "https://www.ciperchile.cl/2025/04/17/con-fondos-publicos-diputado-alinco-finiquito-a-asesor-con-117-millones-a-los-cuatro-meses-lo-recontrato-y-aumento-su-sueldo/"
       }
@@ -13203,7 +13880,7 @@
         "anio": 2017,
         "tipo": "popular"
       }
-      ]
+    ]
   },
   {
     "nombre": "Daniela Olavarría Moreira",
@@ -13258,7 +13935,7 @@
   {
     "nombre": "Jenniffer Rojas Garcia",
     "cargo": "Diputado",
-    "partido": "RENOVACION NACIONAL",
+    "partido": "Renovación Nacional",
     "distrito": "Distrito 28",
     "foto": null,
     "delitos": []
@@ -13282,10 +13959,21 @@
   {
     "nombre": "Javiera Morales Alvarado",
     "cargo": "Diputado",
-    "partido": "FRENTE AMPLIO",
+    "partido": "Frente Amplio",
     "distrito": "Distrito 28",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/1/12/Javiera_Morales_Alvarado.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Verónica Noelia Aguilar Martínez",
@@ -13316,10 +14004,16 @@
   {
     "nombre": "Ivania Paz Salinas Villanueva",
     "cargo": "Diputado",
-    "partido": "PARTIDO COMUNISTA",
+    "partido": "Partido Comunista",
     "distrito": "Distrito 28",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/502547637_10238977963206665_2616148412277677242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHRyhwi-yDTh5RjLUigLQQXjjmGJ90Cv2uOOYYn3QK_a6ON3kiFRAU7vm_oc0whT3U&_nc_ohc=nY4n75rQ-5EQ7kNvwG8_mho&_nc_oc=Adk7DGir9pGGEdoIuC9cXmdit30laHb-L6b8XYmZl5K4uAe0lUOe7r-Bw3HqpS4AeJhzv7WRbbsmTy17lJea5oTO&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=nohRnaaMREvVNjodkH8b7Q&oh=00_AfWrROIECuLFpvEtTzfF31WfBoIY2rXcUvEa_mOJV4RO4A&oe=68B78F5D",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Pablo Andrés Bussenius Cornejo",

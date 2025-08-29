@@ -353,6 +353,7 @@
             p.includes("partido radical") || p === "pr" ||
             p.includes("accion humanista") || p === "ah" ||
             p.includes("popular") || p === "pop" ||
+            p.includes("partido ecologista verde") || p === "pev" ||
             p.includes("federacion regionalista verde social") || p === "frvs")
             return "Centro Izquierda";
         if (p.includes("democratas") || p === "dem" ||
