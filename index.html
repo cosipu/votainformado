@@ -12,20 +12,21 @@
       display: flex;
       flex-wrap: wrap;
       gap: 30px;
-      background: rgba(30,41,59,0.9);
+      background: rgba(30, 41, 59, 0.9);
       padding: 20px;
       border-radius: 10px;
       color: white;
     }
 
-    .chart-flex > div {
+    .chart-flex>div {
       flex: 1;
       min-width: 280px;
     }
 
     .chart-flex canvas {
       width: 100% !important;
-      height: 300px; /* altura base escritorio */
+      height: 300px;
+      /* altura base escritorio */
     }
 
     .chart-flex .text {
@@ -43,20 +44,24 @@
       }
 
       .chart-flex canvas {
-        height: 250px; /* altura más pequeña en móvil */
-        margin-bottom: 20px; /* separa del texto */
+        height: 250px;
+        /* altura más pequeña en móvil */
+        margin-bottom: 20px;
+        /* separa del texto */
       }
     }
 
     /* Gráfico de delitos */
     .chart-container {
       width: 100%;
-      height: 300px; /* altura base escritorio */
+      height: 300px;
+      /* altura base escritorio */
     }
 
     @media (max-width: 700px) {
       .chart-container {
-        height: 250px; /* altura móvil */
+        height: 250px;
+        /* altura móvil */
       }
     }
   </style>
@@ -94,6 +99,45 @@
   </section>
 
   <main id="candidates"></main>
+
+  <div class="voto-footer">
+    <h3>¿Cuánto vale mi voto?</h3>
+    <p>
+      Para este año cada voto equivale a <b>0.004 UF</b>, es decir aproximadamente <b>$1.554 CLP</b>.
+    </p>
+
+    <div class="candidatos-comparativa">
+      <h4>Ejemplo de comparación:</h4>
+      <p>José Antonio Kast (2021): 1.961.387 votos → $3.049.093.774</p>
+      <p>Gabriel Boric (2021): 1.814.777 votos → $2.821.179.733</p>
+
+      <label for="comparacion">Elegir equivalencia:</label>
+      <select id="comparacion">
+        <option value="ambulancia">🚑 Ambulancias</option>
+        <option value="vivienda">🏠 Viviendas sociales</option>
+        <option value="auto">🚓 Autos de policía</option>
+      </select>
+
+      <div class="botones-candidatos">
+        <button onclick="mostrarEquivalencias('José Antonio Kast', 3049093774)">Comparar Kast</button>
+        <button onclick="mostrarEquivalencias('Gabriel Boric', 2821179733)">Comparar Boric</button>
+      </div>
+    </div>
+
+  
+  </div>
+
+
+  <!-- Aquí se mostrarán las equivalencias -->
+  <div id="equivalencias"></div>
+
+  <p>
+    <i>Estos cálculos corresponden a un valor referencial con la UF actual.
+      El Servel realiza los pagos de acuerdo al valor vigente en el proceso electoral correspondiente.</i>
+  </p>
+  </section>
+  </footer>
+
 
   <!-- GRÁFICO + TEXTO -->
   <section class="chart-flex">

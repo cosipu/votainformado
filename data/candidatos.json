@@ -4307,20 +4307,20 @@
     "distrito": "Circunscripción Senatorial 11",
     "foto": "https://media.biobiochile.cl/wp-content/uploads/2024/08/aucan-huilcaman-750x400.png",
     "delitos": [],
-    "elecciones":[
-{
-"anio": 2017,
-"tipo": "popular"
-},
-{
-"anio": 2017,
-"tipo": "popular"
-},
-{
-"anio": 2017,
-"tipo": "popular"
-}
-]
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Jal Yjade",
@@ -6444,7 +6444,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Partido Liberal",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://www.latercera.com/resizer/v2/ZEKGYFGPPVAXRMOSFAMOGJYYF4.jpg?auth=522ae7fa69dad537373b818259c382097b4197d6cfb9db50b97c9185c4534f82&smart=true&width=990&height=557&quality=70",
     "delitos": []
   },
   {
@@ -6954,9 +6954,9 @@
   {
     "nombre": "Felipe Alfredo Ríos Cuevas",
     "cargo": "Diputado",
-    "partido": "PARTIDO LIBERAL",
+    "partido": "Partido Liberal",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t51.82787-15/515099317_18507900604013181_6506377223773318600_n.jpg?stp=dst-jpegr_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH9Uxx1HWM5sv5szlgQdj-6H1xVCdNwPc4fXFUJ03A9zpLcqc721g3HwHm_eEkPMfs&_nc_ohc=i-y6YoAvDZwQ7kNvwG-sbBx&_nc_oc=Adl1_0a23-Gej-lrcth-i3svMFhUV7VeDousbrreJJZjR3eJUgpHTOqKmlLY-OobSjUBLgEhjJxl4AhIAs3kJ71g&_nc_zt=23&se=-1&_nc_ht=scontent.fscl13-1.fna&_nc_gid=eF2Tvhix0rdoRL0UxdCUmg&oh=00_AfUlupIg0jLRkP2qQxliOMhmvNSqmNaBgQp3JkuOPuNgeg&oe=68B9594F",
     "delitos": []
   },
   {
@@ -7253,18 +7253,39 @@
   {
     "nombre": "Viviana Soledad Delgado Riquelme",
     "cargo": "Diputado",
-    "partido": "PARTIDO LIBERAL",
+    "partido": "Partido Liberal",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/2/23/Viviana_Delgado_Riquelme.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Cristopher Andrés Valdivia Olate",
     "cargo": "Diputado",
-    "partido": "PARTIDO LIBERAL",
+    "partido": "Partido Liberal",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/480684753_651804857373429_3797863815693147434_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEyk4SZBMxC_ss9Aw_-57fpNQBtdRllSi01AG11GWVKLcfQ3cTh_-GZwvg8je2jaVg&_nc_ohc=8vJ5f8x37wYQ7kNvwGE1GBp&_nc_oc=AdkfgOhCzteqOuuzMOWQfINyU9dlf0KOnlFDoE_cGzTEeKv9Ss01HkwzwYHLy15oWTBlrSMkj-X89iWN6XgFoigR&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=CuaECxoNyteauYttZkyg-A&oh=00_AfVef-_W66liQZCQy6rOy5voega1mCYTtJ_WYhyMSImLzQ&oe=68B97141",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Gustavo Adolfo Gatica Villarroel",
@@ -8848,7 +8869,7 @@
   {
     "nombre": "Rodrigo Alfonso Rettig Vargas",
     "cargo": "Diputado",
-    "partido": "PARTIDO LIBERAL",
+    "partido": "Partido Liberal",
     "distrito": "Distrito 11",
     "foto": "https://media.licdn.com/dms/image/v2/D4D03AQGPi3fF5j1Ljw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715119738527?e=2147483647&v=beta&t=QitNqccV5uNb8sWsJuxdNAvvbCqRfTakDL2kwmoikbs",
     "delitos": [],
@@ -11481,10 +11502,24 @@
   {
     "nombre": "Josefa Balmaceda",
     "cargo": "Diputado",
-    "partido": "PARTIDO LIBERAL",
+    "partido": "Partido Liberal",
     "distrito": "Distrito 19",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/D4D03AQFhDfTOhePalw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700585040004?e=2147483647&v=beta&t=-dkEfFvnX7CAhPda62Ai9bi4s1tto-e-Hf7q2GWj4p4",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Cesar Eduardo Riquelme Alarcón",
@@ -11746,10 +11781,16 @@
   {
     "nombre": "Carolina Beatriz Martínez Ebner",
     "cargo": "Diputado",
-    "partido": "PARTIDO LIBERAL",
+    "partido": "Partido Liberal",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/539747329_122187570020317607_2128270099605587600_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGSwgeaAIzAdZCa5XIGuT-OiYu7HH_WspmJi7scf9aymZBbM0NsZp087zpV21rEopY&_nc_ohc=sS7X3fAggnwQ7kNvwGKU4zK&_nc_oc=AdmQEBZqvgPSR6AiAvo_o3DvCpnQbrs1b8FaazALYJfy1Yk0EHANQAOpUW9hb_dIxMFVVkyVg1wO_jWLbW7lPI1V&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=d_mALK36YVy5Bqh97EIH5w&oh=00_AfVCTPe6Y_KoIZnDWQLcuWBeBS7unJaJMyCWRnLrBeRbSg&oe=68B967A8",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Daniela Dresdner Vicencio",
@@ -13596,8 +13637,18 @@
     "cargo": "Diputado",
     "partido": "PARTIDO LIBERAL",
     "distrito": "Distrito 26",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/b/be/Alejandro_Javier_Bernales_Maldonado.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Adriana Ampuero Barrientos",

@@ -710,6 +710,26 @@ districts.forEach(d => {
         }
     }
 
+window.mostrarEquivalencias = function(candidato, monto) {
+  const equivalenciasDiv = document.getElementById("equivalencias");
+  const seleccion = document.getElementById("comparacion").value;
+
+  // Costos de referencia
+  const costos = {
+    ambulancia: { valor: 19800000, label: "🚑 Ambulancias Basica" },
+    vivienda:   { valor: 7000000,  label: "🏠 Viviendas sociales de emergencia" },
+    auto:       { valor: 21990000,  label: "🚓 Autos de policía" }
+  };
+
+  const costo = costos[seleccion];
+  const cantidad = Math.floor(Number(monto) / costo.valor);
+
+  equivalenciasDiv.innerHTML = `
+    <h4>Con el reembolso a <b>${candidato}</b> se podrían financiar aproximadamente:</h4>
+    <p><b>${cantidad}</b> ${costo.label}</p>
+  `;
+};
+
 
     // ------------------ Función para gráfico de delitos por partido (robusta) ------------------
     function drawDelitosPorPartido(data) {

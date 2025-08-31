@@ -346,3 +346,176 @@ section {
     max-width: 100%;
   }
 }
+
+/* ===== Recuadros “¿Cuánto vale mi voto?” unificados y textos consistentes ===== */
+.voto-footer, #equivalencias {
+    background: rgba(30, 41, 59, 0.95); /* igual que .candidate */
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.5); /* igual que .candidate */
+    backdrop-filter: blur(8px); /* efecto glass */
+    transition: transform 0.3s, box-shadow 0.3s;
+    max-width: 800px;
+    margin: 20px auto;
+    color: #ffffff; /* texto blanco */
+    text-align: center;
+    font-family: 'Roboto', Arial, sans-serif; /* misma fuente que el body */
+}
+
+/* Hover idéntico a .candidate */
+.voto-footer:hover, #equivalencias:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 25px rgba(37, 99, 235, 0.7);
+}
+
+/* Títulos internos */
+.voto-footer h3, #equivalencias h4 {
+    color: #facc15; /* amarillo brillante */
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+/* Textos normales */
+.voto-footer p, #equivalencias p,
+.voto-footer label, #equivalencias label {
+    color: #ffffff; /* blanco */
+    font-size: 1rem;
+    margin: 6px 0;
+    font-weight: 400;
+}
+
+/* Comparativa de candidatos */
+.candidatos-comparativa h4 {
+    color: #facc15; /* amarillo para títulos */
+}
+
+.candidatos-comparativa label {
+    color: #ffffff; /* blanco para textos */
+}
+
+/* ===== Botones dentro de “¿Cuánto vale mi voto?” ===== */
+.voto-footer .botones-candidatos button,
+#equivalencias .botones-candidatos button {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 12px; /* mismo radio que los recuadros */
+    background: linear-gradient(135deg, #2563eb, #3b82f6); /* azul degradado */
+    color: #ffffff; /* texto blanco */
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.5); /* sombra sutil */
+}
+
+/* Hover de los botones */
+.voto-footer .botones-candidatos button:hover,
+#equivalencias .botones-candidatos button:hover {
+    background: linear-gradient(135deg, #1e40af, #2563eb); /* azul más oscuro */
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.7); /* sombra más intensa */
+}
+
+/* Active / presionado */
+.voto-footer .botones-candidatos button:active,
+#equivalencias .botones-candidatos button:active {
+    transform: translateY(0);
+    box-shadow: 0 3px 10px rgba(37, 99, 235, 0.4);
+}
+/* ===== Sección de elegir equivalencia ===== */
+.candidatos-comparativa {
+    margin-top: 20px;
+    padding: 15px;
+    background: rgba(30, 41, 59, 0.95); /* mismo fondo que recuadros */
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.5);
+    backdrop-filter: blur(8px);
+    text-align: center;
+}
+
+/* Títulos de la sección */
+.candidatos-comparativa h4 {
+    font-size: 1.3rem;
+    color: #facc15; /* amarillo brillante */
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+/* Labels */
+.candidatos-comparativa label {
+    display: block;
+    font-size: 1rem;
+    color: #ffffff; /* blanco */
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+/* Select de comparación */
+#comparacion {
+    padding: 10px 14px;
+    border-radius: 12px;
+    border: none;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    background: linear-gradient(135deg, #2563eb, #3b82f6); /* degradado azul */
+    color: #ffffff;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.5);
+    transition: all 0.3s ease;
+    margin-bottom: 15px;
+}
+
+/* Hover del select */
+#comparacion:hover {
+    background: linear-gradient(135deg, #1e40af, #2563eb);
+    transform: scale(1.03);
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.7);
+}
+
+/* Botones dentro de la sección */
+.botones-candidatos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px; /* espacio entre botones */
+    margin-top: 10px;
+}
+
+.botones-candidatos button {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #2563eb, #3b82f6);
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.5);
+}
+
+/* Hover de botones */
+.botones-candidatos button:hover {
+    background: linear-gradient(135deg, #1e40af, #2563eb);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.7);
+}
+
+/* Active / presionado */
+.botones-candidatos button:active {
+    transform: translateY(0);
+    box-shadow: 0 3px 10px rgba(37, 99, 235, 0.4);
+}
+
+/* Espaciado general entre elementos internos */
+.voto-footer p,
+.candidatos-comparativa label,
+.botones-candidatos button {
+    margin-bottom: 10px;
+}
+
+#comparacion option {
+    color: #000000; /* negro */
+    background: #e0e7ff; /* azul clarito de fondo para que contraste */
+}
