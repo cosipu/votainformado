@@ -661,11 +661,11 @@ districts.forEach(d => {
     function drawResumen(data) {
         const totalCandidatos = data.length;
 
-        // Candidatos con más de 2 elecciones populares
+        // Candidatos  2 o mas elecciones populares
         const masDeDos = data.filter(c => {
             if (!Array.isArray(c.elecciones)) return false;
             const populares = c.elecciones.filter(e => e.tipo && e.tipo.toLowerCase() === "popular");
-            return populares.length > 2;
+            return populares.length >= 2;
         }).length;
 
         // Candidatos en reelección (diputados o senadores)
@@ -690,7 +690,7 @@ districts.forEach(d => {
                 data: {
                     labels: [
                         'Total candidatos',
-                        'Más de 2 elecciones',
+                        '2 o mas candidaturas',
                         'En reelección',
                         'Con delitos'
                     ],
