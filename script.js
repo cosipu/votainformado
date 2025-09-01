@@ -716,9 +716,10 @@ window.mostrarEquivalencias = function(candidato, monto) {
 
   // Costos de referencia
   const costos = {
-    ambulancia: { valor: 19800000, label: "🚑 Ambulancias Basica" },
-    vivienda:   { valor: 7000000,  label: "🏠 Viviendas sociales de emergencia" },
-    auto:       { valor: 21990000,  label: "🚓 Autos de policía" }
+    ambulancia: { valor: 4000000, label: "🚑 Medico Cirujano  <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $4.000.000</span>"},
+    vivienda:   { valor: 7000000,  label: "🏠 Viviendas sociales de emergencia <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $7.000.000</span>" },
+    auto:       { valor: 21990000,  label: "🚓 Autos de policía <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $21.990.000</span>" },
+    pasaje:       { valor:870,  label: "🚌 Pasajes del Transantiago <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $870</span>" }
   };
 
   const costo = costos[seleccion];
