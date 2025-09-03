@@ -83,7 +83,7 @@
       }
     ]
   },
-    {
+  {
     "nombre": "Juan Tancara Chambe",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
@@ -95,7 +95,7 @@
         "anio": 2017,
         "tipo": "popular"
       },
-        {
+      {
         "anio": 2017,
         "tipo": "popular"
       }
@@ -181,7 +181,6 @@
       }
     ]
   },
-
   {
     "nombre": "Yovana Alejandra Ahumada Palma",
     "cargo": "Diputado",
@@ -2773,7 +2772,6 @@
     "foto": null,
     "delitos": []
   },
-  
   {
     "nombre": "Franco Aldo Parisi Fernández",
     "cargo": "Presidente Nacional",
@@ -3013,7 +3011,6 @@
       }
     ]
   },
-
   {
     "nombre": "Cristian Arturo Seguel Olivos",
     "cargo": "Diputado",
@@ -3726,7 +3723,6 @@
     "foto": null,
     "delitos": []
   },
-  
   {
     "nombre": "Felipe Aylwin Lagos",
     "cargo": "Diputado",
@@ -4068,12 +4064,12 @@
     "foto": "https://imagenes.elpais.com/resizer/v2/33MSLUO6LZCNHN3ETG5S6WFGLQ.jpeg?auth=16d0c3bb5da4d1dc894f0608e1afc610b281c8c65c3fed7716c3c66f75d1d2e6&width=1200",
     "posturas": {
       "Aborto legal": "?",
-      "Fin de las AFP": "?",
-      "Combatir el narcotrafico": "?",
-      "Salud Digna y de calidad": "?",
+      "Fin de las AFP": "NO",
+      "Combatir el narcotrafico": "SI",
+      "Salud Digna y de calidad": "SI",
       "Aumento sueldo mínimo": "?",
-      "Nacionalización Cobre y Litio": "?",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Nacionalización Cobre y Litio": "NO",
+      "Seguridad (cierre de Fronteras)": "SI"
     },
     "delitos": [],
     "elecciones": [
@@ -4119,7 +4115,7 @@
     "foto": "https://finis.cl/wp-content/uploads/2025/05/jose-kast.jpg",
     "posturas": {
       "Aborto legal": "NO",
-      "Fin de las AFP": "NO",
+      "Fin de las AFP": "NO, TERMINAR CON EL PRESTAMO AL ESTADO",
       "Combatir el narcotrafico": "Si",
       "Salud Digna y de calidad": "?",
       "Aumento sueldo mínimo": "NO",
@@ -4181,9 +4177,9 @@
       "Aborto legal": "NO",
       "Fin de las AFP": "NO",
       "Combatir el narcotrafico": "Si",
-      "Salud Digna y de calidad": "?",
-      "Aumento sueldo mínimo": "NO",
-      "Nacionalización Cobre y Litio": "NO",
+      "Salud Digna y de calidad": "SI",
+      "Aumento sueldo mínimo": "BAJAR EL SUELDO MINIMO A JOVENES",
+      "Nacionalización Cobre y Litio": "PRIVATIZACION PARCIAL O TOTAL DE CODELCO",
       "Seguridad (cierre de Fronteras)": "Si"
     },
     "delitos": [],
@@ -4471,7 +4467,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 1",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-1/185697830_10159141797109491_8221477912384177031_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFnl8YDrNqaJeFCwiLpuzemA3nK0744izcDecrTvjiLN_TT41nlbhHM2fM22NcFp24&_nc_ohc=L4K49r-rWYAQ7kNvwHLcFTx&_nc_oc=AdlX6YtIToIY_zKA4p7quJvN_bq8crQKij4ctqm-9c3gOYXODn-tkx94dxVGZHjF_p87BbAicEapJ-m0QfyZc5z3&_nc_zt=24&_nc_ht=scontent.fscl13-2.fna&_nc_gid=77hAd0DbHXq-vnG0JcWDcw&oh=00_AfVuvl_K25W1cdUcyvkLE4Sm-IABioe-odOua3OxeKG7mA&oe=68D3DBE4",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQGcSUcO7MLa6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728590918506?e=2147483647&v=beta&t=7OK5iKl5bvy_cM1IGbv_vR7vyOZEhC6r9XHheRpxuAg",
     "delitos": [],
     "elecciones": [
       {
@@ -13358,7 +13354,6 @@
       }
     ]
   },
-
   {
     "nombre": "Daniel Lilayú Vivanco",
     "cargo": "Diputado",
@@ -14258,49 +14253,49 @@
     "distrito": "Distrito 1",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Roberto Flores Salgado",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://media-front.elmostrador.cl/2019/02/flores-700x518.jpg",
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Adela Pizarro González",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 3",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Dan Ibacache Paniagua",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 3",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Marta Galleguillos Torres",
     "cargo": "Diputada",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Rodrigo Andrade Ramírez",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Arturo Ellis Cataldo",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14308,8 +14303,8 @@
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Francisca Pemjean Letelier",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14317,8 +14312,8 @@
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Cristopher Suazo Benavides",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14326,8 +14321,8 @@
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Rafael Muñoz Urrutia",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14335,8 +14330,8 @@
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Ana María Iturralde Peña",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14344,16 +14339,16 @@
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Caterina Simoncelli Fracchia",
     "cargo": "Diputada",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Elisa Rojas Herrera",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14361,25 +14356,51 @@
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "María Teresa Álvarez Aguilar",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
-},
-{
+    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/480623426_2937811743047920_4267609732169808759_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFkUsA0o_bHJ9l3zpS6SAfUYy0rIXrF8ltjLSshesXyW60IC8lj4i9t5t7u-DybGT4&_nc_ohc=aaNMqSf1_A8Q7kNvwG2n0S0&_nc_oc=AdkwtCiIm2XNZ_ZX9RwNgUF0MZB-4f42xoMFRxYE1XPhAMbkq6-h5gHWDSfzjQ0CoVmFJyjtx8mqImu7I0BS1yLQ&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=evDg-ugXlPpIYNxrwRv3kg&oh=00_AfZfGYcSUs7eFECW4jOtYGwyq2-maTNKjyYLfURk4PuANA&oe=68BE4EB6",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
     "nombre": "Máximo Quitral Rojas",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/496103777_10232835354079605_1137161507869340148_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGWfBUGF0qayij5NBj2kyGBxEZlB02DZ3HERmUHTYNncdL87g1wUbcXyw8vS5I8Xxg&_nc_ohc=6A1nxydWszYQ7kNvwHakFuQ&_nc_oc=AdmaBsU-l3GIw6XmlJbGdd49z9JM4JNEJyALRUrzzjOxoG0ygoaSgZ6tYd97NJ-0ET9-gyHzYesAC5wVK5iakH_v&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=litCUksz2bYWYIU3Dm9IMw&oh=00_AfZL4WckzfgBLw8wc1drw07z6jD1pvFJMsJiu3J2eAWUbg&oe=68BE5B53",
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Rossana Tarsetti Guajardo",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14387,8 +14408,8 @@
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Pablo Morales Montoya",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14396,43 +14417,63 @@
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Yessenia Crisóstomo Valenzuela",
     "cargo": "Diputada",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
-},
-{
+    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/214612985_1873930206121161_4879272081993652459_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH_IaE_jlWu8_Iww_J06Fr16YLgvjzxVkzpguC-PPFWTKWKkO7msEhOtsCzFX_bDGA&_nc_ohc=tav9klXywKkQ7kNvwEW9kJz&_nc_oc=AdlSHUdTZikIr6IAfwZRfAjNLoTEsSsGrhLEqu7sYLPXHWHlh6gtDinkYgWxjEweb6of7zZscOBUnHcsrlqkgRxs&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=-_A7YxGLboasyz_cmAlT0g&oh=00_AfYwobfmuV5YSIT0AfuvQLqWJ8DaOQr8vX36YObQaO722g&oe=68BE6423",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
     "nombre": "Richard Tapia Fuentes",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
-},
-{
+    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/460299864_18022367096389357_8095401358504833886_n.jpg?stp=dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGrfIRFMPyPECQtysnqlKVJfn4lsmDwAe9-fiWyYPAB715Rvubs2xrh4UkohWmig2o&_nc_ohc=VMIP73WcGSYQ7kNvwEmTJbf&_nc_oc=Adle7e1KSQJcsQE7_RMPotXtagIlMk2_EZG-QKPFDS1v-ctLGEghXF-9FfYclDsfyz-l0yKuwkz4fhKE4_2UZ35q&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=iEzx-61dJzCCoJVvXAMGBQ&oh=00_Afb6G6teVnXXRtsQ8nowGRB4lcgm-TNqVi9TQXdCjkXeIw&oe=68BE65B4",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
     "nombre": "Amauri Quilaleo Valencia",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://opinion.cooperativa.cl/opinion/site/artic/20150513/imag/foto_0000000120150513125243.jpg",
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Amelia Gallegos Ramírez",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/489506887_1403335010675505_8538706496628382808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFbgFCIO7Rs0YVtmQTNix3jYZCIcrMZXLNhkIhysxlcs-N5TXtTZ82P3_Hg89f1DvQ&_nc_ohc=5o9Wf9SO7OIQ7kNvwFMCud_&_nc_oc=AdliwzZEZ4URpeIDjxOwrU8Fsauaqle4Go3G1XsFqALYyKc04_QYBiiYtw57HPOG91pmr5lOZK3rGfUpfP7JGCfb&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=0kIOO92IZWFPqB0TB_OeYw&oh=00_AfZTKh600pnPUXxxI_qIFgUNQhyLSe6YfIuv60S7MFfQkg&oe=68BE7618",
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Nicole Díaz Navarro",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14440,35 +14481,51 @@
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Viviana Montecinos Suazo",
     "cargo": "Diputada",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
-    "delitos": []
-},
-{
+    "foto": "https://pbs.twimg.com/profile_images/1442273499217813504/h8aa9A1z_400x400.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
     "nombre": "Adrián Lizama Barra",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
-    "delitos": []
-},
-{
+    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/464499756_10233005773751375_6546621034521887078_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH0H2_mdrUdFRHESsqa2uKJw9EHFOKhaYPD0QcU4qFpgwFKj5lQJiuuZvxuZ5VWZT4&_nc_ohc=FYs3m-7OBEYQ7kNvwHDHWRX&_nc_oc=AdmUWzzHD4PLGkCsACtoN-l5MCvzzw3GOjYW25H0JlJBThi9CTfmXE31Jzlnsod5N_esOEnQ1VjPGnfFBCUfOl5x&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=8OC-1K_5xl1VmsVjMrjbJQ&oh=00_Afb0-iA7Juh6PS-rilZ0L3DvwDLR1v1scWqH3j7JIUjKAg&oe=68BE558F",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
     "nombre": "Juan Pino Madrid",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/469508131_122195149130225890_6767830214776459393_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH5f_hhZEMwzeIFZcJuDfvK_Z_xOVjQXWT9n_E5WNBdZKkGVDxrTI8ltXvVTe6VtVc&_nc_ohc=HabAxAUu8V0Q7kNvwGZ2d4D&_nc_oc=AdmBOo1ewF5_xwqB8z4DYtJo5j53bDD148lmVyQCu7aGvrgrkEyXZi8XUgSU3lkkXaFTW7bjWduw1WMDPeY_GfhI&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=_atcUTYM2tuZQ-t7hrrxpA&oh=00_AfZMVr9v1EcYDSoY_28C3ef-o321LmKMOX4vqEPhJmEvDQ&oe=68BE5FC8",
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Sergio Flores Ramírez",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14476,8 +14533,8 @@
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Alejandra Barrientos Vargas",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14485,8 +14542,8 @@
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Luis Donoso Uribe",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14494,8 +14551,8 @@
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "María Celeste Jiménez Riveros",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14503,8 +14560,8 @@
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Pedro Grossi Robles",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14512,8 +14569,8 @@
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Daniela King Reyes",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14521,16 +14578,16 @@
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Gary Núñez Ordoña",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Jorge Palma Acuña",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14538,8 +14595,8 @@
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Matías Reyes Vargas",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14547,8 +14604,8 @@
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Carolina Venegas Rivera",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14556,24 +14613,24 @@
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Ibar Zepeda Alcota",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Nelson Peña Gallardo",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Guillermo González Castro",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14581,16 +14638,16 @@
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "María Angélica Romero Donoso",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Elio Zárate Moraga",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14598,8 +14655,8 @@
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Nicolás Romero Reeves",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14607,8 +14664,8 @@
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Ninoska Henríquez Araya",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14616,16 +14673,16 @@
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Elizabeth Tudela Cruz",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Natalia Garrido Toro",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14633,8 +14690,8 @@
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "René Valle Toro",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14642,8 +14699,8 @@
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Rafael Harvey Valdés",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14651,16 +14708,16 @@
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Juan Carlos Zurita Medina",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Paula Ocares Cerda",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14668,8 +14725,8 @@
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Dominique Muñoz Venegas",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14677,16 +14734,16 @@
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Catalina Valenzuela Maureira",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Jorge Muñoz Reyes",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14694,16 +14751,16 @@
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Fernando Vilches Céspedes",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Gazzi Jacob Muñoz",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14711,8 +14768,8 @@
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Marisela Petersen Basáez",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14720,8 +14777,8 @@
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Ricardo Martínez Valencia",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14729,8 +14786,8 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Gustavo González Araya",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14738,8 +14795,8 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Abraham Muñoz Vilches",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14747,16 +14804,16 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Jasmín Donoso Romero",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Dina Figueroa Mardones",
     "cargo": "Diputada",
     "partido": "Independiente",
@@ -14764,8 +14821,8 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Felipe Pino Castillo",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14773,8 +14830,8 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Héctor Valdés Reyes",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14782,8 +14839,8 @@
     "distrito": "Distrito 14",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "César Uribe Araya",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14791,16 +14848,16 @@
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Eduardo Savattini Núñez",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Susana Yáñez Balague",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14808,16 +14865,16 @@
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Valentina Ibarra Moya",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "James Mery Bell",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14825,8 +14882,8 @@
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Patricio San Martín Solís",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14834,32 +14891,32 @@
     "distrito": "Distrito 19",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Javier Sandoval Ojeda",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Camila Arriagada González",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Ximena Muñoz Vallejos",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Eliana Quevedo Hernández",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14867,8 +14924,8 @@
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Mauricio Sandoval Salazar",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14876,8 +14933,8 @@
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Angélica Álvarez Rodríguez",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14885,8 +14942,8 @@
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Silvia Santibáñez Mancilla",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14894,8 +14951,8 @@
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Javier del Río Richter",
     "cargo": "Diputado",
     "partido": "Independiente",
@@ -14903,15 +14960,15 @@
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Carla Burgos Escobar",
     "cargo": "Diputada",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 21",
     "foto": null,
     "delitos": []
-},
+  },
   {
     "nombre": "Jorge Franklin Dunstan Pavéz",
     "cargo": "Diputado",
@@ -14919,55 +14976,55 @@
     "distrito": "Distrito 5",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Francisco Javier Lizana Donoso",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Jacqueline Patricia Alarcon Borquez",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Valentina Castillo Reyes",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 12",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Leyla Massiel Jara López",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "César Abraham Suay Jeréz",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
-{
+  },
+  {
     "nombre": "Darlyng Fuentes Gómez",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
     "foto": null,
     "delitos": []
-},
+  },
   {
     "nombre": "Igor Contreras Jeria",
     "cargo": "Diputado",
@@ -15397,8 +15454,23 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 12",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/3/39/Pamela_Jiles_Moreno.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
   },
   {
     "nombre": "Pablo Antonio Maltes Biskupovic",
@@ -15551,7 +15623,6 @@
     "distrito": "Distrito 11",
     "foto": null,
     "delitos": []
-
   },
   {
     "nombre": "Eliana Sanhueza Ortiz",
@@ -15762,14 +15833,6 @@
     "delitos": []
   },
   {
-    "nombre": "Christian Vitori Muñoz",
-    "cargo": "Diputado",
-    "partido": "FRVS",
-    "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
-  },
-  {
     "nombre": "Paula Huechaqueo Rojas",
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
@@ -15805,7 +15868,7 @@
     "nombre": "Carlos García Álvarez",
     "cargo": "Diputado",
     "partido": "Independiente ",
-    "independientePor":"Partido Humanista",
+    "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
@@ -15929,9 +15992,1120 @@
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
+  },
+  {
+    "nombre": "José Miguel Durana Semir",
+    "cargo": "senador",
+    "partido": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 1",
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/5/51/Jos%C3%A9_Miguel_Alberto_Durana_Semir.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
+    "nombre": "Enrique Segundo Lee Flores",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Democratas",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/a/a2/Enrique_Lee_Flores.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
+    "nombre": "Sandra Cecilia Zapata Velásquez",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Renovacion nacional",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/404982374_10230342866337258_4907727941670021383_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFvHsB4auF9Xb8hwev_WIaCiqLqZL4H2CeKoupkvgfYJ1qL064Jro2TSMLjWeFkID4&_nc_ohc=UxvEnNRox8sQ7kNvwEbsx1u&_nc_oc=AdnDYvZisIQ4uVvT3lJmI93vELukAR0aXTvLTS19lNR0jG5k2wt0ElYBY8-xwyE2IjJn042J_8AUujzSB2AD13KH&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=ShRDp2CFzIl3_sJLOaQehQ&oh=00_AfZoUzqktWemzdQXfCVHbpWWZ-8-MRXKe9S41V4LObCBSg&oe=68BE7C1A",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
+    "nombre": "Cinthia Vargas Morales",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Partido Socialista",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://media.licdn.com/dms/image/v2/D5603AQHBmfA0jXq2Jg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690420198130?e=2147483647&v=beta&t=cmWkzplAWburpi2JkHKqPTzIuB8mcefsSi8HjD433N8",
+    "delitos": []
+  },
+  {
+    "nombre": "Vlado Mirosevic Verdugo",
+    "cargo": "senador",
+    "partido": "Partido Liberal",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/f/fc/Vlado_Mirosevic_Verdugo.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
+    "nombre": "Carmen Hertz Cádiz",
+    "cargo": "senador",
+    "partido": "Partido Comunista",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/f/fe/Carmen_Adelaida_Hertz_C%C3%A1diz.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
+    "nombre": "Claudio Ojeda Murillo",
+    "cargo": "senador",
+    "partido": "Partido Humanista",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://pbs.twimg.com/profile_images/912284684222156802/SqULS944_400x400.jpg",
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Chellew Stambuk",
+    "cargo": "senador",
+    "partido": "Partido Humanista",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://serviciosturisticos.sernatur.cl/folder/empresas/emp_8236084/inscripcion_66307/phpP6z2Ap.jpg",
+    "delitos": []
+  },
+  {
+    "nombre": "Friedrich Renard Mencía Poconi",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/509360628_614508588333589_6672314530040041624_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFjjCT8O9aVBywg_sASYEKN1HFVnknr7o3UcVWeSevujUGyySCwtC49uVeOX8XWLAE&_nc_ohc=fKBRj7RCWvYQ7kNvwEvEura&_nc_oc=AdkhGCq4ssy3jX3Fn5TTETPvrnp_hiPP9cXBvVs5iLy_4qagFyTOiNkDwAKjZP_AXrsFkTHQflReqLZKgeRSYTQ4&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=ER6p3jPWDaaSLuCUbiNVZA&oh=00_AfakEO0dDpUD3GemdMee6xTpwgfY3j9M7s6mFH1PxR3qRg&oe=68BE688A",
+    "delitos": []
+  },
+  {
+    "nombre": "Fernando Fernández",
+    "cargo": "senador",
+    "partido": "Popular",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mauricio Paredes Escanilla",
+    "cargo": "senador",
+    "partido": "Federacion Regionalista Verde Social",
+    "distrito": "Circunscripcion senatorial 1",
+    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/540779032_10161935426498250_5075047829208216578_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHJFbl_5BIZ0OW2SxHyeBsLTF9R5VDoUvpMX1HlUOhS-qBW7tayjIr_Dguceq2GU3w&_nc_ohc=uFdEeJ97uAoQ7kNvwGvSeEt&_nc_oc=AdlE562sHbm0GTCf-aaXlftxUmBZYH-goLSAU4gi0tAlBaeE0bS1Uf5SOPPnRgskHpq_iSLfhC530k9iyAnG65Bp&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=K8IFg8mt04fwokR8r6JBOQ&oh=00_AfbFN3yWsmgRBH5vczQSjeq1iBDctGWBHotnEaRbUngNKw&oe=68BE94C4",
+    "delitos": []
+  },
+  {
+    "nombre": "Luz Ebensperger Orrego",
+    "cargo": "senador",
+    "partido": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 2",
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/getimagenbiografia?url=Luz_Eliana_Ebensperger_Orrego.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular"
+      }
+    ]
+  },
+  {
+    "nombre": "Lucrecia Mena Acosta",
+    "cargo": "senador",
+    "partido": "Renovacion Nacional",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Zavala Valenzuel",
+    "cargo": "senador",
+    "partido": "Democratas",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Renzo Trisotti Martínez",
+    "cargo": "senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karen Heyne Bolados",
+    "cargo": "senador",
+    "partido": "Partido Republicano De Chile",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Solange del Carmen Jiménez Dinamarca",
+    "cargo": "senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Danisa Alejandra Astudillo Peiretti",
+    "cargo": "senador",
+    "partido": "Partido Socialista",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Gonzalo Prieto Navarrete",
+    "cargo": "senador",
+    "partido": "Partido por la Democracia",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Hugo Gutiérrez Gálvez",
+    "cargo": "senador",
+    "partido": "Partido Comunista",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Carlos Huerta Moraga",
+    "cargo": "senador",
+    "partido": "Partido Humanista",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marta Beatriz Cortés Zapata",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "José Luis Paredes Cortés",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paola Andrea Alzamora Aguirre",
+    "cargo": "senador",
+    "partido": "Accion Humanista",
+    "distrito": "Circunscripcion senatorial 2",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rafael Prohens Espinosa",
+    "cargo": "senador",
+    "partido": "Renovacion Nacional",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Giovanni Calderon Bassi",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Evopoli",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Nicolas Noman Garrido",
+    "cargo": "senador",
+    "partido": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sofia Cid Versalovic",
+    "cargo": "senador",
+    "partido": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ulises Carabantes Ahumada",
+    "cargo": "senador",
+    "partido": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Milka Mercedes del Canto Urrelo",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Partido Social Cristiano",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Yasna Provoste Campillay",
+    "cargo": "senador",
+    "partido": "Democrata Cristiano",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniella Cicardini Milla",
+    "cargo": "senador",
+    "partido": "Partido Socialista",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Arturo Fernandez Diaz",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Partido Igualdad",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marina Caceres Carvajal",
+    "cargo": "senador",
+    "partido": "Partido Igualdad",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sebastian Vicente Carmona Orquera",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 4",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andres Longton Herrera",
+    "cargo": "senador",
+    "partido": "Renovacion Nacional",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Camila Flores Oporto",
+    "cargo": "senador",
+    "partido": "Renovacion Nacional",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Daniel Verdessi Belemm",
+    "cargo": "senador",
+    "partido": "Democratas",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Monserrat Alessandri Spencer",
+    "cargo": "senador",
+    "partido": "Democratas",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Maria Paz Santelices Canas",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Maria Jose Hoffmann Opazo",
+    "cargo": "senador",
+    "partido": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Arturo Squella Ovalle",
+    "cargo": "senador",
+    "partido": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alberto Soto Valenzuela",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Soledad Loyola Vera",
+    "cargo": "senador",
+    "partido": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Julio Antonio Martinez Colina",
+    "cargo": "senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Veronica Loreto Pia Vega Orellana",
+    "cargo": "senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Esteban Hernan Barahona Contreras",
+    "cargo": "senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Karol Aida Cariola Oliva",
+    "cargo": "senador",
+    "partido": "Partido Comunista",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carolina Marzan Pinto",
+    "cargo": "senador",
+    "partido": "Partido por la Democracia",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Diego Ibanez Cotroneo",
+    "cargo": "senador",
+    "partido": "Frente Amplio",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Monica Alicia Valencia Becerra",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Partido Liberal",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jazmin Marion Aguilar Ortiz",
+    "cargo": "senador",
+    "partido": "Partido Radical",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jose Miguel Insulza Salinas",
+    "cargo": "senador",
+    "partido": "Partido Socialista",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marcela Patricia del Sol Hallett",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudio Abraham Uribe Hernandez",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Elias Ybo Canelo Perez",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Diego Alonso Cortez Barrera",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Manuel Mauricio Woldarsky Gonzalez",
+    "cargo": "senador",
+    "partido": "Accion Humanista",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Patricia Araya Toro",
+    "cargo": "senador",
+    "partido": "Accion Humanista",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "German Correa Diaz",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Federacion Regionalista Verde Social",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Yessica Flandez Flandez",
+    "cargo": "senador",
+    "partido": "Federacion Regionalista Verde Social",
+    "distrito": "Circunscripcion senatorial 6",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ximena Rincon Gonzalez",
+    "cargo": "senador",
+    "partido": "Democratas",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ian Mac-Niven Carlsson",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Democratas",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Hugo Rey Martinez",
+    "cargo": "senador",
+    "partido": "Renovacion Nacional",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Andrea Balladares Letelier",
+    "cargo": "senador",
+    "partido": "Renovacion Nacional",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Patricia Labra Besserer",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Antonio Coloma Alamos",
+    "cargo": "senador",
+    "partido": "Union Democrata Independiente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Castro Prieto",
+    "cargo": "senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Camila Ester Soto Rodriguez",
+    "cargo": "senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Segundo Gonzalez Lopez",
+    "cargo": "senador",
+    "partido": "Partido Social Cristiano",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ignacio Urrutia Bonilla",
+    "cargo": "senador",
+    "partido": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Vial Maceratta",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Partido Republicano de Chile",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pablo Andres Catalan Ramirez",
+    "cargo": "senador",
+    "partido": "Partido Nacional Libertario",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paulina Eugenia Vodanovic Rojas",
+    "cargo": "senador",
+    "partido": "Partido Socialista",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Sixto Gonzalez Soto",
+    "cargo": "senador",
+    "partido": "Partido Comunista",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Beatriz Sanchez Munoz",
+    "cargo": "senador",
+    "partido": "Frente Amplio",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ricardo Lizama Soto",
+    "cargo": "senador",
+    "partido": "Partido por la Democracia",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Carlos Figueroa Urrutia",
+    "cargo": "senador",
+    "partido": "Democrata Cristiano",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alexis Edgardo Sepulveda Soto",
+    "cargo": "senador",
+    "partido": "Partido Radical",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Kim Gutierrez",
+    "cargo": "senador",
+    "partido": "Alianza Verde Popular",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carlos Ravera",
+    "cargo": "senador",
+    "partido": "Alianza Verde Popular",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Mario Antonio Campos Rojas",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Claudia Andrea Sosa Flores",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Paulina Miranda Barriga",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cecilia Gonzalez Bello",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Yenny Andrea Soto Avendano",
+    "cargo": "senador",
+    "partido": "Partido de la Gente",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Augusto Duran Martinez",
+    "cargo": "senador",
+    "partido": "Accion Humanista",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Tomas Juan Bize Brintrup",
+    "cargo": "senador",
+    "partido": "Accion Humanista",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Alejandra Molina Tobar",
+    "cargo": "senador",
+    "partido": "Federacion Regionalista Verde Social",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carla Fernandez Riffo",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Federacion Regionalista Verde Social",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jaime Naranjo Ortiz",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "Federacion Regionalista Verde Social",
+    "distrito": "Circunscripcion senatorial 9",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Henry Leal Bizama",
+    "cargo": "senador",
+    "partido": "union democrata independiente",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Andres Luchsinger Mackay",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "union democrata independiente",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Carola Del Carmen Elgueta Fernandez",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "democratas",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Monica Lagos Meier",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "democratas",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Rathgeb Schifferli",
+    "cargo": "senador",
+    "partido": "renovacion nacional",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Miguel Becker Alvear",
+    "cargo": "senador",
+    "partido": "renovacion nacional",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Vanessa Kaiser Barents-Von Hohenhagen",
+    "cargo": "senador",
+    "partido": "partido nacional libertario",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cesar Augusto Vargas Zurita",
+    "cargo": "senador",
+    "partido": "partido nacional libertario",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Anita Pilar de Arzumendi Cifuentes",
+    "cargo": "senador",
+    "partido": "partido social cristiano",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pablo Hernan Becker Vasquez",
+    "cargo": "senador",
+    "partido": "partido social cristiano",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ruth Hurtado Olave",
+    "cargo": "senador",
+    "partido": "partido republicano de chile",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodolfo Carter Fernandez",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido republicano de chile",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Francisco Huenchumilla Jaramillo",
+    "cargo": "senador",
+    "partido": "democrata cristiano",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Elisa del Carmen Loncon Antileo",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido comunista",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ricardo Celis Araya",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido por la democracia",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Eugenio Tuma Zedan",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido liberal",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ronald Ariel Kliebs Yanez",
+    "cargo": "senador",
+    "partido": "partido socialista",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Cristian Epuin Brevis",
+    "cargo": "senador",
+    "partido": "partido radical",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Viviana del Carmen Manriquez Mora",
+    "cargo": "senador",
+    "partido": "partido de la gente",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Juan Francisco Madariaga Mendez",
+    "cargo": "senador",
+    "partido": "partido de la gente",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Pamela Gladys Correa Quezada",
+    "cargo": "senador",
+    "partido": "partido de la gente",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Marisel Pedreros Venegas",
+    "cargo": "senador",
+    "partido": "partido de la gente",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Aucan Huilcaman Paillama",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido ecologista verde",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jal Yjade Evila",
+    "cargo": "senador",
+    "partido": "partido ecologista verde",
+    "distrito": "Circunscripcion senatorial 11",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Manuel Benito Anabalon Jeldres",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido social cristiano",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Belen Oyarzun Eihhorst",
+    "cargo": "senador",
+    "partido": "partido republicano de chile",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Felipe Andres Henriquez Raglianti",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido nacional libertario",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Ximena Ordenes Neira",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "partido por la democracia",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Tomas Caleb Laibe Saez",
+    "cargo": "senador",
+    "partido": "partido socialista",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Rodrigo Araya Morales",
+    "cargo": "senador",
+    "partido": "frente amplio",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Miguel Angel Calisto",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "federacion regionalista verde social",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Eugenio Canales Canales",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "federacion regionalista verde social",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
+  },
+  {
+    "nombre": "Jorge Avello Moll",
+    "cargo": "senador",
+    "partido": "independiente",
+    "independientePor": "federacion regionalista verde social",
+    "distrito": "Circunscripcion senatorial 14",
+    "foto": null,
+    "delitos": []
   }
-
 ]
-
-
-

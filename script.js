@@ -345,7 +345,8 @@
 
         if (p.includes("partido de trabajadores revolucionarios") || p === "ptr" || p.includes("upa") || p === "upa")
             return "Extrema Izquierda";
-        if (p.includes("partido comunista") || p === "pc" || p.includes("partido socialista") || p === "ps")
+        if (p.includes("partido comunista") || p === "pc" || p.includes("partido socialista") || p === "ps" ||
+            p.includes("partido humanista") || p === "ph")
             return "Izquierda";
         if (p.includes("frente amplio") || p === "fa" ||
             p.includes("partido por la democracia") || p === "ppd" ||
@@ -551,8 +552,12 @@
         const filtered = ALL.filter((c) => {
             const byOffice = fOffice ? norm(c.cargo).startsWith(fOffice) : true;
             const byName = fName ? norm(c.nombre).includes(fName) : true;
-            const byParty = fParty ? norm(c.partido) === fParty : true;
+            const byParty = fParty
+                ? norm(c.partido) === fParty || (c.independientePor && norm(c.independientePor) === fParty)
+                : true;
+
             const byDistrict = fDistrict ? norm(c.distrito) === fDistrict : true;
+
             return byOffice && byName && byParty && byDistrict;
         }).sort((a, b) => {
             const oa = officeOrder(a.cargo);
@@ -606,27 +611,27 @@
                 $party.appendChild(option);
             });
 
-          const districts = [...new Set(ALL.map(c => c.distrito).filter(d => d && d.toString().trim() !== ""))];
+            const districts = [...new Set(ALL.map(c => c.distrito).filter(d => d && d.toString().trim() !== ""))];
 
-districts.sort((a, b) => {
-    const tipoA = a.toString().toLowerCase().includes("circunscripción") ? 1 : 0;
-    const tipoB = b.toString().toLowerCase().includes("circunscripción") ? 1 : 0;
+            districts.sort((a, b) => {
+                const tipoA = a.toString().toLowerCase().includes("circunscripcion") ? 1 : 0;
+                const tipoB = b.toString().toLowerCase().includes("circunscripcion") ? 1 : 0;
 
-    if (tipoA !== tipoB) return tipoA - tipoB; // primero Distritos, luego Circunscripciones
+                if (tipoA !== tipoB) return tipoA - tipoB; // primero Distritos, luego Circunscripciones
 
-    const numA = parseInt(a.toString().match(/\d+/)?.[0]) || 0;
-    const numB = parseInt(b.toString().match(/\d+/)?.[0]) || 0;
+                const numA = parseInt(a.toString().match(/\d+/)?.[0]) || 0;
+                const numB = parseInt(b.toString().match(/\d+/)?.[0]) || 0;
 
-    return numA - numB;
-});
+                return numA - numB;
+            });
 
-$district.innerHTML = '<option value="">Todos los distritos</option>';
-districts.forEach(d => {
-    const option = document.createElement("option");
-    option.value = d;  // texto original
-    option.textContent = d;
-    $district.appendChild(option);
-});
+            $district.innerHTML = '<option value="">Todos los distritos</option>';
+            districts.forEach(d => {
+                const option = document.createElement("option");
+                option.value = d;  // texto original
+                option.textContent = d;
+                $district.appendChild(option);
+            });
 
 
             $district.innerHTML = '<option value="">Todos los distritos</option>'; // limpiar select
@@ -710,26 +715,26 @@ districts.forEach(d => {
         }
     }
 
-window.mostrarEquivalencias = function(candidato, monto) {
-  const equivalenciasDiv = document.getElementById("equivalencias");
-  const seleccion = document.getElementById("comparacion").value;
+    window.mostrarEquivalencias = function (candidato, monto) {
+        const equivalenciasDiv = document.getElementById("equivalencias");
+        const seleccion = document.getElementById("comparacion").value;
 
-  // Costos de referencia
-  const costos = {
-    ambulancia: { valor: 4000000, label: "🚑 Medico Cirujano  <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $4.000.000</span>"},
-    vivienda:   { valor: 7000000,  label: "🏠 Viviendas sociales de emergencia <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $7.000.000</span>" },
-    auto:       { valor: 21990000,  label: "🚓 Autos de policía <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $21.990.000</span>" },
-    pasaje:       { valor:870,  label: "🚌 Pasajes del Transantiago <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $870</span>" }
-  };
+        // Costos de referencia
+        const costos = {
+            ambulancia: { valor: 4000000, label: "🚑 Medico Cirujano  <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $4.000.000</span>" },
+            vivienda: { valor: 7000000, label: "🏠 Viviendas sociales de emergencia <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $7.000.000</span>" },
+            auto: { valor: 21990000, label: "🚓 Autos de policía <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $21.990.000</span>" },
+            pasaje: { valor: 870, label: "🚌 Pasajes del Transantiago <br><span style='font-size:0.9rem; color:#facc15;'>Valor de referencia: $870</span>" }
+        };
 
-  const costo = costos[seleccion];
-  const cantidad = Math.floor(Number(monto) / costo.valor);
+        const costo = costos[seleccion];
+        const cantidad = Math.floor(Number(monto) / costo.valor);
 
-  equivalenciasDiv.innerHTML = `
+        equivalenciasDiv.innerHTML = `
     <h4>Con el reembolso a <b>${candidato}</b> se podrían financiar aproximadamente:</h4>
     <p><b>${cantidad}</b> ${costo.label}</p>
   `;
-};
+    };
 
 
     // ------------------ Función para gráfico de delitos por partido (robusta) ------------------
