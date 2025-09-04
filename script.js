@@ -468,13 +468,64 @@
 
 
                 let vecesElecciones = 0;
+
                 if (Array.isArray(c.elecciones) && c.elecciones.length) {
-                    vecesElecciones = c.elecciones.filter(e => e.tipo === "popular").length;
+                    // Filtrar solo elecciones populares
+                    const eleccionesPopulares = c.elecciones.filter(e => e.tipo === "popular");
+
+                    vecesElecciones = eleccionesPopulares.length;
+
+                    // Solo mostrar detalle si el cargo es Senador
+                    if (c.cargo && c.cargo.toLowerCase() === "senador") {
+                        const elecDiv = document.createElement("div");
+                        elecDiv.className = "elecciones-info";
+
+                        // Cabecera con título y flecha
+                        const header = document.createElement("div");
+                        header.className = "elecciones-header";
+                        header.innerHTML = `
+            <span>Elecciones Populares (${vecesElecciones})</span>
+            <span class="flecha">▶</span>
+        `;
+                        elecDiv.appendChild(header);
+
+                        // Contenedor colapsable
+                        const detallesWrapper = document.createElement("div");
+                        detallesWrapper.className = "elecciones-detalles hidden";
+
+                        // Recorrer elecciones populares
+                        eleccionesPopulares.forEach(e => {
+                            const detalle = document.createElement("div");
+                            detalle.className = "eleccion-detalle";
+                            detalle.innerHTML = `
+                <p><strong>Año:</strong> ${e.anio || "N/A"}</p>
+                <p><strong>Elección:</strong> ${e.nombre || "N/A"}</p>
+                <p><strong>Territorio:</strong> ${e.territorio || "N/A"}</p>
+                <p><strong>Partido:</strong> ${e.partido || "N/A"}</p>
+                <p><strong>Cantidad de votos:</strong> ${e.votos?.toLocaleString("es-CL") || "N/A"}</p>
+            `;
+                            detallesWrapper.appendChild(detalle);
+                        });
+
+                        elecDiv.appendChild(detallesWrapper);
+                        card.appendChild(elecDiv);
+
+                        // Evento para abrir/cerrar
+                        header.addEventListener("click", () => {
+                            detallesWrapper.classList.toggle("hidden");
+                            header.querySelector(".flecha").textContent =
+                                detallesWrapper.classList.contains("hidden") ? "▶" : "▼";
+                        });
+
+                    } else {
+                        // Para los demás candidatos solo mostrar número de veces
+                        const elecDiv = document.createElement("div");
+                        elecDiv.className = "elecciones-info";
+                        elecDiv.textContent = `Se ha presentado ${vecesElecciones} veces a elecciones populares`;
+                        card.appendChild(elecDiv);
+                    }
                 }
-                const elecDiv = document.createElement("div");
-                elecDiv.className = "elecciones-info";
-                elecDiv.textContent = `Se ha presentado ${vecesElecciones} veces a elecciones populares`;
-                card.appendChild(elecDiv);
+
 
                 if (Array.isArray(c.delitos) && c.delitos.length) {
                     const wrap = document.createElement("div");

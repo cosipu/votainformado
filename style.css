@@ -144,15 +144,48 @@ header {
 /* gris */
 
 .elecciones-info {
-    background-color: #1e3a8a;
-    /* azul oscuro */
+    background-color: #1e3a8a; /* azul oscuro */
     color: white;
-    padding: 4px 8px;
-    margin-top: 4px;
-    border-radius: 4px;
+    padding: 8px 12px;
+    margin-top: 6px;
+    border-radius: 6px;
     font-size: 0.9em;
-    text-align: center;
+    text-align: left; /* ahora hacia la izquierda */
 }
+
+.elecciones-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    padding-bottom: 4px;
+}
+
+.elecciones-detalles {
+    margin-top: 8px;
+}
+
+.eleccion-detalle {
+    margin-bottom: 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.eleccion-detalle:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.eleccion-detalle p {
+    margin: 2px 0;
+}
+
+.hidden {
+    display: none;
+}
+
 
 
 .case a {
