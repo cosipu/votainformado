@@ -2803,12 +2803,20 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Independiente",
+        "votos": 666015
       },
-      {
+        {
         "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Partido de la Gente",
+        "votos": 900064
       }
     ]
   },
@@ -4034,7 +4042,7 @@
     "delitos": []
   },
   {
-    "nombre": "Jeannette Jara",
+    "nombre": "Jeannette Jara Guajardo",
     "cargo": "Presidente Nacional",
     "partido": "Partido Comunista",
     "distrito": null,
@@ -4051,13 +4059,17 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Independiente",
+        "votos": 719
       }
     ]
   },
   {
-    "nombre": "Evelyn Matthei",
+    "nombre": "Evelyn Matthei Fornet",
     "cargo": "Presidente Nacional",
     "partido": "Unión Demócrata Independiente",
     "distrito": null,
@@ -4074,36 +4086,68 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1989,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Renovación Nacional",
+        "votos": 79595
+      },
+      {
+        "anio": 1993,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 15",
+        "partido": "Independiente ",
+        "votos": 19572
+      },
+      {
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 4",
+        "partido": "Independiente ",
+        "votos": 50281
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 4",
+        "partido": "Union Democrata Independiente",
+        "votos": 71697
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Union Democrata Independiente",
+        "votos": 1648481
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Segunda vuelta Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Union Democrata Independiente",
+        "votos": 2111891
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Providencia",
+        "partido": "Union Democrata Independiente",
+        "votos": 32092
       },
       {
         "anio": 2021,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2021,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2021,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Providencia",
+        "partido": "Union Democrata Independiente",
+        "votos": 46890
       }
     ]
   },
@@ -4115,7 +4159,7 @@
     "foto": "https://finis.cl/wp-content/uploads/2025/05/jose-kast.jpg",
     "posturas": {
       "Aborto legal": "NO",
-      "Fin de las AFP": "NO, TERMINAR CON EL PRESTAMO AL ESTADO",
+      "Fin de las AFP": "NO",
       "Combatir el narcotrafico": "Si",
       "Salud Digna y de calidad": "?",
       "Aumento sueldo mínimo": "NO",
@@ -4139,31 +4183,67 @@
     "elecciones": [
       {
         "anio": 1996,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Buin",
+        "partido": "Independiente ",
+        "votos": 6316
       },
       {
         "anio": 2001,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 30",
+        "partido": "Union Democrata Independiente",
+        "votos": 48025
       },
       {
         "anio": 2005,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 30",
+        "partido": "Union Democrata Independiente",
+        "votos": 47950
       },
       {
         "anio": 2009,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 30",
+        "partido": "Union Democrata Independiente",
+        "votos": 53423
       },
       {
         "anio": 2013,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Union Democrata Independiente",
+        "votos": 24471
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Independiente",
+        "votos": 523375
       },
       {
         "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Partido Republicano De Chile",
+        "votos": 1961779
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Segunda vuelta Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Partido Republicano De Chile",
+        "votos": 3650662
       }
     ]
   },
@@ -4178,15 +4258,19 @@
       "Fin de las AFP": "NO",
       "Combatir el narcotrafico": "Si",
       "Salud Digna y de calidad": "SI",
-      "Aumento sueldo mínimo": "BAJAR EL SUELDO MINIMO A JOVENES",
-      "Nacionalización Cobre y Litio": "PRIVATIZACION PARCIAL O TOTAL DE CODELCO",
+      "Aumento sueldo mínimo": "NO",
+      "Nacionalización Cobre y Litio": "NO",
       "Seguridad (cierre de Fronteras)": "Si"
     },
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Partido Republicano De Chile",
+        "votos": 26709
       }
     ]
   },
@@ -4209,23 +4293,43 @@
     "elecciones": [
       {
         "anio": 2005,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Partido Socialista",
+        "votos": 46590
       },
       {
         "anio": 2009,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Independiente ",
+        "votos": 1405124
       },
       {
         "anio": 2013,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Partido Progresista",
+        "votos": 723542
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Partido Progresista",
+        "votos": 376871
       },
       {
         "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "Partido Progresista",
+        "votos": 534383
       }
     ]
   },
@@ -4264,16 +4368,28 @@
     "delitos": [],
     "elecciones": [
       {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 7",
+        "partido": "Independiente ",
+        "votos": 48329
+      },
+      {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "UPA",
+        "votos": 33665
       },
       {
         "anio": 2021,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Presidente",
+        "territorio": "Nacional",
+        "partido": "UPA",
+        "votos": 102897
       }
     ]
   },
@@ -4497,7 +4613,7 @@
     "nombre": "Ximena Naranjo Pinto",
     "cargo": "Diputado",
     "partido": "Independiente",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 2",
     "foto": "https://pbs.twimg.com/profile_images/1922006138293309440/hrEwlhj8_400x400.jpg",
     "delitos": [],
@@ -5157,7 +5273,7 @@
     "nombre": "Tania Borcosky Ramírez",
     "cargo": "Diputado",
     "partido": "Independiente ",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 4",
     "foto": "https://www.nostalgica.cl/wp-content/uploads/2025/08/tania-1.jpg",
     "delitos": []
@@ -6031,7 +6147,7 @@
     "nombre": "Javier Crasemann Alfonso",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 6",
     "foto": null,
     "delitos": []
@@ -6040,7 +6156,7 @@
     "nombre": "Catalina Otero Pérez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 6",
     "foto": null,
     "delitos": []
@@ -6048,7 +6164,7 @@
   {
     "nombre": "Viviana Núñez Carrasco",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 6",
     "foto": null,
     "delitos": []
@@ -6493,7 +6609,7 @@
     "nombre": "Hotuiti Teao Drago",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 7",
     "foto": null,
     "delitos": []
@@ -6973,7 +7089,7 @@
     "nombre": "Sebastián Keitel Rondón",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
@@ -6981,7 +7097,7 @@
   {
     "nombre": "Beatriz Lagos Campos",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
@@ -6989,7 +7105,7 @@
   {
     "nombre": "Mario Olavarría Rodríguez",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": []
@@ -7365,7 +7481,7 @@
   {
     "nombre": "Guillermo Ramírez Diez",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 9",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/8/8f/Guillermo_Andr%C3%A9s_Ram%C3%ADrez_Diez.jpg",
     "delitos": [
@@ -7389,7 +7505,7 @@
   {
     "nombre": "Jose Miguel González Zapata",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 9",
     "foto": "https://media.licdn.com/dms/image/v2/D4E03AQE4VrdyTIxgQQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713967599296?e=2147483647&v=beta&t=7Lh19SxvtN2Y0pHOlB77ew5jKWf5gXa-9P7Zcu2HmqY",
     "delitos": [],
@@ -7871,7 +7987,7 @@
   {
     "nombre": "Jorge Alessandri Vergara",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 10",
     "reeleccion": true,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/4c/Jorge_Iv%C3%A1n_Alessandri_Vergara.jpg",
@@ -7899,7 +8015,7 @@
     "nombre": "Macarena Zarhi Cordero",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE ",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 10",
     "foto": null,
     "elecciones": [
@@ -7913,7 +8029,7 @@
   {
     "nombre": "María Jesús Schwerter Cabezas",
     "cargo": "Diputado",
-    "partido": "Union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 10",
     "foto": null,
     "elecciones": [
@@ -8929,7 +9045,7 @@
     "nombre": "Claudia Rasso Socias",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE ",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 12",
     "foto": "https://encuadrado-user-uploads.s3.amazonaws.com/cover_photos/user-32957-cover.jpg",
     "delitos": []
@@ -9592,7 +9708,7 @@
     "nombre": "Christian Gómez Díaz",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 14",
     "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/460843118_122132988182348137_6194081174260714925_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF4VD1j-XPN_BgWbgy3ejldq6eLlyPQFo2rp4uXI9AWjc52kmBhkY_l_Ovy1rxmnAc&_nc_ohc=5WncbACM51sQ7kNvwHeurzL&_nc_oc=Adk-_CZcdlqPwec7LnaLtuJe7iLtE3ci3qWuaeKLD3FX-z1hliMKo4UIZEsyichhMXemD2j6iZ1CqPCRQ7b6KZXW&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=nbA7fW2dddJpDdEMD4AE5Q&oh=00_AfWSXw8hDOXi6puLSwPNkdpDkc4LM1eMxXeFU0Ty9ThM_g&oe=68B3DAAD",
     "delitos": [],
@@ -9607,7 +9723,7 @@
     "nombre": "Claudia Castro Gutiérrez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 14",
     "foto": "https://www.votosimple.com/assets/img/candidatepics/Claudia%20Castro%20Guti%C3%A9rrez.jpg",
     "delitos": [],
@@ -10098,7 +10214,7 @@
     "nombre": "Natalia Romero Talguia",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 15",
     "foto": null,
     "delitos": []
@@ -10990,7 +11106,7 @@
     "nombre": "Paula Retamal Urrutia",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 18",
     "foto": null,
     "delitos": []
@@ -11579,7 +11695,7 @@
     "nombre": "Marlene Pérez Cartes",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 20",
     "foto": null,
     "delitos": []
@@ -12065,7 +12181,7 @@
     "nombre": "Mario Gierke Quevedo",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 21",
     "foto": null,
     "delitos": []
@@ -13079,7 +13195,7 @@
     "nombre": "Omar Sabat Guzmán",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 24",
     "foto": null,
     "delitos": []
@@ -13088,7 +13204,7 @@
     "nombre": "Ann Hunter Gutiérrez",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 24",
     "foto": null,
     "delitos": []
@@ -13366,7 +13482,7 @@
     "nombre": "Ramon Bahamonde Cea",
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
-    "independientePor": "Union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 25",
     "foto": null,
     "delitos": []
@@ -16277,7 +16393,7 @@
   {
     "nombre": "Lucrecia Mena Acosta",
     "cargo": "senador",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Circunscripcion senatorial 2",
     "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t51.82787-15/535427633_18520031119021194_6715755833201702859_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEKrhLTwJLDK4NtofJr_htAdwsqWMSdZLd3CypYxJ1ktygQ5D2GHnt0ZI7Rz-T7pf8&_nc_ohc=uTBzr8R2vAQQ7kNvwGbUmPz&_nc_oc=AdkrPn0EJExKoOSpWHNQ2yEGDxYiiyGEobVJURVSIdwN4AlPNhc_HstnLFAuJm0y0G-mP7EmmqmGbgUXRzh3q9A8&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=TVsI-Ho4otIRe1pkVSIXzw&oh=00_AfYpLk8BbAP0vxGXQYaP3d5WT8I1h5xvH7korWDFc5BuNw&oe=68BF8A37",
     "delitos": [],
@@ -16287,7 +16403,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Alto hospicio",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 374
       },
       {
@@ -16295,7 +16411,7 @@
         "tipo": "popular",
         "nombre": "Elección de Consejero regional",
         "territorio": "Iquique",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 811
       }
     ]
@@ -16635,7 +16751,7 @@
   {
     "nombre": "Rafael Prohens Espinosa",
     "cargo": "senador",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "reeleccion": true,
     "distrito": "Circunscripcion senatorial 4",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/c/c3/Rafael_Prohens_Espinosa.jpg",
@@ -16655,7 +16771,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Tierra Amarilla",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 1109
       },
       {
@@ -16663,7 +16779,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Copiapo",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 7060
       },
       {
@@ -16671,7 +16787,7 @@
         "tipo": "popular",
         "nombre": "Elección de Senador",
         "territorio": "Circunscripcion senatorial 4",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 17604
       }
     ]
@@ -16748,7 +16864,7 @@
   {
     "nombre": "Sofia Cid Versalovic",
     "cargo": "senador",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 4",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/1/17/Sof%C3%ADa_Slovena_Cid_Versalovic.jpg",
     "delitos": [],
@@ -16774,7 +16890,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 4",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 13325
       },
       {
@@ -16782,7 +16898,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 4",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 5040
       }
     ]
@@ -16790,7 +16906,7 @@
   {
     "nombre": "Ulises Carabantes Ahumada",
     "cargo": "senador",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 4",
     "foto": "https://almuzaralibros.com/autor/4239_autor.jpg",
     "delitos": [
@@ -16920,7 +17036,7 @@
   {
     "nombre": "Andres Longton Herrera",
     "cargo": "senador",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Circunscripcion senatorial 6",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/1/13/Andr%C3%A9s_Longton_Herrera.jpg",
     "delitos": [],
@@ -16930,7 +17046,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 6",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 38874
       },
       {
@@ -16938,7 +17054,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 6",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 38874
       }
     ]
@@ -16946,7 +17062,7 @@
   {
     "nombre": "Camila Flores Oporto",
     "cargo": "senador",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Circunscripcion senatorial 6",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/8/8b/Camila_Alejandra_Flores_Oporto.jpg",
     "delitos": [],
@@ -16956,7 +17072,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 6",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 15238
       },
       {
@@ -16964,7 +17080,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 6",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 16480
       }
     ]
@@ -17062,7 +17178,7 @@
         "tipo": "popular",
         "nombre": "Elección de Consejero regional",
         "territorio": "Marga Marga",
-        "partido": "union democrata independiente",
+        "partido": "Union Democrata Independiente",
         "votos": 13229
       },
       {
@@ -17070,7 +17186,7 @@
         "tipo": "popular",
         "nombre": "Elección de Consejero regional",
         "territorio": "Marga Marga",
-        "partido": "union democrata independiente",
+        "partido": "Union Democrata Independiente",
         "votos": 10127
       }
     ]
@@ -17104,7 +17220,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 15",
-        "partido": "Union democrata independiente",
+        "partido": "Union Democrata Independiente",
         "votos": 20585
       },
       {
@@ -17112,7 +17228,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 15",
-        "partido": "Union democrata independiente",
+        "partido": "Union Democrata Independiente",
         "votos": 21870
       },
       {
@@ -17120,7 +17236,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 7",
-        "partido": "Union democrata independiente",
+        "partido": "Union Democrata Independiente",
         "votos": 34690
       },
       {
@@ -17128,7 +17244,7 @@
         "tipo": "popular",
         "nombre": "Elección de Gobierno regional",
         "territorio": "Region de Valpariso",
-        "partido": "Union democrata independiente",
+        "partido": "Union Democrata Independiente",
         "votos": 464230
       }
     ]
@@ -17136,7 +17252,7 @@
   {
     "nombre": "Arturo Squella Ovalle",
     "cargo": "senador",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 6",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/da/Arturo_Squella_Ovalle.jpg",
     "delitos": [],
@@ -17163,7 +17279,7 @@
     "nombre": "Alberto Soto Valenzuela",
     "cargo": "senador",
     "partido": "independiente",
-    "independientePor": "Partido Republicano de Chile",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 6",
     "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/525491256_122116880426935343_6190847379627267652_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGyfMstIEgoVXxABlNsxZR7alcKC3bZKdFqVwoLdtkp0a2utG-jTAr57EFrWZLF_7c&_nc_ohc=W140Frd4MCwQ7kNvwHer0vZ&_nc_oc=AdkjC7kIwSmoE2K40WK8k-BiMxUvrzzxE7BsJO-lc_Uq-XIVUD2z84Guew8yB7PJ_B_K0ef3FDfF7f42VjLuVR80&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=pu7cee9QwKXvcrmkXqZwqA&oh=00_AfaTpxMpTHrjRiEHjP95xtBAedZiZGT0F8ojajJdpP-c9w&oe=68BF7C56",
     "delitos": []
@@ -17171,7 +17287,7 @@
   {
     "nombre": "Soledad Loyola Vera",
     "cargo": "senador",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 6",
     "foto": null,
     "delitos": []
@@ -17496,8 +17612,27 @@
     "cargo": "senador",
     "partido": "Democratas",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/3/3f/Ximena_Rinc%C3%B3n_Gonz%C3%A1lez.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Senadores",
+        "territorio": "Circunscripción Senatorial 11",
+        "partido": "Democrata Cristiano",
+        "votos": 49241
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Senadores",
+        "territorio": "Circunscripción Senatorial 9",
+        "partido": "Democrata Cristiano",
+        "votos": 38750
+      }
+    ]
   },
   {
     "nombre": "Ian Mac-Niven Carlsson",
@@ -17505,23 +17640,94 @@
     "partido": "independiente",
     "independientePor": "Democratas",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://educacioncontinuafecs.unab.cl/wp-content/uploads/2022/05/macniven-ian-250x140.png",
     "delitos": []
   },
   {
     "nombre": "Hugo Rey Martinez",
     "cargo": "senador",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/dd/Hugo_Vicente_Rey_Mart%C3%ADnez.jpg",
+    "delitos": [
+      {
+        "titulo": "Fraude al fisco",
+        "fuente": "https://la7.cl/2018/01/03/diputado-electo-hugo-rey-martinez-cuestionado-por-contraloria/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Curico",
+        "partido": "Independiente",
+        "votos": 643
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Curico",
+        "partido": "Union Democrata Independiente",
+        "votos": 7724
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Curico",
+        "partido": "Union Democrata Independiente",
+        "votos": 24464
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Curico",
+        "partido": "Union Democrata Independiente",
+        "votos": 16859
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Curico",
+        "partido": "Union Democrata Independiente",
+        "votos": 14792
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Curico",
+        "partido": "Independiente",
+        "votos": 15048
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 17",
+        "partido": "Renovación Nacional",
+        "votos": 20517
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 17",
+        "partido": "Renovación Nacional",
+        "votos": 17736
+      }
+    ]
   },
   {
     "nombre": "Andrea Balladares Letelier",
     "cargo": "senador",
-    "partido": "Renovacion Nacional",
+    "partido": "Renovación Nacional",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://static.wikia.nocookie.net/althistory/images/3/36/Andrea_Balladares_Letelier_Subsecretaria_%282021%29.jpg/revision/latest?cb=20220127143917&path-prefix=es",
     "delitos": []
   },
   {
@@ -17530,31 +17736,128 @@
     "partido": "independiente",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/5/56/Patricia_Labra_Besserer.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Parall",
+        "partido": "Independiente",
+        "votos": 284
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 18",
+        "partido": "Renovación Nacional",
+        "votos": 11890
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Linares",
+        "partido": "Independiente ",
+        "votos": 10226
+      }
+    ]
   },
   {
     "nombre": "Juan Antonio Coloma Alamos",
     "cargo": "senador",
     "partido": "Union Democrata Independiente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/c/c1/Juan_Antonio_Coloma_%C3%81lamos.jpg",
+    "delitos": [
+      {
+        "titulo": "Involucrado en caso Corpesca",
+        "fuente": "https://www.ciperchile.cl/2017/03/06/nuevas-boletas-de-pesqueras-445-millones-pagaron-lota-protein-asipes-y-blumar-a-politicos/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 21209
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 31",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 31393
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 14",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 35779
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 14",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 34868
+      }
+    ]
   },
   {
     "nombre": "Juan Castro Prieto",
     "cargo": "senador",
     "partido": "Partido Social Cristiano",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/2/23/Juan_Enrique_Castro_Prieto.jpg",
+    "delitos": [
+      {
+        "titulo": "Cohecho, malversación de caudales públicos y negociación incompatible",
+        "fuente": "https://www.ciperchile.cl/2018/04/02/los-negocios-ilicitos-de-juan-castro-el-ex-alcalde-de-talca-que-llego-al-senado/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Talca",
+        "partido": "Independiente",
+        "votos": 31798
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Talca",
+        "partido": "Independiente",
+        "votos": 42416
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Circunscripcion senatorial 9",
+        "partido": "Independiente",
+        "votos": 54480
+      }
+    ]
   },
   {
     "nombre": "Camila Ester Soto Rodriguez",
     "cargo": "senador",
     "partido": "Partido Social Cristiano",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/484457754_3103454943169264_8911254271836439089_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGJ7MPzuvcc5dVSqKwRrzC-gI_m1ola6l6Aj-bWiVrqXrf8q2GHwGyf6-nAC-_hwLU&_nc_ohc=RQSVv9Xke5gQ7kNvwFIjFdU&_nc_oc=Admf-yr8JJWBLHoZrS4FbcorI1YVDhlmO08jVkro4NR7wSIh522KsMoUxSptggcm0HRbCI0CQQYfJpKLy7DAAVmb&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=DaDLJzCiywa2pR91dT6lzA&oh=00_AfanLBx-nVFJ7URDVWOAEzur1HJUoBHRmzxEKS_8rjDHLg&oe=68C0CEF9",
     "delitos": []
   },
   {
@@ -17562,24 +17865,84 @@
     "cargo": "senador",
     "partido": "Partido Social Cristiano",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/514400719_779226337780608_4270287039092197666_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHaavkEiB_9JAnnZ_IwiZkW7Ua97WwXwmjtRr3tbBfCaMFm_qNAqvdtjCKBk4P97Xs&_nc_ohc=r2XAHOFTuUoQ7kNvwHECfWb&_nc_oc=AdmBIdjMpRTv8nb-j592S8vXE2uMoaCVklETYdsbQGQ_OFwLPilUL-N1ZxaNxYQCXrhTQeKpMrvsy1dr-5O1BB1Y&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=3Ul0_VfSbGanle7nGZiuag&oh=00_AfbxJpVBX-4ajeXKfrQVOgE1YzeiuzvPLx-jkq02Cv48rw&oe=68C0D9D8",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 18",
+        "partido": "Independiente",
+        "votos": 3470
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Linares",
+        "partido": "Independiente",
+        "votos": 9489
+      }
+    ]
   },
   {
     "nombre": "Ignacio Urrutia Bonilla",
     "cargo": "senador",
-    "partido": "Partido Republicano de Chile",
+    "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/6b/Ignacio_Urrutia_Bonilla.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 40",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 25907
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 40",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 19777
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 40",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 19323
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 40",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 14773
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 18",
+        "partido": "Unión Demócrata Independiente",
+        "votos": 17739
+      }
+    ]
   },
   {
     "nombre": "Cristian Vial Maceratta",
     "cargo": "senador",
     "partido": "independiente",
-    "independientePor": "Partido Republicano de Chile",
+    "independientePor": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "http://www.intendencianuble.gov.cl/media/2020/03/IMG_20200319_155704_767.jpg",
     "delitos": []
   },
   {
@@ -17595,59 +17958,241 @@
     "cargo": "senador",
     "partido": "Partido Socialista",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/67/Paulina_Vodanovic_Rojas.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Senadores",
+        "territorio": "Circunscripción Senatorial 7 ",
+        "partido": "Partido Socialista",
+        "votos": 71169
+      }
+    ]
   },
   {
     "nombre": "Sixto Gonzalez Soto",
     "cargo": "senador",
     "partido": "Partido Comunista",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/457373464_1018029756994990_9160861442379563484_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHqFMPCXknxgzBBFFal44KM41hUFfIl7f7jWFQV8iXt_kk8Oyc83JobORaiAXkmoFc&_nc_ohc=h1UocIk3f-IQ7kNvwEeH0pq&_nc_oc=AdkeRFS8izNYwQ3x-_MpgCwuQTlWcprKEfqNoQU7Hdisc4mKtsGD5scuvrWm3kZk1rxi93kDqdndYzWHapnhehtC&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Sctl_mVBwt-jWgi2GqruhQ&oh=00_AfZO6AqcX_lLLSAmz80ZWTYIKUV_SPylG3PbswDG8swK6A&oe=68C0C78D",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Partido Comunista",
+        "votos": 1814
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Partido Comunista",
+        "votos": 3135
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Talca",
+        "partido": "Partido Comunista",
+        "votos": 14867
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Talca",
+        "partido": "Partido Comunista",
+        "votos": 33694
+      }
+    ]
   },
   {
-    "nombre": "Beatriz Sanchez Munoz",
+    "nombre": "Beatriz Sanchez Muñoz",
     "cargo": "senador",
     "partido": "Frente Amplio",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/43/Beatriz_S%C3%A1nchez_Mu%C3%B1oz.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Primarias presidenciales",
+        "territorio": "Nacional",
+        "partido": "Independiente",
+        "votos": 327815
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Presidenciales",
+        "territorio": "Nacional",
+        "partido": "Independiente",
+        "votos": 1338037
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 12",
+        "partido": "Independiente",
+        "votos": 28265
+      }
+    ]
   },
   {
     "nombre": "Ricardo Lizama Soto",
     "cargo": "senador",
     "partido": "Partido por la Democracia",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/540347644_1195127479313519_174855331210699199_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFpBkzcXwdgQmKzAKFBQ7ZskPmx13kiw66Q-bHXeSLDrlI17uP4KyGS6UvCfL6eOZM&_nc_ohc=n6e5CRtA9dgQ7kNvwH6G_Oe&_nc_oc=AdknQyxx0AxH_m4Q_rdZ0D_yzdJodLU-VMKr-h1qvrnVINTVTQENeLJ1yWDA78olaz_O0HTpr9jj_9T7eeJJKAdt&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=zOnedDJJ4kZQNl9QR7LL9Q&oh=00_AfYXzzMTBofa9cCG4gFLIp4M0iTJT2tXceJNfvRLw6Xrtw&oe=68C0E072",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villa Alegre",
+        "partido": "Partido Socialista",
+        "votos": 946
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villa Alegre",
+        "partido": "Partido Socialista",
+        "votos": 901
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Villa Alegre",
+        "partido": "Independiente ",
+        "votos": 469
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Linares",
+        "partido": "Partido por la Democracia",
+        "votos": 4297
+      }
+    ]
   },
   {
     "nombre": "Juan Carlos Figueroa Urrutia",
     "cargo": "senador",
     "partido": "Democrata Cristiano",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/47504660_1063436037174437_7929206693018206208_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH24oPgvrbYxgpALKqZecui7t1BcLNs9-bu3UFws2z35nh6n7ah4eoMMmENaGefOeM&_nc_ohc=evnITnKmcxwQ7kNvwG8uvx3&_nc_oc=AdkXZynVdQg4dXSyBL_nnBh2hBx7CW-0KXD_j3LcPpyO4skwRuvlvySi1LBvsOXswM6fz2XuMn8Wt9O2pTDgD-z8&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Wm53nnIRkEqYaB7XSZcK4g&oh=00_AfY8p_y0wwztKjnHIwXS_GWsqauCqhQvuT6LRYqhyvMTAw&oe=68E2893D",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Democrata Cristiano",
+        "votos": 1575
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Democrata Cristiano",
+        "votos": 1194
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Democrata Cristiano",
+        "votos": 2224
+      }
+    ]
   },
   {
     "nombre": "Alexis Edgardo Sepulveda Soto",
     "cargo": "senador",
     "partido": "Partido Radical",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/5/5c/Alexis_Edgardo_Sep%C3%BAlveda_Soto.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Talca",
+        "partido": "Partido Radical Social Democrata",
+        "votos": 30049
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Talca",
+        "partido": "Partido Radical Social Democrata",
+        "votos": 27265
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Talca",
+        "partido": "Partido Radical Social Democrata",
+        "votos": 26248
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 17",
+        "partido": "Partido Radical Social Democrata",
+        "votos": 18390
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 17",
+        "partido": "Partido Radical",
+        "votos": 14043
+      }
+    ]
   },
   {
-    "nombre": "Kim Gutierrez",
+    "nombre": "Kim Gutierrez Ulloa",
     "cargo": "senador",
     "partido": "Alianza Verde Popular",
     "distrito": "Circunscripcion senatorial 9",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Diguillin",
+        "partido": "Independiente",
+        "votos": 187
+      }
+    ]
   },
   {
-    "nombre": "Carlos Ravera",
+    "nombre": "Carlos Ravera Fernandez",
     "cargo": "senador",
     "partido": "Alianza Verde Popular",
     "distrito": "Circunscripcion senatorial 9",
@@ -17659,7 +18204,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://new.diariolaprensa.cl/wp-content/uploads/2025/06/F-1.2-CANDIDATO-SENADOR-696x939.jpg",
     "delitos": []
   },
   {
@@ -17667,7 +18212,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/529520850_10240791539744429_1798227884244207530_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHQE4lsVpP8Kqr84bB6tcYkENAC0OGfYPgQ0ALQ4Z9g-NND5QrZwG6uZ8-FaMTkDp4&_nc_ohc=SH0A6PgECVYQ7kNvwH3lMg-&_nc_oc=AdmFCV1TcGh-PaHHvi0GeYjSmBkl2O6WUifZ-eEeB9QSKDnkkDftLO15-Ik_RbROdkYrV2eLOIsIHhyW1YpKrpoU&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=76YJ6avtDZq3KC8OUBveaw&oh=00_AfYKBcW3yaRD57Fg-X7U7grXmupftAw9R-uqexWu92KNDw&oe=68C0D0B6",
     "delitos": []
   },
   {
@@ -17675,7 +18220,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/490151672_3119140388244860_6013204953397781159_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHsOuYA-ul_IVIWT40wvrxLv0NSbsbLmlS_Q1JuxsuaVEePJMIJnj9w6pYgsnUcxCQ&_nc_ohc=WB_87yH5CDUQ7kNvwEUzMPI&_nc_oc=Adm26wo1Wm4UmSioWUSiHrmdDXFbV4P_iijdQcbVwaVVRij6jEPcXpRnd-OZ686FGxLlBB3m3teILVYEFbN1JPNz&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=PhVlDtpsvudys0WZWzfr_w&oh=00_AfaNj7ax29Ikw7zu71Vgr16WlL1DmHZ5XyAh2ujs5pXAgQ&oe=68C0DA94",
     "delitos": []
   },
   {
@@ -17691,7 +18236,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/473518278_3961684880772459_113636094268226824_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGyo4hcSSys2mc6Zbr3j863y_R3C-FyQKrL9HcL4XJAqvGzljhl3ugo7nBfulrN0QQ&_nc_ohc=Kwwn2g01HLMQ7kNvwFKLHB5&_nc_oc=AdmDBzgA7DtQoG5uJVbzioHoIhwDuaKAIVYd-nDQm_P4Ke_QKxHtr3yUNg9DzzInOKU_AmvAN4MN93O4yVJOJ3XB&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=GOIskoVSYBqesSqiazyjOQ&oh=00_AfZKfYEfFGGW5dqK7HbOJUjTz0B30CyhOnQIeKqfq08DHQ&oe=68C0B74F",
     "delitos": []
   },
   {
@@ -17699,24 +18244,110 @@
     "cargo": "senador",
     "partido": "Accion Humanista",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/464150484_874327128162459_8336485010589795631_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEJLPeUf3-aGHD0rqC7n6CahUEBX2Qr6dWFQQFfZCvp1ZV9JqUe6yY7DaHqu0XcoEw&_nc_ohc=vMDSWaH-11QQ7kNvwHKMiX5&_nc_oc=Adn1oqppKryIxIPTcNzwvaWHG-S38QaPa6UqHhdBa5Jg17Ly8wuDioMtZy9dDZgHQ1r7f_TBVEx7q--qDJdGJ7Hk&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=EwslvYT3F8bfFuI34Dzsqg&oh=00_AfZu9BmecWF_6gH6CldBAhZ3UP4CqPbKjJ8bE574OTKgHQ&oe=68C0C548",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 28",
+        "partido": "Independiente",
+        "votos": 3993
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Maipo",
+        "partido": "Independiente",
+        "votos": 2603
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Maipo",
+        "partido": "Accion Humanista",
+        "votos": 2766
+      }
+    ]
   },
   {
     "nombre": "Tomas Juan Bize Brintrup",
     "cargo": "senador",
     "partido": "Accion Humanista",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://proyectohumano.cl/wp-content/uploads/2022/03/tomas1-940x940.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 1989,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 49",
+        "partido": "Humanista",
+        "votos": 7827
+      },
+      {
+        "anio": 1993,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Humanista",
+        "votos": 1166
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Puerto varas",
+        "partido": "Humanista",
+        "votos": 139
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 17",
+        "partido": "Humanista",
+        "votos": 2761
+      }
+    ]
   },
   {
     "nombre": "Alejandra Molina Tobar",
     "cargo": "senador",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/ab3ccc17aeca4a7a1288d9e43240ccb1/46280/1YGwBd3MiA6ZoVYWaQFqStJVtwZBksc2N.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 424
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 17",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 2955
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talca",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 303
+      }
+    ]
   },
   {
     "nombre": "Carla Fernandez Riffo",
@@ -17733,13 +18364,79 @@
     "partido": "independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/d7/Jaime_Naranjo_Ortiz.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 1989,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 39",
+        "partido": "Independiente",
+        "votos": 31420
+      },
+      {
+        "anio": 1993,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 39",
+        "partido": "Partido Socialista",
+        "votos": 44883
+      },
+      {
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 39",
+        "partido": "Partido Socialista",
+        "votos": 38164
+      },
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Partido Socialista",
+        "votos": 42395
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Partido Socialista",
+        "votos": 33181
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 39",
+        "partido": "Partido Socialista",
+        "votos": 14181
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 18",
+        "partido": "Partido Socialista",
+        "votos": 13390
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 18",
+        "partido": "Partido Socialista",
+        "votos": 15023
+      }
+    ]
   },
   {
     "nombre": "Henry Leal Bizama",
     "cargo": "senador",
-    "partido": "union democrata independiente",
+    "partido": "Union Democrata Independiente",
     "distrito": "Circunscripcion senatorial 11",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/dd/Henry_Leal_Bizama.jpg",
     "delitos": [],
@@ -17782,7 +18479,7 @@
     "nombre": "Jorge Andres Luchsinger Mackay",
     "cargo": "senador",
     "partido": "independiente",
-    "independientePor": "union democrata independiente",
+    "independientePor": "Union Democrata Independiente",
     "distrito": "Circunscripcion senatorial 11",
     "foto": "https://media.biobiochile.cl/wp-content/uploads/2025/03/jorge-luchsinger-750x400.png",
     "delitos": [],
@@ -17828,7 +18525,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Traiguen",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 1090
       },
       {
@@ -17836,7 +18533,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Traiguen",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 2035
       },
       {
@@ -17844,7 +18541,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Traiguen",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 1655
       },
       {
@@ -17852,7 +18549,7 @@
         "tipo": "popular",
         "nombre": "Elección de Concejal",
         "territorio": "Traiguen",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 1831
       },
       {
@@ -17860,7 +18557,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 48",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 14918
       },
       {
@@ -17868,7 +18565,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 48",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 16449
       },
       {
@@ -17876,7 +18573,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 22",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 21594
       },
       {
@@ -17884,7 +18581,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 22",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 20451
       }
     ]
@@ -17902,7 +18599,7 @@
         "tipo": "popular",
         "nombre": "Elección de Alcalde",
         "territorio": "Temuco",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 34058
       },
       {
@@ -17910,7 +18607,7 @@
         "tipo": "popular",
         "nombre": "Elección de Alcalde",
         "territorio": "Temuco",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 42855
       },
       {
@@ -17918,7 +18615,7 @@
         "tipo": "popular",
         "nombre": "Elección de Alcalde",
         "territorio": "Temuco",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 43086
       },
       {
@@ -17926,7 +18623,7 @@
         "tipo": "popular",
         "nombre": "Elección de Alcalde",
         "territorio": "Temuco",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 33510
       },
       {
@@ -17934,7 +18631,7 @@
         "tipo": "popular",
         "nombre": "Elección de Diputado",
         "territorio": "Distrito 23",
-        "partido": "Renovacion Nacional",
+        "partido": "Renovación Nacional",
         "votos": 16360
       }
     ]
@@ -18558,7 +19255,7 @@
     "nombre": "Miguel Angel Calisto",
     "cargo": "senador",
     "partido": "independiente",
-    "independientePor": "federacion regionalista verde social",
+    "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 14",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/9/95/Miguel_%C3%81ngel_Calisto_%C3%81guila.jpg",
     "delitos": [
@@ -18598,7 +19295,7 @@
     "nombre": "Eugenio Canales Canales",
     "cargo": "senador",
     "partido": "independiente",
-    "independientePor": "federacion regionalista verde social",
+    "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 14",
     "foto": "https://static.theclinic.cl/media/2025/09/02-215326_qw7f_Eugenio-Canales-1200x648.jpeg",
     "delitos": [],
@@ -18649,7 +19346,7 @@
     "nombre": "Jorge Abello Moll",
     "cargo": "senador",
     "partido": "independiente",
-    "independientePor": "federacion regionalista verde social",
+    "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 14",
     "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/464445747_2318043145229885_866463330809633568_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE_FNOstU-Jcy5froDLNqc1-qxH5lgTmg36rEfmWBOaDSU83XGZ_y7rxzoX5TvLmTM&_nc_ohc=JKuBP4wDA4cQ7kNvwGi8RgI&_nc_oc=AdkJUtR1eUAGIG7GnaPHj4Tr2T308eYAbylqO9_4csg08DxUVJ4cD5nUxjK1Hl7EwKPcHyf7CDtlQ3HP42LftDxs&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=-a1Rq9fyBVl5jpf8NKH5NA&oh=00_AfbIyTt6byiG0b_yZY4fqAHpF6fXc5OfsFmCE1qSkrXW3A&oe=68BFAD73",
     "delitos": [],

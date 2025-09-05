@@ -476,7 +476,7 @@
                     vecesElecciones = eleccionesPopulares.length;
 
                     // Solo mostrar detalle si el cargo es Senador
-                    if (c.cargo && c.cargo.toLowerCase() === "senador") {
+                    if (c.cargo && c.cargo.toLowerCase() === "senador", "Presidente Nacional") {
                         const elecDiv = document.createElement("div");
                         elecDiv.className = "elecciones-info";
 
