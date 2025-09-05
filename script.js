@@ -346,7 +346,7 @@
         if (p.includes("partido de trabajadores revolucionarios") || p === "ptr" || p.includes("upa") || p === "upa")
             return "Extrema Izquierda";
         if (p.includes("partido comunista") || p === "pc" || p.includes("partido socialista") || p === "ps" ||
-            p.includes("partido humanista") || p === "ph")
+            p.includes("partido humanista") || p === "ph" ||  p.includes("partido igualdad") || p === "pi")
             return "Izquierda";
         if (p.includes("frente amplio") || p === "fa" ||
             p.includes("partido por la democracia") || p === "ppd" ||
@@ -476,7 +476,13 @@
                     vecesElecciones = eleccionesPopulares.length;
 
                     // Solo mostrar detalle si el cargo es Senador
-                    if (c.cargo && c.cargo.toLowerCase() === "senador", "Presidente Nacional") {
+                    if (
+                        c.cargo &&
+                        (
+                            c.cargo.toLowerCase() === "senador" ||
+                            c.cargo.toLowerCase() === "presidente nacional"
+                        )
+                    ) {
                         const elecDiv = document.createElement("div");
                         elecDiv.className = "elecciones-info";
 
@@ -748,7 +754,7 @@
                         'Total candidatos',
                         '2 o mas candidaturas',
                         'En reelección',
-                        'Con delitos'
+                        'Con delitos / antecedentes '
                     ],
                     datasets: [{
                         data: [totalCandidatos, masDeDos, reeleccion, conDelitos],
@@ -826,7 +832,7 @@
             data: {
                 labels,
                 datasets: [{
-                    label: 'Candidatos con delitos',
+                    label: 'Candidatos con delitos / Antecendetes',
                     data: values,
                     backgroundColor: 'rgba(239, 68, 68, 0.7)',
                     borderColor: 'rgba(239, 68, 68, 1)',
