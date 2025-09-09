@@ -346,7 +346,7 @@
         if (p.includes("partido de trabajadores revolucionarios") || p === "ptr" || p.includes("upa") || p === "upa")
             return "Extrema Izquierda";
         if (p.includes("partido comunista") || p === "pc" || p.includes("partido socialista") || p === "ps" ||
-            p.includes("partido humanista") || p === "ph" ||  p.includes("partido igualdad") || p === "pi")
+            p.includes("partido humanista") || p === "ph" || p.includes("partido igualdad") || p === "pi")
             return "Izquierda";
         if (p.includes("frente amplio") || p === "fa" ||
             p.includes("partido por la democracia") || p === "ppd" ||
@@ -475,12 +475,20 @@
 
                     vecesElecciones = eleccionesPopulares.length;
 
-                    // Solo mostrar detalle si el cargo es Senador
+                    // Solo mostrar detalle si es :
+                    // - Es Senador
+                    // - O Presidente Nacional
+                    // - O Diputado del Distrito 1
+
+                    const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 12", "distrito 9"];
+
+
                     if (
                         c.cargo &&
                         (
                             c.cargo.toLowerCase() === "senador" ||
-                            c.cargo.toLowerCase() === "presidente nacional"
+                            c.cargo.toLowerCase() === "presidente nacional" ||
+                            (c.cargo.toLowerCase() === "diputado" && c.distrito && distritosNuevos.includes(c.distrito.toLowerCase()))
                         )
                     ) {
                         const elecDiv = document.createElement("div");
