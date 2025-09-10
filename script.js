@@ -11,6 +11,8 @@
     const $district = document.getElementById("filter-district");
     const $count = document.getElementById("result-count");
 
+
+
     // === NUEVO: Select de comunas ===
     const $comunaWrap = document.createElement("div");
     const $comunaSelect = document.createElement("select");
@@ -604,13 +606,12 @@
 
     function applyFilters() {
         const fOffice = norm($office?.value || "");
-        const fName = norm($name?.value || "");
+        const fName = ""; // Ya no hay buscador
         const fParty = $party?.value || "";
         const fDistrict = norm($district?.value || "");
 
         if (!fOffice && !fName && !fParty && !fDistrict) {
             render([]);
-
             return;
         }
 
@@ -620,7 +621,6 @@
             const byParty = fParty
                 ? norm(c.partido) === fParty || (c.independientePor && norm(c.independientePor) === fParty)
                 : true;
-
             const byDistrict = fDistrict ? norm(c.distrito) === fDistrict : true;
 
             return byOffice && byName && byParty && byDistrict;
@@ -636,7 +636,6 @@
             return norm(a.nombre).localeCompare(norm(b.nombre));
         });
 
-
         render(filtered);
     }
 
@@ -649,7 +648,6 @@
 
     function bindEvents() {
         if ($office) $office.addEventListener("change", applyFilters);
-        if ($name) $name.addEventListener("input", () => debounce(applyFilters));
         if ($party) $party.addEventListener("change", applyFilters);
         if ($district) $district.addEventListener("change", applyFilters);
     }
@@ -726,6 +724,7 @@
       `;
         }
     }
+
     //Grafico de pizza 
 
     function drawResumen(data) {

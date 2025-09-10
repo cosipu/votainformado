@@ -82,22 +82,28 @@
     <p id="resultado-distrito"></p>
   </div>
 
-  <section id="filters">
+  <!-- 🔎 FILTROS + BUSCADOR -->
+  <section id="filters" style="margin-bottom:20px;">
     <select id="filter-office">
       <option value="">Todos los cargos</option>
       <option value="Presidente">Presidente</option>
       <option value="Senador">Senador</option>
       <option value="Diputado">Diputado</option>
     </select>
+
     <select id="filter-party">
       <option value="">Todos los partidos</option>
     </select>
+
     <select id="filter-district">
       <option value="">Todos los distritos</option>
-      <!-- tus opciones de distritos -->
     </select>
+
+    <!-- Buscador de candidatos -->
+
   </section>
 
+  <!-- Aquí se mostrarán los candidatos -->
   <main id="candidates"></main>
 
   <div class="voto-footer">
@@ -134,10 +140,7 @@
         <button onclick="mostrarEquivalencias('Eduardo Artés', 160343274)">Comparar Artés</button>
       </div>
     </div>
-
-
   </div>
-
 
   <!-- Aquí se mostrarán las equivalencias -->
   <div id="equivalencias"></div>
@@ -146,9 +149,6 @@
     <i>Estos cálculos corresponden a un valor referencial con la UF actual.
       El Servel realiza los pagos de acuerdo al valor vigente en el proceso electoral correspondiente.</i>
   </p>
-  </section>
-  </footer>
-
 
   <!-- GRÁFICO + TEXTO -->
   <section class="chart-flex">
@@ -183,15 +183,15 @@
       <canvas id="delitosChart"></canvas>
     </div>
   </section>
+
   <footer style="text-align:center; margin:20px;">
     <p> Dudas, Consultas, Reclamos: info@decideinformado.cl</p>
   </footer>
-  <!-- FOOTER -->
   <footer style="text-align:center; margin:20px;">
     <p> Datos obtenidos de fuentes públicas como Servel y medios oficiales.</p>
   </footer>
+
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="script.js"></script>
 </body>
-
 </html>

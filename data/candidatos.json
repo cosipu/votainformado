@@ -4405,7 +4405,7 @@
     "delitos": []
   },
   {
-    "nombre": "Jeannette Jara Guajardo",
+    "nombre": "Jeannette Jara Roman",
     "cargo": "Presidente Nacional",
     "partido": "Partido Comunista",
     "distrito": null,
@@ -4422,12 +4422,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2016,
+        "anio": 2021,
         "tipo": "popular",
-        "nombre": "Elección de Concejal",
-        "territorio": "Talca",
-        "partido": "Independiente",
-        "votos": 719
+        "nombre": "Elección de Alcalde",
+        "territorio": "Conchali",
+        "partido": "Partido Comunista",
+        "votos": 8994
       }
     ]
   },
