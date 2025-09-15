@@ -482,7 +482,8 @@
                     // - O Presidente Nacional
                     // - O Diputado del Distrito 1
 
-                    const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 12", "distrito 9"];
+                    const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 5", "distrito 6", 
+                        "distrito 12", "distrito 9"];
 
 
                     if (
