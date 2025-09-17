@@ -1374,8 +1374,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villa Rica",
+        "partido": "Independiente ",
+        "votos": 317
       }
     ]
   },
@@ -1396,8 +1400,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Macul",
+        "partido": "Independiente ",
+        "votos": 7001
       }
     ]
   },
@@ -1424,8 +1432,12 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 8",
+        "partido": "Independiente ",
+        "votos": 5373
       }
     ]
   },
@@ -1443,12 +1455,16 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 10",
-    "foto": "https://pbs.twimg.com/profile_images/1750571041934487552/h2egKaGB_400x400.jpg",
+    "foto": "https://images.squarespace-cdn.com/content/v1/67891ce968700f53ef3c06a4/d24a38a7-5dcb-4c99-bbc7-4ff01011cfeb/Mati%CC%81as+Bellolio+2-2.jpg?format=750w",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Providencia",
+        "partido": "Partido Republicano De Chile",
+        "votos": 1386
       }
     ]
   },
@@ -1458,7 +1474,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/75429653_1640546079414882_4284520015685746688_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHFLFVXuQqTtOtvbVICPbltu8pB6zevgva7ykHrN6-C9u67jw4EoT-nMxGUsQ7SqzY&_nc_ohc=_ne13NcDVTQQ7kNvwG0733Y&_nc_oc=AdnjrVKbPRXDC5xdwITD1KjQQt1NS1RYm76zZBqMtM7gPCvaoo0iBJqt7Fp_LJAnath_s972P3Bm83GlQR2mlwdc&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=6FVU_Ca8ZCUWt_qxRbks4g&oh=00_AfUEM2asEq46FqYWb01YPdzq_ej7QEYo6Ftk-MmSd4vH3g&oe=68D1BE06",
+    "foto": "https://i0.wp.com/ellibero.s3.amazonaws.com/nuevoellibero/wp-content/uploads/2019/11/Aburto-C%C3%A1rdenas_1573003631-300x297.jpeg?resize=300%2C297",
     "delitos": []
   },
   {
@@ -1479,16 +1495,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Vitacura",
+        "partido": "Union Democrata Independiente",
+        "votos": 2757
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Vitacura",
+        "partido": "Independiente",
+        "votos": 17435
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Partido Republicano De Chile",
+        "votos": 16706
       }
     ]
   },
@@ -1502,28 +1530,52 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Quilicura",
+        "partido": "Renovación Nacional",
+        "votos": 2347
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Vitacura",
+        "partido": "Renovación Nacional",
+        "votos": 7888
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "La Reina",
+        "partido": "Renovación Nacional",
+        "votos": 10188
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Renovación Nacional",
+        "votos": 23121
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Renovación Nacional",
+        "votos": 43499
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Renovación Nacional",
+        "votos": 28353
       }
     ]
   },
@@ -1536,20 +1588,36 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Elecciones Municipales",
+        "territorio": "Conchali",
+        "partido": "Independiente ",
+        "votos": 181
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Independiente ",
+        "votos": 192
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Partido Republicano De Chile",
+        "votos": 701
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Lo Barnechea",
+        "partido": "Partido Republicano De Chile",
+        "votos": 19473
       }
     ]
   },
@@ -1562,12 +1630,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Las condes",
+        "partido": "Renovación Nacional",
+        "votos": 2314
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Renovación Nacional",
+        "votos": 6719
       }
     ]
   },
@@ -1580,12 +1656,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Renovación Nacional",
+        "votos": 2086
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Renovación Nacional",
+        "votos": 3668
       }
     ]
   },
@@ -1594,7 +1678,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 11",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/326471913_5856132784501940_6573502138285147416_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHMNfdWDDeS-gU2mNo68zt7aby9TgVTuHBpvL1OBVO4cCmQ_fCALDQ98UNNoYEyFhk&_nc_ohc=CWcXoykORoQQ7kNvwHBjaGq&_nc_oc=Adm1JXaumFMnE1ejEPILdSCO4VHhjIaLJinu8UR6pq57RvOHR6XUbiGBraGvmvzbe0BaEf0ktc31D9RvxIXlCk2E&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=nmJlEROFAdtaj91GgTWHmg&oh=00_AfWviJEnzQWKqGOz7R12IoFPD3CfSTLWwldcxpcvEgoZbw&oe=68B286CF",
+    "foto": "https://carlosalarcon.cl/wp-content/uploads/2025/09/Carlos-Alarcon-Diputado-D11-PNL.jpg",
     "delitos": [
       {
         "titulo": "cuasidelito de lesiones graves",
@@ -1603,32 +1687,68 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1992,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 9390
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 18223
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 44876
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 35312
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 30038
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Union Democrata Independiente",
+        "votos": 5512
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 17277
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 31217
       }
     ]
   },
@@ -1641,16 +1761,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Las condes",
+        "partido": "Union Democrata Independiente",
+        "votos": 7517
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Las condes",
+        "partido": "Union Democrata Independiente",
+        "votos": 2913
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Las condes",
+        "partido": "Union Democrata Independiente",
+        "votos": 2123
       }
     ]
   },
@@ -1792,12 +1924,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Vitacura",
+        "partido": "Partido Republicano De Chile",
+        "votos": 5118
       },
       {
-        "anio": 2021,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "El Bosque",
+        "partido": "Partido Republicano De Chile",
+        "votos": 29103
       }
     ]
   },
@@ -1806,7 +1946,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/517600167_3071981872983490_9214863045094831280_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEEb6HUWVHPvxgeLLCjiDv8PIeR4kbXrO08h5HiRtes7Xu-Of-dJEn5voB47FmIajE&_nc_ohc=Re5aCETUj1kQ7kNvwFiYKrb&_nc_oc=AdnsfE4Fq8p2AspZrKzoBH2iJs7X855I88poO_sKdmn6wxF3TCoiZe6NxVBIj-6Gjbpt7ouwx75-FPHtcMKh04jV&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=HETqMbx1EMdxMPWi-liL3g&oh=00_AfVqEYp_bp4ppHBpMBlL0zetaJVTBAggutS6bF3C777Jiw&oe=68BB8250",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQFjCwDxBZzMGQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686445585842?e=1761177600&v=beta&t=19WqEDP2NX6zqmGw1q7p68bEEiMMmEfXiusj1Tmw_XI",
     "delitos": []
   },
   {
@@ -1814,7 +1954,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/496009514_10237867658608014_3120393222753214917_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFWCZR1CIl00Sb9T4vAbQ_MRerBRNrHl1VF6sFE2seXVWhFK9-Old7TwRTXUsy-qD0&_nc_ohc=yrT55xwtlCoQ7kNvwES8qix&_nc_oc=AdlPEQs4OCK_EI1lbc6leDS_cYKJ99EHqzYZZFOxFoTKoGFL9ii-_-9KtRSSAyiKaPk1EsQNTj7rZHsGBylj8yA2&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=HIJ_zXzfmF8RMZnzMNrChQ&oh=00_AfVT7XE5Rzhrj26aeyGsD2stABimPz7Mzz_yr1YXrJc1pQ&oe=68BA6381",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQHP-Rm77fDk1Q/profile-displayphoto-crop_800_800/B4EZkurZYSKoAI-/0/1757424752845?e=1761177600&v=beta&t=92kV8773xegrxta5wpRzyvNrreSQkXDkaQnGEgC8Xxc",
     "delitos": []
   },
   {
@@ -1822,7 +1962,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/518361706_10236951454867405_2112636440468247203_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGO2OamKyu_P9uwQ2ZMwwLQ_yTmHZ4L0c__JOYdngvRz4rwxBlBjjVl_OSItaGBZwo&_nc_ohc=jVSN0OUwmt4Q7kNvwFbVAo_&_nc_oc=AdkPMLFDCt5wH7m895kI-1tB7ubTHuHyM8042_dtWKlJaqx6jQxqNA4kjJHh38oM42CRARff0t0v2PDf8AgK0cQg&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=z3_VeJ1AX54L8eOQrLBq-Q&oh=00_AfWEEFK584Zzs6lpHnH08lI1wQP4Px2fVI995agaf7vuWA&oe=68BA4D83",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw3L342eC3mifoEm-_3lY3eApHLKD4tLZ3A&s",
     "delitos": []
   },
   {
@@ -1834,8 +1974,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santaigo 6",
+        "partido": "Independiente",
+        "votos": 20783
       }
     ]
   },
@@ -3532,7 +3676,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://media.licdn.com/dms/image/v2/C5103AQFpYePDp9nqkQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517546439210?e=2147483647&v=beta&t=Ot8Y8wj99n7ftnP2BExcTwRRu1Wk6v7cm1kuFX2WsFY",
     "delitos": []
   },
   {
@@ -3541,7 +3685,49 @@
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "El Bosque",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3078
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 6",
+        "partido": "Partido Ecologista Verde",
+        "votos": 12964
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "El Bosque",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3975
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Partido Ecologista Verde",
+        "votos": 2116
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "El Bosque",
+        "partido": "Partido de la Gente",
+        "votos": 4416
+      }
+    ]
   },
   {
     "nombre": "Alexander Rodolfo Rojas Villarroel",
@@ -3564,15 +3750,25 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/0498fcf4077a155a89b62aa5cc8b2ed5/46280/17gDwuqUkqgCasXjJNn8PMWUe024scm5P.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 18",
+        "partido": "Partido Republicano De Chile",
+        "votos": 2224
+      }
+    ]
   },
   {
     "nombre": "Noemi Muriel Lapostol Jara",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQGAlhZPQzaihg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1593617413897?e=2147483647&v=beta&t=cWCWYIoRGFED3FMLGlDJChXfnrlrBq_noiAVB3yasSw",
     "delitos": []
   },
   {
@@ -9647,7 +9843,7 @@
     "distrito": "Distrito 8",
     "foto": "https://www.votosimple.com/assets/img/candidatepics/Francisco%20Vladimir%20Flores%20Cobo%2047.jpg",
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2021,
         "tipo": "popular",
@@ -9821,7 +10017,7 @@
       }
     ],
     "elecciones": [
-     {
+      {
         "anio": 2012,
         "tipo": "popular",
         "nombre": "Elección de Alcalde",
@@ -10055,7 +10251,7 @@
     "foto": null,
     "delitos": [],
     "elecciones": [
-     {
+      {
         "anio": 2012,
         "tipo": "popular",
         "nombre": "Elección de Concejal",
@@ -10837,20 +11033,36 @@
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/4c/Jorge_Iv%C3%A1n_Alessandri_Vergara.jpg",
     "elecciones": [
       {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Santiago",
+        "partido": "Union Democrata Independiente",
+        "votos": 13924
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 27",
+        "partido": "Union Democrata Independiente",
+        "votos": 20012
+      },
+      {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Union Democrata Independiente",
+        "votos": 30833
       },
       {
         "anio": 2021,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2021,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Union Democrata Independiente",
+        "votos": 49478
       }
     ],
     "delitos": []
@@ -10865,7 +11077,19 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 4",
+        "partido": "Renovación Nacional",
+        "votos": 38889
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Colina",
+        "partido": "Independiente ",
+        "votos": 1605
       }
     ],
     "delitos": []
@@ -10875,11 +11099,15 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://media.licdn.com/dms/image/v2/D4E35AQEL1xjCUQ4ogg/profile-framedphoto-shrink_800_800/B4EZYRcMD2HcAk-/0/1744049324631?e=1758718800&v=beta&t=GzmhEhR3piP6vXGVXOy00fZspN0FqxrvMV-qV7iyItE",
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Estacion central",
+        "partido": "Union Democrata Independiente",
+        "votos": 918
       }
     ],
     "delitos": []
@@ -10893,16 +11121,28 @@
     "foto": "https://costamagazine.cl/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-13-at-13.56.16-800x1200.jpeg",
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cordillera",
+        "partido": "Independiente",
+        "votos": 19208
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cordillera",
+        "partido": "Democrata Cristiano",
+        "votos": 13344
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Ñuñoa",
+        "partido": "Democrata Cristiano",
+        "votos": 16122
       }
     ],
     "delitos": [
@@ -10943,6 +11183,24 @@
         "titulo": "Venta de licencias medicas fraudulentas",
         "fuente": "https://cooperativa.cl/noticias/pais/doctora-cordero-justifico-la-entrega-de-licencias-fraudulentas-y-anuncio/2003-08-12/090900.html"
       }
+    ],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 12",
+        "partido": "Independiente ",
+        "votos": 15095
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Independiente ",
+        "votos": 20617
+      }
     ]
   },
   {
@@ -10950,24 +11208,40 @@
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/471315814_2291975471195884_6994065387449839580_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG6UJo_KgvxNnFL4yx6jjWNWYnqUhkFN9NZiepSGQU309sa03n5A9Cl2Ue2DCESWQU&_nc_ohc=nlmeG6NHXJcQ7kNvwGy-TQh&_nc_oc=AdneessgARjaRk05mMJmu0_xMwDF5nEw79pCd9tvaPeq73RLdiJnU2xLeDLvUm76wXyZQShrhQVz9eZ-MRUmQ-Hh&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=ztidSWZrHFbOeW_p6LWoUw&oh=00_AfW-uDdC35HQ3OU-R750CSfZf2EY3TlnA_rx40PbrkR__w&oe=68AFE6D0",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/9/98/Johanna_Olivares_Gribbell_Subdirectora_SernamEG_%282021%29.png",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Primarias de Diputado",
+        "territorio": "Distrito 33",
+        "partido": "Renovación Nacional",
+        "votos": 6581
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cachapoal 2",
+        "partido": "Renovación Nacional",
+        "votos": 6453
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cachapoal 2",
+        "partido": "Renovación Nacional",
+        "votos": 8100
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 15",
+        "partido": "Renovación Nacional",
+        "votos": 3600
       }
     ]
   },
@@ -10980,12 +11254,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Primarias de Gobernador Regional",
+        "territorio": "Region Metropolitana",
+        "partido": "Renovación Nacional",
+        "votos": 1176000
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Segunda vuelta Eleccion de Gobernador Regional",
+        "territorio": "Region Metropolitana",
+        "partido": "Renovación Nacional",
+        "votos": 2055959
       }
     ]
   },
@@ -10994,25 +11276,36 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/272215170_4925644164164127_6539012018238114623_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEJOixhYRqFeb33pCe5DKfJ_929xzZs977_3b3HNmz3vkvijMo-8E4EUO4rf7Y0Cu8&_nc_ohc=6n-k6184AQgQ7kNvwHC6ZCz&_nc_oc=Adk2MbetSl84zlFfgwMKjsigEhzE2nnn1jgf1grkcJSKUErOIH5AHLn4ObAcJqzl0cOyN95l1MfkSIEgOadTabMW&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=J0qZiggoIEubgcbew3D8VQ&oh=00_AfUfsM-XTBH8yp8uknk-h3M7M45y8zu2gSRulbqzaQqqLw&oe=68AFFB29",
-    "delitos": [],
+    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/a3098ee0b685c452bc7595096199e74f/46280/Dauno%20T%C3%B3toro%20Navarro.webp",
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Independiente ",
+        "votos": 7355
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 10",
+        "partido": "PTR ",
+        "votos": 1555
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "PTR ",
+        "votos": 1971
       }
     ]
   },
   {
-    "nombre": "Joseffe Cáceres",
+    "nombre": "Joseffe Cáceres Torres",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11020,17 +11313,25 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 12",
+        "partido": "PTR ",
+        "votos": 2831
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 12",
+        "partido": "PTR ",
+        "votos": 1075
       }
     ]
   },
   {
-    "nombre": "Fabián Puelma",
+    "nombre": "Fabián Puelma Muller",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11038,7 +11339,7 @@
     "delitos": []
   },
   {
-    "nombre": "Bárbara Brito",
+    "nombre": "Bárbara Brito Carrasco",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11046,13 +11347,17 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "PTR ",
+        "votos": 7482
       }
     ]
   },
   {
-    "nombre": "Valeria Yáñez",
+    "nombre": "Valeria Yáñez Alvarez",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11060,17 +11365,25 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 13",
+        "partido": "PTR ",
+        "votos": 3277
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "PTR ",
+        "votos": 2472
       }
     ]
   },
   {
-    "nombre": "Claudia Tassara",
+    "nombre": "Claudia Tassara Ruilova",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11078,17 +11391,25 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Santiago",
+        "partido": "PTR ",
+        "votos": 1444
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "PTR ",
+        "votos": 1331
       }
     ]
   },
   {
-    "nombre": "Julio Mancilla",
+    "nombre": "Julio Mancilla Maraboli",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11096,13 +11417,17 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 10",
+        "partido": "PTR ",
+        "votos": 234
       }
     ]
   },
   {
-    "nombre": "Yuri Peña",
+    "nombre": "Yuri Peña Jimenez",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11110,17 +11435,25 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Santiago",
+        "partido": "PTR ",
+        "votos": 911
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "PTR ",
+        "votos": 455
       }
     ]
   },
   {
-    "nombre": "Yamila Martínez",
+    "nombre": "Yamila Martínez Urrutia",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
@@ -11128,8 +11461,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "PTR ",
+        "votos": 457
       }
     ]
   },
@@ -11144,15 +11481,27 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Revolucion Democratica",
+        "votos": 5237
       },
       {
         "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Convergencia Social",
+        "votos": 66794
       },
       {
-        "anio": 2021,
-        "tipo": "popular"
+        "anio": 2025,
+        "tipo": "popular",
+        "nombre": "Primarias presidenciales",
+        "territorio": "Nacional",
+        "partido": "Frente Amplio",
+        "votos": 123829
       }
     ]
   },
@@ -11166,12 +11515,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 10",
+        "partido": "Comunes",
+        "votos": 12533
       },
       {
         "anio": 2021,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Comunes",
+        "votos": 26180
       }
     ]
   },
@@ -11185,8 +11542,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Independiente ",
+        "votos": 11519
       }
     ]
   },
@@ -11200,24 +11561,44 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Independiente ",
+        "votos": 3614
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Primarias de Alcalde",
+        "territorio": "Ñuñoa",
+        "partido": "Independiente ",
+        "votos": 2106
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Independiente ",
+        "votos": 2498
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Ñuñoa",
+        "partido": "Partido Comunista",
+        "votos": 24398
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Partido Comunista",
+        "votos": 18048
       }
     ]
   },
@@ -11235,16 +11616,28 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Santiago",
+        "partido": "Partido Comunista",
+        "votos": 1660
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Santiago",
+        "partido": "Partido Comunista",
+        "votos": 45376
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Santiago",
+        "partido": "Partido Comunista",
+        "votos": 62027
       }
     ]
   },
@@ -11254,12 +11647,6 @@
     "partido": "Partido Socialista",
     "distrito": "Distrito 10",
     "foto": "https://opinion.cooperativa.cl/opinion/site/artic/20140627/imag/foto_0000000120140627210256.jpg",
-    "elecciones": [
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      }
-    ],
     "delitos": []
   },
   {
@@ -11271,20 +11658,36 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Democrata Cristiano",
+        "votos": 4402
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Democrata Cristiano",
+        "votos": 1520
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Democrata Cristiano",
+        "votos": 2485
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Democrata Cristiano",
+        "votos": 2248
       }
     ]
   },
@@ -11298,20 +11701,36 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Primarias de Alcalde",
+        "territorio": "Ñuñoa",
+        "partido": "Partido por la Democracia",
+        "votos": 2735
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Ñuñoa",
+        "partido": "Partido por la Democracia",
+        "votos": 22327
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2020,
+        "tipo": "popular",
+        "nombre": "Primarias de Gobernador Regional",
+        "territorio": "Region Metropolitana",
+        "partido": "Partido por la Democracia",
+        "votos": 21268
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Primarias de Diputado",
+        "territorio": "Distrito 10",
+        "partido": "Partido por la Democracia",
+        "votos": 18993
       }
     ]
   },
@@ -11320,7 +11739,7 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/318336461_453165137017048_839504895378019757_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzIPHueXwS0vXiB7ivQmy1atP4702XFGBq0_jvTZcUYO3Dfoeh-gXc0_ipdViMhA0&_nc_ohc=dXpBnMpNF7kQ7kNvwEddLM5&_nc_oc=AdnAF7wJLdP0vQAimYFhdwJ4WQF-Eae0SzJh8k6T7VsNvCJr-i4msoWy2rY_ll_GiQDmoAbzx_gMfMOk3Q-zXsKd&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=e5aJNggQzWNEbbODS_BWLQ&oh=00_AfWLHza7pgIheWpW_jtJM1YMHjKsYf2HyYN6Zpm5jH66Ng&oe=68B013B9",
+    "foto": "https://images.squarespace-cdn.com/content/v1/67891ce968700f53ef3c06a4/f359f917-0c68-4b17-94bd-04aaff371076/Jose%CC%81+Toro+2.jpg?format=750w",
     "delitos": []
   },
   {
@@ -11329,7 +11748,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://media-front.elmostrador.cl/2016/06/francisco-estevez-1.jpg",
     "delitos": []
   },
   {
@@ -11360,16 +11779,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Senador",
+        "territorio": "Circunscripcion senatorial 8",
+        "partido": "Independiente ",
+        "votos": 21522
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 12",
+        "partido": "Independiente ",
+        "votos": 2416
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 13",
+        "partido": "Independiente ",
+        "votos": 4855
       }
     ]
   },
@@ -11382,8 +11813,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Independiente ",
+        "votos": 10091
       }
     ]
   },
@@ -11405,8 +11840,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 4",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 4246
       }
     ]
   },
@@ -11417,7 +11856,17 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Independiente ",
+        "votos": 6927
+      }
+    ]
   },
   {
     "nombre": "Marcia Soto Díaz",
@@ -11429,12 +11878,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Independiente ",
+        "votos": 239
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Independiente ",
+        "votos": 3117
       }
     ]
   },
@@ -11443,16 +11900,25 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 11",
+    "reeleccion": true,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/f/f1/Juan_Francisco_Undurraga_Gazit%C3%BAa.jpg",
     "delitos": [],
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "EVOPOLI",
+        "votos": 58666
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "EVOPOLI",
+        "votos": 43625
       }
     ]
   },
@@ -11465,12 +11931,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Maipu",
+        "partido": "EVOPOLI",
+        "votos": 365
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 8",
+        "partido": "EVOPOLI",
+        "votos": 3048
       }
     ]
   },
@@ -11485,11 +11959,19 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 15",
+        "partido": "Independiente ",
+        "votos": 19285
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 15",
+        "partido": "Renovación Nacional",
+        "votos": 17124
       }
     ]
   },
@@ -11502,24 +11984,44 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 3699
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Renovación Nacional",
+        "votos": 4983
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Renovación Nacional",
+        "votos": 2679
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Renovación Nacional",
+        "votos": 3761
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Renovación Nacional",
+        "votos": 52170
       }
     ]
   },
@@ -11535,44 +12037,60 @@
   {
     "nombre": "Carlos Ward Edwards",
     "cargo": "Diputado",
-    "partido": "UNIÓN DEMÓCRATA INDEPENDIENTE",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 11",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/436836166_442005835022871_2058374900381236757_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG5CecCFc-7aUhjnlMKDCVOVDOxEjdXdeRUM7ESN1d15MZyw0l-uqaPnt92Xmbxcuc&_nc_ohc=cWbYc94sGm0Q7kNvwHZKwYJ&_nc_oc=AdnPyMc0WRaUOfpoLg4jo4OOO7my1eoDFsje11P8LghPs_rg9RqxD5-LfkDiZcwNHfwPDF--y5LQLbTFPNCFGIeo&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=_4-U6q4o8YojRuMkgOwPHw&oh=00_AfVYhMteFTRXzWLtm_xn3Fn-SBblWJrNKo7t8mb2yK8fRQ&oe=68B3C3FD",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carlos-Ward-Edwards.png/702px-Carlos-Ward-Edwards.png",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Union Democrata Independiente",
+        "votos": 2120
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Union Democrata Independiente",
+        "votos": 3997
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Lo Barnechea",
+        "partido": "Independiente",
+        "votos": 10613
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 4",
+        "partido": "Union Democrata Independiente",
+        "votos": 59762
       }
     ]
   },
   {
     "nombre": "Constanza Hube Portus",
     "cargo": "Diputado",
-    "partido": "UNIÓN DEMÓCRATA INDEPENDIENTE",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 11",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/d/dd/Constanza_Hube_Portus.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 11",
+        "partido": "Union Democrata Independiente",
+        "votos": 18856
       }
     ]
   },
@@ -11585,12 +12103,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 12",
+        "partido": "Ciudadanos",
+        "votos": 2242
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejo Constitucional",
+        "territorio": "Circunscripcion senatorial 7",
+        "partido": "Partido Liberal",
+        "votos": 66050
       }
     ]
   },
@@ -11604,16 +12130,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Las Condes",
+        "partido": "Independiente",
+        "votos": 19784
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Independiente",
+        "votos": 11114
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Las Condes",
+        "partido": "Independiente",
+        "votos": 11925
       }
     ]
   },
@@ -11626,12 +12164,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 11",
+        "partido": "Convergencia Social",
+        "votos": 21563
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Las Condes",
+        "partido": "Frente Amplio",
+        "votos": 20453
       }
     ]
   },
@@ -11644,8 +12190,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Las Condes",
+        "partido": "Revolucion Democratica",
+        "votos": 7527
       }
     ]
   },
@@ -11667,16 +12217,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "La Florida",
+        "partido": "Independiente ",
+        "votos": 3125
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Partido Ecologista Verde",
+        "votos": 19471
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 9254
       }
     ]
   },
@@ -11689,54 +12251,95 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 543
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Democrata Cristiano",
+        "votos": 10752
       }
     ]
   },
   {
     "nombre": "Tomás René Hirsch Goldschmidt",
     "cargo": "Diputado",
-    "partido": "Acción HUMANISTA",
+    "partido": "Acción Humanista",
+    "reeleccion": true,
     "distrito": "Distrito 11",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/9/98/Tom%C3%A1s_Ren%C3%A9_Hirsch_Goldschmidt.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1993,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 25",
+        "partido": "Alianza Humanista Verde",
+        "votos": 3211
+      },
+      {
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido Humanista",
+        "votos": 5383
+      },
+      {
+        "anio": 1999,
+        "tipo": "popular",
+        "nombre": "Primarias presidenciales",
+        "territorio": "Nacional",
+        "partido": "Partido Humanista",
+        "votos": 36235
+      },
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Santiago",
+        "partido": "Partido Humanista",
+        "votos": 2067
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Primarias presidenciales",
+        "territorio": "Nacional",
+        "partido": "Partido Humanista",
+        "votos": 375048
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Primarias de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Partido Humanista",
+        "votos": 19822
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Partido Humanista",
+        "votos": 23627
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Independiente",
+        "votos": 28542
       }
     ]
   },
@@ -11759,11 +12362,19 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 9",
+        "partido": "Partido Humanista",
+        "votos": 5657
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 5",
+        "partido": "Accion Humanista",
+        "votos": 8299
       }
     ]
   },
@@ -11777,20 +12388,36 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "La Reina",
+        "partido": "Independiente",
+        "votos": 1448
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "La Reina",
+        "partido": "Independiente",
+        "votos": 1948
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "La Reina",
+        "partido": "Independiente",
+        "votos": 5556
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Santiago 4",
+        "partido": "Independiente",
+        "votos": 6355
       }
     ]
   },
@@ -11799,24 +12426,52 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvflYMkORbllUAX_7gzbKaLeDQe07XvifbZg&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Partido Humanista",
+        "votos": 688
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Lo Barnechea",
+        "partido": "Accion Humanista",
+        "votos": 844
+      }
+    ]
   },
   {
     "nombre": "Germán Rojas Volmar",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 11",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/481661246_122100824930793811_4692810048397565365_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEQ1-Wo4JZEO-1TpLPAhvbaN0_3e2ox3wg3T_d7ajHfCMyI2FLMj_cyvuECIkXvJXU&_nc_ohc=wSG7sV6Mfl4Q7kNvwHPP-e6&_nc_oc=AdknKab1n-Pw3Uz6B-ryRoKqv-vsD8SgiE8pa5zxbx258nJkRRq8j-bNuofKK8DqMZvvwiYio_bHt4A4y-vjL6h9&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=1RDUpBe9fjdWkOnoQCVNjA&oh=00_AfUinBaRwa8a2W2Y8YWO3w2AIij6bOCm9rECiIaPgsSSww&oe=68B3A1FA",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFr_yVqLjsXERdRM_E8BgZqE1wMECso1aQ3A&s",
     "delitos": []
   },
   {
-    "nombre": "Melina Gianelli Altamirano",
+    "nombre": "Mylai Melina Gianelli Altamirano",
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 11",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "La Reina",
+        "partido": "Independiente",
+        "votos": 155
+      }
+    ]
   },
   {
     "nombre": "Ximena Ossandón Irarrazabal",
@@ -12250,16 +12905,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Renovación Nacional",
+        "votos": 10006
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Renovación Nacional",
+        "votos": 19744
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Renovación Nacional",
+        "votos": 14574
       }
     ]
   },
@@ -12268,12 +12935,24 @@
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/273278996_308556061291032_5914043957106271151_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHjTlY7o2vulpKF0F_DiGVY6dhsyWlNHRzp2GzJaU0dHM7XNx_bhw47DHMGIbjzIWU&_nc_ohc=g8q47gfkobkQ7kNvwGBSzgN&_nc_oc=AdmKhUWNBmNnSZNqE_fI-h9ewKyhGpGTZpUEP91-sL-hxTG89BFbG--se8rS_67_gv33Cc4sw9-pCtScSsvXo-J9&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=ClOk-ilD_ZoHyNOQNGbkrg&oh=00_AfXlxYpnN9HW1xnXXXMufT4L7SlA_9GcRA8ohWBTpsRXSg&oe=68B3CBF8",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtf8K5EaOF7E9oqb0-WLZ2cjtBonu4czhPA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Miguel",
+        "partido": "Renovación Nacional",
+        "votos": 761
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Miguel",
+        "partido": "Renovación Nacional",
+        "votos": 2291
       }
     ]
   },
@@ -12285,11 +12964,14 @@
     "distrito": "Distrito 13",
     "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/acd19d77f012cfb5655e4b8fb7c7cdf0/46280/Macarena%20Venegas%20Tassara.webp",
     "delitos": [],
-    "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 12",
+        "partido": "Independiente ",
+        "votos": 17480
       }
     ]
   },
@@ -12298,75 +12980,133 @@
     "cargo": "Diputado",
     "partido": "EVÓPOLI",
     "distrito": "Distrito 13",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToCiIoRoc2jN1MTjkhEPGKEdZ3yKD_ZfeDsDKgmCXxBBTUrfvq7IF9vBYg2fFpcTNyNpo&usqp=CAU",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 6",
+        "partido": "Independiente ",
+        "votos": 13661
+      }
+    ]
   },
   {
     "nombre": "Claudia Lange Farias",
     "cargo": "Diputado",
-    "partido": "UNIÓN DEMÓCRATA INDEPENDIENTE",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 13",
     "foto": "http://www.masternet.cl/www/candidatoschile/images/candidato_199.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Independiente ",
+        "votos": 4068
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Partido regionalista de los independientes",
+        "votos": 2362
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Union Democrata Independiente",
+        "votos": 2138
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Ramon",
+        "partido": "Union Democrata Independiente",
+        "votos": 5386
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 12",
+        "partido": "Union Democrata Independiente",
+        "votos": 2868
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Union Democrata Independiente",
+        "votos": 982
       }
     ]
   },
   {
     "nombre": "Cristhian Moreira Barros",
     "cargo": "Diputado",
-    "partido": "UNIÓN DEMÓCRATA INDEPENDIENTE",
+    "partido": "Union Democrata Independiente",
     "reeleccion": true,
     "distrito": "Distrito 13",
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/9/9f/Cristhian_Patricio_Moreira_Barros.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Union Democrata Independiente",
+        "votos": 4413
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "La Cisterna",
+        "partido": "Union Democrata Independiente",
+        "votos": 6718
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "La Cisterna",
+        "partido": "Union Democrata Independiente",
+        "votos": 9124
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 6",
+        "partido": "Union Democrata Independiente",
+        "votos": 30373
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Union Democrata Independiente",
+        "votos": 18125
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Union Democrata Independiente",
+        "votos": 16593
       }
     ]
   },
@@ -12375,7 +13115,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://www.laizquierdadiario.cl/local/cache-vignettes/L720xH540/juan-6-c1f67.jpg?1758108556",
     "delitos": []
   },
   {
@@ -12384,10 +13124,28 @@
     "partido": "PTR",
     "distrito": "Distrito 13",
     "foto": "https://www.laizquierdadiario.cl/local/cache-vignettes/L200xH200/6ab0623949f4e809915013de6d57df-b98cb.jpg?1756188855",
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 8",
+        "partido": "PTR ",
+        "votos": 651
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 12",
+        "partido": "PTR ",
+        "votos": 592
+      }
+    ]
   },
   {
-    "nombre": "Camila Burgos",
+    "nombre": "Camila Burgos Gonzalez",
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 13",
@@ -12404,16 +13162,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Comunista",
+        "votos": 31351
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 8",
+        "partido": "Partido Comunista",
+        "votos": 12137
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Partido Comunista",
+        "votos": 20858
       }
     ]
   },
@@ -12428,11 +13198,19 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Revolucion Democratica",
+        "votos": 13721
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Convergencia Social",
+        "votos": 31440
       }
     ]
   },
@@ -12441,7 +13219,7 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/536014173_2225487487877039_3694040755026643323_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzEUDuqcShZYjRr2Xte0L-_I-ZuOGFAdL8j5m44YUB0gulpd9OBL9YPPW3vIfqexc&_nc_ohc=Vl0HZw08Iy8Q7kNvwF3OPk9&_nc_oc=AdlvlVLhCSuKzM-NYgDXPaifW9-4T4wPNLnwU-SQ4kohDVMYTKSPLdfE7sOIfVOqyZ02B_Nut4_IlRLQYu4b3YY5&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=zpPCmkfWNCTOCdYE-ZFtSw&oh=00_AfUUqQfNANR0IVo2wDGSnE9fjFv1QmUAb2yecaYEw_QhGQ&oe=68B3E24F",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBw6GrHlmMV200lPH4WGBFs2RhRyWwD0N4cw&s",
     "delitos": []
   },
   {
@@ -12449,30 +13227,42 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/273126428_317146433761790_1276396663801193592_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH5O5-Im3DN_RXSlmxsVDGbkVayu252V-WRVrK7bnZX5eNQlzX62628ZR1bXFUp4qs&_nc_ohc=FDr-BRL4glwQ7kNvwGKobro&_nc_oc=Adltx_cnpw7-MoseDdQMYKYrDWH5Vuxi8LLzR03qFCzhRxFJebIpMGImEnMDZ5M0UjQRQMQQ_c0x0DvWOJ1-sHlf&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=BcwJqiI92o3-eJ085FbvHw&oh=00_AfVAk5ADdTxh0XhArdLKTsMIMfRv4QWXf5GrFcfBB4j2Pw&oe=68B3CB2A",
+    "foto": "https://media.licdn.com/dms/image/v2/C4E03AQGJZPMaPwGv8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1651705697232?e=2147483647&v=beta&t=BXhX5dg5AgIfl10Mjpn0Fk8hlpaaC9C-bsEM8nB7xug",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "El Bosque",
+        "partido": "Democrata Cristiano",
+        "votos": 754
       }
     ]
   },
   {
     "nombre": "Elizabeth Patricia Zúñiga Cruz",
     "cargo": "Diputado",
-    "partido": "PARTIDO RADICAL",
+    "partido": "Partido Radical",
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Padre Hurtado",
+        "partido": "Independiente ",
+        "votos": 1067
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Partido Radical",
+        "votos": 1241
       }
     ]
   },
@@ -12486,20 +13276,36 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 27",
+        "partido": "Partido Socialista",
+        "votos": 25731
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 27",
+        "partido": "Partido Socialista",
+        "votos": 34201
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Partido Socialista",
+        "votos": 17969
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 13",
+        "partido": "Partido Socialista",
+        "votos": 12016
       }
     ]
   },
@@ -12509,15 +13315,23 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/518274847_717722887780132_4738587871935501742_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFmNXePf87FDtUOWlOwWfguxpCs0Zca5c3GkKzRlxrlzbBREqZYJLFlRxKOibhtKhY&_nc_ohc=OPvIBYuR5eEQ7kNvwGsR2UO&_nc_oc=Adl1tK4_8Ny-qlHO8Hz0rQVW9E96OzbnUVhS2hxpQjLu9Mck3tSwHsb-QBpnS8s26IS7slTP5nG-GN3k_gMfXSCT&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=M1uZub4Ept9daHKCs-VUog&oh=00_AfXGQlMLIgCueGownFFj8rI1YHyHfOwupTfZ8zhJliQ8Zw&oe=68B3E067",
+    "foto": "https://media-front.elmostrador.cl/2021/05/jose-silva-diaz.png",
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Lo Espejo",
+        "partido": "Independiente ",
+        "votos": 5062
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Lo Espejo",
+        "partido": "Independiente ",
+        "votos": 12039
       }
     ],
     "delitos": []
@@ -12528,28 +13342,48 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/498224725_4086287958296427_470486197358546940_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHhtjZFvZxFN1QQgfo7goA2t98hLOUh_eS33yEs5SH95BVYOsPeG2PcbgJGasqIEA4&_nc_ohc=1g4UMFQZhKgQ7kNvwGZ3w1A&_nc_oc=Adm7cHjUqaC561TZhR1ARn_Zms2HxpyU67M24w15RrkPFr_KPUxeZhAsBcKMSu_te5GUxkC-ah4fAsOcsRlW9EuY&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=crDsTkZ9xUkB9vLYK_lH2w&oh=00_AfXUDtLFQozNg2wVBaXdMb4b--QckrE2--nHF4ZMVbRcQg&oe=68B3C657",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3Y7I36893AmK5dSxWjTfi1-ie3FHfyXGgg&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "El Bosque",
+        "partido": "Democrata Cristiano",
+        "votos": 3515
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "El Bosque",
+        "partido": "Democrata Cristiano",
+        "votos": 3387
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "El Bosque",
+        "partido": "Democrata Cristiano",
+        "votos": 1727
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "El Bosque",
+        "partido": "Independiente ",
+        "votos": 9138
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "El Bosque",
+        "partido": "Independiente ",
+        "votos": 20584
       }
     ]
   },
@@ -12559,7 +13393,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 13",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/456330546_8059242090830686_3355962804711674474_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEgzc20-29uJSDlCEE36PI8ReJAvfiHnVhF4kC9-IedWFtmfPw34SyyODWDwN5d6lc&_nc_ohc=jCEqsdCDs8oQ7kNvwFedgR7&_nc_oc=AdnnBUme4GAE24bg6EGHQe6h8TYAvDqRpvPSZ0AmT1N3l3W81I5mekesiH73nJq8fxiCwQbQRjF20yAZ4XRGUgM8&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=94QzjnbsiDw8OYlzYxMDEw&oh=00_AfWMtpAFS8xO5vNigtIXfJWVnXP1SBmJWsoa2C5nhN8Nlg&oe=68B3DFD9",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMfckGDcpnAxt1qDTg2PywepPqmY7K-8hbw&s",
     "delitos": [
       {
         "titulo": "Notable abandono de deberes y faltas graves a la probidad administrativa",
@@ -12568,20 +13402,36 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Partido Socialista",
+        "votos": 1351
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Partido Socialista",
+        "votos": 2592
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Ramon",
+        "partido": "Partido Socialista",
+        "votos": 2356
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Ramon",
+        "partido": "Independiente",
+        "votos": 12293
       }
     ]
   },
@@ -12591,28 +13441,48 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdIAwBFf2B_y3GC6K57rCTKMDxflP2_6YUg&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Miguel",
+        "partido": "Partido Humanista",
+        "votos": 782
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 28",
+        "partido": "Partido Humanista",
+        "votos": 2754
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Miguel",
+        "partido": "Independiente",
+        "votos": 1363
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Miguel",
+        "partido": "Independiente ",
+        "votos": 10127
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Miguel",
+        "partido": "Independiente ",
+        "votos": 16173
       }
     ]
   },
@@ -12622,7 +13492,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9Yi2J3PkqGhM5SGXTcrisbAfJnlwChdNFA&s",
     "delitos": []
   },
   {
@@ -17560,7 +18430,7 @@
     "distrito": "Distrito 8",
     "foto": "https://fae.utem.cl/wp-content/uploads/sites/2/2019/10/M%C3%A1ximo-Quitral.jpg",
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2024,
         "tipo": "popular",
@@ -17579,7 +18449,7 @@
     "distrito": "Distrito 8",
     "foto": null,
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2024,
         "tipo": "popular",
@@ -17819,8 +18689,26 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/d6689d24939baa1f28c2956d62815cec/46280/Celeste%20Jim%C3%A9nez%20Riveros.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 11",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3313
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripción Senatorial 7",
+        "partido": "Partido Ecologista Verde",
+        "votos": 79998
+      }
+    ]
   },
   {
     "nombre": "Pedro Grossi Robles",
@@ -17837,16 +18725,36 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/5bc2713b2d51249f50aee57fe33e8ea0/46280/Daniela%20King%20Reyes.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 11",
+        "partido": "Independiente",
+        "votos": 6042
+      }
+    ]
   },
   {
     "nombre": "Gary Núñez Ordoña",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C4E03AQH0rGpX2aYhWg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1641915819643?e=1761177600&v=beta&t=hpol8Tz4NLerjp-QHrGB2dO5M3NP1E-OMgOYiJOlEJw",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Joaquin",
+        "partido": "Partido Humanista",
+        "votos": 888
+      }
+    ]
   },
   {
     "nombre": "Jorge Palma Acuña",
@@ -17854,8 +18762,50 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/79099be01ea543aba346d563f015b75b/46280/17M3MNNmRE0_CWqwu6XLktYcjdTzLyTsO.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Jose de Maipo",
+        "partido": "Partido Comunista",
+        "votos": 38
+      },
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Partido Comunista",
+        "votos": 1890
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Carlos",
+        "partido": "Partido Comunista",
+        "votos": 497
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 12",
+        "partido": "Union Patriotica",
+        "votos": 644
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Joaquin",
+        "partido": "Independiente ",
+        "votos": 487
+      }
+    ]
   },
   {
     "nombre": "Matías Reyes Vargas",
@@ -17873,23 +18823,77 @@
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Joaquin",
+        "partido": "Independiente ",
+        "votos": 1007
+      }
+    ]
   },
   {
     "nombre": "Ibar Zepeda Alcota",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C4D35AQFlwnheofxbTA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1613654165729?e=1758722400&v=beta&t=-284nAT9EqD7AVu44imIHz7gFWL2NBtQlKlQ6a_8RQ0",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Vallenar",
+        "partido": "Partido Humanista",
+        "votos": 135
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Huasco",
+        "partido": "Partido Humanista",
+        "votos": 143
+      }
+    ]
   },
   {
     "nombre": "Nelson Peña Gallardo",
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/6e7c3b6b7bd13026bcc10f1aa8e166ef/46280/1H1-Vu53lG047DLl_ZgvXDZxNwU7TSrC5.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Partido Humanista",
+        "votos": 1191
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Partido Humanista",
+        "votos": 1044
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Partido Humanista",
+        "votos": 775
+      }
+    ]
   },
   {
     "nombre": "Guillermo González Castro",
@@ -17897,16 +18901,60 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C4E03AQHGuryFtde2Gg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1653879756963?e=2147483647&v=beta&t=jvpKRi6zqgzqCtNUEamjG3dCgA-Ztao9mjtfQsk0abM",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Independiente",
+        "votos": 2643
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Partido Igualdad",
+        "votos": 4322
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Partido Igualdad",
+        "votos": 2342
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 1690
+      }
+    ]
   },
   {
     "nombre": "María Angélica Romero Donoso",
     "cargo": "Diputada",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C5103AQFwuNjQau4jaw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517550672443?e=2147483647&v=beta&t=yXdHr7BFAdrJrC3QWPMVJ20J-pWtV-gnx0KNVz6n6g4",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "La Reina",
+        "partido": "Partido Humanista",
+        "votos": 302
+      }
+    ]
   },
   {
     "nombre": "Elio Zárate Moraga",
@@ -17914,8 +18962,26 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://pbs.twimg.com/media/BBRSNZQCQAAHz9N?format=jpg&name=large",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 677
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 5",
+        "partido": "Independiente ",
+        "votos": 2750
+      }
+    ]
   },
   {
     "nombre": "Nicolás Romero Reeves",
@@ -17923,8 +18989,18 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.votosimple.com/assets/img/candidatepics/Nicol%C3%A1s%20Romero%20Reeves.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 11",
+        "partido": "Independiente ",
+        "votos": 4299
+      }
+    ]
   },
   {
     "nombre": "Ninoska Henríquez Araya",
@@ -18154,8 +19230,50 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 13",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.votosimple.com/assets/img/candidatepics/Jorge%20Mu%C3%B1oz%20Reyes%2047.jpg",
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "El Bosque",
+        "partido": "Independiente ",
+        "votos": 571
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 6",
+        "partido": "Independiente ",
+        "votos": 3185
+      },
+       {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 13",
+        "partido": "Union Patriotica",
+        "votos": 433
+      },
+       {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Maipo",
+        "partido": "Union Patriotica",
+        "votos": 796
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 6",
+        "partido": "Independiente ",
+        "votos": 10991
+      }
+    ]
   },
   {
     "nombre": "Fernando Vilches Céspedes",
@@ -18163,10 +19281,20 @@
     "partido": "Partido Humanista",
     "distrito": "Distrito 13",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 6",
+        "partido": "Independiente ",
+        "votos": 1428
+      }
+    ]
   },
   {
-    "nombre": "Gazzi Jacob Muñoz",
+    "nombre": "Gazzi Jacob Nuñez",
     "cargo": "Diputado",
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
@@ -18493,8 +19621,26 @@
     "cargo": "Diputado",
     "partido": "Alianza verde popular",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://eleccionespresidencialeschile.cl/wp-content/uploads/2024/08/Igor-Contreras.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 6",
+        "partido": "Amplitud",
+        "votos": 655
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Las Condes",
+        "partido": "Alianza Verde Popular",
+        "votos": 5028
+      }
+    ]
   },
   {
     "nombre": "Manuel Jara Bao",
@@ -18603,8 +19749,26 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQF7Dj3camKonQ/profile-displayphoto-crop_800_800/B4EZje4tbqGwAI-/0/1756086066960?e=1761177600&v=beta&t=Azyb4qEHJUy4mvH8VACOgJ4xovC5_hCVnYNJQKT0h8c",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 12",
+        "partido": "Partido de la Gente",
+        "votos": 6695
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cordillera",
+        "partido": "Partido de la Gente",
+        "votos": 10984
+      }
+    ]
   },
   {
     "nombre": "Víctor Vilches Vargas",
@@ -18904,7 +20068,17 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Ñuñoa",
+        "partido": "Alianza Verde Popular",
+        "votos": 481
+      }
+    ]
   },
   {
     "nombre": "Nicol Aguilera Ortiz",
@@ -18912,7 +20086,17 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Joaquin",
+        "partido": "Alianza Verde Popular",
+        "votos": 4175
+      }
+    ]
   },
   {
     "nombre": "Héctor Soto Gallardo",
@@ -18920,7 +20104,57 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Macul",
+        "partido": "Democrata Cristiano",
+        "votos": 451
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Macul",
+        "partido": "Democrata Cristiano",
+        "votos": 3139
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Macul",
+        "partido": "Democrata Cristiano",
+        "votos": 3788
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Macul",
+        "partido": "Democrata Cristiano",
+        "votos": 2656
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Macul",
+        "partido": "Democrata Cristiano",
+        "votos": 2094
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Macul",
+        "partido": "Alianza Verde Popular",
+        "votos": 894
+      }
+    ]
   },
   {
     "nombre": "Sofía González Peralta",
@@ -18936,7 +20170,17 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Calera de Tango",
+        "partido": "Alianza Verde Popular",
+        "votos": 545
+      }
+    ]
   },
   {
     "nombre": "César Lorca Hidalgo",
@@ -18952,7 +20196,17 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Alhue",
+        "partido": "Alianza Verde Popular",
+        "votos": 42
+      }
+    ]
   },
   {
     "nombre": "Andrés Urzúa Corvalán",
@@ -18975,7 +20229,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e931dfb959d0376b9fd7c0d4640b5a0e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b38bcd1a&x-expires=1758290400&x-signature=ePbi4Kq9jkgM9sYzcshrpBFOKuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva",
     "delitos": []
   },
   {
@@ -18984,7 +20238,17 @@
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Santiago",
+        "partido": "Partido de la Gente",
+        "votos": 1242
+      }
+    ]
   },
   {
     "nombre": "Francisca Andrea Acevedo León",
@@ -19007,7 +20271,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD-CewMA6jay0kdv6qeQe8D3-jbpzjr_blA&s",
     "delitos": []
   },
   {
@@ -19015,7 +20279,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://giannicontenla.cl/media/giannicontenla.jpg",
     "delitos": []
   },
   {
@@ -19023,8 +20287,18 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media-front.elmostrador.cl/2025/04/WhatsApp-Image-2025-04-04-at-22.11.13-450x300.jpeg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Santiago",
+        "partido": "Partido de la Gente",
+        "votos": 14875
+      }
+    ]
   },
   {
     "nombre": "Luis Eduardo Molina Castillo",
@@ -19275,7 +20549,7 @@
     "delitos": []
   },
   {
-    "nombre": "Maricel del Carmen Donoso Acevedo",
+    "nombre": "Maricel Donoso Acevedo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
@@ -19287,7 +20561,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/40fea788ff371ff68b0dcbc2a543c5a2~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=35b52a17&x-expires=1758294000&x-signature=pqIb%2BVwXL4uqqU4ZcWQsgDtM8%2Bo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva",
     "delitos": []
   },
   {
@@ -19296,14 +20570,24 @@
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Quinta Normal",
+        "partido": "Partido de la Gente",
+        "votos": 76
+      }
+    ]
   },
   {
     "nombre": "Elizabeth Fuentes Bravo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnedbIsN6bS9aLRr8TTVpPIamDiWJJSx60g&s",
     "delitos": []
   },
   {
@@ -19311,15 +20595,25 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/D5603AQFMACuj_nnfPg/profile-displayphoto-shrink_200_200/B56ZSodRZ3GUAY-/0/1737993034758?e=2147483647&v=beta&t=PfSRX9oy4FttJok40s-ZeIrAvb8pWiZcyNUVo6tbYC8",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 1",
+        "partido": "Independiente ",
+        "votos": 7541
+      }
+    ]
   },
   {
     "nombre": "Ricardo Andrés Avilés Rubilar",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://pbs.twimg.com/profile_images/1905039782859673600/UPY2fXV9_400x400.jpg",
     "delitos": []
   },
   {
@@ -19800,7 +21094,17 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 13",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Miguel",
+        "partido": "Alianza Verde Popular",
+        "votos": 753
+      }
+    ]
   },
   {
     "nombre": "Flavio David Espinoza Mellado",
@@ -19815,15 +21119,6 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
-    "foto": null,
-    "delitos": []
-  },
-  {
-    "nombre": "Carlos García Álvarez",
-    "cargo": "Diputado",
-    "partido": "Independiente ",
-    "independientePor": "Partido Humanista",
-    "distrito": "Distrito 10",
     "foto": null,
     "delitos": []
   },
@@ -19891,8 +21186,42 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 13",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAXHcnBEBRKPrWqaGZjDC6BD7Aabg1clFBA&s",
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Lo Espejo",
+        "partido": "Partido Progresista",
+        "votos": 2028
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": " Lo Espejo",
+        "partido": "Partido Progresista",
+        "votos": 305
+      },
+       {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": " Lo Espejo",
+        "partido": "Independiente ",
+        "votos": 4683
+      },
+       {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santaigo 6",
+        "partido": "Alianza Verde Popular",
+        "votos": 15773
+      }
+    ]
   },
   {
     "nombre": "Paola Martínez Sandoval",
@@ -19900,7 +21229,17 @@
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 13",
     "foto": null,
-    "delitos": []
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "La Cisterna",
+        "partido": "Alianza Verde Popular",
+        "votos": 1075
+      }
+    ]
   },
   {
     "nombre": "Iván Jiménez Correa",
@@ -19927,7 +21266,7 @@
     "distrito": "Distrito 8",
     "foto": "https://pbs.twimg.com/profile_images/1529241565943631873/AzbUzsft_400x400.jpg",
     "delitos": [],
-     "elecciones": [
+    "elecciones": [
       {
         "anio": 2021,
         "tipo": "popular",
