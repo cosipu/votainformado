@@ -516,7 +516,8 @@
                     // - O Diputado del Distrito 1
 
                     const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 5", "distrito 6",
-                        "distrito 7", "distrito 8", "distrito 9", "distrito 10", "distrito 11", "distrito 12", "distrito 13"];
+                        "distrito 7", "distrito 8", "distrito 9", "distrito 10", "distrito 11", "distrito 12", "distrito 13", "distrito 14",
+                         "distrito 15", "distrito 16"];
 
 
                     if (
