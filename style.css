@@ -346,11 +346,48 @@ header p.subtitulo {
     color: #10b981;
 }
 
+.posturas {
+    margin-top: 8px;
+    padding: 6px;
+    background: rgba(5, 150, 105, 0.2);
+    /* verde suave */
+    border-left: 3px solid #10b981;
+    /* verde vivo */
+    border-radius: 6px;
+}
+
+.posturas h4 {
+    margin: 0 0 4px 0;
+    font-size: 0.95rem;
+    color: #10b981;
+}
+
+.posturas {
+    margin-top: 8px;
+    padding: 6px;
+    background: rgba(5, 150, 105, 0.2);
+    /* verde suave */
+    border-left: 3px solid #10b981;
+    /* verde vivo */
+    border-radius: 6px;
+}
+
+.posturas h4 {
+    margin: 0 0 4px 0;
+    font-size: 0.95rem;
+    color: #10b981;
+}
+
 .posturas p {
-    margin: 2px 0;
+    margin: 0 0 8px 0; /* 8px de espacio debajo de cada postura */
     font-size: 0.9rem;
     color: #d1fae5;
 }
+.posturas strong {
+    color: #ffffff; /* blanco, o el que prefieras */
+    font-weight: 700; /* negrita */
+}
+
 
 #eleccionesChart {
   max-width: 250px;
@@ -598,4 +635,15 @@ section {
 #comparacion option {
     color: #000000; /* negro */
     background: #e0e7ff; /* azul clarito de fondo para que contraste */
+}
+
+.candidato-baja {
+    display: inline-block;
+    padding: 4px 8px;
+    margin-bottom: 8px;
+    background-color: #dc2626; /* rojo */
+    color: white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    
 }

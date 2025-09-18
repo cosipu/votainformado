@@ -396,6 +396,16 @@
                 const card = document.createElement("article");
                 card.className = "candidate";
 
+                // Etiqueta roja si el candidato ha sido dado de baja
+                if (c.activo === false) {
+                    const tag = document.createElement("span");
+                    tag.className = "candidato-baja";
+                    tag.textContent = "Candidato dado de baja por el Servel";
+                    card.insertAdjacentElement("afterbegin", tag);
+
+                }
+
+
                 const img = document.createElement("img");
                 img.src = c.foto || PLACEHOLDER_IMG;
                 img.alt = c.nombre || "Candidato/a";
@@ -461,12 +471,35 @@
 
                     Object.entries(c.posturas).forEach(([clave, valor]) => {
                         const p = document.createElement("p");
-                        p.textContent = `${clave}: ${valor}`;
+
+                        // Aquí envolvemos la clave en <strong> para negrita
+                        p.innerHTML = `<strong>${clave}:</strong> ${valor}`;
+
                         posturasDiv.appendChild(p);
                     });
 
+
                     card.appendChild(posturasDiv);
                 }
+
+                // === Nuevo bloque para mostrar Pilares ===
+                if (c.cargo && c.cargo.toLowerCase().includes("presidente") && c.pilares && c.pilares.length) {
+                    const pilaresDiv = document.createElement("div");
+                    pilaresDiv.className = "pilares";
+
+                    const titlePilares = document.createElement("h4");
+                    titlePilares.textContent = "Pilares principales:";
+                    pilaresDiv.appendChild(titlePilares);
+
+                    c.pilares.forEach((pilar, index) => {
+                        const p = document.createElement("p");
+                        p.textContent = `${index + 1}. ${pilar}`;
+                        pilaresDiv.appendChild(p);
+                    });
+
+                    card.appendChild(pilaresDiv);
+                }
+
 
 
                 let vecesElecciones = 0;
@@ -482,7 +515,7 @@
                     // - O Presidente Nacional
                     // - O Diputado del Distrito 1
 
-                    const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 5", "distrito 6", 
+                    const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 5", "distrito 6",
                         "distrito 7", "distrito 8", "distrito 9", "distrito 10", "distrito 11", "distrito 12", "distrito 13"];
 
 

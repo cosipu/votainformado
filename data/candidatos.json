@@ -4752,14 +4752,21 @@
     "distrito": null,
     "foto": "https://radio.uchile.cl/wp-content/uploads/2025/07/Jeannette-Jara.jpg",
     "posturas": {
-      "Aborto legal": "NO",
-      "Fin de las AFP": "NO",
+      "Aborto legal": "NO (descarta aborto libre, mantiene actuales causales)",
+      "Fin de las AFP": "NO (propone reforma, no eliminación inmediata)",
       "Combatir el narcotrafico": "SI",
       "Salud Digna y de calidad": "SI",
-      "Aumento sueldo mínimo": "SI",
-      "Nacionalización Cobre y Litio": "NO",
-      "Seguridad (cierre de Fronteras)": "SI"
+      "Aumento sueldo mínimo": "SI (propone salario vital cercano a $750.000)",
+      "Nacionalización Cobre y Litio": "NO claro (crítica a concesiones, pero no nacionalización total confirmada)",
+      "Seguridad (cierre de Fronteras)": "NO explícito (sí combate crimen y narcotráfico)"
     },
+    "pilares": [
+      "Crecimiento económico justo, inclusivo y sostenible",
+      "Seguridad sin miedo: combatir crimen organizado y narcotráfico",
+      "Estado garantizador de dignidad: salud, educación y vivienda como derechos sociales",
+      "Salud a tiempo: acceso oportuno y de calidad en el sistema público",
+      "Modernización educativa con enfoque integral"
+    ],
     "delitos": [],
     "elecciones": [
       {
@@ -4779,14 +4786,21 @@
     "distrito": null,
     "foto": "https://imagenes.elpais.com/resizer/v2/33MSLUO6LZCNHN3ETG5S6WFGLQ.jpeg?auth=16d0c3bb5da4d1dc894f0608e1afc610b281c8c65c3fed7716c3c66f75d1d2e6&width=1200",
     "posturas": {
-      "Aborto legal": "?",
-      "Fin de las AFP": "NO",
-      "Combatir el narcotrafico": "SI",
-      "Salud Digna y de calidad": "SI",
-      "Aumento sueldo mínimo": "?",
-      "Nacionalización Cobre y Litio": "NO",
-      "Seguridad (cierre de Fronteras)": "SI"
+      "Aborto legal": "NO (solo mantiene las tres causales vigentes)",
+      "Fin de las AFP": "NO (plantea reformas, no eliminación total)",
+      "Combatir el narcotrafico": "SI (control de puertos, caletas, cárceles de alta seguridad, tecnología policial)",
+      "Salud Digna y de calidad": "SI (mejorar acceso en salud pública, reducir demoras, optimización de recursos)",
+      "Aumento sueldo mínimo": "NO claro (su foco es empleo y crecimiento, no alza sustancial del mínimo)",
+      "Nacionalización Cobre y Litio": "NO (revisión de concesiones, pero no nacionalización total)",
+      "Seguridad (cierre de Fronteras)": "SI (control fronterizo estricto, expulsión de inmigrantes ilegales)"
     },
+    "pilares": [
+      "Combate frontal al crimen organizado y narcotráfico",
+      "Orden fiscal y eficiencia del Estado",
+      "Crecimiento económico y generación de empleo",
+      "Seguridad fronteriza e inmigración controlada",
+      "Mejorar salud y educación con equidad y acceso temprano"
+    ],
     "delitos": [],
     "elecciones": [
       {
@@ -4862,14 +4876,21 @@
     "distrito": null,
     "foto": "https://finis.cl/wp-content/uploads/2025/05/jose-kast.jpg",
     "posturas": {
-      "Aborto legal": "NO",
-      "Fin de las AFP": "NO",
-      "Combatir el narcotrafico": "Si",
-      "Salud Digna y de calidad": "?",
-      "Aumento sueldo mínimo": "NO",
-      "Nacionalización Cobre y Litio": "NO",
-      "Seguridad (cierre de Fronteras)": "Si"
+      "Aborto legal": "NO (oposición incluso a las tres causales)",
+      "Fin de las AFP": "NO (defiende sistema de capitalización individual)",
+      "Combatir el narcotrafico": "SI (Plan Implacable, cárceles especiales, Zar Antidrogas)",
+      "Salud Digna y de calidad": "SI (emergencia sanitaria, reducción listas de espera)",
+      "Aumento sueldo mínimo": "NO (rechaza aumentos elevados, los considera demagogia)",
+      "Nacionalización Cobre y Litio": "NO (rechaza nacionalización, defiende inversión privada)",
+      "Seguridad (cierre de Fronteras)": "SI (Escudo Fronterizo, expulsión inmigrantes ilegales)"
     },
+    "pilares": [
+      "Seguridad fuerte y orden público: Plan Implacable y Plan Cancerbero",
+      "Economía libre mercado: reducción de impuestos, control del gasto público",
+      "Control migratorio estricto con Escudo Fronterizo",
+      "Protección de la familia y valores conservadores",
+      "Emergencia social en salud: reducir listas de espera y mejorar acceso"
+    ],
     "delitos": [
       {
         "titulo": "Nexos con banda criminal de robo de cables",
@@ -4966,6 +4987,12 @@
       "Nacionalización Cobre y Litio": "NO",
       "Seguridad (cierre de Fronteras)": "Si"
     },
+    "pilares": [
+      "Reducir el tamaño del Estado y promover autonomía individual",
+      "Autogestión en salud y educación con menos burocracia",
+      "Seguridad y control fronterizo como prioridad",
+      "Reforma tributaria pro-emprendimiento e inversión"
+    ],
     "delitos": [],
     "elecciones": [
       {
@@ -4985,13 +5012,13 @@
     "distrito": null,
     "foto": "https://static.theclinic.cl/media/2014/12/marco-enriquez-ominami-meo-a1.jpg",
     "posturas": {
-      "Aborto legal": "?",
-      "Fin de las AFP": "?",
-      "Combatir el narcotrafico": "?",
-      "Salud Digna y de calidad": "?",
-      "Aumento sueldo mínimo": "?",
-      "Nacionalización Cobre y Litio": "?",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Aborto legal": "SI",
+      "Fin de las AFP": "SI",
+      "Combatir el narcotráfico": "SI",
+      "Salud digna y de calidad": "SI",
+      "Aumento sueldo mínimo": "SI",
+      "Nacionalización Cobre y Litio": "SI",
+      "Seguridad (cierre de Fronteras)": "SI"
     },
     "delitos": [],
     "elecciones": [
@@ -5061,14 +5088,23 @@
     "distrito": null,
     "foto": "https://www.laizquierdadiario.cl/IMG/arton210771.jpg?1635245362",
     "posturas": {
-      "Aborto legal": "Si",
-      "Fin de las AFP": "Si",
-      "Combatir el narcotrafico": "?",
-      "Salud Digna y de calidad": "Si",
-      "Aumento sueldo mínimo": "Si",
-      "Nacionalización Cobre y Litio": "Si",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Aborto legal": "No se ha pronunciado públicamente sobre este tema.",
+      "Fin de las AFP": "SI. Propone la eliminación del sistema de AFP y su reemplazo por un sistema de seguridad social estatal.",
+      "Combatir el narcotráfico": "SI. Incluye en su programa medidas para enfrentar el narcotráfico, aunque los detalles específicos no están claramente definidos.",
+      "Salud digna y de calidad": "SI. Propone la implementación de un sistema de salud estatal y gratuito para todos los ciudadanos.",
+      "Aumento sueldo mínimo": "SI. Propone un aumento significativo del sueldo mínimo, aunque no se especifica una cifra exacta.",
+      "Nacionalización Cobre y Litio": "SI. Propone la nacionalización de todos los recursos naturales, incluyendo el cobre y el litio, como parte de un proceso de industrialización nacional.",
+      "Seguridad (cierre de Fronteras)": "SI. Propone medidas para fortalecer la seguridad interna y el control de las fronteras, aunque los detalles específicos no están claramente definidos."
     },
+    "pilares": [
+      "Nacionalización de recursos naturales",
+      "Fin al sistema de AFP",
+      "Sistema de salud estatal y gratuito",
+      "Industrialización nacional",
+      "Asamblea Constituyente",
+      "Reforma educativa",
+      "Justicia social"
+    ],
     "delitos": [],
     "elecciones": [
       {
@@ -10594,6 +10630,7 @@
     "nombre": "Oscar Daniel Jadue Jadue",
     "cargo": "Diputado",
     "partido": "Partido Comunista",
+    "activo": false,
     "distrito": "Distrito 9",
     "foto": "https://elsiglo.cl/wp-content/uploads/2024/05/daniel-jadue-rostro-buena-300x169.jpg",
     "delitos": [
@@ -19232,7 +19269,7 @@
     "distrito": "Distrito 13",
     "foto": "https://www.votosimple.com/assets/img/candidatepics/Jorge%20Mu%C3%B1oz%20Reyes%2047.jpg",
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2016,
         "tipo": "popular",
@@ -19249,7 +19286,7 @@
         "partido": "Independiente ",
         "votos": 3185
       },
-       {
+      {
         "anio": 2021,
         "tipo": "popular",
         "nombre": "Elección de Constituyentes",
@@ -19257,7 +19294,7 @@
         "partido": "Union Patriotica",
         "votos": 433
       },
-       {
+      {
         "anio": 2021,
         "tipo": "popular",
         "nombre": "Elección de Consejero regional",
@@ -19282,7 +19319,7 @@
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2021,
         "tipo": "popular",
@@ -21095,7 +21132,7 @@
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2024,
         "tipo": "popular",
@@ -21188,7 +21225,7 @@
     "distrito": "Distrito 13",
     "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAXHcnBEBRKPrWqaGZjDC6BD7Aabg1clFBA&s",
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2012,
         "tipo": "popular",
@@ -21205,7 +21242,7 @@
         "partido": "Partido Progresista",
         "votos": 305
       },
-       {
+      {
         "anio": 2021,
         "tipo": "popular",
         "nombre": "Elección de Alcalde",
@@ -21213,7 +21250,7 @@
         "partido": "Independiente ",
         "votos": 4683
       },
-       {
+      {
         "anio": 2024,
         "tipo": "popular",
         "nombre": "Elección de Consejero regional",
@@ -21230,7 +21267,7 @@
     "distrito": "Distrito 13",
     "foto": null,
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2024,
         "tipo": "popular",
@@ -22821,6 +22858,7 @@
     "partido": "Democratas",
     "distrito": "Circunscripcion senatorial 9",
     "reeleccion": true,
+    "activo": false,
     "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/3/3f/Ximena_Rinc%C3%B3n_Gonz%C3%A1lez.jpg",
     "delitos": [],
     "elecciones": [
