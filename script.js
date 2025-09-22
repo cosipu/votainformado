@@ -517,7 +517,7 @@
 
                     const distritosNuevos = ["distrito 1", "distrito 2", "distrito 3", "distrito 4", "distrito 5", "distrito 6",
                         "distrito 7", "distrito 8", "distrito 9", "distrito 10", "distrito 11", "distrito 12", "distrito 13", "distrito 14",
-                         "distrito 15", "distrito 16"];
+                         "distrito 15", "distrito 16", "distrito 17", "distrito 18","distrito 19", "distrito 25", "distrito 26", "distrito 27", "distrito 28"];
 
 
                     if (
