@@ -2797,24 +2797,44 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Partido regionalista de los independientes",
+        "votos": 214
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 44",
+        "partido": "Renovación Nacional",
+        "votos": 15184
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Renovación Nacional",
+        "votos": 1834
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Renovación Nacional",
+        "votos": 23165
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Renovación Nacional",
+        "votos": 32098
       }
     ]
   },
@@ -2828,8 +2848,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido de la Gente",
+        "votos": 9458
       }
     ]
   },
@@ -2838,12 +2862,16 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/269749702_137183315371513_1073102007944740021_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHjc6vBFE25lw5Pf3Xb1VeHHHnNM6EWtIocec0zoRa0inqR-1dMwwYDRXaZwF9MVHg&_nc_ohc=96pUIX5W1qkQ7kNvwGeKYSC&_nc_oc=AdkAh6nosNj3f293TB7179mjCnjV1HfgMGug2WlDDPm2TaKM6oH54GKugrUM875mFMfi_spS2F5ueQe1pFFWWJT2&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=Qb_h5gDid2BF7mok54ygZg&oh=00_AfWD5g6Obi6R95QJvl-a0KN_u4RUE-bf5l7OYlY3lHujwg&oe=68BB856D",
+    "foto": "https://assets.tvu.cl/2021/10/Antaris-Varela.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Senador",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Partido Conservador Cristiano",
+        "votos": 39167
       }
     ]
   },
@@ -2856,20 +2884,44 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Independiente ",
+        "votos": 7608
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Renovación Nacional",
+        "votos": 9530
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Chiguayante",
+        "partido": "Union Democrata Independiente",
+        "votos": 725
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Independiente ",
+        "votos": 4605
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Independiente ",
+        "votos": 5207
       }
     ]
   },
@@ -2879,40 +2931,80 @@
     "partido": "Independiente",
     "independientePor": "Partido Social Cristiano",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/536267663_1557791885666242_1276158712089837962_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGE5-t4oHS6C5fMK93GFJDmKgupIIyGT-EqC6kgjIZP4X44NtAp0IpLXHja3WNmKqI&_nc_ohc=aFJ6bFAtKZsQ7kNvwFyQ8HU&_nc_oc=AdmNTSATgBe8OKBZn-3_gY46vAMljyuK85l6C-Ah0fqL8A7jvgjSchBUFxqhxfHwrA5DFWdK8vJsL-KVoId3zoFo&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=E7dqNMNyVX1PLwJw1d2RUQ&oh=00_AfWyBnh2qfWZHJFxuzdohxHFpmY9VOV9WpKEbGT9C4eHHA&oe=68BB8E72",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwD1l31XfkQg98lBJ3Eb6uMT_d8LyMi5ouA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Hualpen",
+        "partido": "Renovación Nacional",
+        "votos": 3328
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Hualpen",
+        "partido": "Renovación Nacional",
+        "votos": 2970
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Hualpen",
+        "partido": "Renovación Nacional",
+        "votos": 10164
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Renovación Nacional",
+        "votos": 10848
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Hualpen",
+        "partido": "Renovación Nacional",
+        "votos": 8444
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Renovación Nacional",
+        "votos": 8434
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Hualpen",
+        "partido": "Independiente ",
+        "votos": 5041
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Independiente ",
+        "votos": 5102
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Independiente ",
+        "votos": 6554
       }
     ]
   },
@@ -2921,20 +3013,32 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/538814582_10236935013738089_7676587141716183276_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH90boVV0IAF9wQ86tATkJMBpyyMMBG1GUGnLIwwEbUZYGMtRq2e9SgDas81KMFtL8&_nc_ohc=N9sJG6VbpgQQ7kNvwGpunh5&_nc_oc=AdnR-a7MtKK0us4np5o8lH8y9pJZBrns9UDQRVYSvZEmvNftwvAJ7-nhN-FQyxf9uojb1wAU8IGTIP21pLVsbxqk&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=8Etvyy1500mo0eqir9jUOw&oh=00_AfVN-BFoPngxg2xDn4gVLsB4pa6hPemQTem9YCEGarfCvQ&oe=68BA9729",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmrrqg9pBDPlbhTEBgVgpcEWE-JvFcvryfw&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concon",
+        "partido": "Independiente ",
+        "votos": 614
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Talcahuano",
+        "partido": "Independiente ",
+        "votos": 601
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Independiente ",
+        "votos": 3604
       }
     ]
   },
@@ -2943,7 +3047,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/501005019_10237096974826623_588126898867883916_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEtVL65dA4AHNjul0l_HH9tQdx_hFfF8HJB3H-EV8XwcqpkgvRKUMXehTQd4iMiXtg&_nc_ohc=AOWbKFg5k5oQ7kNvwGbHbpi&_nc_oc=AdkNpPZLKlhOrwmGmN3MIEaCPzPJLmIYNq8NUOWO_MRlxjDr4tK3szs6UQOl1fIxZ6BdYCncBaT9hchp2Z-naee_&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=acGqxsuXMtGGmIjiZ2S1FQ&oh=00_AfVjC51VS4xzi9ykm-IU6UxE3cXOWBO9w4RNbRCp8Im6jg&oe=68BA8947",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHjfGI2IVZtzIEuM6yu-qEnFGOAXeWGrWJQ&s",
     "delitos": []
   },
   {
@@ -2951,24 +3055,40 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/514403030_10163314454591558_6408949357232481878_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEqKXGvd6E9ydI41XTQmzsezCcT_sj2JnvMJxP-yPYme4ubsCk_n2kuofPvE7igFac&_nc_ohc=OE4ZaA0zIYkQ7kNvwGay0Tz&_nc_oc=AdnqUvkuxwsH3OkDdoFVe-iANX-9db8L721BPT5c2HUeT4JWDmFC2zRJgnHH0zNLBf54ez1C9SaO9EqpklJ7mAS6&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=F0lToD8eYtlwIxp0XCxYrA&oh=00_AfXqM72egWeCifN0iYDDhUh2yvH5PXrEITKxfCIxWsVEgw&oe=68BB73A4",
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQERGtScN_BuNA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516764849887?e=2147483647&v=beta&t=K_-FsLRgLlUJ6HgiJZAA5O4-NcN5FxXcsiFmUBPTNtQ",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Union Democrata Independiente",
+        "votos": 1061
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 2",
+        "partido": "Union Democrata Independiente",
+        "votos": 4199
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 2",
+        "partido": "Union Democrata Independiente",
+        "votos": 4700
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Concepcion ",
+        "partido": "Independiente",
+        "votos": 27310
       }
     ]
   },
@@ -2977,16 +3097,24 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 20",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/89610d042d620cda557c502f302c1542/46280/Paz%20Charpentier%20Rajcevich.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZkXibtbyBZjkLmYMA2BN-6wHlwM20BxpH6g&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 20",
+        "partido": "Independiente",
+        "votos": 7757
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Independiente",
+        "votos": 14439
       }
     ]
   },
@@ -3005,24 +3133,44 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Union Democrata Independiente",
+        "votos": 4535
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Los Angeles",
+        "partido": "Independiente",
+        "votos": 10686
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 47",
+        "partido": "Independiente",
+        "votos": 19838
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Renovación Nacional",
+        "votos": 22190
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Partido Republicano De Chile",
+        "votos": 22814
       }
     ]
   },
@@ -3031,7 +3179,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -3039,16 +3187,24 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/471164137_10162283348229189_9079655251070589535_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGJ8Z-1DS1bJgvPQmsXADNZjCune0NBaaiMK6d7Q0FpqHB2DPEzYZ4jo77f73XUJWI&_nc_ohc=E1WXR9PzKr0Q7kNvwEGeup2&_nc_oc=AdmbHMcTLqJfrToKtdy8hkZdQmnUKgQezgKZBoz5hO2h5YHS5LULtD0fYrIMuuZDzA83I8736ibTR3LPw4qoWv4Z&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=PBbqvydNHxcEEujKN68J-w&oh=00_AfXVkSB_lEWDE6PXfIdRXj53Jj0XccZ3LWHkmWcjoJ60zQ&oe=68BB6AB0",
+    "foto": "https://assets.diarioconcepcion.cl/2018/08/Fernando-Pe%C3%B1a-420x290.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Union Democrata Independiente",
+        "votos": 296
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Gobierno Regional",
+        "territorio": "Biobio",
+        "partido": "Partido Republicano De Chile",
+        "votos": 177488
       }
     ]
   },
@@ -3062,8 +3218,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Independiente ",
+        "votos": 4508
       }
     ]
   },
@@ -3072,12 +3232,24 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/518309750_10233292365162768_7685720511768249084_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGucuOLXI4koYH1dBt_tMhGqRyHk85felqpHIeTzl96WjU4Bi7tA9QD_GFuOpBO6tc&_nc_ohc=0BU9xCcMa88Q7kNvwE80MO1&_nc_oc=AdmcPgt3e2RkB_1NO1psMXndRy6yItUDb1Dh-5FyObjRFmAnD9jIowAGLmlYP3RVNUbILQMjueeF-_JQMz_OCfu7&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=xJZxKNlOI_t5pakRtGZUlQ&oh=00_AfXKmzsmVGWLaVvpybqSSMK5ZIEtiscsZSAUf8x0CEgx8Q&oe=68BB9EE6",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4i8B9KB_rVWa40v2UqGzGY4Z41ifMpwEb9g&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Partido de la Gente",
+        "votos": 3988
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Partido Social Cristiano",
+        "votos": 5618
       }
     ]
   },
@@ -3086,32 +3258,56 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/489569820_1209332244533996_9037682856363010149_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHtLjkL7pXTt7xPtNw4Oxmd6uE4Cjv_01vq4TgKO__TW7hNzXXEemOE9l7l-fzMGTc&_nc_ohc=PyA1vezshq8Q7kNvwEXIIqU&_nc_oc=AdneqjdHUve7moxk7H9D8XgBSAijkgIQXsOpmIjmYcOvVWbqvp0m661TJzQbzVkr0r5OWqWQNIzF3nJtg_x_xUSf&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=y8WVXZlf8H4HO7YEx8AfAg&oh=00_AfWsNrjCZVdJGMiRLuCj3ciPH2xxU_Y9HnlR9mjpJQ_QFw&oe=68BB9D5B",
+    "foto": "https://img.latribuna.cl/upload/2023/01/17161D574C43456D14150F54584947711F121B18534546741712-1024x576.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 47",
+        "partido": "Union de centro progresista ",
+        "votos": 6166
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Renovación Nacional",
+        "votos": 1392
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Renovación Nacional",
+        "votos": 6521
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Renovación Nacional",
+        "votos": 12469
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Renovación Nacional",
+        "votos": 5413
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Los Angeles",
+        "partido": "Independiente ",
+        "votos": 25048
       }
     ]
   },
@@ -3325,12 +3521,16 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/508681560_10235880767178035_2917269150591389469_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGgO4xH7rnuSAUK64xcApB2Nu9yCcgO6-s273IJyA7r63yTQlM_6xOZBDn48ROdRJE&_nc_ohc=uOtVsL_JbkkQ7kNvwEl_6Dk&_nc_oc=AdkPRaYJm7ozeDeYDEVPUVxQQC-ubloAPTVtgTW-_Z4jRuPP5p7uu-R72y1rxw6KMscvQgLejKmwOb2RLqbbkf8O&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=WbJDBfUmA6z3FrBOSQMacw&oh=00_AfUIfqeNfpJfVLm-SLblMXIO_5c61h1ZhShNgVtm0aP3uQ&oe=68BB7A3F",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AM-1YEbhhxHEw3Vq7NqPSr8AY5IpL_mBqw&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "Los Rios",
+        "partido": "Partido Social Cristiano",
+        "votos": 19033
       }
     ]
   },
@@ -3339,7 +3539,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/529915159_732713763009045_9185027496916983598_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeElW2VJuQUueZRlLc2r8a6xMQhg_7FJYF0xCGD_sUlgXZxcpndhvLG2A2P0a5hA9wc&_nc_ohc=7Doe5wkN9EcQ7kNvwGgIaXr&_nc_oc=AdmhJuW9M-HV57TDHsb3ixugGExRaDJ5c8903JBr29zDw2kso9od4T6Jj4Aoh7u1l244Uk_5Eh8mnuRACwz9kxfN&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=dqL4foNDjqyJfH6AY0RlnQ&oh=00_AfUv2xzhLjHUVY4yl7s88tQHEbGPUB3gihPwecMEJyH_zQ&oe=68BA98FC",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQGCwspGvcfEqw/profile-displayphoto-scale_400_400/B4EZiUqwW1HoAg-/0/1754840893901?e=2147483647&v=beta&t=ElM2ebhqi3MMTr4Xu_kd1jDKWb3L0IXLmZUmByrL5yA",
     "delitos": []
   },
   {
@@ -3347,7 +3547,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/241041513_4244268315650541_4656604391895555734_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG7C-2P5ync3Y4-4WMkPzUEvt5v3NNHgC6-3m_c00eALnC8Tvlj12C2S1DGd3-5BPc&_nc_ohc=4or4oExxw1QQ7kNvwG2dpFR&_nc_oc=Adm6kMlA-Gy3ICTxLSbPXgvWfv-Ud2JSIfX89YzAUHyMVJCYSnFbheDweOWHv9GweSYydMp7QESE623QbRXHXmfQ&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=F2xqfdH8sol0IhpzpDh8kQ&oh=00_AfX6aiPM13IE2CJBrNJyXAglAtBCqhbkkPTMAPtKTjA44Q&oe=68BB6329",
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQH2F4YJu-9n5w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645627700041?e=2147483647&v=beta&t=LSRlbrrxrjgIb6Y7tIeqlIkxcMCxkcVIdmLuKM9hqn4",
     "delitos": [
       {
         "titulo": "Acusado de hurto simple y receptación.",
@@ -3356,20 +3556,36 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Union Democrata Independiente",
+        "votos": 1785
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Union Democrata Independiente",
+        "votos": 1998
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido Republicano De Chile",
+        "votos": 12835
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Valdivia",
+        "partido": "Partido Republicano De Chile",
+        "votos": 37914
       }
     ]
   },
@@ -3378,15 +3594,25 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/464782703_122192268458204291_738830660258898695_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEmWHw3WLh1EHOZJ5Sa1gPsXqUjeLSBMaVepSN4tIExpRH8VM8WpL_GRYXatdBDjyU&_nc_ohc=ejQI1Oz1aoEQ7kNvwGKkmpc&_nc_oc=Adl1Hp-YW8sB4tC6Xw6alv_E9hcvYM62zMyF0q4feYdo74mtpqte6rfPVpdAogqjWoGWO2EBKHb3efESEOXOaoX1&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=qMzqv66wsy1P7YR1Jkxz1g&oh=00_AfUsaEmara1gtLZbfjiT1AGabez_mCJnwDGRO9cp0XLGsQ&oe=68BB674B",
-    "delitos": []
+    "foto": "https://cftdelosrios.cl/wp-content/uploads/2021/10/paulinahernandez.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Ranco",
+        "partido": "Partido Republicano De Chile",
+        "votos": 2360
+      }
+    ]
   },
   {
     "nombre": "Sebastián Cristi Alfonso",
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 25",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/316b4169e93c8da9896c246a50fc5cb0/dc0d0/1tPvjTvpDgAyDm07k-Ynmu6hguRDFnjvR.webp",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQHNmz6cWsOcxw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724009536492?e=2147483647&v=beta&t=AlSS6SvUlR03wOAnmxeJ81DnXOgUve6DCC0IEecb-yE",
     "delitos": [],
     "elecciones": [
       {
@@ -3703,14 +3929,22 @@
     "distrito": null,
     "foto": "https://www.radioudec.cl/wp-content/uploads/2021/11/Aton_248401-scaled-1.jpg",
     "posturas": {
-      "Aborto legal": "?",
-      "Fin de las AFP": "?",
-      "Combatir el narcotrafico": "?",
-      "Salud Digna y de calidad": "?",
-      "Aumento sueldo mínimo": "?",
-      "Nacionalización Cobre y Litio": "?",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Aborto legal": "No",
+      "Fin de las AFP": "No hay certeza",
+      "Combatir el narcotrafico": "SI",
+      "Salud Digna y de calidad": "SI",
+      "Aumento sueldo mínimo": "No hay certeza",
+      "Nacionalización Cobre y Litio": "Ha señalado que el litio debe ser del Estado y propone repartir utilidades",
+      "Seguridad (cierre de Fronteras)": "No hay certeza"
     },
+    "pilares": [
+      "Reforma normativa en seguridad y fortalecimiento institucional (Carabineros, PDI, ANICOT)",
+      "Mejor acceso a salud pública: grupos, fichas electrónicas y reducción de listas de espera",
+      "Transparencia y combate a la corrupción mediante leyes como delación compensada",
+      "Reforma tributaria para mayor equidad fiscal",
+      "Nacionalismo moderado del litio con reparto de utilidades",
+      "Políticas de seguridad integral contra crimen organizado y terrorismo"
+    ],
     "delitos": [
       {
         "titulo": "Estafa y lavado de activos",
@@ -4746,15 +4980,33 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwjMbBQshJDok6HCS7oqyJqJAn0uOimNLEw&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Los Andes",
+        "partido": "Union Democrata Independiente",
+        "votos": 1053
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Los Andes",
+        "partido": "Union Democrata Independiente",
+        "votos": 573
+      }
+    ]
   },
   {
     "nombre": "Carolina Andrea Venegas Aranda",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -4762,23 +5014,51 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://assets.diarioconcepcion.cl/2023/04/pag-4-Hugo-Soto-Becerra-pdg-foto-raphael-3-e1680446672123.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Partido de la Gente",
+        "votos": 15311
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido de la Gente",
+        "votos": 2564
+      }
+    ]
   },
   {
     "nombre": "Mariella Andrea González Hidalgo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQHnpVW3wnAGSA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1655413521428?e=2147483647&v=beta&t=rmne6ZgGR1v5Xe2SPcWL0AePGHM0K-q4rsG5mtD7eWs",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido de la Gente",
+        "votos": 2338
+      }
+    ]
   },
   {
     "nombre": "Luis Ricardo Zúñiga Montt",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTUtCdKbcwgTSDAw0UnRq-07sifPs4_-WH2A&s",
     "delitos": []
   },
   {
@@ -4786,23 +5066,91 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4yxGsROnHNw0Bc8-4yzlzAQF1Qm94Vl8WA&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Partido de la Gente",
+        "votos": 9971
+      }
+    ]
   },
   {
     "nombre": "Bernardo Orlando Ulloa Pereira",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://radiopatagual.cl/wp-content/uploads/2024/08/23155113_1612815822111076_7944823445317120364_o-1.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Coronel",
+        "partido": "Independiente ",
+        "votos": 3812
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Independiente ",
+        "votos": 10526
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Coronel",
+        "partido": "Renovación Nacional",
+        "votos": 3815
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Coronel",
+        "partido": "Independiente ",
+        "votos": 5423
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Independiente ",
+        "votos": 8930
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Partido Radical",
+        "votos": 7706
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Coronel",
+        "partido": "Independiente ",
+        "votos": 8834
+      }
+    ]
   },
   {
     "nombre": "Francisca Mariana Zenteno Araos",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -4810,56 +5158,134 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXpclosWqr2wdO-7ke_7WRffmLF0_uotr5Q&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido de la Gente",
+        "votos": 1289
+      }
+    ]
   },
   {
     "nombre": "Lilian Alejandra Betancurt Delgado",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Biobio",
+        "partido": "Partido de la Gente",
+        "votos": 9825
+      }
+    ]
   },
   {
     "nombre": "Carlos Alberto Peña Opazo",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8vZpvTuKuc8FoJQkSxZ0pRn4NIiLBZ-96w&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Los Angeles",
+        "partido": "Partido de la Gente",
+        "votos": 6590
+      }
+    ]
   },
   {
     "nombre": "Karen Marcela Morales Rozas",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Tavd017o9kOPf36P8ZGRam3vpd3OJzfXHQ&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Partido de la Gente",
+        "votos": 1712
+      }
+    ]
   },
   {
     "nombre": "Carlos Felipe Agurto Pedreros",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido de la Gente",
+        "votos": 1816
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Lota",
+        "partido": "Partido de la Gente",
+        "votos": 1816
+      }
+    ]
   },
   {
     "nombre": "Christian Rodrigo Fuentes Cabezas",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Partido de la Gente",
+        "votos": 691
+      }
+    ]
   },
   {
     "nombre": "Sandra América Neira Espinoza",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://assets.diarioconcepcion.cl/2021/11/Sandra-Am%C3%A9rica-Neira-Espinoza-e1636310876389-850x500.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Partido de la Gente",
+        "votos": 14333
+      }
+    ]
   },
   {
     "nombre": "Daniela Nataly González Fariña",
@@ -4970,31 +5396,61 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQEUVrj6Kqm1LQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724420998984?e=2147483647&v=beta&t=qgb4ioJ42ifQJZhSob2buwAlbMaTjane4aT7WL0x2YI",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Valdivia",
+        "partido": "Partido de la Gente",
+        "votos": 1217
+      }
+    ]
   },
   {
     "nombre": "Tabina Gabriela Manque Manque",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido de la Gente",
+        "votos": 3157
+      }
+    ]
   },
   {
     "nombre": "Felipe Emilio Aranda Saravia",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido de la Gente",
+        "votos": 1913
+      }
+    ]
   },
   {
     "nombre": "Andrea Burgos Vicuña",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 24",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -5002,7 +5458,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 24",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -5556,40 +6012,76 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente ",
+        "votos": 701
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 44",
+        "partido": "Independiente ",
+        "votos": 4284
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente ",
+        "votos": 4521
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 44",
+        "partido": "Independiente ",
+        "votos": 9471
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente ",
+        "votos": 4165
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Partido Ecologista Verde",
+        "votos": 14142
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Primarias de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 20455
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 18397
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 30168
       }
     ]
   },
@@ -5603,19 +6095,35 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Primarias de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 5285
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3937
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3382
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Ecologista Verde",
+        "votos": 4170
       }
     ]
   },
@@ -5624,36 +6132,63 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486786195_1097168875774913_456279621849128868_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHCKlZAWitl0x5rIDOh2cytajnMbwiIu-FqOcxvCIi74WUYhE5H-4MpG9iQjm1d3Y8&_nc_ohc=kSHif6OBZoIQ7kNvwG9f2k6&_nc_oc=AdktabeF-NKv7ZWvOtTxs9pKHWjIT900L6Fc4VJNDx_Xa7cARfQIbk5wtJdiML6dKNksqUAGM0KwdCPJBZp-wI1e&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=z1E85pog7gOjuChgnQCYeQ&oh=00_AfWXEpxLR0nYmUaQGmGPa5Ypqef931ik8jAdu15PwU_EaQ&oe=68B7C934",
-    "delitos": [],
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talcahuano",
+        "partido": "Partido Socialista",
+        "votos": 1604
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talcahuano",
+        "partido": "Partido Socialista",
+        "votos": 2869
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talcahuano",
+        "partido": "Independiente ",
+        "votos": 3098
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Talcahuano",
+        "partido": "Independiente ",
+        "votos": 2059
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Progresista",
+        "votos": 2622
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido Progresista",
+        "votos": 1709
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 1",
+        "partido": "Independiente ",
+        "votos": 1787
       }
     ]
   },
@@ -5662,37 +6197,59 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t51.82787-15/523943425_18393374803189486_1137931830463393451_n.webp?stp=dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH5jf35LF-y8ce_k_Vgyw-Tegr0EmDMpjN6CvQSYMymM5zUwYoZue63FkBnQphE2Vc&_nc_ohc=21TdxO_CIsAQ7kNvwFWobsP&_nc_oc=Adk8POvvWxJOAbpXXd9MoHTy4y-bCvVViFfGDfE4nZv5YOSiNwg5JBGuSyvqwTFLBKWw5lqxykuxNf_n3o48mOoT&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=rzrrLQ3un-5GIhKOt41NLw&oh=00_AfXQrLFuaOs2MtZT2pw9PpxCZ1i6vATRsXwcV7mrWyTZTA&oe=68B7C545",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv7KYWGvv3ZO5XO0NXkeKFHS2tg7px7g_9Dw&s",
     "delitos": [],
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Independiente ",
+        "votos": 1476
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3200
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 3",
+        "partido": "Independiente ",
+        "votos": 2918
       }
     ]
   },
   {
-    "nombre": "Felipe Arancibia",
+    "nombre": "Felipe Arancibia Labraña",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/457231449_2281027165589878_5431951004019061500_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFKShMtrUZzk8gNL80agqk08vLjbWwubHHy8uNtbC5scU7iZSyhPi_ct9RAxs8789Q&_nc_ohc=GpoL2RNTskYQ7kNvwF-cj-G&_nc_oc=AdkpRmA02s4hI0cPUZG1rFcH0_Jas9ENVPQ01BEwu3iKb_Y6Pjo4wIM7lNl6FxI1jMZU71dLRhMuGH-NF_1uAIss&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=KUk0ixwsKznEFg-lR1xtPA&oh=00_AfUzCmth4QsxNH8-99g4vbm6k2B3ciRxg6_sHFMktgMrbQ&oe=68B7A3C1",
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 2",
+        "partido": "Independiente ",
+        "votos": 2823
+      }
+    ]
   },
   {
     "nombre": "Paula Valdebenito",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/491972171_10232197581135125_4552245102895173581_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEEp2dQSD-_Ir5IjMuQIdthyAxvkeswRVfIDG-R6zBFV2kv79yDCQVn0fr3aCjwSxM&_nc_ohc=GLp4c5ePncMQ7kNvwHVf5cB&_nc_oc=AdlseNpb5Oa5fzLwvN_8EvX0ny5B3V3tjSYJG22VF43KoJo5VdDkmYKr7IeIv-7lk-3HxE9RB7Pe4c1HiYDcdpdI&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=vkWf6g2UjHUm-NG8U3xoUA&oh=00_AfWcgTTnkqmMED8mCazAiCAjlxkONKK0YpwWcUw_0-gJ4w&oe=68B7C1BD",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEEoV0s-gFqOCQSgzdCVezn5OlvDa_u0PuQ&s",
     "delitos": []
   },
   {
@@ -6026,6 +6583,14 @@
       "Nacionalización Cobre y Litio": "SI",
       "Seguridad (cierre de Fronteras)": "SI"
     },
+    "pilares": [
+      "Seguridad sin sacrificar libertades: mano justa y mano firme",
+      "Fortalecimiento institucional: fiscales regionales electos, mejor inteligencia",
+      "Economía local y reactivación de barrios comerciales",
+      "Justicia social combinada con libertades personales",
+      "Modernización del Estado y eficiencia pública",
+      "Enfoque en derechos sociales compatibles con valores progresistas"
+    ],
     "delitos": [],
     "elecciones": [
       {
@@ -6077,14 +6642,22 @@
     "distrito": null,
     "foto": "https://imagenes.elpais.com/resizer/v2/ZAPR7O22FZDTDOEUO7IDXL3JPE.jpg?auth=f4088b7424021d5ea85fc6924cd0a9aaae14f5172a9a802033e2a35464a5d114&width=1200",
     "posturas": {
-      "Aborto legal": "?",
-      "Fin de las AFP": "?",
-      "Combatir el narcotrafico": "?",
-      "Salud Digna y de calidad": "?",
-      "Aumento sueldo mínimo": "?",
-      "Nacionalización Cobre y Litio": "?",
-      "Seguridad (cierre de Fronteras)": "?"
+      "Aborto legal": "No hay certeza",
+      "Fin de las AFP": "No hay certeza",
+      "Combatir el narcotrafico": "SI",
+      "Salud Digna y de calidad": "SI",
+      "Aumento sueldo mínimo": "No hay certeza",
+      "Nacionalización Cobre y Litio": "No hay certeza",
+      "Seguridad (cierre de Fronteras)": "Parcial"
     },
+    "pilares": [
+      "Escuchar, unir, servir - fortalecer la institucionalidad y recuperación de la confianza en el Estado",
+      "Seguridad integral contra delincuencia organizada, crimen y narcotráfico",
+      "Mejoras sustanciales en Salud: eficiencia, modernización, atención primaria y reducción de listas de espera",
+      "Educación con innovación, aprendizaje esencial y tecnología",
+      "Políticas migratorias reguladas y reforzamiento del control fronterizo",
+      "Vivienda digna y mejoras en servicio público"
+    ],
     "delitos": []
   },
   {
@@ -17872,8 +18445,79 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/49/Sergio_Enrique_Bobadilla_Mu%C3%B1oz.jpg",
+    "delitos": [
+      {
+        "titulo": "Injurias graves con publicidad ",
+        "fuente": "https://www.pjud.cl/prensa-y-comunicaciones/noticias-del-poder-judicial/131803"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 1992,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Florida ",
+        "partido": "Union Democrata Independiente",
+        "votos": 3594
+      },
+      {
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Florida ",
+        "partido": "Union Democrata Independiente",
+        "votos": 4527
+      },
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Union Democrata Independiente",
+        "votos": 31283
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45 ",
+        "partido": "Union Democrata Independiente",
+        "votos": 26460
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Union Democrata Independiente",
+        "votos": 3594
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Union Democrata Independiente",
+        "votos": 26675
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Union Democrata Independiente",
+        "votos": 18432
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Union Democrata Independiente",
+        "votos": 23683
+      }
+    ]
   },
   {
     "nombre": "Marlene Pérez Cartes",
@@ -17881,40 +18525,187 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "reeleccion": true,
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/0/01/Marlene_P%C3%A9rez_Cartes.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 2",
+        "partido": "Independiente",
+        "votos": 9798
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Concepcion ",
+        "partido": "Independiente",
+        "votos": 17827
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Independiente",
+        "votos": 18510
+      }
+    ]
   },
   {
     "nombre": "Henry Campos Coa",
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://qa.udi.cl/wp-content/uploads/2020/09/Alcalde-Henry-Campo.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Talcahuano",
+        "partido": "Union Democrata Independiente",
+        "votos": 9007
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Talcahuano",
+        "partido": "Union Democrata Independiente",
+        "votos": 13147
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Talcahuano",
+        "partido": "Union Democrata Independiente",
+        "votos": 14423
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Talcahuano",
+        "partido": "Union Democrata Independiente",
+        "votos": 39056
+      }
+    ]
   },
   {
     "nombre": "Luciano Silva Mora",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/a/ab/Luciano_Silva_Mora.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tome",
+        "partido": "Independiente",
+        "votos": 3187
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tome",
+        "partido": "Independiente",
+        "votos": 2214
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Tome",
+        "partido": "Independiente",
+        "votos": 1017
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Independiente",
+        "votos": 5728
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 20",
+        "partido": "Renovación Nacional",
+        "votos": 9274
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Gobierno Regional",
+        "territorio": "Biobio",
+        "partido": "Partido Social Cristiano",
+        "votos": 104260
+      }
+    ]
   },
   {
     "nombre": "Robert Contreras Reyes",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXz4K6P3pClEMnz_JfpYTOzY8NwujHFUrGSg&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Talcahuano",
+        "partido": "Renovación Nacional",
+        "votos": 1058
+      },
+      {
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejo Constitucional",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Renovación Nacional",
+        "votos": 42048
+      }
+    ]
   },
   {
     "nombre": "Mirtha Encina Ovalle",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFI7v0DFf3osYOJHtTBjzKHKVsHT5ueHYZw&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejo Constitucional",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Partido de la Gente",
+        "votos": 14849
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Gobernador Regional",
+        "territorio": "Biobio",
+        "partido": "Partido de la Gente",
+        "votos": 51983
+      }
+    ]
   },
   {
     "nombre": "Victor Hugo Figueroa Rebolledo",
@@ -17922,8 +18713,42 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://pbs.twimg.com/media/FW2ayRtWQAEZpZG.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Penco",
+        "partido": "Democrata Cristiano",
+        "votos": 1307
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Penco",
+        "partido": "Democrata Cristiano",
+        "votos": 9323
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Penco",
+        "partido": "Democrata Cristiano",
+        "votos": 11698
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Penco",
+        "partido": "Democrata Cristiano",
+        "votos": 13422
+      }
+    ]
   },
   {
     "nombre": "Andrea de la Barra Manríquez",
@@ -17931,8 +18756,26 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://media.biobiochile.cl/wp-content/uploads/2024/02/andrea-de-la-barra-candidata-concepcion.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Partido Ecologista Verde",
+        "votos": 3740
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Concepcion ",
+        "partido": "Independiente ",
+        "votos": 6471
+      }
+    ]
   },
   {
     "nombre": "Ana Araneda Gómez",
@@ -17940,8 +18783,34 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://assets.diarioconcepcion.cl/2021/04/Ana-Araneda-Go%CC%81mez-PEV-683x1024.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Primera vuelta de Gobierno Regional",
+        "territorio": "Biobio",
+        "partido": "Partido Ecologista Verde",
+        "votos": 75565
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido Ecologista Verde",
+        "votos": 8137
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Primera vuelta de Gobierno Regional",
+        "territorio": "Biobio",
+        "partido": "Independiente ",
+        "votos": 116527
+      }
+    ]
   },
   {
     "nombre": "Eduardo Alfonso Barra Jofré",
@@ -17952,8 +18821,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Partido Comunista",
+        "votos": 5356
       }
     ]
   },
@@ -17962,20 +18835,32 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/241024943_106001075147915_1198061297059634539_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHSAr24et9hnZRJOLQm5mGRtAbYXYxwPP60BthdjHA8_ha2gk_maOpv_FC4WTsv1Oc&_nc_ohc=wd__XZtPjTwQ7kNvwH6YzyA&_nc_oc=AdkZfCVvwzYNeI1dBYWMNGhFX3eDPXAi2_2CJ1sFfj_lhCRrItBk65IyljQZ9gjxBaaFsf5BOLEV2WANFnPI3_po&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=AtCFAxs3THo-R1RNVNz68Q&oh=00_AfUwS4gD37f4bOHXiI-xxIOI_FXqaJZY4vnyKCCRMVVk-Q&oe=68BAA23A",
+    "foto": "https://assets.diarioconcepcion.cl/2023/11/Alicia-Y%C3%A1%C3%B1ez.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido por la Democracia",
+        "votos": 13023
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido por la Democracia",
+        "votos": 5496
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido por la Democracia",
+        "votos": 5098
       }
     ]
   },
@@ -17984,12 +18869,16 @@
     "cargo": "Diputado",
     "partido": "Partido Liberal",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/539747329_122187570020317607_2128270099605587600_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGSwgeaAIzAdZCa5XIGuT-OiYu7HH_WspmJi7scf9aymZBbM0NsZp087zpV21rEopY&_nc_ohc=sS7X3fAggnwQ7kNvwGKU4zK&_nc_oc=AdmQEBZqvgPSR6AiAvo_o3DvCpnQbrs1b8FaazALYJfy1Yk0EHANQAOpUW9hb_dIxMFVVkyVg1wO_jWLbW7lPI1V&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=d_mALK36YVy5Bqh97EIH5w&oh=00_AfVCTPe6Y_KoIZnDWQLcuWBeBS7unJaJMyCWRnLrBeRbSg&oe=68B967A8",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejo Constitucional",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Partido Liberal",
+        "votos": 28468
       }
     ]
   },
@@ -18002,25 +18891,39 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejo Constitucional",
+        "territorio": "Circunscripcion senatorial 10",
+        "partido": "Revolucion Democratica",
+        "votos": 37557
       }
     ]
   },
   {
     "nombre": "Macarena del Pilar Flores Montoya",
     "cargo": "Diputado",
-    "partido": "PARTIDO RADICAL",
+    "partido": "Partido Radical",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/538285792_10238682193214681_8144768947375185350_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEwft-q6zSulUlRxUrb_LSqs9Z99c3o8luz1n31zejyW89lN5wt4SdAg5KGv2mUTxA&_nc_ohc=_uS9fpIAKiMQ7kNvwErrI9A&_nc_oc=AdlSWANN9KGMwE_c8zOP7Rs-YDXw_EYfwwnGAxMWr4U1KSA2b0hZQP2SkPziebltD7ksQBc95bPvbCwaFo6h0NRf&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=mxIQ24frQ4SogdhgMGS7XQ&oh=00_AfUDRjWRBOABVuVj4BhJG21tTaO-OCbMHOittMliIxWHlA&oe=68BB7225",
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Chiguayante",
+        "partido": "Partido Radical",
+        "votos": 831
+      }
+    ]
   },
   {
     "nombre": "Jose Antonio Rivas Villalobos",
     "cargo": "Diputado",
     "partido": "Partido Socialista",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/273014322_322389413235304_3823201535172894324_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE1VpNBFUDlguPicGvrHHmbkOUm67xInXWQ5SbrvEiddZV-VYgy0HMXYNttNWTjpP4&_nc_ohc=mMFe_yKskooQ7kNvwEAnGHA&_nc_oc=AdmuVw0MnB4MT1YCg3nGfrH-AwExIDK-AvIYS213LUK9awQvtAfEsP799mqzGrygGxk_wg19Belju5YOwouJa2pP&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=J4QBV1mnqBGLaTfs0H-69A&oh=00_AfUojdJuD7gdgjOVqWf8zD63ZRyo77E5GQK9P9lkxf8Xkw&oe=68BBB5E8",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBALH_BgsFV8qbEDhvZZKRO0dsFf0IvE2aqQ&s",
     "delitos": [
       {
         "titulo": "Acusado de cohecho y soborno",
@@ -18029,32 +18932,52 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Chiguayante",
+        "partido": "Partido Socialista",
+        "votos": 663
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Chiguayante",
+        "partido": "Partido Socialista",
+        "votos": 4167
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Chiguayante",
+        "partido": "Partido Socialista",
+        "votos": 4351
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Partido Socialista",
+        "votos": 13435
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Partido Socialista",
+        "votos": 12452
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Chiguayante",
+        "partido": "Partido Socialista",
+        "votos": 15054
       }
     ]
   },
@@ -18063,33 +18986,53 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/290915137_432774692192449_7881914378747600283_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG-q62aYGa_aXHs0wGz7sXMXc2HQZOjp_1dzYdBk6On_TMwkG7EoJ2xVK43q1pN5Vk&_nc_ohc=ajvrl00Lkt8Q7kNvwGVqZUH&_nc_oc=Adkyriz7ziSR-yqpferIE04WnwtU-pGG06nFc58S_te7nFdKvsilqu0hxa6buJMi7GhlxuBd6a9MTGxgFiqyDbvz&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=3ljSxWrYQFWuy0GERvq0HQ&oh=00_AfUhKfSY36k8mfpJ3zH5p605LPLtSzu4fWdVZhBUQe_LDg&oe=68B553B7",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/02/%C3%81lvaro_Ortiz_Vera.jpg",
     "delitos": [
       {
-        "titulo": "violencia intrafamiliar",
+        "titulo": "Violencia intrafamiliar",
         "fuente": "https://ellibero.cl/actualidad/alcalde-de-concepcion-el-otro-controvertido-caso-de-violencia-intrafamiliar-que-pone-en-jaque-a-la-directiva-dc/"
       }
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Democrata Cristiano",
+        "votos": 14891
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Democrata Cristiano",
+        "votos": 12389
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Concepcion ",
+        "partido": "Democrata Cristiano",
+        "votos": 39363
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Concepcion ",
+        "partido": "Democrata Cristiano",
+        "votos": 25224
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Concepcion ",
+        "partido": "Democrata Cristiano",
+        "votos": 30028
       }
     ]
   },
@@ -18103,24 +19046,44 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Democrata Cristiano",
+        "votos": 820
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Democrata Cristiano",
+        "votos": 3817
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2020,
+        "tipo": "popular",
+        "nombre": "Primarias de Gobernador Regional",
+        "territorio": "Biobio",
+        "partido": "Democrata Cristiano",
+        "votos": 7843
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Gobernador Regional",
+        "territorio": "Biobio",
+        "partido": "Democrata Cristiano",
+        "votos": 71902
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Democrata Cristiano",
+        "votos": 10712
       }
     ]
   },
@@ -18130,20 +19093,32 @@
     "partido": "Independiente ",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/166677520_2912566759014321_4164129147436647078_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHhcX3JLZGYEOljR0zmniQ_AJRp4y5sh_sAlGnjLmyH-6eyUDauIene795EUY5RTyY&_nc_ohc=10RmnliBt-sQ7kNvwFCrpeW&_nc_oc=Admw25DZ0gaiAzGmoFcJDZdUV_lInQoXw0oqiASNPGysls1j8rTpil2hEZPSBRcpzQA9xRz5GqS72eenCX7jVO42&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=PdZeS615f_mvtVXZhQ-hsw&oh=00_AfVd5K_S12GitWCT-ooykeoz8z1mkaEkTFsMmnksAFbrew&oe=68D7E3F7",
+    "foto": "https://pbs.twimg.com/profile_images/1632125842145853440/YgqM6iPh_400x400.jpg",
     "delitos": [],
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 3",
+        "partido": "Partido Humanista",
+        "votos": 6696
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Santa Juana ",
+        "partido": "Independiente ",
+        "votos": 2851
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Santa Juana ",
+        "partido": "Independiente ",
+        "votos": 5237
       }
     ]
   },
@@ -18153,7 +19128,7 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -18162,7 +19137,7 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -18174,12 +19149,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Independiente ",
+        "votos": 1866
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 433
       }
     ]
   },
@@ -18193,32 +19176,68 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1993,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Partido Socialista",
+        "votos": 27328
+      },
+      {
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Partido Socialista",
+        "votos": 33949
+      },
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 45",
+        "partido": "Partido Socialista",
+        "votos": 48990
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Eleccion de Senador",
+        "territorio": "Circunscripcion senatorial 12",
+        "partido": "Partido Socialista",
+        "votos": 209410
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Senador",
+        "territorio": "Circunscripcion senatorial 12",
+        "partido": "Movimiento Amplio Social",
+        "votos": 156372
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Primera vuelta Presidencial",
+        "territorio": "Nacional",
+        "partido": "Pais",
+        "votos": 23968
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Gobierno Regional",
+        "territorio": "Biobio",
+        "partido": "Independiente ",
+        "votos": 184882
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Segunda vuelta Eleccion de Gobernador Regional",
+        "territorio": "Biobio",
+        "partido": "Independiente ",
+        "votos": 282932
       }
     ]
   },
@@ -18228,16 +19247,24 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/491952935_1301144814949730_6811172573356057358_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFCYeeGCxlP627lx965d8r7uOceWQvOP6645x5ZC84_rloaX2mpkF4-t4Vg5tKQt8o&_nc_ohc=rHS2JTMAf0IQ7kNvwE-sqoE&_nc_oc=AdkpIcZlztRXy2H68fMSwFmmaj7vfpgxt5Ur4B9PkxFTu2ohirOAI-kYxFg_Lk4nmcZQG5cwTMsIsjO6cFwN3f2M&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=r3fbdP8_hVoWBJXpHbmDSA&oh=00_AfUMvBbvdys3yFWrtzLZ9BlqpU9wxdrpMGt5GIvOTKsJoA&oe=68B671D7",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkuSCnbbiBM_coTm6ivYvjMmmZ4pCLTmxRg&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Penco",
+        "partido": "Partido Igualdad",
+        "votos": 157
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 1",
+        "partido": "Independiente ",
+        "votos": 2028
       }
     ]
   },
@@ -18247,12 +19274,16 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/484971554_1070419615127582_1591249555862500059_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEE7ZaLd0PBtGD3uJrV0IEgUwDr_lNEbhFTAOv-U0RuEXj0hW27bAEj0GOnSDCV0Yc&_nc_ohc=2Uow7uEboMkQ7kNvwERJYJz&_nc_oc=AdlE9oKjC2U3BYpUumiQI7wpAIl9z9EG0KPPFfzHykEHds8LF7oHtFUVC_NBlEbIFec3hE_UVZlkNgesH0HRTqOt&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=b3VSrWCDrx9y_mu7rHG4Cw&oh=00_AfWe4yt1r93b-FUBgPTFqZW-yHqprjCVAqzaz5fTlytGHQ&oe=68B648C7",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9FppwY6vvmkcfaoXwckS74Ju8AsG-_Fd9A&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Tome",
+        "partido": "Independiente ",
+        "votos": 967
       }
     ]
   },
@@ -18262,28 +19293,48 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 20",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/503576020_3119710418187143_2676230008604021319_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGvEwVX-78Nz56sfhjtR1VipRxmoGjfQgClHGagaN9CAD4x3F6LS386e3E2ZuEELDg&_nc_ohc=W9GXZR-Kl0UQ7kNvwEE23Zz&_nc_oc=AdlhFuES4tghqstcjzm4HUx0t4QAV5jRmUsklvNPrs5eBK65Ud2GwySPN8xemKFPAbbLTzuGkV8yOT6FJzZglw9R&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=oLuwpfzl1UpEv63SFy-AlQ&oh=00_AfWFfpXgoAo6Z4pww6z14h56Zt0nbpq6UG-vXvvKmvqRrQ&oe=68B6684F",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwV887bW3nH9CahKlsKQGmOFLahv8NGbB61LYjYIS_1ywiM_9kqev8s7qe3U0Du4sWBmg&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Independiente ",
+        "votos": 786
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Partido regionalista de los independientes",
+        "votos": 1116
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido regionalista de los independientes",
+        "votos": 3570
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "MAS Region ",
+        "votos": 467
       },
       {
         "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 20",
+        "partido": "Pais ",
+        "votos": 1107
       }
     ]
   },
@@ -18302,16 +19353,28 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 46",
+        "partido": "Democrata Cristiano",
+        "votos": 17260
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Democrata Cristiano",
+        "votos": 12035
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Democrata Cristiano",
+        "votos": 19549
       }
     ]
   },
@@ -18321,12 +19384,24 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/200138940_10156898155842706_3825773693317937288_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHaGY_1Hh0xCiwKQH6mkHO5F8ADh2294vQXwAOHbb3i9EeOw0F3fvIJ8_i-SJBS3b0&_nc_ohc=F1XcpHOVdOEQ7kNvwHtIxUn&_nc_oc=Adnegh_jalI_7mlW6RYbRZYI_tXvFhMaS6gF-Tfz27e_pY-kbrXUoTYDFqaERGchnD8qbCTU7i4be_TrXq8Z8Re4&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=0qWYpY8plg29hqwhm2_SGw&oh=00_AfVAxCAqJo7_tvr2EttMPv-L84Zh5ERystnK4qxYuAmKzA&oe=68D7EA55",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbN82hlcsGELe_5aeCAaTBKTS4PiEt0GOHTA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Arauco",
+        "partido": "Independiente ",
+        "votos": 5178
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Arauco",
+        "partido": "Independiente ",
+        "votos": 9323
       }
     ]
   },
@@ -18335,20 +19410,32 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/293070318_477917584141030_7161566537017569442_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHrktgxjvfwgTriqi-guZOCPfR_fv114Ss99H9-_XXhK-bGv4222Tlu6akGvUMauzE&_nc_ohc=Ur-kW9S2yzIQ7kNvwG3n24u&_nc_oc=Adkg6WHuDJXbZOGOVZhg2o-MMsaYm7hCDtfYdGWqZOM60wa0r8-aPVlHl_0K4lRW5_LVCW5qPNiazmTVFmemNe9c&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=C4EvSTiNZ9ZTXWC3zbx2GQ&oh=00_AfXnrtGrWTYJe19wopK5mKSAuVomXjdXhDblx9KI-W8oZA&oe=68B63A42",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKnbfcTBIgomj9lNDjzkAaBhx_fwzL6ZMwf_Y0aqvIgA3T6MYOWfCHvh0qFWQh1vf5YM&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Paine",
+        "partido": "Union Democrata Independiente",
+        "votos": 4475
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Paine",
+        "partido": "Evopoli",
+        "votos": 3204
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2020,
+        "tipo": "popular",
+        "nombre": "Primarias de Alcalde",
+        "territorio": "Paine",
+        "partido": "Evopoli",
+        "votos": 1784
       }
     ]
   },
@@ -18367,16 +19454,115 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://m.cooperativa.cl/noticias/site/artic/20180126/imag/foto_0000002020180126183350.jpg",
+    "delitos": [
+      {
+        "titulo": "Exacción ilegal",
+        "fuente": "https://resumen.cl/articulos/pagar-al-alcalde-por-trabajar-querella-exfuncionaria-cabrero-mario-gierke#google_vignette"
+      },
+      {
+        "titulo": "Violencia intrafamiliar",
+        "fuente": "https://cooperativa.cl/noticias/pais/region-del-biobio/carabineros-reconocio-haber-favorecido-al-alcalde-de-cabrero-en-caso-de/2018-01-26/183350.html"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Cabrero",
+        "partido": "Independiente ",
+        "votos": 863
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Cabrero",
+        "partido": "Independiente ",
+        "votos": 7924
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Cabrero",
+        "partido": "Independiente ",
+        "votos": 8679
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Cabrero",
+        "partido": "Independiente ",
+        "votos": 6504
+      }
+    ]
   },
   {
     "nombre": "Flor Weisse Novoa",
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
+    "reeleccion": true,
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/3/3d/Flor_Weisse_Novoa.jpg",
+    "delitos": [
+      {
+        "titulo": "Injurias",
+        "fuente": "https://sabes.cl/2024/11/11/corte-concepcion-inicia-proceso-desafuero-diputada-flor-weisse"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Cañete",
+        "partido": "Union Democrata Independiente",
+        "votos": 1795
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Arauco",
+        "partido": "Union Democrata Independiente",
+        "votos": 15276
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Arauco",
+        "partido": "Union Democrata Independiente",
+        "votos": 18931
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Primera vuelta de Gobierno Regional",
+        "territorio": "Biobio",
+        "partido": "Union Democrata Independiente",
+        "votos": 97451
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Gobernador Regional",
+        "territorio": "Biobio",
+        "partido": "Union Democrata Independiente",
+        "votos": 51253
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Union Democrata Independiente",
+        "votos": 21816
+      }
+    ]
   },
   {
     "nombre": "Clara Inés Sagardia Cabezas",
@@ -18388,12 +19574,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 21",
+        "partido": "Independiente",
+        "votos": 8188
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Independiente",
+        "votos": 8996
       }
     ]
   },
@@ -18407,40 +19601,76 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1992,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 586
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 1193
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 1860
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 2190
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 2042
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 51",
+        "partido": "Independiente",
+        "votos": 3891
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 2405
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Tirua",
+        "partido": "Independiente",
+        "votos": 2774
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Nacional",
+        "partido": "Mapuche",
+        "votos": 12300
       }
     ]
   },
@@ -18449,7 +19679,7 @@
     "cargo": "Diputado",
     "partido": "PARTIDO RADICAL",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTW5XOVNklLPCatc7fiPRh9DA1xJ3agknKw&s",
     "delitos": []
   },
   {
@@ -18462,8 +19692,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Independiente ",
+        "votos": 10555
       }
     ]
   },
@@ -18472,24 +19706,40 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/533553735_10236635581646457_7602193355394755059_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEv3YlcbSHNgHEiRp4g1SECzbHAMP7VzdPNscAw_tXN0x1cWJZ2_WFoTMr40HMId7k&_nc_ohc=61mRQG6fCw4Q7kNvwHqBbt5&_nc_oc=AdlhCV5uxmmL99SakEl30pcv0nqPPv09A1Yl9XHCngajpnZNEWD6o2n9SQr6DO5QXB53aKxwsaq5oGYjgfC3lgDV&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=-kNDScR9ZbRTH4XKV6Tzdg&oh=00_AfX_s1vIXcYUIbn_CWIkFxG1UbAskMGkK6KSkusQJCVCvg&oe=68B53FBC",
+    "foto": "https://www.radiocamilatv.cl/portal/core/controllers/Noticias/imagen/05-12-2024_16-13-18pato.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Democrata Cristiano",
+        "votos": 13999
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Democrata Cristiano",
+        "votos": 11601
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Democrata Cristiano",
+        "votos": 2225
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Democrata Cristiano",
+        "votos": 5423
       }
     ]
   },
@@ -18504,8 +19754,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Partido de la Gente",
+        "votos": 10066
       }
     ]
   },
@@ -18514,12 +19768,40 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/510800093_10237965011725027_4225076955551126104_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGFA79qvZ7ISPYhyYoeIObRHXtrJAJjNmMde2skAmM2Y-Rztyu7hOZ3O1xlGaRnQMo&_nc_ohc=Tmgtd5RaW3wQ7kNvwE2sScR&_nc_oc=Adnaa-INcYcv6Vhd2Ntr0d3sbmgVE8Ftlwh74ceAog3HRHWMD82fsgb60POyzgxN2xo3NnvXB8KOLgbjIv7UuW6j&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=FMyOixj2Vt1TwdSkmVYkew&oh=00_AfUh_i2OlqNz957UUS5cfzdpV-0mV3yD0wuBej0Xg5VKSA&oe=68B65594",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR90krG2bVb0sgHsao7FmOIhrgEPyniAD7XqA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Movimiento Amplio Social ",
+        "votos": 421
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "MAS Region ",
+        "votos": 421
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 667
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Arauco",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 1360
       }
     ]
   },
@@ -18528,8 +19810,18 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Concepcion 2",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 811
+      }
+    ]
   },
   {
     "nombre": "Joaquin Sanhueza Villamán",
@@ -18537,32 +19829,56 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/510528570_10237479260743241_4587604688110310590_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHFAxBX9uGAiMHoWlJs0CGttwO5_ItHwPm3A7n8i0fA-T1W96_XAX43Y9J3uz_HRjw&_nc_ohc=EujeAjC3Z-sQ7kNvwEUYoA1&_nc_oc=AdnSJhcwQKgx4G01gUdYYWua_wWBmyYEGx8y58MT7m_awONrDRdWHn7h3IR4mqsCF9rixh_t9IWGk4qSr0CcysgR&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Bu_BNVquGTz16KqAOJEWQQ&oh=00_AfVLDqeNCZevXH_S9zJpoEYjOsJTLbLvJpT5WM56uSD1vQ&oe=68B666F9",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZGB0ZDpeXp3rVEehWoV6foaxGu8FB5gDMyyXv_LOOPt5HmafLpqzDEQlT2TU7KnKIp4&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Laja",
+        "partido": "Independiente ",
+        "votos": 1643
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Laja",
+        "partido": "Independiente ",
+        "votos": 1254
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "San Rosendo",
+        "partido": "Independiente ",
+        "votos": 383
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Laja",
+        "partido": "Independiente ",
+        "votos": 526
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Biobio",
+        "partido": "Independiente ",
+        "votos": 2767
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "San Rosendo",
+        "partido": "Independiente ",
+        "votos": 967
       }
     ]
   },
@@ -18572,7 +19888,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 21",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/525566986_1275911180588841_8162290685073672267_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHoB3tqJkBXnsmauJ6hEeLbRjc89-WNOtJGNzz35Y060vy5p0rtkDxyw1VdcgsDZ2A&_nc_ohc=mXwPU5dW_58Q7kNvwFljyML&_nc_oc=AdlYnSgfRTPgQhNIbm6hJJqEF_S_7x2Y9Ypwrp4l9miEjMD--W34UEvY2Qab7GBvXI9WuOU3EB39I0P1LbhtI7b3&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=vdl8-twaehydeijmTKG80Q&oh=00_AfXukYgpKchv8mjrwtQEK9KLLcRizZAa_4ZBKYM2n5hkdA&oe=68B674BD",
+    "foto": "https://img.latribuna.cl/upload/2022/10/17161D564C42446D14140F55534947771F171E18534645741C1E-1024x576.jpeg",
     "delitos": [
       {
         "titulo": "Contravenir gravemente las normas sobre probidad administrativa e incurrir en notable abandono de deberes",
@@ -18581,24 +19897,44 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Mulchen",
+        "partido": "Democrata Cristiano",
+        "votos": 1632
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Mulchen",
+        "partido": "Democrata Cristiano",
+        "votos": 1755
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Mulchen",
+        "partido": "Democrata Cristiano",
+        "votos": 6740
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Mulchen",
+        "partido": "Democrata Cristiano",
+        "votos": 7993
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Mulchen",
+        "partido": "Democrata Cristiano",
+        "votos": 4636
       }
     ]
   },
@@ -19371,9 +20707,60 @@
     "nombre": "Gastón von Muhlenbrock Zamora",
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
+    "reeleccion": true,
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/0/0c/Gast%C3%B3n_Von_M%C3%BChlenbrock_Zamora.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 54",
+        "partido": "Independiente",
+        "votos": 23902
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 54",
+        "partido": "Union Democrata Independiente",
+        "votos": 21751
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 54",
+        "partido": "Union Democrata Independiente",
+        "votos": 19978
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 54",
+        "partido": "Union Democrata Independiente",
+        "votos": 12574
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Union Democrata Independiente",
+        "votos": 12542
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Union Democrata Independiente",
+        "votos": 13244
+      }
+    ]
   },
   {
     "nombre": "Omar Sabat Guzmán",
@@ -19381,8 +20768,63 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.diariodevaldivia.cl/files/aim_66e33fdbd172d_600x447.jpg",
+    "delitos": [
+      {
+        "titulo": "Conduccion en estado de ebriedad",
+        "fuente": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2024/06/17/los-rios-candidato-a-gobernador-omar-sabat-udi-fue-detenido-por-conducir-bajo-efectos-del-alcohol.shtml"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Union Democrata Independiente",
+        "votos": 6002
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Union Democrata Independiente",
+        "votos": 12035
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Valdivia",
+        "partido": "Independiente",
+        "votos": 22565
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Valdivia",
+        "partido": "Independiente",
+        "votos": 17863
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Valdivia",
+        "partido": "Independiente",
+        "votos": 14016
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "Los Rios",
+        "partido": "Independiente",
+        "votos": 85043
+      }
+    ]
   },
   {
     "nombre": "Ann Hunter Gutiérrez",
@@ -19390,24 +20832,83 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrS_8DcdTy-KjPWBgxFb06-j7U0RA94kQZA&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Independiente",
+        "votos": 4071
+      }
+    ]
   },
   {
     "nombre": "Karina Silva Fernández",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.diariolaguino.cl/files/61cdd6d2e87e9_890x533.jpg",
+    "delitos": [
+      {
+        "titulo": "Maltrato Laboral",
+        "fuente": "https://www.diariofutrono.cl/noticia/actualidad/2021/10/suspenden-a-directora-regional-de-junaeb-denunciada-por-maltrato-laboral"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Valdivia",
+        "partido": "Renovación Nacional",
+        "votos": 3206
+      }
+    ]
   },
   {
     "nombre": "Sylvia Yunge Wulf",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.eldiariopanguipulli.cl/imagenes/2019%20FOTOGRAFIAS/08%20agosto/26/Sylvia%20Yunge/Portada.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Rio Bueno",
+        "partido": "Renovación Nacional",
+        "votos": 558
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Rio Bueno",
+        "partido": "Renovación Nacional",
+        "votos": 802
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Ranco",
+        "partido": "Renovación Nacional",
+        "votos": 1664
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Ranco",
+        "partido": "Renovación Nacional",
+        "votos": 1654
+      }
+    ]
   },
   {
     "nombre": "Daniel Elias Valenzuela Salazar",
@@ -19415,7 +20916,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Renovación Nacional",
     "distrito": "Distrito 24",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAiYBa90tpWxur9YmflbLVB3y5nMk4i1Pag&s",
     "delitos": []
   },
   {
@@ -19428,8 +20929,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido Socialista",
+        "votos": 1855
       }
     ]
   },
@@ -19443,36 +20948,68 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Mafil",
+        "partido": "Partido Socialista",
+        "votos": 118
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Partido Socialista",
+        "votos": 6347
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Partido Socialista",
+        "votos": 4730
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Partido Socialista",
+        "votos": 3977
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Primarias de Alcalde",
+        "territorio": "Valdivia",
+        "partido": "Partido Socialista",
+        "votos": 2981
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Valdivia",
+        "partido": "Partido Socialista",
+        "votos": 17058
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido Socialista",
+        "votos": 15739
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Partido Socialista",
+        "votos": 35586
       }
     ]
   },
@@ -19485,16 +21022,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Independiente ",
+        "votos": 1167
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Valdivia",
+        "partido": "Revolucion Democratica",
+        "votos": 2461
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Valdivia",
+        "partido": "Convergencia Social",
+        "votos": 4149
       }
     ]
   },
@@ -19503,44 +21052,80 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/300060588_384772440498571_1955048729906695428_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE7g82A-b-GGGoEH8Qoo6ZyAqXq5-C8whECpern4LzCEU6TuVWtMNH5wGvYML0x_Rs&_nc_ohc=9jDMk8DEKbcQ7kNvwEhI-tI&_nc_oc=AdmS4rwMOUpPJYM4xNmSeXOvkXu4mJOY5smTcNX9UU-1ufJc1Bx_IeVw5mWNVMv9lHgDqJogGD5sfLjKRxggoWhN&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=TXMtYkJBX2OPqBfNdeeilg&oh=00_AfXeJIRLfElR4QOmDd8k-qspIfuYlgzoC3c49zfI-CRlPg&oe=68B5386E",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMU46LHiqERzIe0iAbK69McaQsCWYvl-dmw&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1992,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Rio Bueno",
+        "partido": "Democrata Cristiano",
+        "votos": 2544
+      },
+      {
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Rio Bueno",
+        "partido": "Democrata Cristiano",
+        "votos": 5539
+      },
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Rio Bueno",
+        "partido": "Democrata Cristiano",
+        "votos": 7354
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Rio Bueno",
+        "partido": "Democrata Cristiano",
+        "votos": 7866
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Rio Bueno",
+        "partido": "Democrata Cristiano",
+        "votos": 5984
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Rio Bueno",
+        "partido": "Democrata Cristiano",
+        "votos": 6626
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Ranco",
+        "partido": "Democrata Cristiano",
+        "votos": 7042
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Ranco",
+        "partido": "Democrata Cristiano",
+        "votos": 3640
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Ranco",
+        "partido": "Democrata Cristiano",
+        "votos": 3435
       }
     ]
   },
@@ -19549,16 +21134,24 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/474464287_1452913692295472_2469959405635550328_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHhLAUR6ItdjWv-deEeFUqONgctr5cR2n02By2vlxHafa9bPumxf0QtN8qaDox1SlQ&_nc_ohc=9APz-7ekcvgQ7kNvwF_7_HU&_nc_oc=AdlbFx2G0EaaL2QWdUoi39Bu1060rBc1akmo32NRW1oVyCPKlaHVo5IKzQM4jMxoiAvfIp4p5hclHzKu-RsWO0Tl&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=KZQPyqA4bzKikEyGs0LIGQ&oh=00_AfXXJX_xnJLZPmW4AygC7TYX5iBQmqEKQoP7fDgqHiGY8w&oe=68BA9F64",
+    "foto": "https://www.eldiariopanguipulli.cl/imagenes/2021%20FOTOGRAFIAS/01%20enero/11/VanessaHuaiquimilla/Portada.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Nacional",
+        "partido": "Mapuche",
+        "votos": 6277
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 24",
+        "partido": "Independiente ",
+        "votos": 5943
       }
     ]
   },
@@ -19575,12 +21168,16 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Independiente ",
+        "votos": 268
       }
     ]
   },
@@ -19589,16 +21186,24 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/456780145_10161705158931952_7352931249267622783_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEnFpKuGZN73w0jVCnWJC4nzDNlzSsN-7DMM2XNKw37sFH6rmHw1bSSZIy_RRDDWDs&_nc_ohc=WgGWgyg1K8QQ7kNvwFiNQ-_&_nc_oc=AdkBZPnrEJ6Hx2av_PauXPnrKKvL1Q6k9PiumilE8f_4uWtjcO1Ixox3CFHXe6MEfJairs3sM65LPxfb1_Lwddu1&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=qss-_NjbEVYATmUj0HGuOw&oh=00_AfUt5jSSV06gWRrmPPrKYWHGYHLdZIbPYyrupCMeIbX4Ug&oe=68B67D3A",
+    "foto": "https://www.diariopaillaco.cl/files/aim_66cde071c7655_600x447.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Paillaco",
+        "partido": "Independiente ",
+        "votos": 150
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Valdivia",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 2740
       }
     ]
   },
@@ -19607,12 +21212,16 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Paillaco",
+        "partido": "Independiente ",
+        "votos": 133
       }
     ]
   },
@@ -19622,12 +21231,16 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHy_mJBbp4aLICm8zUdXJoen3tCvfZaHuYew&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "PArtido Nacional Ciudadano ",
+        "votos": 648
       }
     ]
   },
@@ -19637,20 +21250,32 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 24",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/273299363_308318488008543_2113102543136820944_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGqIOSWzI09MVAGcI1eB9lRMXcACFIcemcxdwAIUhx6Z6SP7TZN-OeoEdOQSIWGzyk&_nc_ohc=fNaz7qcp17UQ7kNvwHoQmU3&_nc_oc=Adm2Gp7Iq7jzC3k2qKu4WdGj9kWgGvQYX75SfA4g2pCmborAAws1cjXrQxMZFIB9xFGl8JtZfEBh_dPv6aox98ON&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=PqSj9WeJ-MSJk9FQnRS1oQ&oh=00_AfVAp1vF2ndlnfVwiXThb3Fe5xNqOy-FYgpaLY_Kzh8MAw&oe=68B66C94",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtj8FOt7wf-asRS_W30H0mMJYEhaxXhqY76g&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Independiente ",
+        "votos": 233
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 24",
+        "partido": "Independiente ",
+        "votos": 1088
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Valdivia",
+        "partido": "Independiente ",
+        "votos": 404
       }
     ]
   },
@@ -19788,7 +21413,7 @@
     "distrito": "Distrito 25",
     "foto": "https://media.licdn.com/dms/image/v2/C4D03AQEnAKDinjAAcQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517060237555?e=2147483647&v=beta&t=MIlJ-yF-jPpaSXsWr5apGIK5hXQsLMQe2JtrbIsy_Pw",
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2023,
         "tipo": "popular",
@@ -19866,7 +21491,7 @@
     "distrito": "Distrito 25",
     "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
-    "elecciones":[
+    "elecciones": [
       {
         "anio": 2024,
         "tipo": "popular",
@@ -20106,7 +21731,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 25",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -22747,24 +24372,102 @@
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCufBCqnGsHBSGfCFyY75uk1c5s9DbSCdmA&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 12",
+        "partido": "Partido Igualdad",
+        "votos": 9730
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Partido Igualdad",
+        "votos": 444
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido Igualdad",
+        "votos": 5107
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "Biobio",
+        "partido": "Partido Igualdad",
+        "votos": 46882
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido Igualdad",
+        "votos": 4479
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "Biobio",
+        "partido": "Partido Igualdad",
+        "votos": 88767
+      }
+    ]
   },
   {
     "nombre": "Camila Arriagada González",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mhjPIXv-DBLntow8T9HAymusjsNkDIr6IA&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido Igualdad",
+        "votos": 2629
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 1",
+        "partido": "Partido Igualdad",
+        "votos": 6672
+      }
+    ]
   },
   {
     "nombre": "Ximena Muñoz Vallejos",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Concepcion 2",
+        "partido": "Partido Igualdad",
+        "votos": 2835
+      }
+    ]
   },
   {
     "nombre": "Eliana Quevedo Hernández",
@@ -22772,7 +24475,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -22781,7 +24484,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -22790,7 +24493,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -22799,7 +24502,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -22808,16 +24511,44 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-LE2r5kibDCknhFUwhIleyZ-e_ZP_PXyTw&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 20",
+        "partido": "Independiente ",
+        "votos": 1160
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Concepcion",
+        "partido": "Independiente ",
+        "votos": 921
+      }
+    ]
   },
   {
     "nombre": "Carla Burgos Escobar",
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQHn6ZUWpiqukSEtIvVOZk-Tyzf2oBgeVlg&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Los Angeles",
+        "partido": "Partido Igualdad",
+        "votos": 3046
+      }
+    ]
   },
   {
     "nombre": "Jorge Franklin Dunstan Pavéz",
@@ -22964,7 +24695,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23874,15 +25605,49 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente",
+        "votos": 890
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente",
+        "votos": 776
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente",
+        "votos": 933
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "San Pedro de la Paz",
+        "partido": "Independiente",
+        "votos": 533
+      }
+    ]
   },
   {
     "nombre": "Marisol Vidal Friz",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 20",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24514,15 +26279,15 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
-    "nombre": "Bárbara López Monsálvez",
+    "nombre": "Bárbara Lepez Monsálvez",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24530,15 +26295,49 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Los Alamos ",
+        "partido": "Independiente ",
+        "votos": 68
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Los Alamos ",
+        "partido": "Independiente ",
+        "votos": 142
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Partido Ecologista Verde",
+        "votos": 2646
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Los Alamos ",
+        "partido": "Independiente ",
+        "votos": 223
+      }
+    ]
   },
   {
     "nombre": "Johanna Barra Astudillo",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 21",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24546,15 +26345,41 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 21",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Renca",
+        "partido": "Partido Socialista",
+        "votos": 780
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Renca",
+        "partido": "Partido Progresista",
+        "votos": 419
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Santiago 3 ",
+        "partido": "Partido Progresista",
+        "votos": 4036
+      }
+    ]
   },
   {
     "nombre": "Sandra Luz Vergara Castro",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24562,7 +26387,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24570,7 +26395,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -24596,7 +26421,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24898,16 +26723,54 @@
     "cargo": "Diputado",
     "partido": "Independiente",
     "distrito": "Distrito 24",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJzNHW_KiyNRAcc0M123qNm7VlQSAXTppqhA&s",
+    "delitos": [
+      {
+        "titulo": "Defensor de la colusion de los Pollos",
+        "fuente": "https://infogate.cl/2016/01/rapido-y-silencioso-jose-antonio-urrutia-riesco-el-poderoso-abogado-de-la-colusion-de-los-pollos/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Circunscripcion senatorial 12",
+        "partido": "Independiente ",
+        "votos": 32912
+      }
+    ]
   },
   {
-    "nombre": "Saul Gonzales Caceres",
+    "nombre": "Saul Gonzalez Caceres",
     "cargo": "Diputado",
     "partido": "Independiente",
     "distrito": "Distrito 20",
-    "foto": null,
-    "delitos": []
+    "foto": "https://pbs.twimg.com/profile_images/1779985806037262336/jWXoOqOG_400x400.jpg",
+    "delitos": [
+      {
+        "titulo": "Manejo en estado de ebriedad y Denuncia por Violencia Intrafamiliar",
+        "fuente": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2024/08/16/udi-baja-a-candidato-a-core-saul-gonzalez-por-conduccion-en-estado-de-ebriedad-y-denuncia-por-vif.shtml"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Renovación Nacional",
+        "votos": 516
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Concejal",
+        "territorio": "Concepcion ",
+        "partido": "Renovación Nacional",
+        "votos": 1086
+      }
+    ]
   },
   {
     "nombre": "José Miguel Durana Semir",
