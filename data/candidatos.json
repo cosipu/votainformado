@@ -140,7 +140,7 @@
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 1",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/486251904_665590452527355_6174635244361394859_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGkMyWAouNyXU_EsILZT0Kn0c6cv_e5Sz3Rzpy_97lLPbu_lMG2bdhFzQ-Ty_21KZc&_nc_ohc=iqPWMsfv3okQ7kNvwElH_Ry&_nc_oc=Adm7kw_TBno_QcJd1k12DB4jkEumOmsKdhh6AeFFXf6t0FjrBoIze9iHJpDEFy_d1uSzWfKCRGKY1bzJYZKcUoiu&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=13sfCsNVTnnKay2WclNykA&oh=00_AfUJs8ZFbjENvS07xpVh76mxxIYktUblEca8S1RXtf3XJA&oe=68BBB126",
+    "foto": "https://i.ytimg.com/vi/Ni7w9_-srrU/sddefault.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -166,7 +166,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/469207171_122137419854375073_1510091261204369534_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGMkZjYUX2zYAfCj66x-DmVHUeDYBtdbOodR4NgG11s6hYgGCTOov8jVljSOD5k4mc&_nc_ohc=1T6Of8nhMA8Q7kNvwF-RXnE&_nc_oc=AdlNrMWTBT_qZrnLH3GruUxo0lbB-cwQu068JtV3fuU86_dU4RcZS8jpqgDzh1512viNKv6l6krrzEWj3CX_HGkx&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=ennP_UGO7aZinn8bjMJVrw&oh=00_AfUyKrHoqy2wHlFZuTSMPkBLBBLBBAj58APYkk2U6ybZzw&oe=68B2586E",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhVKMKOwtOiR5Vkt-owDXVlhDm4QxeHMQWg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -184,7 +184,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 2",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "elecciones": [
       {
         "anio": 2024,
@@ -252,7 +252,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/508756912_10237585026267768_2636054502045173095_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEGCICmx1Rmscp3-W5TS7rQp2b9KGGGG-unZv0oYYYb621I9sRUoaaR8IwEAKQwK8c&_nc_ohc=OoHRL8ix5EYQ7kNvwFD6RJJ&_nc_oc=Adk_JG_v1nJFAt1ij4JjT343CkC1WsTvXoYkylAugtvJIWqwHQSx9Y2gPLjn2U9kvcRUbyIxuNZPlEnnvTFvMZzh&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=ucYd2e5NxNzajtphYrl4Dw&oh=00_AfUFALLu5K1bjX7VPF-7MXqEE_9adnjkp-IIUdj-N8ClyA&oe=68B26FF7",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjHjjRdGRB7r1cD8GplVXpIuQGsCBMO1lD9A&s",
     "delitos": [],
     "elecciones": [
       {
@@ -341,7 +341,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -367,7 +367,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -531,7 +531,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/495726134_1293288359472614_8402458920567812141_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEjE7GDxqzmzVmeH9XSE_bIFzuQXO53R0QXO5Bc7ndHRCQvsNCa9BclEh9IEQ8V-0U&_nc_ohc=dkRhO9EzgbwQ7kNvwHCsuv8&_nc_oc=AdmDghc5As5Hha7SRbLDY-6jOKm-7qHWhRbZRvaBAXSwG6-bbGNWqc01lJBhjWSAxqGGNgv5TsbCiL8xpcrc37Ob&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=34q07AWUXS7DBUaZWY2TUg&oh=00_AfU8kfFOdBuYV3kJQeCnWD-E-iEmBxJ0mRmUx3W_Ek8VAA&oe=68BB9C20",
+    "foto": "https://pbs.twimg.com/profile_images/1958326775445889024/wn-OfcEq_400x400.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -575,7 +575,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [
       {
         "titulo": "Esta inscrito en el Registro Nacional de Deudores de Alimentos",
@@ -588,7 +588,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -596,7 +596,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -604,7 +604,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/536279856_122099464454998732_1001803024367442556_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFOU6vXmr-KdeEzWa9-zkVdQZWglGnfTrxBlaCUad9OvM3T30WDSbaVHU4h_MwSZD0&_nc_ohc=2mn38HOehMUQ7kNvwHwOLfx&_nc_oc=AdnVbYsTXBos0MdvwtT3Eu2HBVOAQ1bRFla4UtZKG39zInXuKK6abeGT-KACsiLYEoz2EC236K_iJOS3ZR-tn8xo&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=He5jaG0tO9HH6VYvWJSsCQ&oh=00_AfVSUbD70qdsOTeCq02rL4pKsYoKStFqK3wPhZXHs_VqSg&oe=68BB590F",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -612,7 +612,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/537101637_122108680550974853_4298384643083900568_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEkB4Ht6GAtE6x-Koi-oVYJVt-q5MUGALBW36rkxQYAsLJcbZG1WwQEmiEx7xmpTxk&_nc_ohc=2jfJivnljHwQ7kNvwGKzmra&_nc_oc=AdkidDzAvY8NvCb9Ji5IjJ4YjvukmoRm0MY-s364d5vVNt9J2vKYe8uiggBk3PVKZQ1FRMUsW5YW9gmxX9pt4YE-&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=bXH2Wpu-HQgc9MQZwIKn1Q&oh=00_AfWPecMtltL4Dt-A9-d19eO_zpxUej2xB3v1yw_d9Fjmpw&oe=68BB7CC3",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -647,7 +647,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/536473067_25292879523635527_6932714439874350255_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHCyUc2HHwGdwOtjBujOq1Td9R3jfNKPDF31HeN80o8MeoZRQpcsBY4fsYLeVoMtJg&_nc_ohc=qSOuN0AjOkkQ7kNvwFkgZpI&_nc_oc=Adm2rPvZYZ8C3QiBEF_eMjyQlxZHu_oApIhHw8ncBRrlyDlXo7cB1FP1duNw_pE6VVljl2SOzQ5ccXxXsavdryIG&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=flB1sGV2PbAXP3TqmosG-g&oh=00_AfWIDRrxIS38TmUE9UoTRg9gjtzpElI_0B-jrjLC_otkbw&oe=68BB5BEC",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxw-rBvGcWoIKHbgfpHpx-3PE4FQWIa8biiA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -674,7 +674,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/484246791_1218871006909423_974792002022229050_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG7LDo3Xijto5V7yvT1ETByr-JKFthtHaKv4koW2G0doqATmalZbW2IcgdyJYMnStc&_nc_ohc=i_O8qSJsQCEQ7kNvwGrYRYQ&_nc_oc=Adlu6BCBTszlHvniUU4TvWUM30aMuBO7LwdlLMTgjddpEBxWJ96yxlZ4wDM91C4TxFh3v7nfsXSOpLFwpbDUXyRM&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=YAce-zIZruuhQH8KPUrZ-w&oh=00_AfXtS6WRYqH4dBfearx-hjYR6njceijaYvHaNrelZxN2UA&oe=68BB85A3",
+    "foto": "https://evolutivamedio.cl/wp-content/uploads/2024/07/IMG-20240729-WA0063.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -740,7 +740,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/476118649_1362769931380222_5733995326323043703_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFutRxQpEzvW0IuEHS6-Yko-QLU1ANCsof5AtTUA0Kyhx9y3P-XhC1D49D2bD-mGnc&_nc_ohc=ke6bNRySL0cQ7kNvwHAf3T7&_nc_oc=AdlyrMzP0oeB1nt41UYy3ZfRrZbLBth2kveT_lbU2BpvvcK0Yg8vDtiN_geL073-AzFeYcnod8uu8c_xBMVr6nif&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=yRPqtmeXGkLOZnLPwYdAWA&oh=00_AfUOTPgD8m6Ov-ckKrIxJbOgaolyrIOjU8wVWT3vJIFpvA&oe=68BB95AB",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -793,7 +793,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -801,7 +801,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/243158145_276141467569489_2207861021530809184_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEuvwWCIXlqhFkAFldbAF9NdlyBRURrkoF2XIFFRGuSgTqaJHAO_mnnkcCnKQoRd08&_nc_ohc=3v-hZTNjxAIQ7kNvwHOUewl&_nc_oc=AdlkS-sT2xLmC6F8bs-XR-eZD8UGztQCYqfGzYf2Zrn-3zr88kkwbhNi2vqPuCndmgcPy7NYuzvh9sxa_s3TZWq5&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=xUYKNFOB9sslxtr8T90www&oh=00_AfXjYfBqAIXfOt4HOUnFNJH9YpyZUMqBmmVXpJof4h7dYw&oe=68BA6B00",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2WN3rZw3NiZaxnOQU3cldhOVB7LruXCAlg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -827,7 +827,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/474589546_603958092235963_6543658611260890636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHkAAitMTolG_1nLZtZgZFlP8tLp_WXLGA_y0un9ZcsYBjbWGt6fmTL33Xe1K0_O0o&_nc_ohc=EiTvNI55PWgQ7kNvwF6Q5Yh&_nc_oc=AdnFWmfJmTSgl5u5N0HnSl5BRk09HD4-Obbu5f6c-K5JTlji1X7pCJ8zrTZZpQ7ooAZ3KrVA8xX4hcwZKjhY40hr&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=tTnVAav0nGzVYGIL4LJmCg&oh=00_AfXh836Uk2n1I_O3wZIEjil1h9BGA2Lb37574-PUvuNAHg&oe=68BA4F17",
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQHYP4ZL_JbQiw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517458226495?e=2147483647&v=beta&t=Q_XQHtJcfkxzjw7ha49o80gi44VtaQTq8Ed_DmpGRr4",
     "delitos": []
   },
   {
@@ -854,7 +854,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 7",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/506705530_10237517556056025_8871743394695164277_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH8N5xZcO0ulaJ_7Z_nszjCtHFFyAzfScG0cUXIDN9JwYVmHBk9jK-2WzzdU86hMlo&_nc_ohc=Pnm-_JYx2n4Q7kNvwFzH5iK&_nc_oc=AdnRHjkbL1B5zChtTdRO9pegD1aG-XFO6TjzsPEJksOESlVUnQn8xjk_d0TUc2r7UlcdKs1bpm2FX3kmk37Ywlxh&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Xrf-wofJu9YrYcCBHw7mdQ&oh=00_AfUtghhonqG76LBtmkog-xItGvyIhCL0VgiNCaUo3RbVlA&oe=68BB74C3",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ulvr7qIKXU7DslYs8jh0sq0vc-u9oRz3hQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -944,7 +944,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1031,7 +1031,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 8",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/49452947edc546cd525e3fbdf241d0b8/46280/1bbOVSvEZ5zXHt5ghEhG03YWMWGmHAzLr.webp",
+    "foto": "https://contents.bebee.com/users/id/Syciq66839f58ec4d9/_avatar-ViE7Q-400.png",
     "delitos": [],
     "elecciones": [
       {
@@ -1102,7 +1102,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Nacional Libertario",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1110,7 +1110,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 8",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/476422455_638365661905790_6568399975294912683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHV0jA0Nr01HozB7d6jltB6-e_bcGBcigP579twYFyKA2rJHanoWr2yD6CfjxaKHrg&_nc_ohc=JysY1bua1yUQ7kNvwH14iau&_nc_oc=AdnGXUJqLzqKbO4s_EUCPJ7STFyvH7Ynae9VZ9Nps73tCYX3XV9TB7ncXdyDh76bXcgciv09Eay5OX5cH-5aCuGH&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=TWlsGciF6kgKagVPZDhF2w&oh=00_AfU9v9yFbriDH-W6cZbWRq6lnJKLcG3PDoTjOLCsVLgopg&oe=68B2A377",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWUaFIExQyHqddsnj2S55qnz02a2W9m57KOA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -1172,7 +1172,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/469304118_955610883183913_1689226684516261627_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH3d3E3ixgm49EZi-u_6vTnMcpoICcgBs8xymggJyAGz3nfFDs1tyHr3C3P_M9Rte4&_nc_ohc=gHTIyiV66CcQ7kNvwHgTNKl&_nc_oc=AdnLmGaYX3dDodU1KSScMD8vhe7q2R4RpN4oMGz8Ai9t2CurqoK1SNZI9SyOXYq0ohom6TpeCk4miqV6RCwhb-QH&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=yYIIXW8WgGMaa62044jcow&oh=00_AfXLcHEhE5af_Cl-SwQ5IYYmttox7beW_TTYXZAVcXKH9g&oe=68B2A2E6",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvqG2A-2Keox7Na-LMI0r_u1_tdakiFHfFA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -1242,7 +1242,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/451867029_1161379331604115_4545635831858420724_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEgsuOR-xktSgkm-WRsfLt4EaeZ0LJrHlURp5nQsmseVfFKIufHcHJO0jo9FMB5ns0&_nc_ohc=qgq4sGuVQpUQ7kNvwHQ82kQ&_nc_oc=AdnsWzDGZLFCjHH5xzhNPq1SWUHwBX6yxLsdQLWxF6lVm0UyLLJC727e47kwPKgUXuk_kAq4hAqTT2jTazfwjyts&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=_ahklkWVJ5aIhT_m7RojRQ&oh=00_AfUYh4W3Z1F7dEwJcM7wWzTK7Z1RjjstnE1t1ypvJ34Qzg&oe=68B29C3C",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgu8DfZNm0U4UzuqTxRSmUEejoz6b1t5fBQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -1318,7 +1318,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/499258976_10097277680368052_301818735795818103_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF0MsmMQSslFMTipnpua8icEynVfh7A5BITKdV-HsDkEk0sH2IDOvf0YW24q6T5UiQ&_nc_ohc=MdnKUFTfq28Q7kNvwGl6sK0&_nc_oc=AdkAz6RVbVWvJOzG8J-7DL918eYjlS1Fb_yakjO7BYOZbMXe2wCATnJzGttYIcrIlelVZeh1yO6n9M5DzVcB3mzl&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=J3u-LxwshE5KVUaSe4FY7g&oh=00_AfVukcx1TYdklejMvi6tATNZDLADFIZ1IzFoS48fQPfuQA&oe=68B29C0B",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQEltfvtwOx4vg/profile-displayphoto-shrink_400_400/B4EZccMJgwHQAg-/0/1748524637384?e=2147483647&v=beta&t=rWTLeqJr1m0Pg4Fv9h3IRv-5qf24SWugf93UwklRkkw",
     "delitos": [],
     "elecciones": [
       {
@@ -1388,7 +1388,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1396,7 +1396,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/540967214_122167519874386297_2774706251233980904_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGclbdB9yip6fwIAJQID3oEu_HQGUMwh-O78dAZQzCH4ygnauq2t4erfDpUe9j2kCs&_nc_ohc=tkEaevmC9XgQ7kNvwFvLoa5&_nc_oc=AdnqVxnD7zxu7d1k2z6hD6FVWqMVKUb8k-BEt0c8-oeG-sUKZW1UI30kIW8jEQYXZnaD4e9XMmmKZQTBy0xcQDl3&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=hjnFD_vnM-H3pu7Z4IH22w&oh=00_AfVa0NQvqwrVTYg5hw9VcmBfHkt4s2TPKj_2GRyFqtKQ-Q&oe=68BA7191",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjaNSmudX0RXC2l-wnFizIFieiz5pFQ0rOXEDK1hPP40B9gwfofcZFc_ySaK7T8egcNQ&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
@@ -1414,7 +1414,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1626,7 +1626,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -1791,7 +1791,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 12",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/387045783_1044548216920787_2159015011269368272_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGpJN7UywCNcLfdg6YhUxQCz7_37vS_LozPv_fu9L8ujOJyN95RoqfeL3HF5Bjr9J4&_nc_ohc=T-78leA1x3MQ7kNvwGykQc5&_nc_oc=Adk2hXJtqPVpVUwbMUoL3DdFoQQjo2Uf4oq1PQ5D3tlGnrvG9z5Rf_UbmdYFqATd_QhRouoeatOlogOoPq4fS7dk&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=2DxoM6mVnIdB9kolZ738sA&oh=00_AfUvsOaVrc9O9AHWa4Qtas6BGWQ2XfF2poh2gqiGwRMYoQ&oe=68AE6C08",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPI9UaZnuT0f_lOOAYvu97qioKTuGeogP7eg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -1827,7 +1827,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1843,7 +1843,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1851,7 +1851,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -1859,7 +1859,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 12",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/302145150_412064271059559_64413109576008350_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFVb2kbfgirRYF7wba1QHfRsl9m18zeKz2yX2bXzN4rPdkZBlUUMzPB5_i8Te3P3pM&_nc_ohc=a6n14UvVNjAQ7kNvwGRrTlj&_nc_oc=AdnX_I6xnHCA0Xo6iaByzSsagRuKeHLUPrwG-twcxQkMLzquw9eDELD3pFSE5_GiY0pOoUE5tLJxF4PFeB4VMU20&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=DoIb_pDW2oQvQsDj2wkTLA&oh=00_AfWwEnc64_zMZl5aa2cDhsrdBasjgfMWJMHYyUX4lTO5iA&oe=68AE6144",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLw9M-h5WI8hYr9X6Fi_4P7PdI1K_0_ltAQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -3322,11 +3322,19 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Union Democrata Independiente",
+        "votos": 1749
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Partido Republicano De Chile",
+        "votos": 6257
       }
     ]
   },
@@ -3335,16 +3343,24 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/481787377_614121214867692_6242302360253766158_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE15uonXPR5rYS10s0LH9i5LY3znF5zWQEtjfOcXnNZAfsymovMJ3Bq4zUa5V72vuk&_nc_ohc=kouIRea6edsQ7kNvwHk1Vmn&_nc_oc=Adl9VoqH_f7I7xHf031vikQJn8ZDfpugTc78gbF8IpCVpybmhxwHt64GJ6X_evRJ1WClgqt6cFvZolMnoeUQvCx-&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=3Lxt6dxWd6rXDzVBpjuqhw&oh=00_AfXbDtBfu9FGB7IB3q9GcGkp2blQm0Dw41Z0zpgdWHQ9fw&oe=68BA895E",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3TY8jX__Ccpbvnj5f2YaeFskTm4LXnyXU8g&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Angol",
+        "partido": "Independiente ",
+        "votos": 461
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Malleco",
+        "partido": "Independiente ",
+        "votos": 1988
       }
     ]
   },
@@ -3353,16 +3369,24 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/502466484_2272764453143655_3115265291718071473_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFFvDS0OmdQoW3hvXUpI_iX8_iWc2eFZlzz-JZzZ4VmXBa5J5m06x_ny31_gy1HkxA&_nc_ohc=dFOHVRaEazkQ7kNvwEm_I6h&_nc_oc=Adk0Hj-oNgdc2dK4cLiJefgqIzRAj7E-XMYgxhYzh-WmPpIEl1qtGBb1iBJ0wb9qL6j4GKjL5YHV9t-eAzqhXzPR&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=RV3CuQV5z3YAwhs3t-37Dg&oh=00_AfUzYkoYe74FbRzAM8rNmj_LJqBAPlnrkFuBNjcSd6uvyA&oe=68BB8072",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CIDztszCTxvI5KMdRyZcAuM3ZqOkbx6cqA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Curacautin",
+        "partido": "Independiente ",
+        "votos": 660
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Malleco",
+        "partido": "Independiente ",
+        "votos": 3101
       }
     ]
   },
@@ -3371,16 +3395,24 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 22",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/f019d025e35e8b5c32865c31c5e365ed/46280/Felipe%20Andr%C3%A9s%20Mart%C3%ADnez%20Reyes.webp",
+    "foto": "https://araucaniadiario.cl/download/multimedia.normal.8bdf2640f87f4738.NTFfaV80NTIzMjkzMTM0LjYxNWQyZjc2LjM5NTA0Mzhfbm9ybWFsLndlYnA%3D.webp",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 22",
+        "partido": "Independiente ",
+        "votos": 1285
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Malleco",
+        "partido": "Partido Republicano De Chile",
+        "votos": 2862
       }
     ]
   },
@@ -3390,7 +3422,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Republicano De Chile",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/514340409_1356163033178665_5848901554217438347_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE5y-TZxd2XPQfKwowiM_PoAd82X8uaXVkB3zZfy5pdWXS2WALoohzmid6HenCQWqA&_nc_ohc=q-u0738xeJUQ7kNvwEUwt85&_nc_oc=Adn6BYd6sLUtGKJ5PJCUAg9rz_WvSAuvEA14grQ07U4Cm0kup8AwZFE7kh8vjdrQBRbTFwAiUhYshHvdGv1_gOPz&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=bg1gPSavtn6hkNr2Q0RQ0g&oh=00_AfW4b0tgO5dFc6a4dNzxEj-CaQmhIx40oL1PInpa7wmI3w&oe=68BB754C",
+    "foto": "https://media.licdn.com/dms/image/v2/D4D03AQHu25X6_gyx0A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692130555507?e=2147483647&v=beta&t=WgSKmuOK2wtSdVa3cQgYfzoVeictSmhJhp1N9R2rbcI",
     "delitos": []
   },
   {
@@ -3403,12 +3435,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Constituyente",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 2862
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 12788
       }
     ]
   },
@@ -3417,7 +3457,7 @@
     "cargo": "Diputado",
     "partido": "Partido Republicano De Chile",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/244244935_271377111658230_2589812228227138536_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHrlV3PtJVa1dwTmgKYPYe3uDbXExLU1I64NtcTEtTUjqOfMoY4evbNUMHehwyTXhQ&_nc_ohc=EnY5HaKAp5QQ7kNvwF40JgL&_nc_oc=Adljs5Su03dGspfvfYxmb0vtXEA2F8fzAouBRH0Dr2gYbJ1qB-zmxT69byKkMSJT9B7OsIRgRkRCI5C61kax-MuP&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=EczYYIqC4Q4oFfnibWGKgQ&oh=00_AfWIjuIN4brGVt7-oAY9eXq1ON3ZGY7OB-a8xWAnGkiTVA&oe=68BB8B59",
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQGRROHYP_uMEQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1521089559538?e=2147483647&v=beta&t=YjhGwLyROmZ1ow35djgC_dbw4cIjgbmGUFCSL4xrkdc",
     "delitos": [
       {
         "titulo": "posibles delitos de cohecho, fraude al Fisco, malversación de caudales públicos, negociación incompatible y eventuales ilícitos de financiamiento irregular de campañas políticas.",
@@ -3426,12 +3466,20 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Temuco",
+        "partido": "Partido Republicano De Chile",
+        "votos": 2336
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejero Regional",
+        "territorio": "Cautin 1",
+        "partido": "Partido Republicano De Chile",
+        "votos": 5464
       }
     ]
   },
@@ -3440,7 +3488,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -3448,7 +3496,7 @@
     "cargo": "Diputado",
     "partido": "Partido Nacional Libertario",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAcTLYe2HwvWk3Wk2XM5GqQIsjxTHX_r5Xw&s",
     "delitos": []
   },
   {
@@ -3464,7 +3512,7 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/464928835_10234927581398796_6502006901111456266_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEGfN3UKhbGYJfzGg8NzAkbawF1Vd3UyP5rAXVV3dTI_tKnNqS0gJbvjU32e6tk0KU&_nc_ohc=rBfVK0VivfMQ7kNvwEI0A5w&_nc_oc=AdkIDSX-mEUbVR4wEvlczi-3XQYtAbWHy8bq3z9KcsrL3z_6x9BLP65SRL-b9w8fx5orpTzHBlvD5c4kkHedFgim&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=niyAkX0yEGBVYFiQ8uQVPg&oh=00_AfXf4dp-cJiNhgpsJao2rnF06xHY7RbsjJE-_vdnzOIRmA&oe=68BB9168",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -3473,24 +3521,48 @@
     "partido": "Independiente",
     "independientePor": "Partido Social Cristiano",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/465111418_9346929612002222_6377249803406021087_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEU0fXXcpb41eYbmCaqTjBF_5W__snIGCr_lb_-ycgYKkYGFDMIoMhUJUAVXBRo5ug&_nc_ohc=ktL1h4WezIYQ7kNvwFF3wEN&_nc_oc=AdnBCCbGNexSTOl5oPskcXSmMo3uATiKX0dW3ugKDK9E9k-04ArSM6uJjhGlXnHzaEvobYwGRpbwlHWycF3_1t7B&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=WrOsxqFF2clHR51WHJVF-w&oh=00_AfWOZiZLolR4oTnqFk3384dLNYH0lkzasgqLm9SSy-Fwsg&oe=68BBA610",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzEEh2Vk2blqTsI0J5yJcSyVxDbVqq7uJEQ&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Padre Las Casas",
+        "partido": "Renovación Nacional",
+        "votos": 2308
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Freire",
+        "partido": "Renovación Nacional",
+        "votos": 4815
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Freire",
+        "partido": "Renovación Nacional",
+        "votos": 4647
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Freire",
+        "partido": "Renovación Nacional",
+        "votos": 2594
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Freire",
+        "partido": "Independiente ",
+        "votos": 11129
       }
     ]
   },
@@ -3499,20 +3571,32 @@
     "cargo": "Diputado",
     "partido": "Partido Social Cristiano",
     "distrito": "Distrito 23",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/2ce05b3ed8d1ad0b2b6ce92713402bb1/46280/1ntLWW4Re1dVYqZ2AGOpSlFQOP-QbFazk.webp",
+    "foto": "https://assets.diarioconcepcion.cl/2021/10/Jorge-Sep%C3%BAlveda-Rosales-e1635708688142.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Eleccion de Diputado",
+        "territorio": "Distrito 21",
+        "partido": "Partido Conservador Cristiano",
+        "votos": 2479
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Eleccion de Consejo Constitucional",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Independiente ",
+        "votos": 38285
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Partido Social Cristiano",
+        "votos": 18756
       }
     ]
   },
@@ -4048,7 +4132,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 1",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/490015189_10236673642761860_7473662025259883055_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGlQoBqfJ8cLCOnwgUEgBRZYD428cLQiltgPjbxwtCKW539BnuB4ymlTzMHKT0KAhQ&_nc_ohc=oWm5_RXf7dEQ7kNvwGkp23A&_nc_oc=AdkZGfx81vfny2d9f4lZJv-8rLQAwDMkaMmmuyJ3tRo9o4wtvEkfqXoj2pJXakJfyiFMgMTzNe-rfBV7ypQ_aq0t&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=RjaxkiAgUYnZZ4-Nnblt1Q&oh=00_AfV5QOrnicAq6ePzXqTvjnSKwCJciGUqpAPJqHjrg9AU9g&oe=68B79239",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -4056,7 +4140,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/473425991_482062874925524_4304600228136952725_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGOyii9e1ZRXCnxxax-CMoteZe-DW9dr0J5l74Nb12vQrXvs7v4Zgs4iMhS7W6DwEM&_nc_ohc=N1gY7LH9UCEQ7kNvwE2uMqJ&_nc_oc=Adkm65bmijI9i-4TEIe5ITog0x0OWrIehH8HLJnb7LV2gwwSeG7zBqOHlEtFXKHNPJG-In06zuXfSH0V9_AWGELi&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=_jYwOMHkYEh2G0m6lsNBKg&oh=00_AfXmsSZK5ixnZLQumZRBvQUojQIkyrz4sOJO-GLR0LTcMA&oe=68B786D9",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2A6Mw1U28wphf5G7sScQJ7chQmkjP3rbXWw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4074,7 +4158,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/343952407_150832044413335_7404556403304134297_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFNFHLzD6Yw9Y91Fn1kp7o79MVJjGSKOen0xUmMZIo56RY05YdkmTsjrnfKVLMRe00&_nc_ohc=3j2XKdlkQTUQ7kNvwGQYsNc&_nc_oc=AdnAGIP0ub8zuQHCPDdPej9fl1pjCiRL7i3w-CYMbYRG5v2hGGkqaV8uGaJgmKW2YFXuxqlG5PcLRU5QV_VcOyew&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=HYedPgKfWOnQGy1n1yvlQQ&oh=00_AfWJ1eLgDbsJiw83iMouNY2foPWl1vgStp2ViROuRv4UlA&oe=68B7735A",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -4092,7 +4176,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486463554_2488650751511708_401268762348584742_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHnJYqPpcNbXFnTKGlRdsZWVqSvbJOFLy9WpK9sk4UvLztLSdbHPVPJsDerf9ZkrHY&_nc_ohc=C6RD-A11dEMQ7kNvwGi8ddx&_nc_oc=AdlCJwGDVMPTCx9pAz3tQaddFRFHd7dxiFATBHOIsQWKzX3wsQDje5NGFJ_8UB49fCHajTvP3XUyv_fzeUr4bomW&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Xf8FbNcwF96zwdToafflvg&oh=00_AfXLxXuJryWZ_OBrpsRQP5l8SLw4wUeEQGGA09K3BB_mcg&oe=68B78776",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -4110,7 +4194,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/490346413_1332852768347295_3280099759686589729_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGWOn99OuQXTiB_gQSzVX4RGr3fXP2xyrIavd9c_bHKsvkBCB-FaElR9xot5GpSecw&_nc_ohc=D_9X34zgP34Q7kNvwG_hZnl&_nc_oc=AdmChtQ9khy9ZthjmIk8Lly0zLwS2e4JRVDxcOCsZjL6n4FRP7tOLhp8CmtgGTp_1zxCFwW2PMIfSHkOBNTZLfkf&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=e9RwbpJkUibttE_gJGviDg&oh=00_AfWPx5s3cRFDUOlPh_8YNqyITTgQntn9RDrI5js25icQLQ&oe=68B77087",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-U2P3DlVRHtk6-uyhnL73KxuPQor0KqZzg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4144,7 +4228,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/538964100_2014033835669348_6102110575412922567_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF1tBPG5v_-8j2sU7ugocGLmmMrEhujBFSaYysSG6MEVBSpVtv4F9r_xUXQambcABo&_nc_ohc=hNzPL7D9OeMQ7kNvwGmY7nc&_nc_oc=AdmonxD0EP-BCB2d1ejmnmcKlmwqV7PEJ0WKWcyJ6muLP_K13MSmKlcE5TKuSTOEBGahZSND1Egd-T3x9eyjxiey&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=fMVZbH_pSqyehXasexGchQ&oh=00_AfVSFWpAp-qa9ixbePX2V6uZ12xOuOvkQAYLJCP60UO7Zg&oe=68B76D77",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOcUgFpAQ3M5ecqOnNE0fUheUqoWApw3DGg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4170,7 +4254,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/538112035_10167781198819988_7431775872220836862_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGdX_fZT1Y1TI_cizxQZhMGd4aeyh7Blk13hp7KHsGWTfmMjwfYCjpUn3UapAh0ygs&_nc_ohc=lrBOEHvb--cQ7kNvwEduXKq&_nc_oc=AdlEgZPMcRQ5J_vfjYJoYvmcY560-M5XKpNk78GV44q6j15Z6JX91dMWn_RcClg-fO0g06Il0-fWjlESdBKFmNU2&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=WA-04A0wulpTv1HGx95K0g&oh=00_AfWEiittImwGmcBCP72ont3yuQQNkTN_Iwd_YmSJ6ptIww&oe=68B78299",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnRlh19STvj5xzDSMh2mwUoTCNoEu3j7buw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4196,7 +4280,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-1/469241201_4264075162617_641716579951327440_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeG2PqMkRw_A3B09Vm7QU-jmuKD4EQibgse4oPgRCJuCx81cyb56Zn11AqndNBe2o6k&_nc_ohc=xr3fVsoDrK4Q7kNvwFUktBN&_nc_oc=Adk5eD5Qi2Re3f_MjT1tA02r2f7vVXKv91ZG547f02e_cxpOwKkdtO86CdXUcm-YOubl3b5fSGB1WEVLeHVI9AON&_nc_zt=24&_nc_ht=scontent.fscl13-2.fna&_nc_gid=1vWfVhX9ipA13ic8bukWKA&oh=00_AfX_XgPuBCit2lzi9efg6mV2EcAGx0HxfjjKh7K4bPGyWg&oe=68B77CFF",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vB54spCsDqXj4EZcOnIw_It_2-f0GzOMaw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4214,7 +4298,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/532861703_10233828114697877_1099807856416838727_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHIfxfoPZfP4HXXOl8qUNpYqipos4tj4IWqKmizi2Pghbs8vLFPFy3XrXcgkOTnhaU&_nc_ohc=u3m-RJYjbZgQ7kNvwG2Gbl5&_nc_oc=AdkmXT7OV28gnccZjfLFNnh_loAEDJ7QWuEO9kYhj8hfClx6134Q1Di3o6dSfeb2O-D23lnFxsJJlUB9sFKhxict&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=9ttD4_d_lq3H-_PI6BxIvw&oh=00_AfUbUBkwkfgSJZEDm_AhZYMBlWraTDl1ZHvVc2atdXubFg&oe=68B7A12D",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR401WdRQlf5BV2w61XSLjREqQTvCAYys02HA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4232,7 +4316,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/532177660_10233828114257866_6337617674604888326_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG8zHPNOOecMP4v9iZVKVqezk23fbyXiyXOTbd9vJeLJRH1Oa3Qqpt5xMBwCdVEHrE&_nc_ohc=uL4eD-gtodoQ7kNvwGGh6j7&_nc_oc=AdmQbe8YRIRZGDC8n5c4F4IAi0WssCzrgtzNzpmF_6gnZCBn9B7mPCZYE9rivOkNOpd2HSrwPniNiihOnUCYVTRQ&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=KPJq-9z55Azps6uYmfV5aw&oh=00_AfWcWZWapEx_8EVOcbUp0-T_IegRcjnI-_FNTN6OpAXQJA&oe=68B78E6E",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePK7lPK5jdBc3JQFWug2kMzz5ZK4GHZSkhw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4266,7 +4350,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -4316,7 +4400,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -4324,7 +4408,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -4332,7 +4416,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 13",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/0498fcf4077a155a89b62aa5cc8b2ed5/46280/17gDwuqUkqgCasXjJNn8PMWUe024scm5P.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4H06qrZrdE8wZKQz3HZDuD4f-eRepimH_A&s",
     "delitos": [],
     "elecciones": [
       {
@@ -4484,7 +4568,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 14",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/6ff3f0ed38fec99724a690054ae72a83/46280/1QZmX0Ma5PVwgAJF6kuyxsHOl2se17M6o.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrT30FJ7uVuaKHGHXA3HtuM-18m1Lvjusbew&s",
     "delitos": [],
     "elecciones": [
       {
@@ -5292,23 +5376,43 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.prensaciudadana.cl/wp-content/uploads/2021/11/daniela-gonzalez-farina-la-ruralidad-no-es-sinonimo-de-pobreza-e-ignorancia-periodista-ccr-1024x461.jpg.webp",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Centro Unido",
+        "votos": 1463
+      }
+    ]
   },
   {
     "nombre": "Guido Antonio Díaz Vergara",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wWJiciNWwYhSqKGedEfJpUrpHfZ5tRVTXg&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Partido de la Gente",
+        "votos": 2160
+      }
+    ]
   },
   {
     "nombre": "Alexis Ojeda Altamirano",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -5316,7 +5420,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -5324,7 +5428,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -5332,47 +5436,113 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqsxp43M8XXBKEGhni5U-8T-Ampu-7dJuJYQ&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Partido de la Gente",
+        "votos": 5815
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Partido de la Gente",
+        "votos": 2178
+      }
+    ]
   },
   {
     "nombre": "Orlando Christian Machefert Inostroza",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMFCdTUO8AerH3VncGaVBuJyzfMRP8Em94nw&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 8",
+        "partido": "Partido de la Gente",
+        "votos": 2043
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 2",
+        "partido": "Partido de la Gente",
+        "votos": 3873
+      }
+    ]
   },
   {
     "nombre": "Cristian Aliro Muñoz Garrido",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 858
+      }
+    ]
   },
   {
     "nombre": "Hernán Gonzalo Coñoman Lepimán",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Nueva Imperial",
+        "partido": "Partido de la Gente",
+        "votos": 815
+      }
+    ]
   },
   {
     "nombre": "Robinson Darío Illanes Acuña",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Pucon",
+        "partido": "Partido de la Gente",
+        "votos": 81
+      }
+    ]
   },
   {
     "nombre": "Jessica Lorena Antilef Lincolao",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -5380,15 +5550,25 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Perquenco",
+        "partido": "Partido de la Gente",
+        "votos": 61
+      }
+    ]
   },
   {
     "nombre": "Américo Arlín Muñoz Beltrán",
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -6257,7 +6437,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -6265,16 +6445,40 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/157551420_118888643535617_6750022467752353103_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeErU7av_qcNeIm3xveu4VN87P0J_QaKwKPs_Qn9BorAowb9x8461UFcdV7xhIg2vOE&_nc_ohc=pRkq2_r_ZlEQ7kNvwE4wy3B&_nc_oc=AdlNQqDTHmLDFVp9ONZ8nSiRvCGHbigWygyXbRz5uyiBJ-_-_OyJfhOpUhyhS42mvCj1ePhW08hjnrTDAfzAJwkP&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=o9tDMERJLG0ksyNcPyaeqQ&oh=00_AfVDQp6pNss5qVjUbkixJRXgrrtDGpRH_zT_DC9Es3xU2w&oe=68D95133",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX6lIzTnV5t4O8B4MIcwXilOE2XfkFc1ERvg&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2020,
+        "tipo": "popular",
+        "nombre": "Primarias de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Partido Ecologista Verde",
+        "votos": 873
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Partido Ecologista Verde",
+        "votos": 5718
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Partido Ecologista Verde",
+        "votos": 2854
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Independiente ",
+        "votos": 1033
       }
     ]
   },
@@ -6283,20 +6487,32 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/2dec2156ffe8475b3bdceb4f47e7ce29/46280/Iv%C3%A1n%20Gorky%20Rojas%20Villagra.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKM9FbyZWHeHbaVbdvbOayP-w8-WSjMShNVA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2020,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "La Araucania",
+        "partido": "Partido Ecologista Verde",
+        "votos": 717
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 23",
+        "partido": "Partido Ecologista Verde",
+        "votos": 728
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Partido Ecologista Verde",
+        "votos": 1190
       }
     ]
   },
@@ -6305,8 +6521,34 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Padre Las Casas",
+        "partido": "Partido Progresista",
+        "votos": 96
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Padre Las Casas",
+        "partido": "Partido Progresista",
+        "votos": 135
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Independiente ",
+        "votos": 255
+      }
+    ]
   },
   {
     "nombre": "Jeannette Jara Roman",
@@ -6768,7 +7010,7 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -6776,7 +7018,7 @@
     "cargo": "Diputado",
     "partido": "Evopoli",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmzj-XFTlC0uD5ogxE0VBYzJya3GjS2ys_g&s",
     "delitos": []
   },
   {
@@ -6818,7 +7060,7 @@
     "cargo": "Diputado",
     "partido": "Popular",
     "distrito": "Distrito 1",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/cf385fff44d83b7090f9f7abeb8ab0d8/46280/Oscar%20Boris%20Palleres%20Flores.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SDMC0jYQS4O8QWxvODjUQw1aixbtU4Il6Q&s",
     "delitos": [],
     "elecciones": [
       {
@@ -6844,7 +7086,7 @@
     "cargo": "Diputado",
     "partido": "Popular",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -6946,7 +7188,7 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -7013,7 +7255,7 @@
     "partido": "Independiente",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -7021,7 +7263,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 1",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -7030,7 +7272,7 @@
     "partido": "Independiente",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 2",
-    "foto": "https://pbs.twimg.com/profile_images/1922006138293309440/hrEwlhj8_400x400.jpg",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwL4eY_qd1Do_fSoqVpLMo3IMo-O8Yi5oCQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -7211,7 +7453,7 @@
     "partido": "Independiente ",
     "independientePor": "Partido por la democracia",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/517392112_10236444016897658_3922126420451571495_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEsNaUC3_oGlP6IO0N1ZAh3oPAZ11fJCeKg8BnXV8kJ4sgByRi_1LBekON3CRdIfYo&_nc_ohc=OlLHcsWPiBoQ7kNvwF8489O&_nc_oc=Adn5DKltfkqSqlgpxuTJvJf2P83nsfjbBItjC8b5FVLi5Kj5X-e5tBYhr46faa45EpN4ZLwaPjPREmeBXLflwRBy&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=GLVnXyd_UbnAVaohAR1Tmw&oh=00_AfU0de6-syvXzMuzXZaQgzPBTs7U9E-q_vqoHZSbS5l41Q&oe=68B23C90",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8fKEnATiCCER9HZ-89RDSOp-rLnsrPl2dg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -7280,7 +7522,7 @@
     "independientePor": "Federacion Regionalista Verde Social",
     "partido": "Independiente ",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/536182783_1183489803821788_605762686141391929_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGFdDiI_yDSNtxDdAF6X2LZ716pdhO6SR3vXql2E7pJHeI7RTx37GYZ8avRXvjQCvM&_nc_ohc=huEYnXr3I9sQ7kNvwGwlgAN&_nc_oc=AdkEH3gpSa_J5_b9QAdud1ssszfJ0O0C5j4JWQMZHE8FTxFwfce43pO6fFQA6UIGv2zwBZL6tTuCkhwB7P2Ri3b2&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eUv7IzkhWj9X4e48qUdjwg&oh=00_AfVvHEKOTm8FC-R73h5NsFPJzY5guBqly19a4sFofnJy3Q&oe=68B255AE",
+    "foto": "https://pbs.twimg.com/profile_images/1471305212056915969/pvWyHs1g_400x400.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -7341,7 +7583,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 2",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -7457,7 +7699,7 @@
     "cargo": "Diputado",
     "partido": "Evopoli",
     "distrito": "Distrito 3",
-    "foto": "https://pbs.twimg.com/profile_images/1173634080828776450/zJ7qWavq_400x400.jpg",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-id7DNccWHdFTISmtJeEueFJO4BUAeHf_CQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -7501,7 +7743,7 @@
     "cargo": "Diputado",
     "partido": " Popular",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -7759,7 +8001,7 @@
     "cargo": "Diputado",
     "partido": "Partido Comunista",
     "distrito": "Distrito 3",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/488612147_10236437839107327_8675191674829582176_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE_o-VAoia7wgXXS5Ok7v837qRjzEwaDd3upGPMTBoN3Tq9Ahqga52V2Vdqnrv95i8&_nc_ohc=Gp1a8OF5ifUQ7kNvwGmLOs2&_nc_oc=AdlfgTF3zCcz85QKDLR-oxgIVC34GBaT7tjwUq-pV-Oc0EGybtb2q0UbUN8JZEy2yHDUpU54O4hzmfj3xkOJKw9u&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=fxO9M1Co8-ogUALrM_h1Jg&oh=00_AfW9Wlzic2xnxXfFiEsvjiMQ5PxD6bWvnS0gYPqbkQTvwQ&oe=68B76CC0",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvgNSB0BEHHDyIzEc7vR2Jlxj2dj9NSv7ngA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -7843,7 +8085,7 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -7861,7 +8103,7 @@
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 3",
-    "foto": "https://pbs.twimg.com/profile_images/1771563666220969984/_hDjT_js_400x400.jpg",
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQHPATJCSBkMyQ/profile-displayphoto-shrink_200_200/B4EZdMqcLFHIAY-/0/1749337884244?e=2147483647&v=beta&t=tV7c2eLEoA-1sI8D-SxFhRs9Gkmqh-xGPi-GjEAsbmQ",
     "delitos": []
   },
   {
@@ -7911,7 +8153,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto":"https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -7945,7 +8187,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -7963,7 +8205,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "elecciones": [
       {
         "anio": 2024,
@@ -8168,7 +8410,7 @@
     "cargo": "Diputado",
     "partido": " Popular",
     "distrito": "Distrito 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -8202,7 +8444,7 @@
     "cargo": "Diputado",
     "partido": " Popular",
     "distrito": "Distrito 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -8236,7 +8478,7 @@
     "cargo": "Diputado",
     "partido": " Popular",
     "distrito": "Distrito 4",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/512007335_10238627069595056_5950364053628857233_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHTOSDBD4ZWLppTP3Jl-eaNPu4-shl7_s4-7j6yGXv-zrdRn-iInsMVKqmgp-yBeIo&_nc_ohc=ePjHIzC_aa0Q7kNvwHJOf-H&_nc_oc=Adk-cllCpC8o-j4Zf72DfBbRD9mkceEY8OyY67OjjnbBCtvGSEuY7AWW_7xLe-SfFQBaYOSh0sHjh35Ec5d055BM&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=kTm1Hl8CRb7Lwh8Zo6PMZA&oh=00_AfXOHnCOf6UyR58AzLiE0JL4U0cq-SYbCjam72tDfN03Eg&oe=68B27A36",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -8262,7 +8504,7 @@
     "cargo": "Diputado",
     "partido": " Popular",
     "distrito": "Distrito 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -8567,7 +8809,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 4",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/471149104_614143041042431_2633311499628982399_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGeGVvZOwFDHqIHO2eb5kUjqkeRC2Vgq6eqR5ELZWCrpxbE8SsejVbmjJSve8qUXJo&_nc_ohc=_h9bYdi0rEQQ7kNvwFHCT-y&_nc_oc=AdlGMtVkYsYpwdFl97jPqzJc9npLLnzcipostCtODY5orfKjmAiYtBwJObsKRKN4C_P0GG4KrQFnYyP2Hw2YxFQs&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=J1xoVZC23ZWs9QU7IEEQ-w&oh=00_AfWadVzEkLk5D6V0zNEe78TcfVN2vSzPrwUy6rhR1hN7Sg&oe=68B279C4",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -8610,7 +8852,7 @@
     "partido": "Independiente ",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -8618,7 +8860,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/469197414_590427913491001_1485152441924191303_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE_0Ed6MbxIu37cUorxuceBjfyjjxLOYzuN_KOPEs5jO5Pyz9vMr_IlkYoH2uLSDFE&_nc_ohc=bkzxaayQZRcQ7kNvwF_hicf&_nc_oc=AdmfUmdxG6e_t9OJnmr9HbSaNspohKG_f3DqNB38TBCb4U-Ti_tgbZWS3mvbDhInxueuTOwZjXCPQDIfVN8uRfOp&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=SBEwZa8adHTJM2zvF9fETw&oh=00_AfUERgY9uZvXUD5ISQBuIb7NnzYqylTad_RUTnJ__zP6Kg&oe=68B5222A",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSSZ3zKaf_6LXvwUrUILa6dWAnFd4XnUDcg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -8644,7 +8886,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/396735440_10230439246381672_6522697676115816207_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgaeG0mCqNW-bZ0WAlj76MdruV_OpWC6t2u5X86lYLq9ZN7-0Y-F5wquyknfq0fWo&_nc_ohc=4043VtISwzwQ7kNvwGGOG6l&_nc_oc=AdnNPBEn0na09NrSarGkhPIrp1juKxbimZCwVSeBCmrF9cFjxy3bW4dy2sMKQ6dD-z_66knW8pTcmjC7lY1nLnbm&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=9oNJ2ODlkikd5DDNcmETMA&oh=00_AfWPqL-h7JqkGaWzvRJTN2zuPeV0olm6XLdYxIvYg2xubg&oe=68B53533",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabyTcmKWfjmfbjXE3hmLEz08r3W_iDWIFXw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -8662,7 +8904,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/475205917_1154890472708026_1176203165857986732_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGAqrJe239vovNXD6RDEwBWzG-eoYqpiDrMb56hiqmIOm2eltDRJdouS0JeZYhp1eo&_nc_ohc=Moymzj_WCcEQ7kNvwE8mCyb&_nc_oc=Adkdowh5Jn4LcZkmCrTAosOpMgWT8hfENUHD6EERbCr7SiZeyFkgUktZ5A3sgrnNJ30b1g3tRtzQ0xonQEytTRu3&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=Ql6-n5QxGqa1cqXjelK0bA&oh=00_AfVqqSSRYc-e-GKtEwNgU1gHzHsMRCKFQw2Gx8KB53Hg8w&oe=68B511C4",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e38Mewc7Nkcg3iOS0575uc2KfilzraIuDA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -8696,7 +8938,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/511891365_10236488125247960_3264072775693031670_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFURyE56c6FKuPJWq9ZjXZFOqV_jIZeXdo6pX-Mhl5d2hQEduEzObpWfPzmiGjCGBo&_nc_ohc=QmnWiTd3J80Q7kNvwE0Tf79&_nc_oc=AdmYa1blg230BEb5KZkZtYTk3_nTCgxVVhcQUm2AkdIlmx8q1U3TXBl3Ifut8jTalWX47C4qUI_3HqgjtqLs8Xq4&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=pAPE8JBDMnFnooVssrVWNQ&oh=00_AfUxXLWevYBAZ4y6F25rz8lMk2OBH-PJVuB5Pw32OA4VaQ&oe=68B52FB4",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -8714,7 +8956,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t51.82787-15/536606528_18507427633066344_1437738849869588001_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFDYYBP-dtII1OtHexCiGX8-d7adaB23rf53tp1oHbetx6u3inUAhpbMyEvoeYXdk0&_nc_ohc=c4nmXylb8QwQ7kNvwGNf-yK&_nc_oc=AdmCHqN8-0jYyGBaOCEdEK2n9AS-YymPTU6lF7tSoKNJxngyESnCOX-YSmTSfWtevNY87rR6m7qdR7HW_xIf6c34&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=h4QdBnDHdWcCtlYe_UBT5g&oh=00_AfU6_87F4OgrjFnMqA-pua8bEHDiDqAlMN3jn2T9AIghpg&oe=68B51E52",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFM4dgM70P1js_7YOSWyNTpuMfLEvb1rYAZQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -8764,7 +9006,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -8782,7 +9024,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -8790,7 +9032,7 @@
     "cargo": "Diputado",
     "partido": "Amarillos por Chile",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -8950,7 +9192,7 @@
     "cargo": "Diputado",
     "partido": "Evópoli",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/465910296_10234966620687978_8882435356088962432_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFcL9JhzqvS1s_63gv_kqE17yho98JLcvPvKGj3wkty8yl5I5SCtnTLJI15akT6HMs&_nc_ohc=NVrZDLnAbCkQ7kNvwGqNQw-&_nc_oc=Admnphd98XNkDCa3M-QWT58Qw4GdFinogw_LF3VGNNmgv2Rp-ZvZjJKHBwtAKBMyqzjqVgNwzQNCISABMbCn-tF1&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=np81Rzk_fFfoG-mpvDKHvQ&oh=00_AfZZtSJ6mHB4MKFki9Mp3iFUaKvj_o_zt1sDbzXor-QzFA&oe=68C65CFB",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgYXlwR0r1savDK6WMkWA2R-vjv5EQHLc6tA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -8984,7 +9226,7 @@
     "cargo": "Diputado",
     "partido": "Evópoli",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -9267,7 +9509,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/193328695_1925677444247935_5817478262858964962_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE9qGUXx_cYdTau_2uZObMz7TezqWVwtpTtN7OpZXC2lJPXXP-ejIGhqk6oM00NKPs&_nc_ohc=deKPGDHKuPkQ7kNvwEsVzO_&_nc_oc=AdkMfIdDRJaYIaKkbLPc2aTzzHyQ2IskTrLRqsfYc8thnWO4OZ38EBwalb0L98BzG9cLD9q_PajqItlQtIvikR_D&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=ptUYmhZDBRf4mVVmdBRheg&oh=00_AfUq1MyP5Jw7b32gxykLuXhs6tAtYMgJ8RJofKhs49CFYQ&oe=68B537FE",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBw6Exz9X8His60FCIiB8_01JTAuvyM4F0WQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -9302,7 +9544,7 @@
     "partido": "Independiente",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 5",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/94a7d2276e21d012c6eb9293b380020c/46280/Claudia%20Adriana%20Valenzuela%20Torres.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZpO6ifZDjQQ4hcSSqrHm_SfocUJ8xYBhzg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -9329,8 +9571,7 @@
     "partido": "Independiente ",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/490104098_10237974965699184_601045078890715834_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGetCAUdV5EVDxH9iJBoSnnm7YYAHMmK3-bthgAcyYrf-Yi-b7frFtTz34t66WNbUE&_nc_ohc=3p4S-W7tNRcQ7kNvwGShyPX&_nc_oc=Adn4x5F_pZs0IpbLHTwGnxULfe0CUHEoE9bjtbPHrVbxQJmt3uPr85ySkF4Dh5DMEkI3hRpSxq5RlJXzzhKctzLF&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=E0GIojtZwZnUgalNi47zCQ&oh=00_AfVdA3776KFbc0SkfT3oRPLpiJa4zfNtpK2nGcj22aN2mQ&oe=68B4F096",
-    "delitos": [],
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "elecciones": [
       {
         "anio": 2012,
@@ -9348,7 +9589,7 @@
     "partido": "Independiente ",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -9356,7 +9597,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -9365,7 +9606,7 @@
     "partido": "Independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -9374,7 +9615,7 @@
     "partido": "Independiente ",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-1/472915137_10235410806240287_5433504309420634791_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeEj9tKnvDMBRZ_nSFxX_agV9Temp-dscLf1N6an52xwt-RYgBFNP09chszaMNdnj2E&_nc_ohc=kDMW2w-Pt3QQ7kNvwH3NM2u&_nc_oc=Adk7o61rfvcn7K0IO4rntWe-QSgk7TJWrjS5d0hloyBPwpcEHX8EG6qFkgbCXNCYKhWs0rRMPTKQhhv6BAXVBi6d&_nc_zt=24&_nc_ht=scontent.fscl13-2.fna&_nc_gid=uR0b_VXwVFCE6rgLUSK-4Q&oh=00_AfbwqEhqauhef4uLNJbYWNQLs6XfPD37WoLeR2RiTRj7ow&oe=68CA0CE0",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijoaDmNycCfLsKOze3zDh-JP3LCBUJO109w&s",
     "delitos": [],
     "elecciones": [
       {
@@ -9416,7 +9657,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/456955381_812259741076988_5444457824381626105_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE04DfABFWC7f3wh9_JpFvNWcCI5ohOpLtZwIjmiE6ku-78Vfwn0vMVtyev94HzaQk&_nc_ohc=x4x6f1yTN4UQ7kNvwHwOMmv&_nc_oc=AdnPM7XdiU7gxBXzrcTahr4mONJ0jYEPtyww7k35-BTP3lzwVY4fN7YQ2Uffueo1eEJzuIgVfzBbdEq2byiMWUz4&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=0y5ed8j-MxlNriEu796VJg&oh=00_AfbHaf5uLsfQgEqrKf8zDeILFWp60TJvCCr5maOPY9RBBA&oe=68CA2853",
+    "foto": "https://www.elnorte.cl/wp-content/uploads/2024/08/Rosa-Pinto-Paihuano.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -9509,7 +9750,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -9518,7 +9759,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -9553,7 +9794,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -9570,7 +9811,7 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/449123101_1977858015963595_1868210834325609844_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHfjnEiyywWaSGng-vi_lqbkVSWzPQRYASRVJbM9BFgBHKo0e0bRG6yRo7x9QBdBcg&_nc_ohc=Kj-YuMhH0tQQ7kNvwHU2A90&_nc_oc=AdlouopA5U4CMNa0RUybjNxKCgOTEGXJepKz3aDvJlpZ3655c0vLDaDCPUjSF7olpPdR_yPVqHlxDR17IUCsKipD&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=i8eV9pqV82TgrVkj6fuhWg&oh=00_AfaN6zKLvmtlP9RDuf8kjUcKKL1VaYs1qMaiarxxxchxXA&oe=68CE2F2F",
+    "foto": "https://pbs.twimg.com/profile_images/1330998959939137537/f1mQ_HkU_400x400.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -9758,7 +9999,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Partido por la democracia",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/539015138_10239326269116168_1061325162545738065_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEJA7R02yNtqa9VoX-EQaCvn13Yp6QDIWCfXdinpAMhYCBqtwYOKjE1Gj0yFhQ0ZDw&_nc_ohc=QbxLk2Ug-tMQ7kNvwHcZWy5&_nc_oc=AdmT94c9wl5wrnKjDrfaIttWYdb83lGGvhyL57_t4WN57PoFGtBGIZgLM2sfmRyhIa7Hzq1zxlPnD7Xv0w_qmiW7&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Yo8agnYZGzV7bdbiV65PTw&oh=00_AfXzbsdU9V2LD4tQTe6fhKXJeBppvxSpaJ3g82VHM2bugQ&oe=68BA9FF4",
+    "foto": "https://media.licdn.com/dms/image/v2/C4D03AQGBre2KpZmWgg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516715389988?e=2147483647&v=beta&t=cSmMpTQ89FmhZMNEFxf_clPLCt_ootZrOTdnzcHBxhc",
     "delitos": []
   },
   {
@@ -9775,7 +10016,7 @@
     "cargo": "Diputado",
     "partido": "Partido Comunista",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/468349308_941535594614125_8498222199065551380_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEwIh0M1qW-hSEFHKfWDDfEn-i-ODwo3l2f6L44PCjeXcNPM0fE8SqON2HjJgxhuVc&_nc_ohc=w9Re29AtgcIQ7kNvwGqj9ln&_nc_oc=AdmH-4LsoS9VOgxLzd_IYbz2ZK_R20Fx8sqKAY7obuKNCaDefTukdpqIZaCOLfX98-ZRu0X51l1ZfUqjzeFRMh6f&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=td9ohMQcQ3RjP8Cex0HW2Q&oh=00_AfXyTsz5LSk7LDvhXak90gqRJMydU0p1wuuJHry6YAc5qA&oe=68B78AEF",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sofia_Gonzalez.jpg/250px-Sofia_Gonzalez.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -9991,7 +10232,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -10009,7 +10250,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/293644697_453317983469460_6817860480652645785_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFltcj2TE-QO5LDz9B6nyDhOK6XdpLe2Vc4rpd2kt7ZVwN-eeCDbLscy3RpVtqxG0A&_nc_ohc=9ybknGowV_8Q7kNvwGGHs0-&_nc_oc=AdkNRJQSXaJo396BkWo0y7HLB21FO9hb33HiMBnbxYv6_YlyUnIMV0OTuf2Ix5u_99CllK8vDK_zJ4r13xotwsb_&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=QvXu0H-fAsSeD4uW4ciJDg&oh=00_AfUj3_BzQhEII9dHmoPvgLCpVWxkLeOzpqdO-8aPvs72EQ&oe=68B63E15",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCDUyC367T8KnpjSR-bvrCPBxofkgbtp4ubg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -10044,7 +10285,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10093,7 +10334,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista ",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -10112,7 +10353,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista ",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -10139,7 +10380,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -10166,7 +10407,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -10415,9 +10656,9 @@
   {
     "nombre": "Macarena Urenda Salamanca",
     "cargo": "Diputado",
-    "partido": "UNIÓN DEMÓCRATA INDEPENDIENTE",
+    "partido": "Union Democrata Independiente",
     "distrito": "Distrito 7",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/d7c1458857fc8ea40e7f87449ffbda4b/46280/Macarena%20Urenda%20Salamanca.webp",
+    "foto": "https://votosimple.com/assets/img/candidatepics/Macarena%20Urenda%202.jpg",
     "delitos": [],
     "elecciones": [
       {
@@ -10557,7 +10798,7 @@
     "cargo": "Diputado",
     "partido": "POPULAR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10583,7 +10824,7 @@
     "cargo": "Diputado",
     "partido": "POPULAR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10599,7 +10840,7 @@
     "cargo": "Diputado",
     "partido": "POPULAR",
     "distrito": "Distrito 7",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/289b0baea9fdd78aacfe5b5f9727c1e7/46280/1CPemGxiOuNDyzZYWr9UxrVHAgJXMs0CT.webp",
+    "foto": "https://www.votosimple.com/assets/img/candidatepics/Mat%C3%ADas%20Gazmuri.jpg",
     "delitos": [
       {
         "titulo": "Vinculacion con caso Karina Oliva ",
@@ -10630,7 +10871,7 @@
     "cargo": "Diputado",
     "partido": "POPULAR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10638,7 +10879,7 @@
     "cargo": "Diputado",
     "partido": "POPULAR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10646,7 +10887,7 @@
     "cargo": "Diputado",
     "partido": "POPULAR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10654,7 +10895,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 7",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/c16c64d2f5c7e5f7b4760ccf757ff5c0/46280/Antonio%20Alejandro%20Paez%20Aguilar.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaCegD-210DiURptCZruLYsikjdB0aYKb-Q&s",
     "delitos": [],
     "elecciones": [
       {
@@ -10680,7 +10921,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -10698,7 +10939,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -10805,7 +11046,7 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 7",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/241417589_3145282185797729_1688858665738742654_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGZ3GZZvWqTAizAbJq3GSvNPTPjYoW0YbY9M-NihbRhtqHO-NHTaxYZkRNJwrruurg&_nc_ohc=15kJGT7PfBoQ7kNvwEeDF98&_nc_oc=AdkXbBdo-MUMekcX1qfzSWl9yG9pCxIbQcPVupMP7q5K_vCD75Z4oBncAKmvRZDxxWZ6HpgB06Zdn4JkgQgA9BPb&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=NuF2_oBGGrAKLZzeAEks7g&oh=00_AfWczprERf-3-sSH3s_J28iKCWM3_qrqLOy-R2-MngGj7g&oe=68B53EA6",
+    "foto": "https://www.mundomaritimo.cl/noticias/get_image/20863/798",
     "delitos": [],
     "elecciones": [
       {
@@ -11137,7 +11378,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -11146,7 +11387,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -11190,7 +11431,7 @@
     "cargo": "Diputado",
     "partido": "Democratas",
     "distrito": "Distrito 8",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/509422379_10237889924246400_4485804178017304891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEl9e_rt8nga6pzXyuYODClxcIgN9cP6KHFwiA31w_ooWG6lUO2ezIxoJNj_oViRjc&_nc_ohc=ZEDIXU41Hh4Q7kNvwGrdBgA&_nc_oc=Adm1NT3RBTKG1H6GiqIzBFgWjT08T6EjAnjOrvXAjROd6jZxfYZF2yGW39e2h50ZlBWcvyHx2Ujw3nm1QlYh4_Bu&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eZDWdAhwr4AozDo6MbHVNw&oh=00_AfVtego7tbIWA5Zb0ahaGILznsw8U5ZYNwssfcyiLbUEtg&oe=68B64459",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -11528,7 +11769,7 @@
     "cargo": "Diputado",
     "partido": "Partido Liberal",
     "distrito": "Distrito 8",
-    "foto": "https://lavozdemaipu.cl/wp-content/uploads/2025/09/valdivia-683x1024.jpeg",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpR2boRopXXhEbcH7RsKuFFq3DVWe8qCZRtA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -11690,7 +11931,7 @@
         "votos": 34772
       }
     ],
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/970947497d2895dfa525949d6cbf960c/46280/1CV-a7FFpH3T4c7BuvixoMBRnSzIuRXWB.webp",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Christian_Vittori_2.jpg/250px-Christian_Vittori_2.jpg",
     "delitos": [
       {
         "titulo": "Negociación incompatible",
@@ -11704,7 +11945,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 8",
-    "foto": "https://pbs.twimg.com/profile_images/1602383148184002560/pt9PpwbV_400x400.jpg",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9495hnLMfhrqovh-jfQrV43fxkY6bqTLL8w&s",
     "delitos": []
   },
   {
@@ -11712,7 +11953,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 8",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/459209914_900777582079353_2618277092477943300_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFvHMaMjJxkqz1R3DkvzUYmPE8Jebr4OG88Twl5uvg4bxVuPuFtOoq08nWRxmjy8wQ&_nc_ohc=RJcesQtgZSAQ7kNvwGIEpzS&_nc_oc=AdlfGXRKrDbgkE73F1ryuv9z0KwNarMYhhRyKyUvLwUTOH6yz8aqyWY42NDdMKNwxsXPlOrlrvh1tZYd8ANr8XZB&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=sN3tpmm5r5YC9aMQKrWJtA&oh=00_AfXrExzFGHvsq_ac30fTKsj06MI68qadFx4C0RHEpRqqzA&oe=68B51D37",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8jN1pnWUglQ5lUhLqBhpmubgPUB0Yzorlg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -11788,7 +12029,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": "https://lavozdemaipu.cl/wp-content/uploads/2024/03/cv-7.jpg",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Christian_Vittori_2.jpg/250px-Christian_Vittori_2.jpg",
     "delitos": [
       {
         "titulo": "Lavado de activos, malversación, cohecho agravado y soborno",
@@ -11835,7 +12076,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/486641977_2086068555232701_1179851704239514753_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEJP3RfT78w4wLJiR8QhZRXsxAn-EVz4GWzECf4RXPgZWphUofqmmmy3_P85bSi9b4&_nc_ohc=NEPhLvoPtL0Q7kNvwFrJ0Zl&_nc_oc=AdkqSkDVz6hrW3RYLIBZEe6To_XwwTWUAXKrtZYFnTx1zYJlwlD7XBWy074EZFO9ilPR5obEYi4StVEZ4JUedZ-m&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=FKwzvHw_vABYe-GYvSsYjQ&oh=00_AfVbF7o0oC7p0_hTZLpvdVnlMSFpgj4y8EYaIEKwcDtw8A&oe=68B638F6",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -11854,7 +12095,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -11863,7 +12104,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -11917,7 +12158,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Alianza verde popular",
     "distrito": "Distrito 9",
-    "foto": "https://pbs.twimg.com/profile_images/1828670213597843456/DL1X-VVH_400x400.jpg",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -11926,7 +12167,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Alianza verde popular",
     "distrito": "Distrito 9",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/da4e76306b75d57447818ef7e7e440a3/46280/1nJyRynW-9zcdhuussZjnc0hJVOX0aihU.webp",
+    "foto": "https://www.elcarrascal.cl/wp-content/uploads/2024/09/manuelmunoz24qn-777x400.jpeg",
     "delitos": [],
     "elecciones": [
       {
@@ -12032,7 +12273,7 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/465041134_10232988577193656_5824364535108086555_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHos0Eow4_RG4jeLdGEdrfIbvvMSVpjkMVu-8xJWmOQxWJqZAO0KUdtMzo5QWfBKnU&_nc_ohc=3s6pe22P0uoQ7kNvwGBdqoz&_nc_oc=AdkqFX5Mc7upqVhHNppaxweS6VgmxZNSNy664cIuZXCUut9-V_96k9vXVtNo9xj3IvqtsZVLSRSr_b9EDz-9gObm&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=EkLckR1uKU0upDFUxdeuWw&oh=00_AfUZ639eV15Qx-Sta3Ad9PlBcID7JHMX2Ep83aj_E8XE5A&oe=68B3A2E3",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRa7md6fYlWadL2q7hQXQc5O8qUgRRq_Z9Ng&s",
     "delitos": [],
     "elecciones": [
       {
@@ -12090,7 +12331,7 @@
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/326495674_872459360699522_8714313846415706088_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEbmA86uOC5IyZA-tX67h3SID1BEJEwSmYgPUEQkTBKZvkj9Si4cxenSTyoJnDPbLI&_nc_ohc=ag-0ouHz9N4Q7kNvwE6VtQK&_nc_oc=AdkPGEsyE-CqiNfdcmkOR04_iH9BVPru6VnOm67eNRL0hVJMpk3XGIVZB-HuZmAE79moQukCLmQkIU4fNiPBj7l0&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=-dLoTcE-sjOrhEuh9Qk_Fg&oh=00_AfVsleD7FCsmrjb-xMlS4oCeLHtwd9dRFwd_N6Ii2ZihRw&oe=68B3AA0B",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzORq7bgasJga4j_UtsAWPmnQtOBgCAkJEd6YoMRAnpwe2Bejk6ZdOv0LoFsg3DIqweY&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
@@ -12391,7 +12632,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Partido por la democracia",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/359066410_766043762189205_863625027147946653_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH6o-Unwd1tu0eL9oyupc9f9aGwfbMdS3_1obB9sx1Lf2rFX3Yjkj2IYqib7bCk2BY&_nc_ohc=qz0Bo5YQ9mEQ7kNvwFksXtz&_nc_oc=AdkMrNHOANVNLgujxtZ8Lmx54U3djEe2dceCWKV0on9wa5aNvtr_f54ViDui8NiO-xqP6Hg-rTaJpWAI4Ntlt8RO&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=G5zmTeX5jl5aQ9tdgLMHiw&oh=00_AfWnpiSowNbIb_mx0jkFscUV6Lm74s-ndImJN2PslrkKbQ&oe=68B39EA0",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVztjWVN958sNrXDcH6qNxRlERapS2VOkg2A&s",
     "delitos": [],
     "elecciones": [
       {
@@ -12499,7 +12740,7 @@
     "cargo": "Diputado",
     "partido": "Acción Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -12508,7 +12749,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista ",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -12543,7 +12784,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/310759806_450687433792800_3186660751566639092_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGIu6swRj5UTA_BZIVwBNCbdJlJrPpGGbB0mUms-kYZsIsrN8nyawKp4gIPxKOh5rU&_nc_ohc=e9Kv4f4VlL4Q7kNvwFgmjMs&_nc_oc=AdmsMI3wTBMRVhqyFvokDZNi691Vj-TvOY7Zy-sjjgTCyiMY-5vFTGs6p07DrBnCbd1T9hfkF_KvTAfmLYLkukcW&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=040tzh2TeK5z4pZRzUKzjQ&oh=00_AfVHDacsCq979QiZ9cgL8-voIwt5rNcjlBxLn97NGkl-Tw&oe=68B3BA3A",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26RmWZavpk1XPGteYRVvJiJn-FeOJwubkfQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -12602,7 +12843,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/512674497_10235710053753734_5602851516691768817_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFkQWm_5L-XYovcBWEuQ3B4fMz4ri6F99N8zPiuLoX303Es14DGHw7f-njACQW1MfM&_nc_ohc=VapUmDi-3JUQ7kNvwFHTQrH&_nc_oc=AdkY0ukkrcNgTL2wejkFcDwvDMToRrJbPzJP5Tr74VRiJuB0YKN4P8zQ8LN9jtrB29FU_Vxj4_6GWik5iE_iEs16&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=SxrjPreRDhcxKqMEwAdJ4Q&oh=00_AfV3Ts_j8vqRLDLtDsArABgciRXD8frCiXChrsolNw_nGA&oe=68B3AFDE",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -12637,7 +12878,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Alianza verde popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -12689,7 +12930,7 @@
     "partido": "INDEPENDIENTE ",
     "independientePor": "Union Democrata Independiente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "elecciones": [
       {
         "anio": 2017,
@@ -12715,7 +12956,7 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 10",
-    "foto": "https://media.licdn.com/dms/image/v2/D4E35AQEL1xjCUQ4ogg/profile-framedphoto-shrink_800_800/B4EZYRcMD2HcAk-/0/1744049324631?e=1758718800&v=beta&t=GzmhEhR3piP6vXGVXOy00fZspN0FqxrvMV-qV7iyItE",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "elecciones": [
       {
         "anio": 2024,
@@ -12892,7 +13133,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/a3098ee0b685c452bc7595096199e74f/46280/Dauno%20T%C3%B3toro%20Navarro.webp",
+    "foto": "https://www.laizquierdadiario.cl/IMG/arton143353.jpg?1574199271",
     "elecciones": [
       {
         "anio": 2017,
@@ -12977,7 +13218,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/49322965e71504e40dea320ca014ec96/46280/Valeria%20Paz%20Ya%C3%B1ez%20%C3%81lvarez.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6XbxZpLN8mG5we3GwUDusVD378DUmjBYlg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -13003,7 +13244,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 10",
-    "foto": "https://www.laizquierdadiario.cl/Claudia-Tassara-5849",
+    "foto": "https://media.licdn.com/dms/image/v2/C5103AQFHh1xAY3ebOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516642769791?e=2147483647&v=beta&t=_ur8LBAPyglXPHpDaOTz_-oM6kr8uNjPCuoTQfNelD8",
     "delitos": [],
     "elecciones": [
       {
@@ -13373,7 +13614,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -13382,7 +13623,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -13425,7 +13666,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/241185889_3132363300332550_9060451854338764412_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHkpe8h1eOksoxfY92oQYHLudDWhECUN9G50NaEQJQ30ckvlax3DKa0Z2srqP2jIII&_nc_ohc=HUop1lu4aBEQ7kNvwH9FGYJ&_nc_oc=AdkFeAeKj4kJIDtCIpMmTTZXeMUd65IKl5dskzIsgPEGao1IDUg240AUtN1UdbE2rgJ5hnsT5l8J_4hmxfYZGr5p&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=66WxWdRONMBK04tfJALkTw&oh=00_AfVWd9qRQeEEg2MKy-D66WwGiuDXnDNmyHUa5HzvvQmduA&oe=68AFEBBA",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq13v8vgNxmLCwErcBhO82Te65xCxbsBPT9w&s",
     "delitos": [],
     "elecciones": [
       {
@@ -13444,7 +13685,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 10",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/273164326_303332791814644_9025262712095766957_n.png?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEDrafoGzkFjgAQnfna8xZp7PfaS9e7A6rs99pL17sDqqiQHPROYA36AMykDVzEavE&_nc_ohc=aO7n78TnxdcQ7kNvwGwIqRF&_nc_oc=AdkuTKdlTLCsqUlrSJt3Mm8doNFmLsVKAF1mdYoFsoxd8qKSV-cChXBcvfzK3bHI2zWcAfFfEbIIXuiMx0hi-GV3&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eoMpNPy09ztnV6uc4k3aIw&oh=00_AfW1ufExTcqUpTdnqrkTchPTv4J5-DFlyHM3uSD4PRXecw&oe=68AFF021",
+    "foto": "https://pbs.twimg.com/profile_images/1601316510110076928/SkOVb5ME_400x400.jpg",
     "delitos": []
   },
   {
@@ -13471,7 +13712,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -13490,7 +13731,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -13543,7 +13784,7 @@
     "cargo": "Diputado",
     "partido": "EVOPOLI",
     "distrito": "Distrito 11",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/1a3d90690d191a17455ac53b2aded02e/46280/Macarena%20Cornejo%20Fuentes.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2RypP1GNLL_VlGunF4skwBkQakntGsc1cw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -13647,7 +13888,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -13821,7 +14062,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Partido por la democracia",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -13829,7 +14070,7 @@
     "cargo": "Diputado",
     "partido": "PARTIDO RADICAL",
     "distrito": "Distrito 11",
-    "foto": "https://www.coresantiago.cl/wp-content/uploads/2024/01/maria-ester-olea-24-1024x1024.jpg",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YtVj4uKRz6AbLddFfmpA8tYh9KukVIWKJw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -13965,7 +14206,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14076,7 +14317,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -14137,7 +14378,7 @@
     "partido": "INDEPENDIENTE ",
     "independientePor": "Renovación Nacional",
     "distrito": "Distrito 12",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/2e2382ee8832ac0199a1e28ccfc6bf80/46280/Paola%20Romero%20Llanos.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGm4vgvPMkZ_6LhxEBrFiicqNVB-mfhjYM7A&s",
     "delitos": [],
     "elecciones": [
       {
@@ -14181,7 +14422,7 @@
     "cargo": "Diputado",
     "partido": "INDEPENDIENTE",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14198,7 +14439,7 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14206,7 +14447,7 @@
     "cargo": "Diputado",
     "partido": "Democratas",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14423,7 +14664,7 @@
     "partido": "INDEPENDIENTE ",
     "independientePor": "Acción Humanista",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14508,7 +14749,7 @@
     "partido": "INDEPENDIENTE ",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14578,7 +14819,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 13",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/acd19d77f012cfb5655e4b8fb7c7cdf0/46280/Macarena%20Venegas%20Tassara.webp",
+    "foto": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFp5nP9iyMiMA/articleshare-shrink_800/articleshare-shrink_800/0/1741369124400?e=2147483647&v=beta&t=kC2-EBg8FI4WJtl8gN54d483LxYute2pF26EJjOoLw8",
     "delitos": [],
     "elecciones": [
       {
@@ -14765,7 +15006,7 @@
     "cargo": "Diputado",
     "partido": "PTR",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -14861,7 +15102,7 @@
     "cargo": "Diputado",
     "partido": "Partido Radical",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -15509,7 +15750,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 14",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/96b5abf8169b4c683ad3b22701ca338e/d9381/14h478IP5gye2J5yIs8bhJiwYErppr5EY.png",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabV_5msT04KTCGxaMwHja6ep6OVWIOMLSxg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -19943,15 +20184,25 @@
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Eleccion de Concejal",
+        "territorio": "Temuco",
+        "partido": "AMARILLOS POR CHILE",
+        "votos": 462
+      }
+    ]
   },
   {
     "nombre": "Javiera Francisca Victoria Ibarra",
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -19959,7 +20210,7 @@
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -19967,7 +20218,7 @@
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -19975,16 +20226,84 @@
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/0/0c/Juan_Beltr%C3%A1n_Silva.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Curacautin",
+        "partido": "Independiente",
+        "votos": 1884
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Curacautin",
+        "partido": "Union Democrata Independiente",
+        "votos": 1702
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Curacautin",
+        "partido": "Renovación Nacional",
+        "votos": 1708
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Curacautin",
+        "partido": "Renovación Nacional",
+        "votos": 2294
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Malleco",
+        "partido": "Renovación Nacional",
+        "votos": 7718
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Malleco",
+        "partido": "Renovación Nacional",
+        "votos": 10288
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Renovación Nacional",
+        "votos": 10729
+      }
+    ]
   },
   {
     "nombre": "Eduardo Cretton Rebolledo",
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 22",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/48/Eduardo_Cretton_Rebolledo.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 22",
+        "partido": "Union Democrata Independiente",
+        "votos": 7929
+      }
+    ]
   },
   {
     "nombre": "Víctor Manoli Nazal",
@@ -19996,8 +20315,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Angol",
+        "partido": "Independiente",
+        "votos": 3570
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Angol",
+        "partido": "Independiente",
+        "votos": 6486
       }
     ]
   },
@@ -20017,32 +20348,60 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Victoria",
+        "partido": "Democrata Cristiano",
+        "votos": 2568
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Victoria",
+        "partido": "Democrata Cristiano",
+        "votos": 4116
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Victoria",
+        "partido": "Democrata Cristiano",
+        "votos": 5515
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Victoria",
+        "partido": "Democrata Cristiano",
+        "votos": 4415
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Victoria",
+        "partido": "Democrata Cristiano",
+        "votos": 5292
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Victoria",
+        "partido": "Democrata Cristiano",
+        "votos": 1520
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Democrata Cristiano",
+        "votos": 5913
       }
     ]
   },
@@ -20051,7 +20410,7 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/363330199_710166734250087_7838897795455710344_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH5N-fgKEVQyv0I0ndCjUIj9NugR55NUOf026BHnk1Q50v0UG8NbGlZTmkLUWyCJdo&_nc_ohc=MoHMhwnEZacQ7kNvwHHqYti&_nc_oc=Adk4RbCOo7OQxBgkoSfd7wxDL1ggG550EeN3gv0sEU5v87ghpX60jYo6qg1lk2Anj38JK7-cFv_hfX3dudS4Z1WO&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=_U7neYadBC_wlHgkImaCuA&oh=00_AfXYSLcdYiHhHM2w_nVyJCooF-V0F5ZsT6ABeBw-9pHLQg&oe=68BA98B6",
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/6/61/Irle_Andrea_Parra_Sauterel.jpg",
     "delitos": [
       {
         "titulo": "Fraude al fisco",
@@ -20060,20 +20419,36 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Angol",
+        "partido": "Partido por la Democracia",
+        "votos": 913
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Angol",
+        "partido": "Partido por la Democracia",
+        "votos": 1616
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Partido por la Democracia",
+        "votos": 10312
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 22",
+        "partido": "Partido por la Democracia",
+        "votos": 6982
       }
     ]
   },
@@ -20082,12 +20457,16 @@
     "cargo": "Diputado",
     "partido": "Partido por la democracia",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/484849233_2374181402979195_8705686199033256198_n.jpg?stp=cp6_dst-jpegr_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGuQsqdD6eFzjcQ7ygzNfG39dQvZtz8Ei_11C9m3PwSL408N5VkwZrlYnRUv4R3Uuc&_nc_ohc=l3bbpU0WBJIQ7kNvwHdgRXd&_nc_oc=AdklLi-Rf-tkukIb_pzwetSwRZfy_lrqspR9RSCYoGD7MOY-Mhnz9T_2BuMmIo9y2hhqHyvaIawirSVrKvYr92C_&_nc_zt=23&se=-1&_nc_ht=scontent.fscl13-1.fna&_nc_gid=L-4ihSYmKPVkndzHTD2xEA&oh=00_AfVUHdeCWe1D9kJQ3DT6bHjHP4-jQB_lk4S4wkwzAwD9tw&oe=68BAC02A",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNOYQCCcvM3XGeW5eHaN4JfkPpWrlBw1RvA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Partido por la Democracia",
+        "votos": 1490
       }
     ]
   },
@@ -20100,16 +20479,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Lautaro",
+        "partido": "Independiente ",
+        "votos": 592
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Lautaro",
+        "partido": "Partido Progresista",
+        "votos": 171
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "La Araucania",
+        "partido": "Frente Amplio",
+        "votos": 70798
       }
     ]
   },
@@ -20123,8 +20514,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 8626
       }
     ]
   },
@@ -20147,16 +20542,24 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/272886269_344208547710843_3738286026923072598_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGOccCU49GQhznmUA_c4dH2oP5IWQ_Rhqug_khZD9GGq_666IL7peBn3sp_cdPEMiI&_nc_ohc=8_CAlbuA1t0Q7kNvwEJoFdu&_nc_oc=AdmVVO0LjPzLnXrVlRqvhtVTP2UULIxQztZlYlfLXFl3sLdo1jq1FoYmOiyRgBXoN0FXroaTlTV9lQ7M94PWaGqM&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=QdJsSuTYNYl8wxf_ld4pBg&oh=00_AfXJB-u6abffSYNKJuIfyuUkubE3dnvW3EWMT51RjKkJ3A&oe=68B65557",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbM7BckDFg7nX5IQ_5kYjcgQtvVDa1U9m5jA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Ercilla",
+        "partido": "Partido Socialista",
+        "votos": 350
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Ercilla",
+        "partido": "Independiente ",
+        "votos": 541
       }
     ]
   },
@@ -20166,24 +20569,40 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 22",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/535103561_10238510088229261_5306280262873207001_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFtUc6eCVJtcNT_T4Z3kOK1qINi50FfVZKog2LnQV9Vks2hsEgISw8QO7XzcZWnJQo&_nc_ohc=hzs9IrTWDs8Q7kNvwE1usc0&_nc_oc=AdmQ7NLLG2nBeFM7HI4CkqY0YRgWT1zUE3K98G4HaLUuKKJvmYXxX0irnaIX47vZ0HytAVj3huGynBNleD0-JqwT&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=AwC2sALR7K9-cShbbWHimQ&oh=00_AfVSFmvPZB6ot8DQlB21wtORBEfEzMKIcKG9M-jv3UHS5A&oe=68B64BB8",
+    "foto": "https://masqueun.wordpress.com/wp-content/uploads/2012/10/lautaro_guanca1.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Partido Comunista",
+        "votos": 4119
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Peñalolen",
+        "partido": "Independiente ",
+        "votos": 1045
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Peñalolen",
+        "partido": "Partido Igualdad",
+        "votos": 12777
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Santiago ",
+        "partido": "Independiente ",
+        "votos": 547
       }
     ]
   },
@@ -20198,11 +20617,19 @@
     "elecciones": [
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 2",
+        "partido": "Partido por la Democracia",
+        "votos": 2498
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Partido Humanista",
+        "votos": 626
       }
     ]
   },
@@ -20216,16 +20643,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Democrata Cristiano",
+        "votos": 8988
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Democrata Cristiano",
+        "votos": 8152
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 8072
       }
     ]
   },
@@ -20238,34 +20677,78 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 4573
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 5171
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2020,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Independiente ",
+        "votos": 2925
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": " Independiente",
+        "votos": 20818
       }
     ]
   },
   {
-    "nombre": "Francisca Sylvia Hurilef Barra",
+    "nombre": "Francisca Sylvia Huirilef Barra",
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/481158767_587400524300304_4637169849298524831_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFSdgmMuGBybeD94kBFnGaWi7X7e7RHbYqLtft7tEdtigse8RAt_YsQ4a_-TPdxH08&_nc_ohc=6ujA1QQ0c28Q7kNvwGss2kw&_nc_oc=AdkNGQj7EbhVpURgbjlI2rVgG4vWkrz_FS_pQWMxC-BdPn0TI5-bAquvXieWbgf6dj50UrU5piOC18YDvBKoMH0h&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=K853snGm-6uhYjXK6vw_Gw&oh=00_AfWbGAbkN4KumIPkfYLV0RDi5FlZTbtK5vwl0ovZIn5wBw&oe=68B51974",
+    "foto": "https://araucaniadiario.cl/download/multimedia.normal.b94b55bab8edfdb3.RnJhbmNpc2NhIEh1aXJpbGVmX25vcm1hbC53ZWJw.webp",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Cholchol",
+        "partido": " Independiente",
+        "votos": 525
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Cholchol",
+        "partido": " Independiente",
+        "votos": 880
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Cholchol",
+        "partido": " Independiente",
+        "votos": 700
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Cholchol",
+        "partido": " Independiente",
+        "votos": 1507
       }
     ]
   },
@@ -20274,7 +20757,7 @@
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQG8kYPnV5T_1g/profile-displayphoto-crop_800_800/B4EZiqFO9fHEAI-/0/1755200156886?e=1761782400&v=beta&t=8o_fAYfDMIckCKQlpZBtWNHEnIZl6IYsQMfoyG8govY",
     "delitos": []
   },
   {
@@ -20282,8 +20765,18 @@
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villarica",
+        "partido": " AMARILLOS POR CHILE",
+        "votos": 407
+      }
+    ]
   },
   {
     "nombre": "Jorge Dennis Jaramillo Hott",
@@ -20299,16 +20792,28 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Pitrufquen",
+        "partido": "Partido por la Democracia",
+        "votos": 3167
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Pitrufquen",
+        "partido": "Partido por la Democracia",
+        "votos": 4334
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Pitrufquen",
+        "partido": "Independiente ",
+        "votos": 6942
       }
     ]
   },
@@ -20321,16 +20826,36 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Democrata Cristiano",
+        "votos": 1131
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Independiente ",
+        "votos": 5688
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 2768
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "AMARILLOS POR CHILE",
+        "votos": 3563
       }
     ]
   },
@@ -20339,7 +20864,7 @@
     "cargo": "Diputado",
     "partido": "AMARILLOS POR CHILE",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -20351,12 +20876,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Vitacura",
+        "partido": "Evopoli",
+        "votos": 4503
       }
     ]
   },
@@ -20366,7 +20891,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "EVOPOLI",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/535396237_10237628358546636_8534606583465504714_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHqiMKF60IUt0qUINJZk8mBcpdPICbj5FZyl08gJuPkVio40xDek0CFYcXyfq-zVSI&_nc_ohc=6gUJFH8vQRkQ7kNvwE6eAQu&_nc_oc=Adn2d9WYipO2TAe6RncBD-yHy4uDERfM5ua5UNTQUZnV4R82hTE3s5LfwpKnW2HRaTtyxYdIk_CrQb0eeXVXGXih&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=VFgXHGa5l7TS2ZartbYDMg&oh=00_AfWkeCpPbmwiWbnBBFaTi97N-kDZTsUaSI0PPCnS-GK3kg&oe=68B63411",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuK1r-rBgdR794SZ3eG2tL2Rq1Rkpybo1kJg&s",
     "delitos": []
   },
   {
@@ -20375,12 +20900,16 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 23",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/b402d5571ed4dba73b303622cce7e32e/46280/1Yec7Ob6YgPDvDLT2e8hYcLSyaYBqO6ju.webp",
+    "foto": "https://media-front.elmostrador.cl/2023/04/f5cf1c29eb98e295cf2d3ee46e918302-300x300.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 11",
+        "partido": "Ciudadanos",
+        "votos": 4948
       }
     ]
   },
@@ -20390,16 +20919,32 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Democratas",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t1.6435-9/137019480_101182005288219_2572095602377863146_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGwfbeN1aiIK_16GQE8m5yN1QBU3xcD7iDVAFTfFwPuILYuRe8sTahwKdu4pKookkA&_nc_ohc=xf1GPmBi1xIQ7kNvwEqpTQU&_nc_oc=AdmoJON3wrD9GgO9QLmXH7PszC4Rb9WljY2-fScSC0LBV7bixGZ8wk-01LKeEheWD934uFNk6sIG2j80OyNF5ljP&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=6bZS33o9VXub5RBu7REqXg&oh=00_AfWSCJzzQEuB5zZZY6C1uI-QejR-oEZALQD-D-g09sJMDg&oe=68D7C3D3",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aaFo2NpV1fLeWzw0a6CKI4pRlXN-4Wogcg&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Independiente ",
+        "votos": 1008
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Independiente ",
+        "votos": 1332
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Independiente ",
+        "votos": 2752
       }
     ]
   },
@@ -20408,32 +20953,261 @@
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUvfELvP_34IDbHhL5cqdlwLjUT2Doq64Ag&s",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 1992,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 2546
+      },
+      {
+        "anio": 1996,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 1729
+      },
+      {
+        "anio": 2000,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 3957
+      },
+      {
+        "anio": 2004,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 12028
+      },
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 17843
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Independiente ",
+        "votos": 4518
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Union Democrata Independiente",
+        "votos": 9932
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Union Democrata Independiente",
+        "votos": 12065
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Independiente",
+        "votos": 7668
+      }
+    ]
   },
   {
     "nombre": "Germán Vergara Lagos",
     "cargo": "Diputado",
     "partido": "Union Democrata Independiente",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://qa.udi.cl/wp-content/uploads/2021/07/villarica.jpg",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villarica",
+        "partido": "Renovación Nacional",
+        "votos": 2211
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villarica",
+        "partido": "Renovación Nacional",
+        "votos": 2879
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Villarica",
+        "partido": "Renovación Nacional",
+        "votos": 1981
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Villarica",
+        "partido": "Independiente ",
+        "votos": 6122
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Villarica",
+        "partido": "Independiente ",
+        "votos": 12639
+      }
+    ]
   },
   {
     "nombre": "René Manuel García García",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.bcn.cl/historiapolitica/getimagenbiografia/4/46/Ren%C3%A9_Manuel_Garc%C3%ADa_Garc%C3%ADa.jpg",
+    "delitos": [
+      {
+        "titulo": "Agresion a Periodista",
+        "fuente": "https://www.elmostrador.cl/dia/2019/09/04/jornada-de-furia-le-paso-la-cuenta-diputado-rene-manuel-garcia-es-sancionado-con-10-de-su-dieta-por-agredir-a-un-periodista/"
+      }
+    ],
+    "elecciones": [
+      {
+        "anio": 1989,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 18305
+      },
+      {
+        "anio": 1993,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 24914
+      },
+      {
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 24752
+      },
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 23370
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 24453
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 20726
+      },
+      {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Renovación Nacional",
+        "votos": 14372
+      },
+      {
+        "anio": 2017,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Renovación Nacional",
+        "votos": 23118
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Cunco",
+        "partido": "Renovación Nacional",
+        "votos": 3193
+      }
+    ]
   },
   {
     "nombre": "Pedro Durán Sanhueza",
     "cargo": "Diputado",
     "partido": "Renovación Nacional",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://www.tiempo21.cl/wp-content/uploads/pedro-duran.jpg",
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2008,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 5093
+      },
+      {
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 6304
+      },
+      {
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 4518
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Alcalde",
+        "territorio": "Temuco",
+        "partido": "Renovación Nacional",
+        "votos": 67226
+      }
+    ]
   },
   {
     "nombre": "Jaime Quintana Leal",
@@ -20450,24 +21224,44 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 1997,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 49",
+        "partido": "Partido por la Democracia",
+        "votos": 13216
+      },
+      {
+        "anio": 2001,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 49",
+        "partido": "Partido por la Democracia",
+        "votos": 15865
+      },
+      {
+        "anio": 2005,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 49",
+        "partido": "Partido por la Democracia",
+        "votos": 26953
+      },
+      {
+        "anio": 2009,
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 14",
+        "partido": "Partido por la Democracia",
+        "votos": 40120
       },
       {
         "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
-      },
-      {
-        "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Senador",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Partido por la Democracia",
+        "votos": 34331
       }
     ]
   },
@@ -20477,21 +21271,29 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Partido por la democracia",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/470134954_1118306123638175_3291384830640936091_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGHfuci9Yhi7w9vvHTqQLaL95QdHpSezwb3lB0elJ7PBvhiPT0mPrMgR8IbWUKgc58&_nc_ohc=cwTwwD5l_ksQ7kNvwFwxyim&_nc_oc=AdlPOde6fVjazFKmgzOEctbDsgHXR-gSNSHPmLYEYPN3pFdk0O59Q3hQBAIVJ6Nj14eJdBftiHz3uL6RxRdyR4qt&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=rm22EdzS9ZW8us5DohSZdQ&oh=00_AfX1CWXJuEK6NFH9lVVchLELPcJMb8F1G6LUO13nFI4Pdg&oe=68BAA453",
+    "foto": "https://media-front.elmostrador.cl/2025/01/WhatsApp-Image-2025-01-31-at-11.29.27-400x300.jpeg",
     "delitos": [],
     "elecciones": [
-      {
-        "anio": 2017,
-        "tipo": "popular"
+     {
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 52",
+        "partido": "Partido por la Democracia",
+        "votos": 11165
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Partido por la Democracia",
+        "votos": 13705
       }
     ]
   },
   {
-    "nombre": "Coca Ericka Ñanco Vásquez",
+    "nombre": "Ericka Ñanco Vásquez",
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "reeleccion": true,
@@ -20500,12 +21302,20 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Constituyentes",
+        "territorio": "Distrito 23",
+        "partido": "Independiente ",
+        "votos": 2156
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Revolucion Democratica",
+        "votos": 9715
       }
     ]
   },
@@ -20514,12 +21324,16 @@
     "cargo": "Diputado",
     "partido": "Frente Amplio",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/506183146_10236212101824432_1803869349318759286_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFJpwf9jp7B1TAlOsa6WpdLZ7bf2RJACYVntt_ZEkAJhZzWL1N3lQEwmsokvBywZX4&_nc_ohc=ah8POiAF14MQ7kNvwGLq9x4&_nc_oc=AdlZG8Rfcp8iMDu6o0KlsCA9V14x2BnniMrofrK6XzTjrtDN5u2eQ1R-ZQ-VehuTVa4g48Z-1wK_EpGgjC-MIYU-&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=YojPVpGEfPB-WLMNx17jcw&oh=00_AfX374EMgi_bA9j07x73u6sTQ56zChnZnZPUSCHpsEOpsA&oe=68B7601D",
+    "foto": "https://www.tiempo21.cl/wp-content/uploads/Dulansky-743.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Convergencia Social",
+        "votos": 18156
       }
     ]
   },
@@ -20528,12 +21342,24 @@
     "cargo": "Diputado",
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/515438864_814124487620584_8316353176032308874_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFVj_m8mzCGtAJpbzVN0qqlr6x3t6pYXeuvrHe3qlhd673fNrHoZgzoaoh51Sv4kYc&_nc_ohc=p9ZqTYd0hiQQ7kNvwE5mJTg&_nc_oc=AdkqmmPoe3l-A96tSt7CzBQ-3VFzkR0iT749JydmwtbbOD4pAgPYeSCvZ7Tv7ZTfgNAt-3T2zlb_MB2YNSyyss74&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=84_SS-T43AfZOwQCDe2KBA&oh=00_AfW0-zGTZKblk2bIrszxyQrHfYGm78W0Gc2nTMNGd8LHMw&oe=68B53547",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNkQnkElbiiRmt07Ix7SuvmokDS6-XN7VOA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Partido de la Gente",
+        "votos": 4989
+      },
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Gobierno regional",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Partido de la Gente",
+        "votos": 47207
       }
     ]
   },
@@ -20543,7 +21369,17 @@
     "partido": "Democrata Cristiano",
     "distrito": "Distrito 23",
     "foto": "https://www.pdc.cl/wp-content/uploads/2023/11/CARLOS-VALLEJOS-PDTE-REGIONAL-ARAUCANIA.png",
-    "delitos": []
+    "delitos": [],
+    "elecciones":[
+      {
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 2",
+        "partido": "Democrata Cristiano",
+        "votos": 8104
+      }
+    ]
   },
   {
     "nombre": "Claudia Lorena Tapia de la Peña",
@@ -20567,8 +21403,12 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2023,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero Consitucional",
+        "territorio": "Circunscripcion senatorial 11",
+        "partido": "Partido Socialista",
+        "votos": 17888
       }
     ]
   },
@@ -20577,7 +21417,7 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t1.6435-9/83887628_10156968848313193_6696913724629843968_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeElXTZvmlSdKFKzWiiRLEqi0nwtoOE3ktjSfC2g4TeS2CM0SY4wG0rMNQVue_SfN28&_nc_ohc=7l7VU0ZNzqQQ7kNvwFSgwEd&_nc_oc=Adk3RuLiAUor9M2V0In5yQy8rKCUhYcIcWL1lgnqeMPrT241H_nxDQBUpt5fUSUzEc-a3uR9jUTVEIVHDD9zJf6z&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=-FpyKqM_fwV437F3PZnvHg&oh=00_AfUDPYJjV78QltYAlNTnUF2Qc1RaOKHktS21DR9kPKnVAg&oe=68D80089",
+    "foto": "https://noticiasdelsur.cl/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-05-at-12.08.31-PM-1024x768.jpeg",
     "delitos": [
       {
         "titulo": "conduciendo su vehículo pese a prohibición por manejar ebrio",
@@ -20586,16 +21426,28 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Partido por la Democracia",
+        "votos": 12153
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Independiente ",
+        "votos": 4088
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 3074
       }
     ]
   },
@@ -20614,16 +21466,28 @@
     ],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2013,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 2",
+        "partido": "Partido por la Democracia",
+        "votos": 11661
       },
       {
         "anio": 2017,
-        "tipo": "popular"
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 2",
+        "partido": "Partido por la Democracia",
+        "votos": 7499
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 2",
+        "partido": "Independiente ",
+        "votos": 6239
       }
     ]
   },
@@ -20633,7 +21497,7 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/494699615_10236269479495191_8510553523518336137_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFUdj1AE72FJhFRZh7gCDHV-T47P2xEhy35Pjs_bESHLbl008iMTgFSsXWnfkEgyCI&_nc_ohc=i-gpb-odayMQ7kNvwFd0Qhq&_nc_oc=AdlOsxLYJXHNQMT1LCnKeJUKolu55KfLqZaT3ZgxX9NimvDV9tL-srbubnmq6runZairqIB7oHHX3sE-e3j0_jVH&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=aaKV5hB_himPRp3Rig2bTg&oh=00_AfWvQIpbxYNUCisQQq8ESWAe1btZZ-GaXBECLKBSAlLcVA&oe=68B66768",
+    "foto": "https://araucaniadiario.cl/download/multimedia.normal.bcf24e73c4fe7b85.bm9ybWFsLndlYnA%3D.webp",
     "delitos": []
   },
   {
@@ -20641,12 +21505,16 @@
     "cargo": "Diputado",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/451271762_1510540246207088_8227457421772753621_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFAvKHuhxhPGrAOBGqt-do8UH5EQNhu7YlQfkRA2G7tib7LpUakU8adxMmNYBtADjI&_nc_ohc=yPQBC_WDIcMQ7kNvwGcMRTa&_nc_oc=AdneiXZFnga40gUQyhAIGa0R_8kLNHUT_GH2rhKZTXO0Q_Mjj-b-ZeQjr4ypMfBolUQhsuHRYmNZ5z6eTbPQSM5e&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=hQp8CNO9Rt2iMSt1wrDbMw&oh=00_AfXrVvGwlR5MgMY3VOgbywKj4pn2CSeeBO12x7aqPLuCBA&oe=68B6763E",
+    "foto": "https://pbs.twimg.com/profile_images/1593300801203601414/DAPQp1xL_400x400.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2024,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Federacion Regionalista Verde Social",
+        "votos": 495
       }
     ]
   },
@@ -20660,16 +21528,28 @@
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2012,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Union Democrata Independiente",
+        "votos": 725
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2016,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Independiente",
+        "votos": 578
       },
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Temuco",
+        "partido": "Independiente",
+        "votos": 1040
       }
     ]
   },
@@ -20679,12 +21559,16 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/3ebde9d93cdb831e2c408061c3261879/46280/1sPkxT0TWyyWdn02ZQJDsGYOsa0yet-Ip.webp",
+    "foto": "https://media.biobiochile.cl/wp-content/uploads/2022/07/nuevo-seremi-agricultura-araucania.jpg",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Independiente",
+        "votos": 2672
       }
     ]
   },
@@ -20694,12 +21578,16 @@
     "partido": "INDEPENDIENTE",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Distrito 23",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/538981338_1438312567408111_3495668104899426918_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGpp-cvvRoYkwetux9xeAmMrIg9-kShUXisiD36RKFReOWHSFWQ8lSDJsEZ6ZtAEMo&_nc_ohc=v9ACeJNqDZkQ7kNvwHETFbJ&_nc_oc=Adny-XcxbQiQD0mp7KXJHLf2bYiNx5Z3nuVMBpeloEZqhsO1_2S5iI0gt87mnxX39_MpnZ7uSFoDV3O741TWTrLv&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=-qNwTfz97fbrfRF1p1eexg&oh=00_AfU9Uc4DQd3PVW6J3nWp8v7onHc3GWVGaN7_-CRZgHcY9w&oe=68B6720F",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8Zeg9AkreCVA-Mfg_jJkd-A85vhcEj8OyA&s",
     "delitos": [],
     "elecciones": [
       {
-        "anio": 2017,
-        "tipo": "popular"
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Consejero regional",
+        "territorio": "Cautin 1",
+        "partido": "Independiente",
+        "votos": 787
       }
     ]
   },
@@ -22909,7 +23797,7 @@
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -22935,7 +23823,7 @@
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 3",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -22961,7 +23849,7 @@
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto":"https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -22970,7 +23858,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": []
   },
   {
@@ -22979,7 +23867,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png", 
     "delitos": [],
     "elecciones": [
       {
@@ -22998,7 +23886,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/491419841_2100806180430552_4769281828768236680_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEz82IZffEZ5jdJ2Ac-rlVCjuBKuy2xLIaO4Eq7LbEshuyU725ZDeI7FoZnejdzrCU&_nc_ohc=bnL-HmegshIQ7kNvwEKrJoI&_nc_oc=Adl11fkhisaHRELOMakocG6CmWiJevGv9oAvNfHSPCgBlwnOITDy5Hv1LibsQbMx4pvMJM1wBKrd4fM71ArFYX0g&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=kpVuM63wKn5v7qWlQoPJXA&oh=00_AfaffCg87_aGWymzOQZsJzVRTuDkxM_h0xBT5AzfneJpIQ&oe=68CA1BD6",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23017,7 +23905,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/539744640_10238154916994570_617121224717362066_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHl98CfaHMprUMtwa_68AG_6VhJEPbDJ3LpWEkQ9sMncpJQgP1jziMIeFhUfqwvofU&_nc_ohc=-DNp3zj0LroQ7kNvwE8dXVg&_nc_oc=AdlmJZWhoUgHWrrhAb9_RBwziCc1b-kweHTH_MGtTP8DFo-NCOK4oiRS_YbrGKZM-_5EUwG5IvucXFv2W7c5v04K&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=eMILFhLnOBiRBsdgco3UEw&oh=00_AfZo_iJMV5CoMt1auLpn2pV0FEJpj1Lpbc9Y3YR8bfPSkw&oe=68CA10FA",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixBLMdLjY0W7Pi1J7jhZgixfn5vYQ00qUpQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23036,7 +23924,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/545696082_1211249377684976_713167764441555295_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE-WEemDW_1g3nT6O4xnoI_ICjgXKYvMw4gKOBcpi8zDpJyJFcmHPTzZ20OXaXX-d0&_nc_ohc=2XdBEQwODJEQ7kNvwHJg04p&_nc_oc=AdkKGI2h84s0H4w998iUagJmBu0BaOA3qP4DvVVAwYBzEEYVOxpHpBA26Tm_EBY2_1rgXlrgPIwpU89sEhRCfH14&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=xrHetjNaiMvMX10ruWyZQQ&oh=00_AfYx9VMUmZEN4o7YnnOW36QkmRAQSIpQW3JYMLlZRB0RjA&oe=68CA2FBD",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtd9z1bdZ4rkpj5YxE0k5QUM1cLQZJDJQH8Q&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23054,7 +23942,7 @@
     "cargo": "Diputado",
     "partido": "Partido Igualdad",
     "distrito": "Distrito 5",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/a7148ee33b455bed7227926305769765/46280/15LdeZAHs3PdFmFfAZjKXz5KGcDKaYScV.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bFSzoak3CUly6Qawq2ur8m1QuJcpqrfBRg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23073,7 +23961,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23167,7 +24055,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23186,7 +24074,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23195,7 +24083,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/214612985_1873930206121161_4879272081993652459_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH_IaE_jlWu8_Iww_J06Fr16YLgvjzxVkzpguC-PPFWTKWKkO7msEhOtsCzFX_bDGA&_nc_ohc=tav9klXywKkQ7kNvwEW9kJz&_nc_oc=AdlSHUdTZikIr6IAfwZRfAjNLoTEsSsGrhLEqu7sYLPXHWHlh6gtDinkYgWxjEweb6of7zZscOBUnHcsrlqkgRxs&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=-_A7YxGLboasyz_cmAlT0g&oh=00_AfYwobfmuV5YSIT0AfuvQLqWJ8DaOQr8vX36YObQaO722g&oe=68BE6423",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23230,7 +24118,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 8",
-    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/460299864_18022367096389357_8095401358504833886_n.jpg?stp=dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGrfIRFMPyPECQtysnqlKVJfn4lsmDwAe9-fiWyYPAB715Rvubs2xrh4UkohWmig2o&_nc_ohc=VMIP73WcGSYQ7kNvwEmTJbf&_nc_oc=Adle7e1KSQJcsQE7_RMPotXtagIlMk2_EZG-QKPFDS1v-ctLGEghXF-9FfYclDsfyz-l0yKuwkz4fhKE4_2UZ35q&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=iEzx-61dJzCCoJVvXAMGBQ&oh=00_Afb6G6teVnXXRtsQ8nowGRB4lcgm-TNqVi9TQXdCjkXeIw&oe=68BE65B4",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Xwek7oTMUOzttE9FvGIA1TR5nt_6F2LldQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23257,7 +24145,7 @@
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl9-1.fna.fbcdn.net/v/t39.30808-6/489506887_1403335010675505_8538706496628382808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFbgFCIO7Rs0YVtmQTNix3jYZCIcrMZXLNhkIhysxlcs-N5TXtTZ82P3_Hg89f1DvQ&_nc_ohc=5o9Wf9SO7OIQ7kNvwFMCud_&_nc_oc=AdliwzZEZ4URpeIDjxOwrU8Fsauaqle4Go3G1XsFqALYyKc04_QYBiiYtw57HPOG91pmr5lOZK3rGfUpfP7JGCfb&_nc_zt=23&_nc_ht=scontent.fscl9-1.fna&_nc_gid=0kIOO92IZWFPqB0TB_OeYw&oh=00_AfZTKh600pnPUXxxI_qIFgUNQhyLSe6YfIuv60S7MFfQkg&oe=68BE7618",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23266,7 +24154,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23294,7 +24182,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/464499756_10233005773751375_6546621034521887078_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH0H2_mdrUdFRHESsqa2uKJw9EHFOKhaYPD0QcU4qFpgwFKj5lQJiuuZvxuZ5VWZT4&_nc_ohc=FYs3m-7OBEYQ7kNvwHDHWRX&_nc_oc=AdmUWzzHD4PLGkCsACtoN-l5MCvzzw3GOjYW25H0JlJBThi9CTfmXE31Jzlnsod5N_esOEnQ1VjPGnfFBCUfOl5x&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=8OC-1K_5xl1VmsVjMrjbJQ&oh=00_Afb0-iA7Juh6PS-rilZ0L3DvwDLR1v1scWqH3j7JIUjKAg&oe=68BE558F",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0BkQFllm9lthnXhJ8CMUPOfI8o3LcHuyQCQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23321,7 +24209,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl9-2.fna.fbcdn.net/v/t39.30808-6/469508131_122195149130225890_6767830214776459393_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH5f_hhZEMwzeIFZcJuDfvK_Z_xOVjQXWT9n_E5WNBdZKkGVDxrTI8ltXvVTe6VtVc&_nc_ohc=HabAxAUu8V0Q7kNvwGZ2d4D&_nc_oc=AdmBOo1ewF5_xwqB8z4DYtJo5j53bDD148lmVyQCu7aGvrgrkEyXZi8XUgSU3lkkXaFTW7bjWduw1WMDPeY_GfhI&_nc_zt=23&_nc_ht=scontent.fscl9-2.fna&_nc_gid=_atcUTYM2tuZQ-t7hrrxpA&oh=00_AfZMVr9v1EcYDSoY_28C3ef-o321LmKMOX4vqEPhJmEvDQ&oe=68BE5FC8",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQGPx9HPgCyKOkzXcEWGKeR-YjRnFZYLKCBw&s",
     "delitos": []
   },
   {
@@ -23330,7 +24218,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23381,7 +24269,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23390,7 +24278,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23409,7 +24297,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/d6689d24939baa1f28c2956d62815cec/46280/Celeste%20Jim%C3%A9nez%20Riveros.webp",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23436,7 +24324,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23445,7 +24333,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/5bc2713b2d51249f50aee57fe33e8ea0/46280/Daniela%20King%20Reyes.webp",
+    "foto": "https://media.licdn.com/dms/image/v2/C5103AQFHh1xAY3ebOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516642769791?e=2147483647&v=beta&t=_ur8LBAPyglXPHpDaOTz_-oM6kr8uNjPCuoTQfNelD8",
     "delitos": [],
     "elecciones": [
       {
@@ -23482,7 +24370,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/79099be01ea543aba346d563f015b75b/46280/17M3MNNmRE0_CWqwu6XLktYcjdTzLyTsO.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrsBNO9qceQiidTNJ2jSHVFwFJ7w7uleisw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23533,7 +24421,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23542,7 +24430,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23560,7 +24448,7 @@
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 10",
-    "foto": "https://media.licdn.com/dms/image/v2/C4D35AQFlwnheofxbTA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1613654165729?e=1758722400&v=beta&t=-284nAT9EqD7AVu44imIHz7gFWL2NBtQlKlQ6a_8RQ0",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -23586,7 +24474,7 @@
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/6e7c3b6b7bd13026bcc10f1aa8e166ef/46280/1H1-Vu53lG047DLl_ZgvXDZxNwU7TSrC5.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGdokS33h5V6opoDoAgNkuk_afEfEbdyJzQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23728,7 +24616,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23736,7 +24624,7 @@
     "cargo": "Diputado",
     "partido": "Partido Humanista",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23745,7 +24633,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 12",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/83fb4a8a366a56e3ecf6442776ca19d3/46280/Natalia%20Bel%C3%A9n%20Garrido%20Toro.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKBE05-sKiEeCF2FIv_RtyCnbDcKEN-kLyg&s",
     "delitos": [],
     "elecciones": [
       {
@@ -23796,7 +24684,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 12",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/539407512_1763729100903695_2601845603542638896_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFj1JB35GxUCJDDBrLTNniCV8WXvygN5t9XxZe_KA3m31ffosij9x6axdjYBBHpLDI&_nc_ohc=nCpDtc7bTp4Q7kNvwFV465B&_nc_oc=Adk-mRog0cTdwkzVC4r6LCsL5mWmrNeiz17ielz7xFw_fIpXvfwiAf8NxFXZsN_OYW8g8bhoZWgIAg726F2mSsbw&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=Hnrsds2TAD5QsSLEVIf90A&oh=00_AfZwf7kwFOqrqP8Nr8THhVN8-kXu7L5ee59rtf-1oIq2Fw&oe=68C24A56",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1zQ07V3BqCrfSw7fjlJB49Z1pb-MARoLzA&s",
     "delitos": []
   },
   {
@@ -23805,7 +24693,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 12",
-    "foto": "https://interactivo.latercera.com/candidatos-constituyentes/static/c4e1221a21773f46d7a18659c5f1b6db/46280/Rafael%20Humberto%20Harvey%20Valdes.webp",
+    "foto": "https://i0.wp.com/edicioncero.cl/wp-content/uploads/2020/06/capitan-harvey-2.jpg?resize=351%2C300&ssl=1",
     "delitos": [],
     "elecciones": [
       {
@@ -23866,7 +24754,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -23875,7 +24763,7 @@
     "partido": "Independiente",
     "independientePor": "Partido Humanista",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24555,8 +25443,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/490412115_2584909318535126_5011248519462094143_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF3yd4hGSsuVWcnoioby1ejIHgOYwRemcAgeA5jBF6ZwCws3l4XYCPLCBjJPOK4DuQ&_nc_ohc=Jf4uzCwRpu0Q7kNvwF6TF8M&_nc_oc=Adm7FK48Ge5YxalKuHHd8YJ1MK-2uWr35HCHlAP6vh6UfUVrYikjO7vKiWvnjgV_SnhH0JVsNvKpJ0norhVJFsRQ&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=aXPEZK0IU5BujDb9wwex3A&oh=00_Afb0m-VpEgpUdJyHSZFHXrwe6OlBzAyatadxNyZdeyGPCw&oe=68CA0DD2",
-    "delitos": [],
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "elecciones": [
       {
         "anio": 2024,
@@ -24573,7 +25460,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/515441343_10238115308442779_2495034330128668762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGAm314amcAU-gUZkBHGwsr1v42tHqBqwDW_ja0eoGrAAPNrTTO9wDE8RclkRfXqYc&_nc_ohc=W_yPpDryKTEQ7kNvwEU8PvF&_nc_oc=AdnrXv-7YkoDeTO4k7wYinBjGeqxpEsBYDftC3QnZDOoeoyQAkH6i5NGF3nv_ZjtDdC6f51gXXK-ze_ihc6CJOXU&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=IvNX-ll20aAagog9EduLGQ&oh=00_AfbZgYf5ckwtPXKeBwtA3hpl8avCQaaS05WPb97_nAJrVg&oe=68C4E109",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYjx8pzhnKX7hSpO07Oo_VfrrVxEJILoZSA&s",
     "delitos": []
   },
   {
@@ -24581,7 +25468,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -24599,7 +25486,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24607,7 +25494,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
-    "foto": "https://media.licdn.com/dms/image/v2/D4E35AQEo6M7JRss8mg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1699146079889?e=1758664800&v=beta&t=nR5A5H55ce0Q3CNG3LaCdxK4Iru8k_wxHsFG_pIKr68",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Z5bWsPYLGWsgKSjg9XjkVpbMwmrQLoh_QQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -24633,7 +25520,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/240598076_100937185681776_4070280024378887371_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHE1Hf-Ne7JpHYaA3bh3-uIrO0rgZFHpDWs7SuBkUekNQn0z1GXfZt8g5KYw8Cdxo8&_nc_ohc=-z2ctJF_cXMQ7kNvwH4_p_U&_nc_oc=AdnKbfRHJJ0hrk6pZdX4hwATFmXGpJqU25uCYTZ7110a3cUqobLq60OAwldcD5WHr4pvFLShV0JP4YMwz6AXHx1S&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=3vZjrfKYFnL8yiggr1FleA&oh=00_AfaUSysdDU-PrNPLGTml3ywFQF4QgztRmeI6owrcCToU1Q&oe=68C4ED8D",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSal7qpguN875iPhv73K8rvY8h0zEaxTJS3ug&s",
     "delitos": [],
     "elecciones": [
       {
@@ -24651,7 +25538,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -24703,7 +25590,7 @@
     "cargo": "Diputado",
     "partido": "Alianza verde popular",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24711,7 +25598,7 @@
     "cargo": "Diputado",
     "partido": "Alianza verde popular",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24727,7 +25614,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -24745,7 +25632,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/470176268_122129653508455027_177450532536330435_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGLmHdiluYQCOPsoRAvlrPAPoMRS6kmzHQ-gxFLqSbMdHRPrph_f4t7lJIQGWPjULw&_nc_ohc=zATi0KPIylAQ7kNvwFXhP8Z&_nc_oc=Adn08ImeQZvGuYG2nIugkZqMKKyhl3AMDeqEilq58hNgy4UUeRe3zld0O15UjdsRReFciyTmXhgIvlNgW25Az30u&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=CONPonzGFNmwJ7j0NUAU6Q&oh=00_AfZqj2bYTjQbYfebsjX2e8n5Lw988d2TmUp12WYeR0HOew&oe=68CE4657",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -24763,7 +25650,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24771,7 +25658,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -24789,7 +25676,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24823,7 +25710,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -24993,15 +25880,33 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
-    "delitos": []
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+    "delitos": [],
+    "elecciones": [
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Concejal",
+        "territorio": "Tolten",
+        "partido": "Partido Ecologista Verde",
+        "votos": 76
+      },
+      {
+        "anio": 2021,
+        "tipo": "popular",
+        "nombre": "Elección de Diputado",
+        "territorio": "Distrito 23",
+        "partido": "Partido Ecologista Verde",
+        "votos": 1989
+      }
+    ]
   },
   {
     "nombre": "Doris Blanco Llanquileo",
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25009,7 +25914,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 23",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25017,7 +25922,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25025,7 +25930,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25033,7 +25938,7 @@
     "cargo": "Diputado",
     "partido": "Partido Ecologista Verde",
     "distrito": "Distrito 22",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25041,7 +25946,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25049,7 +25954,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 6",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/500230105_122223782324217929_7348428898807806340_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGQSsPJiVwGfMn6fjG58ZDr4MODJF1Pps7gw4MkXU-mznWv0Uyyj-EjmhyhvvkR9gU&_nc_ohc=kdkG78In3m0Q7kNvwEQbZkl&_nc_oc=Admyc7JIkUEJ8SEaajPp-iKSB-u8rYvkw03uFt7aY_55_d1jQmgfg_WttnWh5Hp62BjBJdZK6XdwOvVgr9EwlpD9&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=vOTPkhjndnSN1KBuiYwWoQ&oh=00_AfbGRo1AsQgS-FvJ_OOvvtMpeE9HLkQRJqPlIooUBda-qg&oe=68CE2DA6",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh_iBzCEfk5y-QL2nxsmO3NgET0dkW-iINw&s",
     "delitos": [],
     "elecciones": [
       {
@@ -25075,7 +25980,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25153,7 +26058,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 7",
-    "foto": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a2c3ffb5e78baf3a367ac4465d0b7f70~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e38f16f4&x-expires=1758150000&x-signature=7wzxmfuaeQAX6%2BDnIiT1TSoOYjk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfD5l8u6lEgVEF3OSiK-jqWBUkhoWu9ySEQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -25179,7 +26084,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25221,7 +26126,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 7",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25237,7 +26142,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto":"https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25255,7 +26160,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25273,7 +26178,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25331,7 +26236,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25339,7 +26244,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25357,7 +26262,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25365,7 +26270,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25383,7 +26288,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25391,7 +26296,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25399,7 +26304,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e931dfb959d0376b9fd7c0d4640b5a0e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b38bcd1a&x-expires=1758290400&x-signature=ePbi4Kq9jkgM9sYzcshrpBFOKuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25407,7 +26312,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25425,7 +26330,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25433,7 +26338,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25449,7 +26354,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 10",
-    "foto": "https://giannicontenla.cl/media/giannicontenla.jpg",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25475,7 +26380,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 12",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25545,7 +26450,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 12",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/539272847_1342037557923915_9056500267408992799_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFjok5KaJMCZHfoyHq39ahRwMDUneeo7nXAwNSd56judZZvV9AuIc_-0hxy3fnP-yU&_nc_ohc=hwkpC0jnjLIQ7kNvwFyEqWZ&_nc_oc=AdnH-3WPlhT_EV_3xW_rpUTns_KwVwajV__F0DZ8ge4bF2H9jmtCmYSCv2PIh3IibZPJJ5OcKW3RYwg7DSh3O7o9&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=DRJG2CX_FZpea1TobJJ0mw&oh=00_Afamg8bF8PBKVv3sbxMioOwTx7I6xGVulQw3A6xUZi7ulQ&oe=68C48E93",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQVSrTQywBOoI0L_s6B_07lvUpr2vTQ8A7Q&s",
     "delitos": [],
     "elecciones": [
       {
@@ -25579,7 +26484,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 12",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/542975724_10238491055953951_4422578906698915583_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF9DxFN-km5R7hXF8HeARbKnlXlhIcz-fqeVeWEhzP5-vrjK9UTJmBKq4DizKj_2Tc&_nc_ohc=Go_9_eIRKiAQ7kNvwGUwElr&_nc_oc=AdllCPpgzY945GdziyUFllzFJpmW3gaUAG2MKrE351QBFMGuXSkQx1fYjSq_l9RE4oQQvE21JJ5aErs2GmqPwcze&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=besleja1SzdunGFkjtYffg&oh=00_AfZLvYzWJBRXUlKVDNz9t0v1-eLZowLGmIvaSJkebspgqw&oe=68C49086",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25587,7 +26492,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 12",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t51.82787-15/536258909_18518265535031507_2109393115837701654_n.webp?stp=dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGqMpAoyk53R0S32r-zzZ9EjPpGGz5-C-eM-kYbPn4L59dUzAqhRtWUmP8UcrFdEc4&_nc_ohc=TdZtKE917OIQ7kNvwEUkbDG&_nc_oc=Adkh1XweppyenKdIvqYe4yhVS6MdWB4Gtwr00zejjieNiuaY6i5xT3EIT7eUCbB0NXt3rRFkG5hA2ZctKgSFQ2uw&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=Ty7_gyMo--mTxeRDD7t5sA&oh=00_Afasg9VX8J2EQKuYtQFXJdlBosFULUkakRQTIVRzh8oYEA&oe=68C49A6F",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25681,7 +26586,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 4",
-    "foto": "https://interactivo.latercera.com/candidatos-electorales/static/69ab701aefb1b8337ab0caf3538212c6/46280/1ZUXNnyPA5INRDwLxDiX6g-0-FopN0M8F.webp",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbRjp-fkvezkqxSieVOy_zj_oSWDqlDJv5Q&s",
     "delitos": [],
     "elecciones": [
       {
@@ -25733,7 +26638,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25741,7 +26646,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25749,7 +26654,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25757,7 +26662,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25765,7 +26670,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/40fea788ff371ff68b0dcbc2a543c5a2~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=35b52a17&x-expires=1758294000&x-signature=pqIb%2BVwXL4uqqU4ZcWQsgDtM8%2Bo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25773,7 +26678,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25843,7 +26748,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25851,7 +26756,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/494090809_122099379824891223_4188130346490258039_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHqhe5IuPsdqqQOYmdgRH0gEW_jwqZCpNkRb-PCpkKk2b1vHi_Vj6mUELZleELuZC4&_nc_ohc=ec9zHd9-g9gQ7kNvwFGcScy&_nc_oc=Adlb0eyjnJIZPh64CI5SI5pIjhNiBKIFZnZVaqpYvl2N6dkRafEQbWb9d40ZPoOO5u12TC4xJL0Q3JXhQN-TwFNQ&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=ZbYLk7ZmCirIWT0gC_q7ZQ&oh=00_Afbl-u1Y2VkC9SbgUMj4jurC9qIzToCz5m04dB5QNDlD2A&oe=68C4F843",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_eRTuPvDtAlDcySVxZqXO6d5a9zCMe-xeGiEqgO2AeFetbEJ5TED4yoZjh4PqBDo05ys&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
@@ -25933,7 +26838,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/509262117_3219646881536102_2579955656471572413_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFSkyKWhXDfuIBDaR-Ddgcm5gbWBUUxA1DmBtYFRTEDUIslVauMlT4yjOwpbDJv4Fg&_nc_ohc=HGNWl6CgQmsQ7kNvwGIo54u&_nc_oc=AdmP3LY_L3pqDDdPJFIbZpBk2V7mUKNHV2BxGq0Un4dOyNmtrroMU3jUMxLPQDWaGVlVgGhO45jaWrV5offOSJNU&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=7XFa6Ag0t0Ivtw5iWM63SQ&oh=00_AfaVCEM4fb2hdKSKYV0Sdjmlg8l3kC-o2-vsxycUwXJing&oe=68C4DA68",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -25951,7 +26856,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -25959,7 +26864,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 9",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/475787454_122125621334409027_3286401749070434007_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHQTqY59Oc0DLft2zg-67gjhJ7AAq4MEDmEnsACrgwQOc5y_Yae0fflid-ZztR4_bM&_nc_ohc=NuK12MWbtVsQ7kNvwEI0ZFz&_nc_oc=AdlFtt4zzis6UdSsxgk8NMiMEHXyh7pC_lu9L5qz8UEUCGuzUCqxwtbisxc1qmHAhy0dBvMd7teMhJl450xID6dG&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=lEKnJHYXYFt4hpzWg4nukw&oh=00_Afa-VO_W0bdc7bikR0VGnRPHvxqLMwl326uuGtAmLRKGdQ&oe=68C4E8B3",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRnRbp-Hlv-mP4va5atffFR-Y0-bFbDI7RnhWM6iR_6tLVF0arREJH1lpMgWBGvpiH_38&usqp=CAU",
     "delitos": [],
     "elecciones": [
       {
@@ -26053,7 +26958,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/502532656_10236711100978052_704179132911884798_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEOrp84U9Rnffrtbx_6MURRB2joMmUgVuwHaOgyZSBW7Bm7fbvAuO5IB7R5jNmNydg&_nc_ohc=P4iX7oc1k5EQ7kNvwHqWn5a&_nc_oc=AdnmenyUXRu60D2AETkOqUc0xCHWURNu5gIjR1NhMGQXA3PajIFsxdnfsackz2Zakg0PeP2sC6HCixdtaU0tI4yL&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=WFAh8T2bD4o_R8rgcATWFw&oh=00_AfYbu0GyhhaAFfjU6pnwH5ebxmetVI66T0bEPqP8WxsyFQ&oe=68CA3151",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6n6385qYCN8NtKcHvlN1_Ogva6OPtlz-EJQ&s",
     "delitos": [],
     "elecciones": [
       {
@@ -26071,7 +26976,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -26079,7 +26984,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 5",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -26105,7 +27010,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 5",
-    "foto": "https://scontent.fscl13-2.fna.fbcdn.net/v/t39.30808-6/481225919_606553088963625_414887605969804264_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeECaWvo5UKTslUbg-6tTg_vNPx4B2fSn5Y0_HgHZ9KflgR1XEP_DsLzICguvPvA9cA&_nc_ohc=h_cNY6E9l8sQ7kNvwF_Y2Db&_nc_oc=AdlGvZBUdiqdulraIHUvVEnFY4cxrRp_RpSJqz_kCtBrE-OhpkWOqh3vi25C-fC7oGs3znNZTO9t3LstDV5bT4Bl&_nc_zt=23&_nc_ht=scontent.fscl13-2.fna&_nc_gid=Zcqb971XZH2nQtD4IVSl1Q&oh=00_AfaK2D8HbUHvUlsTiXSpyDdC7ECKQgp79VAfVXZ8n02BkQ&oe=68CA1A74",
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -26183,7 +27088,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -26227,7 +27132,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -26584,7 +27489,7 @@
     "cargo": "Diputado",
     "partido": "Alianza Verde Popular",
     "distrito": "Distrito 13",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -26602,7 +27507,7 @@
     "cargo": "Diputado",
     "partido": "Democratas",
     "distrito": "Distrito 2",
-    "foto": "https://scontent.fscl13-1.fna.fbcdn.net/v/t39.30808-6/514411245_122221160114255514_5361224970216624925_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF-epAyWyYTsP1xVvwFNgSyhC6CXNbDI5SELoJc1sMjlB9pR6pCV7av8sywB6D2ZfU&_nc_ohc=led5fKHXJ0cQ7kNvwFEO8wn&_nc_oc=AdkxezVRKw7u4fBGvyWzxeeKtIO5k-0nC4f6zR9Mx_ExBBVBdZYKs2jIxqNVZz1yd9PykTZO-2AHNB3U7EkWX2zU&_nc_zt=23&_nc_ht=scontent.fscl13-1.fna&_nc_gid=O-zwwb9LK8FPVtQQNt6TjA&oh=00_AfYtSmO57ftaenhIIyDvebQhm1nQfkvqlhYmyqN1fZK5vA&oe=68C521A2",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0IDEhtdk_I0zI6cAXilkgAdGqYbOJEBLigA&s",
     "delitos": [],
     "elecciones": [
       {
@@ -26638,7 +27543,7 @@
     "cargo": "Diputado",
     "partido": "Partido de la Gente",
     "distrito": "Distrito 8",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27007,7 +27912,7 @@
     "cargo": "senador",
     "partido": "Popular",
     "distrito": "Circunscripcion senatorial 1",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27364,7 +28269,7 @@
     "cargo": "senador",
     "partido": "Partido Humanista",
     "distrito": "Circunscripcion senatorial 2",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -27382,7 +28287,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 2",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27390,7 +28295,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 2",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27398,7 +28303,7 @@
     "cargo": "senador",
     "partido": "Accion Humanista",
     "distrito": "Circunscripcion senatorial 2",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -27589,7 +28494,7 @@
     "partido": "independiente",
     "independientePor": "Partido Social Cristiano",
     "distrito": "Circunscripcion senatorial 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27667,7 +28572,7 @@
     "partido": "independiente",
     "independientePor": "Partido Igualdad",
     "distrito": "Circunscripcion senatorial 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27675,7 +28580,7 @@
     "cargo": "senador",
     "partido": "Partido Igualdad",
     "distrito": "Circunscripcion senatorial 4",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27803,7 +28708,7 @@
     "cargo": "senador",
     "partido": "Democratas",
     "distrito": "Circunscripcion senatorial 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27952,7 +28857,7 @@
     "cargo": "senador",
     "partido": "Partido Republicano De Chile",
     "distrito": "Circunscripcion senatorial 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -27994,7 +28899,7 @@
     "cargo": "senador",
     "partido": "Partido Nacional Libertario",
     "distrito": "Circunscripcion senatorial 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -28267,7 +29172,7 @@
     "cargo": "senador",
     "partido": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 6",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -28614,7 +29519,7 @@
     "cargo": "senador",
     "partido": "Partido Nacional Libertario",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -28842,7 +29747,7 @@
     "cargo": "senador",
     "partido": "Alianza Verde Popular",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": [],
     "elecciones": [
       {
@@ -28860,7 +29765,7 @@
     "cargo": "senador",
     "partido": "Alianza Verde Popular",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -28892,7 +29797,7 @@
     "cargo": "senador",
     "partido": "Partido de la Gente",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -29019,7 +29924,7 @@
     "partido": "independiente",
     "independientePor": "Federacion Regionalista Verde Social",
     "distrito": "Circunscripcion senatorial 9",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -29164,7 +30069,7 @@
     "partido": "independiente",
     "independientePor": "democratas",
     "distrito": "Circunscripcion senatorial 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -29173,7 +30078,7 @@
     "partido": "independiente",
     "independientePor": "democratas",
     "distrito": "Circunscripcion senatorial 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -29719,7 +30624,7 @@
     "cargo": "senador",
     "partido": "partido de la gente",
     "distrito": "Circunscripcion senatorial 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -29727,7 +30632,7 @@
     "cargo": "senador",
     "partido": "partido de la gente",
     "distrito": "Circunscripcion senatorial 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
@@ -29796,7 +30701,7 @@
     "cargo": "senador",
     "partido": "partido ecologista verde",
     "distrito": "Circunscripcion senatorial 11",
-    "foto": null,
+    "foto": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
     "delitos": []
   },
   {
