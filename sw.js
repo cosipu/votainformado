@@ -14,7 +14,13 @@ self.addEventListener("install", event => {
 });
 
 self.addEventListener("fetch", event => {
-  event.respondWith(
-    caches.match(event.request).then(response => response || fetch(event.request))
-  );
+  const url = new URL(event.request.url);
+
+  // Solo cachea recursos del mismo origen
+  if (url.origin === location.origin) {
+    event.respondWith(
+      caches.match(event.request).then(response => response || fetch(event.request))
+    );
+  }
+  // Para URLs externas (CDN, APIs) no hacemos nada y dejan pasar la petición
 });
