@@ -647,3 +647,38 @@ section {
     font-size: 0.8rem;
     
 }
+/* Banner Android */
+#android-install-banner {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #1a237e;
+  color: white;
+  padding: 12px 16px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  z-index: 10000;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+#android-install-banner button {
+  margin-top: 8px;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#android-install-btn {
+  background: #facc15;
+}
+
+#android-close-btn {
+  margin-left: 6px;
+  background: #555;
+  color: white;
+}

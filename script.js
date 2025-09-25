@@ -917,31 +917,61 @@
             }
         });
     }
-    
 
-// Detectar iOS
-function isIos() {
-  return /iphone|ipad|ipod/i.test(window.navigator.userAgent);
-}
+    let deferredPrompt;
 
-// Detectar si está en modo standalone
-function isInStandaloneMode() {
-  return ("standalone" in window.navigator) && window.navigator.standalone;
-}
+    // Detectar beforeinstallprompt (solo Android/Chrome móviles)
+    window.addEventListener("beforeinstallprompt", (e) => {
+        if (!/Mobi|Android/i.test(navigator.userAgent)) return; // solo móviles
 
-// Mostrar banner iOS si aplica
-window.addEventListener("load", () => {
-  if (isIos() && !isInStandaloneMode()) {
-    const iosBanner = document.getElementById("ios-banner");
-    if (iosBanner) iosBanner.style.display = "block";
-  }
-});
+        e.preventDefault();
+        deferredPrompt = e;
 
-// Cerrar banner iOS
-function cerrarIosBanner() {
-  const iosBanner = document.getElementById("ios-banner");
-  if (iosBanner) iosBanner.style.display = "none";
-}
+        const banner = document.getElementById("android-install-banner");
+        if (banner) banner.style.display = "block";
+    });
+
+    // Botón instalar
+    document.getElementById("android-install-btn").addEventListener("click", () => {
+        if (deferredPrompt) {
+            deferredPrompt.prompt();
+            deferredPrompt.userChoice.then((choiceResult) => {
+                console.log(choiceResult.outcome);
+                deferredPrompt = null;
+                document.getElementById("android-install-banner").style.display = "none";
+            });
+        }
+    });
+
+    // Botón cerrar
+    document.getElementById("android-close-btn").addEventListener("click", () => {
+        document.getElementById("android-install-banner").style.display = "none";
+    });
+
+
+    // Detectar iOS
+    function isIos() {
+        return /iphone|ipad|ipod/i.test(window.navigator.userAgent);
+    }
+
+    // Detectar si está en modo standalone
+    function isInStandaloneMode() {
+        return ("standalone" in window.navigator) && window.navigator.standalone;
+    }
+
+    // Mostrar banner iOS si aplica
+    window.addEventListener("load", () => {
+        if (isIos() && !isInStandaloneMode()) {
+            const iosBanner = document.getElementById("ios-banner");
+            if (iosBanner) iosBanner.style.display = "block";
+        }
+    });
+
+    // Cerrar banner iOS
+    function cerrarIosBanner() {
+        const iosBanner = document.getElementById("ios-banner");
+        if (iosBanner) iosBanner.style.display = "none";
+    }
 
 
 
