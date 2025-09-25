@@ -246,32 +246,19 @@
     </button>
   </div>
 
-  <!-- OneSignal SDK -->
-  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" async></script>
-  <script>
-    // Inicializar OneSignal
-    window.OneSignal = window.OneSignal || [];
-
-    OneSignal.push(function () {
-      OneSignal.init({
-        appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
-        notifyButton: {
-          enable: true, // muestra la campana de notificaciones
-        },
-      });
-
-      // Evento: cambios en la suscripción de notificaciones
-      OneSignal.on('subscriptionChange', function (isSubscribed) {
-        console.log("Usuario suscrito:", isSubscribed);
-      });
-
-      // Evento: cuando cambian los permisos
-      OneSignal.on('permissionChange', function (permission) {
-        console.log("Permiso de notificaciones:", permission);
-      });
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
+      safari_web_id: "web.onesignal.auto.380fb02b-8aa0-443a-a38d-87b1b457c3de",
+      notifyButton: {
+        enable: true,
+      },
     });
-  </script>
-
+  });
+</script>
 
 
 
