@@ -10,6 +10,15 @@
   <!-- 📱 PWA CONFIG -->
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#1a237e">
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(async function (OneSignal) {
+      await OneSignal.init({
+        appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
+      });
+    });
+  </script>
 
   <script>
     // Registrar service worker
@@ -104,7 +113,7 @@
     <button id="android-install-btn">Instalar</button>
     <button id="android-close-btn">Más tarde</button>
   </div>
-  
+
   <section id="filters" style="margin-bottom:20px;">
     <select id="filter-office">
       <option value="">Todos los cargos</option>
