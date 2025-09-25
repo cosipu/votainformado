@@ -919,47 +919,65 @@
     }
     let deferredPrompt;
 
-    // Detecta cuando el navegador está listo para sugerir la instalación
-    window.addEventListener("beforeinstallprompt", (e) => {
-        e.preventDefault(); // evita el banner automático
-        deferredPrompt = e;
+// Detectar beforeinstallprompt para Android
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
 
-        // muestra el banner personalizado
-        const installBanner = document.getElementById("install-banner");
-        if (installBanner) {
-            installBanner.style.display = "block";
-        }
+  const installBanner = document.getElementById("install-banner");
+  if (installBanner) installBanner.style.display = "block";
+});
+
+// Función para instalar app en Android
+function instalarApp() {
+  if (deferredPrompt) {
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then((choiceResult) => {
+      console.log(choiceResult.outcome === "accepted"
+        ? "👍 Usuario instaló la app"
+        : "👎 Usuario rechazó la instalación");
+      deferredPrompt = null;
+      const installBanner = document.getElementById("install-banner");
+      if (installBanner) installBanner.style.display = "none";
     });
+  }
+}
 
-    // Función que se llama al presionar "Instalar ahora"
-    function instalarApp() {
-        if (deferredPrompt) {
-            deferredPrompt.prompt(); // dispara el prompt nativo
+// Cerrar banner Android
+function cerrarBanner() {
+  const installBanner = document.getElementById("install-banner");
+  if (installBanner) installBanner.style.display = "none";
+}
 
-            deferredPrompt.userChoice.then((choiceResult) => {
-                if (choiceResult.outcome === "accepted") {
-                    console.log("👍 Usuario instaló la app");
-                } else {
-                    console.log("👎 Usuario rechazó la instalación");
-                }
-                deferredPrompt = null;
+// Detectar iOS y mostrar instrucciones
+function isIos() {
+  return /iphone|ipad|ipod/i.test(window.navigator.userAgent);
+}
+function isInStandaloneMode() {
+  return ("standalone" in window.navigator) && window.navigator.standalone;
+}
+window.addEventListener("load", () => {
+  if (isIos() && !isInStandaloneMode()) {
+    const iosBanner = document.getElementById("ios-banner");
+    if (iosBanner) iosBanner.style.display = "block";
+  }
+});
+function cerrarIosBanner() {
+  const iosBanner = document.getElementById("ios-banner");
+  if (iosBanner) iosBanner.style.display = "none";
+}
 
-                // oculta el banner
-                const installBanner = document.getElementById("install-banner");
-                if (installBanner) {
-                    installBanner.style.display = "none";
-                }
-            });
-        }
-    }
+// Vincular botones de instalación después de cargar DOM
+document.addEventListener("DOMContentLoaded", () => {
+  const installBtn = document.querySelector("#install-banner button:first-child");
+  if (installBtn) installBtn.addEventListener("click", instalarApp);
 
-    // Función que se llama al presionar "Más tarde"
-    function cerrarBanner() {
-        const installBanner = document.getElementById("install-banner");
-        if (installBanner) {
-            installBanner.style.display = "none";
-        }
-    }
+  const closeBtn = document.querySelector("#install-banner button:last-child");
+  if (closeBtn) closeBtn.addEventListener("click", cerrarBanner);
+
+  const iosCloseBtn = document.querySelector("#ios-banner button");
+  if (iosCloseBtn) iosCloseBtn.addEventListener("click", cerrarIosBanner);
+});
 
 
 
