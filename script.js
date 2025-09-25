@@ -917,6 +917,49 @@
             }
         });
     }
+    let deferredPrompt;
+
+    // Detecta cuando el navegador está listo para sugerir la instalación
+    window.addEventListener("beforeinstallprompt", (e) => {
+        e.preventDefault(); // evita el banner automático
+        deferredPrompt = e;
+
+        // muestra el banner personalizado
+        const installBanner = document.getElementById("install-banner");
+        if (installBanner) {
+            installBanner.style.display = "block";
+        }
+    });
+
+    // Función que se llama al presionar "Instalar ahora"
+    function instalarApp() {
+        if (deferredPrompt) {
+            deferredPrompt.prompt(); // dispara el prompt nativo
+
+            deferredPrompt.userChoice.then((choiceResult) => {
+                if (choiceResult.outcome === "accepted") {
+                    console.log("👍 Usuario instaló la app");
+                } else {
+                    console.log("👎 Usuario rechazó la instalación");
+                }
+                deferredPrompt = null;
+
+                // oculta el banner
+                const installBanner = document.getElementById("install-banner");
+                if (installBanner) {
+                    installBanner.style.display = "none";
+                }
+            });
+        }
+    }
+
+    // Función que se llama al presionar "Más tarde"
+    function cerrarBanner() {
+        const installBanner = document.getElementById("install-banner");
+        if (installBanner) {
+            installBanner.style.display = "none";
+        }
+    }
 
 
 
