@@ -1,6 +1,6 @@
 {
   "name": "Decide Informado",
-  "short_name": "Decide",
+  "short_name": "Decide Informado",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -15,6 +15,19 @@
     {
       "src": "assets/img/star-512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/img/dekstop.png",
+      "sizes": "1899x899",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "assets/img/mobile.png",
+      "sizes": "450x788",
       "type": "image/png"
     }
   ]
