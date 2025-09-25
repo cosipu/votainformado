@@ -245,18 +245,20 @@
       Cerrar
     </button>
   </div>
+  <!-- OneSignal SDK -->
   <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" async></script>
-<script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
-      notifyButton: {
-        enable: true, // activa la campana flotante
-      },
+  <script>
+    window.OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
+        notifyButton: {
+          enable: true, // activa la campana flotante
+        },
+      });
     });
-  });
-</script>
+  </script>
+
 
 
 
