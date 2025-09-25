@@ -917,45 +917,67 @@
             }
         });
     }
-    let deferredPrompt;
+    // ============================
+// PWA Install Banner Script
+// ============================
 
+let deferredPrompt;
+
+// ----------------------------
 // Detectar beforeinstallprompt para Android
+// ----------------------------
 window.addEventListener("beforeinstallprompt", (e) => {
-  e.preventDefault();
-  deferredPrompt = e;
+  e.preventDefault();        // Evita que Chrome muestre el banner automático
+  deferredPrompt = e;        // Guardamos el evento para usarlo más tarde
 
+  // Mostrar banner personalizado
   const installBanner = document.getElementById("install-banner");
   if (installBanner) installBanner.style.display = "block";
 });
 
+// ----------------------------
 // Función para instalar app en Android
+// ----------------------------
 function instalarApp() {
   if (deferredPrompt) {
-    deferredPrompt.prompt();
+    deferredPrompt.prompt(); // Muestra el pop-up nativo de instalación
+
     deferredPrompt.userChoice.then((choiceResult) => {
       console.log(choiceResult.outcome === "accepted"
         ? "👍 Usuario instaló la app"
         : "👎 Usuario rechazó la instalación");
+
       deferredPrompt = null;
+
+      // Ocultar banner
       const installBanner = document.getElementById("install-banner");
       if (installBanner) installBanner.style.display = "none";
     });
   }
 }
 
+// Hacer global por si el HTML aún tiene onclick
+window.instalarApp = instalarApp;
+
+// ----------------------------
 // Cerrar banner Android
+// ----------------------------
 function cerrarBanner() {
   const installBanner = document.getElementById("install-banner");
   if (installBanner) installBanner.style.display = "none";
 }
 
+// ----------------------------
 // Detectar iOS y mostrar instrucciones
+// ----------------------------
 function isIos() {
   return /iphone|ipad|ipod/i.test(window.navigator.userAgent);
 }
+
 function isInStandaloneMode() {
   return ("standalone" in window.navigator) && window.navigator.standalone;
 }
+
 window.addEventListener("load", () => {
   if (isIos() && !isInStandaloneMode()) {
     const iosBanner = document.getElementById("ios-banner");
@@ -963,13 +985,17 @@ window.addEventListener("load", () => {
   }
 });
 
+// ----------------------------
 // Cerrar banner iOS
+// ----------------------------
 function cerrarIosBanner() {
   const iosBanner = document.getElementById("ios-banner");
   if (iosBanner) iosBanner.style.display = "none";
 }
 
+// ----------------------------
 // Vincular botones después de cargar DOM
+// ----------------------------
 document.addEventListener("DOMContentLoaded", () => {
   // Botón Instalar Android
   const installBtn = document.querySelector("#install-banner button:first-child");
@@ -983,6 +1009,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const iosCloseBtn = document.querySelector("#ios-banner button");
   if (iosCloseBtn) iosCloseBtn.addEventListener("click", cerrarIosBanner);
 });
+
 
 
 
