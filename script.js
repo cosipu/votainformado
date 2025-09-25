@@ -962,22 +962,28 @@ window.addEventListener("load", () => {
     if (iosBanner) iosBanner.style.display = "block";
   }
 });
+
+// Cerrar banner iOS
 function cerrarIosBanner() {
   const iosBanner = document.getElementById("ios-banner");
   if (iosBanner) iosBanner.style.display = "none";
 }
 
-// Vincular botones de instalación después de cargar DOM
+// Vincular botones después de cargar DOM
 document.addEventListener("DOMContentLoaded", () => {
+  // Botón Instalar Android
   const installBtn = document.querySelector("#install-banner button:first-child");
   if (installBtn) installBtn.addEventListener("click", instalarApp);
 
+  // Botón Más tarde Android
   const closeBtn = document.querySelector("#install-banner button:last-child");
   if (closeBtn) closeBtn.addEventListener("click", cerrarBanner);
 
+  // Botón Cerrar iOS
   const iosCloseBtn = document.querySelector("#ios-banner button");
   if (iosCloseBtn) iosCloseBtn.addEventListener("click", cerrarIosBanner);
 });
+
 
 
 
