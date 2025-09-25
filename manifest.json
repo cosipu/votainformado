@@ -1,0 +1,21 @@
+{
+  "name": "Decide Informado",
+  "short_name": "Decide",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a237e",
+  "description": "Toda la información de candidatos y elecciones en Chile.",
+  "icons": [
+    {
+      "src": "assets/img/star.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/star.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

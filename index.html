@@ -6,6 +6,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Decide Informado</title>
   <link rel="stylesheet" href="style.css">
+
+  <!-- 📱 PWA CONFIG -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1a237e">
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/sw.js")
+        .then(() => console.log("✅ Service Worker registrado"))
+        .catch(err => console.log("❌ Error Service Worker:", err));
+    }
+  </script>
+  <!-- /📱 PWA CONFIG -->
+
   <style>
     /* ===== Ajustes para que los gráficos no se mezclen con texto en móviles ===== */
     .chart-flex {
@@ -68,12 +82,11 @@
 </head>
 
 <body>
- <header style="text-align:center;">
-  <img src="assets/img/decide.png" alt="Logo" class="logo"
-       style="height:400px; display:block; margin:0 auto;">
+  <header style="text-align:center;">
+    <img src="assets/img/decide.png" alt="Logo" class="logo" style="height:400px; display:block; margin:0 auto;">
 
-  <p style="margin:2px 0 0 0;" class="subtitulo">Conoce a los candidatos, sus partidos y sus antecedentes.</p>
-</header>
+    <p style="margin:2px 0 0 0;" class="subtitulo">Conoce a los candidatos, sus partidos y sus antecedentes.</p>
+  </header>
 
   <div id="comuna-selector">
     <label for="comunas">Quiero conocer mi distrito </label>
@@ -196,4 +209,5 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="script.js"></script>
 </body>
+
 </html>
