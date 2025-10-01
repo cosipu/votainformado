@@ -126,6 +126,14 @@
 
   </section>
 
+  <center>
+    <h1 style="color:#facc15; margin:16px 0 8px 0; font-size:2rem;">
+      <a href="https://cosipu.github.io/aportes/" target="_blank" style="color:#facc15; text-decoration:underline;">
+        Conoce los aportes económicos
+      </a>
+    </h1>
+  </center>
+
   <!-- Aquí se mostrarán los candidatos -->
   <main id="candidates"></main>
 
@@ -246,19 +254,19 @@
     </button>
   </div>
 
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>
-  window.OneSignalDeferred = window.OneSignalDeferred || [];
-  OneSignalDeferred.push(async function(OneSignal) {
-    await OneSignal.init({
-      appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
-      safari_web_id: "web.onesignal.auto.380fb02b-8aa0-443a-a38d-87b1b457c3de",
-      notifyButton: {
-        enable: true,
-      },
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(async function (OneSignal) {
+      await OneSignal.init({
+        appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
+        safari_web_id: "web.onesignal.auto.380fb02b-8aa0-443a-a38d-87b1b457c3de",
+        notifyButton: {
+          enable: true,
+        },
+      });
     });
-  });
-</script>
+  </script>
 
 
 
