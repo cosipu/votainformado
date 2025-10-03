@@ -98,7 +98,6 @@
     <p id="resultado-distrito"></p>
   </div>
 
-  <!-- 🔎 FILTROS + BUSCADOR -->
   <div id="android-install-banner">
     📲 Instala <b>Decide Informado</b> en tu teléfono
     <br>
@@ -122,7 +121,7 @@
       <option value="">Todos los distritos</option>
     </select>
 
-    <!-- Buscador de candidatos -->
+  
 
   </section>
 
@@ -134,6 +133,10 @@
     </h1>
   </center>
 
+  <center style="text-align:center; margin:20px;">
+    <p> Dudas, Consultas, Reclamos: info@decideinformado.cl</p>
+  </center>
+
   <!-- Aquí se mostrarán los candidatos -->
   <main id="candidates"></main>
 
@@ -141,6 +144,12 @@
     <h3>¿Cuánto vale mi voto?</h3>
     <p>
       Para este año cada voto equivale a <b>0.04 UF</b>, es decir aproximadamente <b>$1.554 CLP</b>.
+      Con esta cifra, realizaremos una comparación estimativa usando los votos que recibió cada candidato en las
+      elecciones de 2021. Esto nos permitirá visualizar, de forma referencial, cuánto <b>habrían recibido</b> si se aplicara el
+      valor actual del voto a esa elección.
+      Además, esta comparación nos servirá para contrastar el <b>total de dinero estimado por candidatura</b> con lo que se
+      podría <b>invertir en necesidades sociales</b>, como la construcción de viviendas, la contratación de personal médico o
+      la mejora de servicios públicos.
     </p>
 
     <div class="candidatos-comparativa">
@@ -175,12 +184,13 @@
 
   <!-- Aquí se mostrarán las equivalencias -->
   <div id="equivalencias"></div>
-
+<center
   <p>
-    <i>Estos cálculos corresponden a un valor referencial con la UF actual.
-      El Servel realiza los pagos de acuerdo al valor vigente en el proceso electoral correspondiente.</i>
+    <i>⚠️ Importante: Esta comparación es solo ilustrativa. No significa que los candidatos recibieron esa suma de
+      dinero, ya que se trata de un ejercicio basado en datos pasados con valores actuales. La cifra oficial que
+      recibirá cada candidatura en 2025 dependerá del número de votos obtenidos en esa elección.</i>
   </p>
-
+</center>
   <!-- GRÁFICO + TEXTO -->
   <section class="chart-flex">
     <div>
@@ -253,26 +263,6 @@
       Cerrar
     </button>
   </div>
-
-  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-  <script>
-    window.OneSignalDeferred = window.OneSignalDeferred || [];
-    OneSignalDeferred.push(async function (OneSignal) {
-      await OneSignal.init({
-        appId: "7199eb5f-4c9c-4723-a4be-4e3e42836d59",
-        safari_web_id: "web.onesignal.auto.380fb02b-8aa0-443a-a38d-87b1b457c3de",
-        notifyButton: {
-          enable: true,
-        },
-      });
-    });
-  </script>
-
-
-
-
-
-
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="script.js"></script>
